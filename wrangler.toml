@@ -1,0 +1,8 @@
+# Cloudflare Pages ayarları: GitHub'a bağlanınca bu dosya okunur, KV deposu otomatik bağlanır.
+name = "sarap-atlas"
+pages_build_output_dir = "."
+compatibility_date = "2026-09-01"
+
+[[kv_namespaces]]
+binding = "VERI"
+id = "cf94573033a6412a96a1d6cb762f401a"
