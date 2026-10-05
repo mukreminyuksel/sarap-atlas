@@ -142,6 +142,16 @@ def tr_konum(il, ilce):
 
 # Dünya bölgeleri için yaklaşık konum (bölge adında geçen anahtar → [enlem, boylam]); yoksa ülke merkezi
 DUNYA_KONUM = [
+    ('sampanya', [49.04, 3.95]), ('kuzey rhone', [45.45, 4.85]), ('guney rhone', [44.2, 4.85]), ('alsas', [48.2, 7.33]),
+    ('guneybati', [44.5, 0.5]), ('jura', [46.8, 5.7]), ('kaliforniya', [38.5, -122.3]), ('bati avustralya', [-33.95, 115.07]),
+    ('guney avustralya', [-34.5, 138.9]), ('yeni guney galler', [-32.8, 151.3]), ('western cape', [-33.9, 19.0]), ('constantia', [-34.03, 18.42]),
+    ('aconcagua', [-32.8, -70.6]), ('central valley', [-35.0, -71.2]), ('niederosterreich', [48.4, 15.8]), ('burgenland', [47.8, 16.5]),
+    ('baden', [48.1, 7.8]), ('nahe', [49.8, 7.6]), ('rheinhessen', [49.8, 8.2]), ('galicya', [42.5, -8.0]), ('katalonya', [41.4, 1.7]),
+    ('kastilya', [41.65, -4.0]), ('endulus', [36.9, -5.8]), ('aragon', [41.6, -0.9]), ('friuli', [46.1, 13.2]), ('alto adige', [46.5, 11.3]),
+    ('abruzzo', [42.2, 13.9]), ('campania', [40.9, 14.8]), ('puglia', [40.8, 17.0]), ('lombardiya', [45.6, 9.9]), ('dalmacya', [43.5, 16.4]),
+    ('valais', [46.2, 7.6]), ('golan', [33.0, 35.8]), ('ningxia', [38.3, 106.0]), ('yunnan', [27.0, 100.0]), ('ontario', [43.1, -79.5]),
+    ('minho', [41.7, -8.3]), ('ege adalari', [36.4, 25.43]), ('makedonya', [40.63, 22.07]), ('mora', [37.82, 22.66]), ('wairarapa', [-41.2, 175.5]),
+    ('stefan voda', [46.5, 29.6]), ('guney ingiltere', [51.0, 0.3]), ('kartli', [41.9, 44.1]), ('imereti', [42.2, 42.7]), ('kremstal', [48.4, 15.6]),
     ('bordeaux', [44.84, -0.58]), ('medoc', [45.2, -0.9]), ('pauillac', [45.2, -0.75]), ('saint emilion', [44.89, -0.16]),
     ('sauternes', [44.53, -0.34]), ('pomerol', [44.93, -0.2]), ('burgonya', [47.05, 4.83]), ('bourgogne', [47.05, 4.83]),
     ('burgundy', [47.05, 4.83]), ('chablis', [47.81, 3.8]), ('cote d or', [47.1, 4.85]), ('champagne', [49.04, 3.95]),
@@ -453,10 +463,44 @@ for u in ulkeler:
             b['id'] = slug(uad) + '/' + slug(bad or 'genel')
             b['konum'] = b.get('konum') or dunya_konum(uad, bad)
             b['sarap'] = sum(1 for d in DATA if d['bolge'] == b['id'])
-# Katalogda olup bölge listesinde olmayan dünya bölgeleri de haritada görünsün
-bilinen = {b.get('id') for u in ulkeler if isinstance(u, dict) for b in (u.get('bolgeler') or []) if isinstance(b, dict)}
-ek = [{'id': k, 'ulke': v['ulke'], 'ad': v['bolge'] or v['ulke'], 'konum': dunya_konum(v['ulke'], v['bolge']),
-       'sarap': sum(1 for d in DATA if d['bolge'] == k)} for k, v in DUNYA_BOLGE.items() if k not in bilinen]
+# Katalogdaki dünya bölgeleri (şarapların kendi bölge adı) ↔ rehber bölgeleri: ad/alt ad jetonlarıyla ve elle eşleştirme
+GENEL = {'guney', 'kuzey', 'bati', 'dogu', 'vadisi', 'valley', 'western', 'central', 'adalari', 'vadi', 'bolgesi', 'tepeleri', 'eyaleti'}
+ALIAS_B = {'sampanya': ['champagne'], 'alsas': ['alsace'], 'guneyrhone': ['rhone'], 'kuzeyrhone': ['rhone'], 'kaliforniya': ['napa', 'sonoma'],
+           'guneyavustralya': ['barossa', 'coonawarra'], 'batiavustralya': ['margaret'], 'yenigueygaller': ['hunter'], 'yeniguneygaller': ['hunter'],
+           'westerncape': ['stellenbosch'], 'constantia': ['stellenbosch'], 'swartland': ['stellenbosch'], 'minho': ['vinho verde'.replace(' ', '')],
+           'egeadalari': ['santorini'], 'makedonya': ['naoussa'], 'morapeloponnisos': ['nemea'], 'katalonya': ['priorat', 'cava'],
+           'kastilyaveleon': ['ribera'], 'endulus': ['jerez'], 'burgonya': ['burgonya'], 'beaujolais': ['burgonya']}
+
+
+def jetonlar(txt):
+    t = unicodedata.normalize('NFD', str(txt or '').translate(TRC)).encode('ascii', 'ignore').decode().lower()
+    return [w for w in re.split(r'[^a-z0-9]+', t) if len(w) >= 4 and w not in GENEL]
+
+
+katalog_b = []
+for k, v in DUNYA_BOLGE.items():
+    kn = norm(v['bolge'])
+    anahtarlar = ALIAS_B.get(kn) or ALIAS_B.get(norm(v['bolge'].split('(')[0])) or jetonlar(v['bolge'])
+    rehber = []
+    for u in ulkeler:
+        if not isinstance(u, dict) or norm(u.get('ad') or u.get('ulke')) != norm(v['ulke']):
+            continue
+        for b in u.get('bolgeler') or []:
+            if not isinstance(b, dict):
+                continue
+            metin_ = norm((b.get('ad') or '') + ' ' + ' '.join(b.get('alt') or []))
+            if any(norm(a) in metin_ for a in anahtarlar):
+                rehber.append(b['id'])
+    katalog_b.append({'id': k, 'ulke': v['ulke'], 'ad': v['bolge'] or v['ulke'], 'konum': dunya_konum(v['ulke'], v['bolge']),
+                      'sarap': sum(1 for d in DATA if d['bolge'] == k), 'rehber': rehber})
+for u in ulkeler:
+    if not isinstance(u, dict):
+        continue
+    for b in u.get('bolgeler') or []:
+        if isinstance(b, dict):
+            b['katalog'] = [c['id'] for c in katalog_b if b['id'] in c['rehber']]
+            b['sarap'] = sum(c['sarap'] for c in katalog_b if b['id'] in c['rehber'])
+ek = katalog_b
 yaz('bolgeler.json', {'turkiye': tr_b, 'ulkeler': ulkeler, 'katalog_bolgeleri': ek,
                       'prestij_piramidi': db.get('prestij_piramidi'), 'rekolte_tablosu': db.get('rekolte_tablosu')})
 
