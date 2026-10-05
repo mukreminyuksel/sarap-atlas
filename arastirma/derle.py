@@ -68,6 +68,45 @@ RENK_ES = {'kırmızı': 'kirmizi', 'red': 'kirmizi', 'white': 'beyaz', 'rose': 
 BULLAR = {'kolay', 'tekel', 'sarapci', 'zor'}
 KATMANLAR = {'efsane', 'ikon', 'klasik', 'deger'}
 
+# ---------- Şaraphane seviyesi (Premium / 2. Düzey / 3. Düzey / Derecelendirilmedi) ----------
+# Her derlemede yeniden hesaplanır; yalnızca mevcut puan, katman ve ödül alanlarından türetilir.
+# sev: 'Premium' | '2' | '3' | '0' (derecelendirilmedi). Seviye ŞARAPHANE düzeyindedir; her şarap şaraphanesinin değerini taşır.
+SEVIYE_ESIKLERI = {
+    'tr_premium': 91,   # Türkiye: en yüksek 3 puanın ortalaması >= 91 -> Premium
+    'tr_ikinci': 87,    # 87 <= ortalama < 91 -> 2. Düzey; altı 3. Düzey
+    'tr_en_iyi_n': 3,   # ortalamaya giren en yüksek puan sayısı
+}
+# Dünya: şaraphanenin en üst editoryal katmanı. efsane -> Premium; ikon -> 2; klasik/değer -> 3
+DUNYA_KATMAN_SEV = {'efsane': 'Premium', 'ikon': '2', 'klasik': '3', 'deger': '3'}
+KATMAN_ONCELIK = ['efsane', 'ikon', 'klasik', 'deger']
+UST_ODUL = re.compile(r'platin|best in show|grand gold', re.I)
+YER_TUTUCU = ('Üreticisi doğrulanamadı', 'Üreticisi belirtilmemiş')
+
+
+def seviye_hesapla(veri):
+    gruplar = collections.defaultdict(list)
+    for d in veri:
+        gruplar[(d['ulke'], d['sh'] or d['ure'])].append(d)
+    sonuc = {}
+    for (ulke, ad), ws in gruplar.items():
+        if ad in YER_TUTUCU:
+            sonuc[(ulke, ad)] = '0'
+        elif ulke != 'Türkiye':
+            k = [w['katman'] for w in ws if w.get('katman')]
+            en = next((x for x in KATMAN_ONCELIK if x in k), None)
+            sonuc[(ulke, ad)] = DUNYA_KATMAN_SEV[en] if en else '0'
+        else:
+            p = sorted((w['puan'] for w in ws if (w['puan'] or 0) > 0), reverse=True)[:SEVIYE_ESIKLERI['tr_en_iyi_n']]
+            if not p:
+                sonuc[(ulke, ad)] = '0'
+                continue
+            ort = sum(p) / len(p)
+            ust = any(UST_ODUL.search(w.get('odul') or '') for w in ws)
+            sonuc[(ulke, ad)] = 'Premium' if (ort >= SEVIYE_ESIKLERI['tr_premium'] or ust) else '2' if ort >= SEVIYE_ESIKLERI['tr_ikinci'] else '3'
+    for d in veri:
+        d['sev'] = sonuc[(d['ulke'], d['sh'] or d['ure'])]
+    return sonuc
+
 # ---------- Türkiye bölgeleri: il / ilçe / bölge metninden bölge kimliği ----------
 KURAL = [
     ('diger', 'assos ayvacik bayramic gomec madra balya mudanya iznik foca'),
@@ -377,13 +416,14 @@ for w in dunya or []:
         uyarilar.append(f'{wid}: bilinmeyen renk {w.get("renk")}')
     DATA.append(d)
 
+SEV = seviye_hesapla(DATA)
 # Sıra: Türkiye önce, bölge, üretici, ad
 TR_SIRA = [b['id'] for b in (oku('bolgeler.json', []) or [])] + ['diger']
 DATA.sort(key=lambda d: (d['ulke'] != 'Türkiye', d['ulke'], TR_SIRA.index(d['bolge']) if d['bolge'] in TR_SIRA else 99,
                          d['bolge'], d['ure'], -(d['puan'] or 0), d['ad']))
 satirlar, onceki = [], None
 for d in DATA:
-    d = {k: v for k, v in d.items() if v not in ('', [], None) or k in ('id', 'ad', 'ure', 'ulke', 'bolge', 'renk', 'puan', 'tl', 'bul')}
+    d = {k: v for k, v in d.items() if v not in ('', [], None) or k in ('id', 'ad', 'ure', 'ulke', 'bolge', 'renk', 'puan', 'tl', 'bul', 'sev')}
     if (d['ulke'], d['ure']) != onceki:
         satirlar.append('// ===== ' + d['ulke'] + ' · ' + d['ure'] + ' =====')
         onceki = (d['ulke'], d['ure'])
@@ -424,7 +464,7 @@ for m, s_ in SARAPHANE.items():
                     'konum': [round(c[0] + 0.035 * (n % 4) - 0.05 * (n // 4), 4), round(c[1] + 0.05 * (n % 4), 4)]})
     sh_cikti.append({'ad': m, 'kurulus': s_.get('kurulus') or '', 'baglar': s_.get('baglar') or '', 'uzumler': s_.get('uzumler') or [],
                      'web': s_.get('web') or '', 'instagram': s_.get('instagram') or '', 'hikaye': s_.get('hikaye') or '',
-                     'kaynak': s_['kaynak'], 'tesisler': tes, 'sarap': sarap_say.get(m, 0)})
+                     'kaynak': s_['kaynak'], 'tesisler': tes, 'sarap': sarap_say.get(m, 0), 'sev': SEV.get(('Türkiye', m), '0')})
 yaz('ureticiler.json', {'_aciklama': 'Şaraphaneler (yalnızca markası bilinen kayıtlar). konum: ilçe ya da il merkezine göre yaklaşık.',
                         'ureticiler': sh_cikti})
 
@@ -542,6 +582,10 @@ for ad, anahtar in (('baglantilar.json', 'baglantilar'), ('gorseller.json', 'gor
 
 if uyarilar:
     print('\n'.join('⚠️ ' + h for h in uyarilar[:60]) + ('' if len(uyarilar) <= 60 else f'\n… {len(uyarilar) - 60} uyarı daha'))
+for _u, _ad in (('Türkiye', 'Türkiye'), ('dünya', 'dünya')):
+    _s = collections.Counter(v for (u, _a), v in SEV.items() if (u == 'Türkiye') == (_ad == 'Türkiye'))
+    _w = collections.Counter(d['sev'] for d in DATA if (d['ulke'] == 'Türkiye') == (_ad == 'Türkiye'))
+    print(f'seviye {_u}: şaraphane {dict(_s)} · şarap {dict(_w)}')
 print(f'{tr_sayi} Türkiye + {len(DATA) - tr_sayi} dünya şarabı · {len(sh_cikti)} şaraphane · {len(uz_cikti)} üzüm '
       f'({sum(1 for u in uz_cikti if u.get("rehber"))} rehberde) · {sum(1 for d in DATA if d["tlK"])} kaynaklı fiyat ({eklenen} yeni) · '
       f'{len(lis)} lisanslı firma · {len(ulkeler)} dünya ülkesi')

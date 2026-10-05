@@ -35,7 +35,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "Premium"
   },
   {
    "ad": "Kutman",
@@ -67,7 +68,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Melen",
@@ -99,7 +101,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Kayra",
@@ -135,7 +138,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "2"
   },
   {
    "ad": "Barbare",
@@ -169,7 +173,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "3"
   },
   {
    "ad": "Umurbey",
@@ -202,7 +207,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "Barel Vineyards",
@@ -237,7 +243,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "2"
   },
   {
    "ad": "Château Kalpak",
@@ -269,7 +276,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "Château Nuzun",
@@ -301,7 +309,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "2"
   },
   {
    "ad": "Gürbüz Winery",
@@ -337,7 +346,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "2"
   },
   {
    "ad": "Arcadia Vineyards",
@@ -373,7 +383,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "2"
   },
   {
    "ad": "Chamlija",
@@ -410,7 +421,8 @@
      ]
     }
    ],
-   "sarap": 9
+   "sarap": 9,
+   "sev": "Premium"
   },
   {
    "ad": "Ellez",
@@ -442,7 +454,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "Prius Wines",
@@ -477,7 +490,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "2"
   },
   {
    "ad": "Saranta / Chateau Murou",
@@ -511,7 +525,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "KA Winery",
@@ -544,7 +559,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "Vino Dessera",
@@ -579,7 +595,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "Aker",
@@ -609,7 +626,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Badur Wines & Vineyards",
@@ -638,7 +656,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Perçin",
@@ -663,7 +682,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Seler Wines",
@@ -688,7 +708,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Uçmakdere – Firuze",
@@ -719,7 +740,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Öz Mursallı",
@@ -745,7 +767,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Gülor",
@@ -780,7 +803,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "2"
   },
   {
    "ad": "Arda",
@@ -816,7 +840,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "3"
   },
   {
    "ad": "Edrine",
@@ -852,7 +877,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Aura Winery (Vin Aura)",
@@ -885,7 +911,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "3"
   },
   {
    "ad": "Büyülübağ",
@@ -920,7 +947,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "2"
   },
   {
    "ad": "Ma'adra Vineyards",
@@ -953,7 +981,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "Şen Vineyards",
@@ -978,7 +1007,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Yusta",
@@ -1011,7 +1041,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "V'Asbos",
@@ -1045,7 +1076,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "Asmadan",
@@ -1081,7 +1113,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "Ataol",
@@ -1112,7 +1145,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Corvus",
@@ -1148,7 +1182,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "Premium"
   },
   {
    "ad": "Château Ergenekon",
@@ -1181,7 +1216,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Nusretbey",
@@ -1212,7 +1248,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Etruscan",
@@ -1245,7 +1282,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Hazar",
@@ -1271,7 +1309,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Gülerada",
@@ -1297,7 +1336,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Gali",
@@ -1327,7 +1367,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Nympha / İmroz Nympha",
@@ -1353,7 +1394,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Suvla",
@@ -1391,7 +1433,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "2"
   },
   {
    "ad": "Talay",
@@ -1424,7 +1467,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Yükseltan",
@@ -1457,7 +1501,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "3"
   },
   {
    "ad": "Tutkun (Hektor Şarap Evi)",
@@ -1483,7 +1528,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Porta Caeli",
@@ -1518,7 +1564,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "2"
   },
   {
    "ad": "Barba Yorgo",
@@ -1544,7 +1591,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Çamlıbağ",
@@ -1576,7 +1624,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "0"
   },
   {
    "ad": "Doseluna",
@@ -1601,7 +1650,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Şirince Yedibağlar",
@@ -1626,7 +1676,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Urla Şarapçılık (Urla Winery)",
@@ -1662,7 +1713,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "Premium"
   },
   {
    "ad": "USCA",
@@ -1698,7 +1750,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "0"
   },
   {
    "ad": "HUS Şarapçılık",
@@ -1732,7 +1785,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "0"
   },
   {
    "ad": "Perdix",
@@ -1768,7 +1822,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "Statera",
@@ -1800,7 +1855,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "Premium"
   },
   {
    "ad": "Urlice Vineyards",
@@ -1832,7 +1888,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "Mozaik Şarapçılık – Mahrem",
@@ -1869,7 +1926,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "MMG Şarapçılık – Şatomet",
@@ -1905,7 +1963,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Çakır Şarapçılık",
@@ -1937,7 +1996,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "İkidenizarası",
@@ -1968,7 +2028,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Paşaeli",
@@ -2006,7 +2067,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "2"
   },
   {
    "ad": "Sevilen",
@@ -2042,7 +2104,8 @@
      ]
     }
    ],
-   "sarap": 13
+   "sarap": 13,
+   "sev": "0"
   },
   {
    "ad": "Lucien Arkas Bağları (LA Wines)",
@@ -2080,7 +2143,8 @@
      ]
     }
    ],
-   "sarap": 8
+   "sarap": 8,
+   "sev": "0"
   },
   {
    "ad": "Yedi Bilgeler (7Bilgeler Vineyards)",
@@ -2112,7 +2176,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "0"
   },
   {
    "ad": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
@@ -2147,7 +2212,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "Premium"
   },
   {
    "ad": "Pamukkale Şarapları",
@@ -2184,7 +2250,8 @@
      ]
     }
    ],
-   "sarap": 9
+   "sarap": 9,
+   "sev": "0"
   },
   {
    "ad": "Kuzubağ",
@@ -2222,7 +2289,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "Premium"
   },
   {
    "ad": "Küp Şarapları (Epic, Artemis, Thia)",
@@ -2259,7 +2327,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "2"
   },
   {
    "ad": "Lermonos",
@@ -2294,7 +2363,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Kayıbağ – Paşa Dedem",
@@ -2323,7 +2393,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Kavaklıdere – Pendore",
@@ -2361,7 +2432,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "0"
   },
   {
    "ad": "Heraki",
@@ -2395,7 +2467,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "0"
   },
   {
    "ad": "Selendi",
@@ -2429,7 +2502,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "Kastro Tireli",
@@ -2462,7 +2536,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "0"
   },
   {
    "ad": "Sobran Bağları – Alaşehir-Philadelphia",
@@ -2490,7 +2565,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Öküzgözü Şarapçılık – Phokaia",
@@ -2523,7 +2599,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "0"
   },
   {
    "ad": "Deva Şarapçılık",
@@ -2549,7 +2626,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Sezar Şarap (Sezer Holding)",
@@ -2582,7 +2660,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Yanık Ülke",
@@ -2614,7 +2693,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "Kavaklıdere",
@@ -2660,7 +2740,8 @@
      ]
     }
    ],
-   "sarap": 59
+   "sarap": 59,
+   "sev": "Premium"
   },
   {
    "ad": "Likya Şarapları",
@@ -2698,7 +2779,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "Premium"
   },
   {
    "ad": "Sagavin",
@@ -2731,7 +2813,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Antioche Vineyards",
@@ -2766,7 +2849,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "0"
   },
   {
    "ad": "Tasheli",
@@ -2800,7 +2884,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "2"
   },
   {
    "ad": "Çerçiler Şarap – Selefkia Wine",
@@ -2826,7 +2911,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Nif Bağları",
@@ -2861,7 +2947,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "2"
   },
   {
    "ad": "Ayda Bağları (Vinaida)",
@@ -2893,7 +2980,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "D-Vin Urla",
@@ -2926,7 +3014,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Buradan",
@@ -2954,7 +3043,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Claros",
@@ -2981,7 +3071,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Koztepe Winery",
@@ -3014,7 +3105,8 @@
      ]
     }
    ],
-   "sarap": 4
+   "sarap": 4,
+   "sev": "0"
   },
   {
    "ad": "Bella Şarapları",
@@ -3040,7 +3132,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Taşköy",
@@ -3065,7 +3158,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Antik Bağcılık",
@@ -3100,7 +3194,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Prodom",
@@ -3135,7 +3230,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "0"
   },
   {
    "ad": "Mar-Ada",
@@ -3161,7 +3257,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Ezel Şarapları",
@@ -3194,7 +3291,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Hanchalar (Erdel Şarapçılık)",
@@ -3223,7 +3321,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Datça Şarapçılık (Datça Vineyard & Winery)",
@@ -3256,7 +3355,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Knidos",
@@ -3284,7 +3384,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Karnas Vineyards",
@@ -3316,7 +3417,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Mor Salkım Bağları",
@@ -3342,7 +3444,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Neferiye",
@@ -3372,7 +3475,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Asarcık Vineyards (Kayraklı Şarapçılık)",
@@ -3405,7 +3509,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Garova Vineyards",
@@ -3431,7 +3536,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Karmylassos",
@@ -3456,7 +3562,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Aykut Özkan Şarapçılık (Colossae, Yalı, İsabey, Cümbüş, Lunda)",
@@ -3486,7 +3593,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Efmeyra",
@@ -3511,7 +3619,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "İllegüp",
@@ -3540,7 +3649,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Mistia Wines",
@@ -3571,7 +3681,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Kavaklıdere Côtes d'Avanos",
@@ -3605,7 +3716,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Turasan",
@@ -3640,7 +3752,8 @@
      ]
     }
    ],
-   "sarap": 24
+   "sarap": 24,
+   "sev": "2"
   },
   {
    "ad": "Vinolus",
@@ -3674,7 +3787,8 @@
      ]
     }
    ],
-   "sarap": 7
+   "sarap": 7,
+   "sev": "3"
   },
   {
    "ad": "Diren",
@@ -3707,7 +3821,8 @@
      ]
     }
    ],
-   "sarap": 17
+   "sarap": 17,
+   "sev": "2"
   },
   {
    "ad": "502 Vineyards",
@@ -3739,7 +3854,8 @@
      ]
     }
    ],
-   "sarap": 6
+   "sarap": 6,
+   "sev": "3"
   },
   {
    "ad": "Vinkara",
@@ -3772,7 +3888,8 @@
      ]
     }
    ],
-   "sarap": 17
+   "sarap": 17,
+   "sev": "Premium"
   },
   {
    "ad": "Kocabağ",
@@ -3805,7 +3922,8 @@
      ]
     }
    ],
-   "sarap": 8
+   "sarap": 8,
+   "sev": "2"
   },
   {
    "ad": "Kalvi",
@@ -3838,7 +3956,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "0"
   },
   {
    "ad": "Tafali's",
@@ -3866,7 +3985,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "3"
   },
   {
    "ad": "Tomurcukbağ",
@@ -3896,7 +4016,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "2"
   },
   {
    "ad": "Shiluh",
@@ -3940,7 +4061,8 @@
      ]
     }
    ],
-   "sarap": 8
+   "sarap": 8,
+   "sev": "0"
   },
   {
    "ad": "Midin",
@@ -3977,7 +4099,8 @@
      ]
     }
    ],
-   "sarap": 5
+   "sarap": 5,
+   "sev": "3"
   },
   {
    "ad": "Ninova",
@@ -4006,7 +4129,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Eskibağlar",
@@ -4036,7 +4160,8 @@
      ]
     }
    ],
-   "sarap": 2
+   "sarap": 2,
+   "sev": "3"
   },
   {
    "ad": "S'narin",
@@ -4066,7 +4191,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Aryatus / Laurasia",
@@ -4096,7 +4222,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Evenez / Sonava",
@@ -4127,7 +4254,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "0"
   },
   {
    "ad": "Gelveri",
@@ -4152,7 +4280,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   },
   {
    "ad": "Kuzeybağ",
@@ -4182,7 +4311,8 @@
      ]
     }
    ],
-   "sarap": 3
+   "sarap": 3,
+   "sev": "3"
   },
   {
    "ad": "Hastek Ağın",
@@ -4210,7 +4340,8 @@
      ]
     }
    ],
-   "sarap": 1
+   "sarap": 1,
+   "sev": "0"
   },
   {
    "ad": "Mesaşuna",
@@ -4236,7 +4367,8 @@
      ]
     }
    ],
-   "sarap": 0
+   "sarap": 0,
+   "sev": "0"
   }
  ]
 }
