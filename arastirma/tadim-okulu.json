@@ -1,0 +1,1245 @@
+{
+ "_meta": {
+  "baslik": "Tadım Okulu",
+  "aciklama": "Meraklı ama uzman olmayan okur için sistematik şarap tadımı rehberi. Yapı, WSET Level 3 Sistematik Tadım Yaklaşımı'nın (SAT) mantığını izler; terimler sade Türkçeye aktarılmıştır.",
+  "dil": "tr",
+  "guncelleme": "2026-10",
+  "kaynaklar": [
+   "https://www.wsetglobal.com/knowledge-centre/wset-systematic-approach-to-tasting-sat",
+   "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf",
+   "https://winefolly.com/tips/wine-aroma-wheel-100-flavors/",
+   "https://winefolly.com/tips/tips-on-tasting-wine-bouquet-vs-aroma/",
+   "https://en.wikipedia.org/wiki/Wine_tasting",
+   "https://en.wikipedia.org/wiki/Aroma_of_wine",
+   "https://en.wikipedia.org/wiki/Wine_fault"
+  ]
+ },
+ "renk": {
+  "giris": "Şarabın rengi ilk ipucudur: üzümün kabuk kalınlığı, iklim, şarabın yaşı ve fıçıda geçirdiği süre hakkında fikir verir. Kadehi beyaz bir zeminin (peçete, kâğıt) üzerinde 45 derece eğip şarabın en derin olduğu orta kısma ve kenarına (rim) bakın. Kırmızılar yaşlandıkça renk kaybeder ve kahveye döner; beyazlar ise tam tersine koyulaşır ve altına, kehribara kayar.",
+  "tonlar": [
+   {
+    "ad": "Mor",
+    "grup": "kirmizi",
+    "hex": "#5b1a4a",
+    "anlam": "Çok genç bir kırmızı; antosiyaninler (renk pigmentleri) henüz tazedir. Kenarda belirgin mor-mavi yansıma şarabın birkaç aylık ya da 1-2 yaşında olduğunu gösterir. Kalın kabuklu üzümlerde ve düşük asitli şaraplarda mor daha belirgindir.",
+    "ornek": "Genç Malbec, Beaujolais Nouveau (Gamay), genç Syrah, yeni Boğazkere"
+   },
+   {
+    "ad": "Yakut",
+    "grup": "kirmizi",
+    "hex": "#9b111e",
+    "anlam": "Kırmızı şarapların çoğunun 'orta yaş' rengi; mor yansıma kaybolmuş, saf kırmızı kalmıştır. Birkaç yıllık şarapların ve ince kabuklu üzümlerin (Pinot Noir, Grenache) tipik rengidir.",
+    "ornek": "Chianti Classico (Sangiovese), Pinot Noir, Rioja Crianza, Kalecik Karası"
+   },
+   {
+    "ad": "Garnet (nar kabuğu)",
+    "grup": "kirmizi",
+    "hex": "#7b2d26",
+    "anlam": "Kırmızıya turuncu-kahve tonların karıştığı, yıllanmanın başladığını gösteren renk. Oksijenle yavaş temas ve pigmentlerin tanenlerle birleşip çökmesi sonucunda oluşur. Nebbiolo gibi bazı üzümler gençken bile garnet kenar gösterebilir.",
+    "ornek": "Barolo, Rioja Reserva, 8-10 yaşında Bordeaux"
+   },
+   {
+    "ad": "Kiremit / tuğla (tawny)",
+    "grup": "kirmizi",
+    "hex": "#9c4a2f",
+    "anlam": "Belirgin olgunluk: kırmızı neredeyse kaybolmuş, kiremit-turuncu hâkim. Uzun fıçı ya da şişe yıllanması işaretidir. Sofra şaraplarında genelde 10-20 yaşı aşmış şaraplar; Tawny Porto'da ise bilinçli oksidatif fıçı yıllanmasının sonucudur.",
+    "ornek": "Eski Barolo/Barbaresco, Gran Reserva Rioja, Tawny Porto"
+   },
+   {
+    "ad": "Kehribar-kahve",
+    "grup": "kirmizi",
+    "hex": "#6b4423",
+    "anlam": "Çok yaşlı ya da oksitlenmiş bir kırmızı. Kasıtlı olarak oksidatif yapılan stillerde (çok yaşlı Tawny, bazı tatlı şaraplar) normaldir; sofra şarabında ise çoğu zaman 'zirveyi geçmiş' veya kusurlu (oksidasyon) olduğuna işaret eder.",
+    "ornek": "40 yıllık Tawny Porto, çok eski Bordeaux"
+   },
+   {
+    "ad": "Su beyazı (limon-yeşil)",
+    "grup": "beyaz",
+    "hex": "#eef0c8",
+    "anlam": "Neredeyse renksiz, yeşil yansımalı. Çok genç, serin iklimden gelen, paslanmaz çelikte yapılmış ve fıçı görmemiş beyazların rengidir. Yeşil yansıma tazelik ve yüksek asit ipucudur.",
+    "ornek": "Muscadet, genç Albariño, Vinho Verde, Pinot Grigio"
+   },
+   {
+    "ad": "Limon",
+    "grup": "beyaz",
+    "hex": "#f3e58a",
+    "anlam": "Beyaz şarapların en yaygın rengi. Genç ve orta yaştaki kuru beyazlar; hafif bir fıçı ya da tortu teması da olabilir.",
+    "ornek": "Sauvignon Blanc, Chablis, Riesling Trocken, Narince"
+   },
+   {
+    "ad": "Altın",
+    "grup": "beyaz",
+    "hex": "#e4b83a",
+    "anlam": "Ya meşe fıçıda olgunlaşma ya sıcak iklim ve tam olgun üzüm ya da şişede birkaç yıllık yıllanma. Tatlı geç hasat ve botrytis'li (soylu çürüklük) şaraplarda da altın renk görülür.",
+    "ornek": "Fıçılı Kaliforniya Chardonnay, Meursault, 10 yaşında Riesling, Sauternes"
+   },
+   {
+    "ad": "Kehribar",
+    "grup": "beyaz",
+    "hex": "#c47a1f",
+    "anlam": "Uzun yıllanma, bilinçli oksidasyon ya da kabukla uzun maserasyon (turuncu şarap). Kuru bir sofra beyazında kehribar ve kahve tonu genellikle oksidasyon kusuruna işaret eder; Tokaji Aszú, eski Sauternes, Oloroso Sherry gibi stillerde ise beklenen renktir.",
+    "ornek": "Tokaji Aszú, eski Sauternes, Gürcü kvevri Rkatsiteli (turuncu şarap), Oloroso"
+   },
+   {
+    "ad": "Pembe (soluk somon / 'soğan kabuğu')",
+    "grup": "roze",
+    "hex": "#f4c7b8",
+    "anlam": "Çok kısa kabuk temasıyla ya da doğrudan presleme ile yapılmış, Provence tarzı kuru roze. Somon-turuncu yansıma; Grenache ve Cinsault gibi üzümlerde veya biraz yaşlanmış rozelerde görülür.",
+    "ornek": "Côtes de Provence rozesi, Bandol rozesi, Denizli Çalkarası rozeleri"
+   },
+   {
+    "ad": "Pembe (canlı / ahududu)",
+    "grup": "roze",
+    "hex": "#e8708a",
+    "anlam": "Daha uzun kabuk teması (saatlerce) ya da 'saignée' yöntemi. Daha meyvemsi, gövdeli rozelerdir; genç olduklarını gösterir.",
+    "ornek": "İspanyol Rosado (Garnacha), Syrah veya Cabernet Sauvignon rozesi"
+   },
+   {
+    "ad": "Turuncu (roze)",
+    "grup": "roze",
+    "hex": "#e59866",
+    "anlam": "Rozede turuncu ton genellikle yaşlanma ya da oksidasyonu gösterir; bazı oksidatif ya da fıçılı stiller (ör. Tavel, eski Rioja Rosado) dışında rozenin taze içilmesi gerektiğini hatırlatır.",
+    "ornek": "Yıllanmış López de Heredia Viña Tondonia Rosado, 3-4 yaşındaki roze"
+   }
+  ],
+  "yogunluk": {
+   "aciklama": "Renk yoğunluğu (WSET: soluk – orta – koyu), kadehin ortasından dibe bakarak ölçülür. Kırmızıda kadehin sapını şarabın içinden görebiliyorsanız soluk, zorlukla görüyorsanız orta, hiç göremiyorsanız koyudur.",
+   "kademeler": [
+    {
+     "ad": "Soluk",
+     "ipucu": "İnce kabuklu üzüm (Pinot Noir, Gamay, Nebbiolo, Grenache, Kalecik Karası), serin iklim, kısa maserasyon ya da yaşlı şarap."
+    },
+    {
+     "ad": "Orta",
+     "ipucu": "Merlot, Sangiovese, Tempranillo gibi orta kabuklu üzümler; ılıman iklim."
+    },
+    {
+     "ad": "Koyu",
+     "ipucu": "Kalın kabuklu, pigmentçe zengin üzümler (Cabernet Sauvignon, Syrah, Malbec, Saperavi, Boğazkere, Touriga Nacional), sıcak ve güneşli iklim, uzun maserasyon, düşük verim."
+    }
+   ],
+   "not": "Beyazlarda yoğunluk çoğunlukla yaş, olgunluk ve fıçı ile artar. Nebbiolo gibi soluk renkli bir üzüm de çok tanenli ve uzun ömürlü olabilir: renk tek başına güç ölçüsü değildir."
+  },
+  "kenar_rim": {
+   "aciklama": "Kadeh eğildiğinde şarabın en ince kısmı olan kenar, yaşın en iyi göstergesidir. Merkez ile kenar arasındaki renk farkı yaşla açılır.",
+   "degisim": [
+    "Genç kırmızı: kenar mor-pembe, merkeze kadar renk tutarlı.",
+    "Gelişmekte olan kırmızı: kenar yakut, mor kaybolmuş.",
+    "Olgun kırmızı: kenarda turuncu-kiremit ya da kahve şerit; merkezle kenar arasında belirgin fark, kenarda neredeyse su gibi saydam bir halka.",
+    "Beyazlarda kenar yeşilden altına doğru gider; kenarda kahve ton oksidasyon sinyalidir."
+   ]
+  },
+  "berraklik": {
+   "aciklama": "Sağlıklı bir şarap berraktır (WSET: berrak – bulanık). Bulanıklık filtrelenmemiş doğal şarapta normal olabilir; ama dipte değil de tüm şarapta bulanıklık ve kabarcık bakteri kaynaklı bir sorun da olabilir.",
+   "zararsiz_tortular": [
+    "Tartarat kristalleri ('şarap elmasları'): soğukta oluşan şekerimsi kristaller; tamamen zararsızdır.",
+    "Tortu (sediment): yıllanmış kırmızılarda pigment ve tanenlerin çökmesiyle oluşan koyu parçacıklar; dekantasyonla ayrılır."
+   ]
+  },
+  "gozyaslari_bacaklar": {
+   "aciklama": "Kadehi çalkaladıktan sonra iç yüzeyde süzülen damlalara 'gözyaşı' ya da 'bacak' denir. Fiziksel adı Marangoni (Gibbs-Marangoni) etkisidir: alkol sudan hızlı buharlaşır, kadeh çeperindeki ince şarap filminde yüzey gerilimi farkı oluşur ve sıvı yukarı çekilip damlalar halinde geri süzülür.",
+   "ne_soyler": [
+    "Daha çok, daha yavaş ve daha belirgin bacaklar genellikle daha yüksek alkol demektir.",
+    "Yüksek şeker (tatlı şaraplar) şarabı daha viskoz yapar; bacaklar daha kalın ve yavaş akar.",
+    "Bacaklar kaliteyi GÖSTERMEZ. Kadehin temizliği, sıcaklık ve nem de görünümü değiştirir."
+   ],
+   "kaynak": "https://en.wikipedia.org/wiki/Tears_of_wine"
+  }
+ },
+ "burun": {
+  "giris": "Damakta hissettiğimiz 'tadın' büyük kısmı aslında koku duyusundan gelir: dil yalnızca tatlı, ekşi, acı, tuzlu ve umamiyi algılar; çilek, vanilya ya da deri gibi tanımlar burnun (ve ağızdan buruna giden geri yolun) işidir. Aromaları üç katmanda düşünmek, 'bu koku nereden geliyor?' sorusunu yanıtlamayı kolaylaştırır: üzümden mi (birincil), şarap yapımından mı (ikincil), yoksa yıllanmadan mı (üçüncül)?",
+  "kosul_ve_yogunluk": {
+   "kosul": "Önce şarabın temiz olup olmadığına bakın: ıslak karton, sirke, yanmış kibrit ya da çürük elma kokusu bir kusura işaret edebilir (bkz. 'kusurlar').",
+   "yogunluk": "Kokunun gücü: hafif – orta(-) – orta – orta(+) – belirgin. Kadehi burnunuza yaklaştırmadan kokuyu alabiliyorsanız yoğunluk yüksektir.",
+   "gelisim": "Genç (taze meyve hâkim) – gelişmekte (meyvenin yanında üçüncül notalar beliriyor) – tam gelişmiş (üçüncül notalar baskın) – yorgun (meyve solmuş)."
+  },
+  "katmanlar": [
+   {
+    "katman": "birincil",
+    "aile": "Çiçeksi",
+    "tanimlar": [
+     "menekşe",
+     "gül",
+     "akasya",
+     "hanımeli",
+     "portakal çiçeği",
+     "mürver çiçeği",
+     "papatya",
+     "lavanta",
+     "ıhlamur",
+     "yasemin"
+    ],
+    "ipucu": "Menekşe: Nebbiolo, Malbec, Syrah (özellikle Viognier ile ortak fermente edilmiş Côte-Rôtie). Gül ve liçi: Gewürztraminer. Portakal çiçeği ve yasemin: Muscat/Bornova Misketi, Torrontés. Akasya ve hanımeli: Viognier, Chenin Blanc."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Yeşil meyve",
+    "tanimlar": [
+     "yeşil elma",
+     "kırmızı elma",
+     "armut",
+     "ayva",
+     "bektaşi üzümü",
+     "taze üzüm",
+     "armut şekeri (pear drop)"
+    ],
+    "ipucu": "Serin iklim ve yüksek asit sinyali. Yeşil elma: Chablis, Riesling, Grüner Veltliner. Bektaşi üzümü: Sauvignon Blanc. Ayva: Chenin Blanc. Armut şekeri: soğuk fermantasyonlu genç beyazlar ve Beaujolais (karbonik maserasyon)."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Narenciye",
+    "tanimlar": [
+     "limon",
+     "misket limonu (lime)",
+     "greyfurt",
+     "limon kabuğu",
+     "portakal kabuğu",
+     "yuzu",
+     "bergamot"
+    ],
+    "ipucu": "Lime: genç Riesling (özellikle Avustralya Clare/Eden Valley). Greyfurt: Sauvignon Blanc, Furmint. Limon: Albariño, Assyrtiko, Chablis, Emir."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Çekirdekli meyve",
+    "tanimlar": [
+     "şeftali",
+     "beyaz şeftali",
+     "kayısı",
+     "nektarin",
+     "erik (sarı)"
+    ],
+    "ipucu": "Orta-ılık iklim ve olgunluk. Kayısı: Viognier. Şeftali: Riesling (Mosel Kabinett), Albariño, olgun Chardonnay. Beyaz şeftali: Grüner Veltliner, Narince."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Tropik meyve",
+    "tanimlar": [
+     "ananas",
+     "mango",
+     "çarkıfelek (passion fruit)",
+     "kavun",
+     "muz",
+     "liçi",
+     "guava"
+    ],
+    "ipucu": "Sıcak iklim ya da aromatik üzüm. Çarkıfelek ve guava: Yeni Zelanda Sauvignon Blanc (Marlborough). Ananas ve mango: sıcak iklim Chardonnay. Liçi: Gewürztraminer. Muz: düşük sıcaklıkta fermente edilmiş genç beyazlar."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Kırmızı meyve",
+    "tanimlar": [
+     "çilek",
+     "ahududu",
+     "kırmızı kiraz",
+     "vişne",
+     "kızılcık",
+     "kuş üzümü (frenk üzümü, kırmızı)",
+     "kırmızı erik",
+     "nar"
+    ],
+    "ipucu": "İnce kabuklu ve serin iklim kırmızıları. Kiraz ve ahududu: Pinot Noir, Kalecik Karası. Vişne: Sangiovese, Öküzgözü. Çilek: Grenache, Tempranillo, Gamay. Kızılcık: serin iklim Pinot Noir, Nebbiolo."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Siyah meyve",
+    "tanimlar": [
+     "siyah frenk üzümü (cassis)",
+     "böğürtlen",
+     "yaban mersini",
+     "siyah kiraz",
+     "siyah erik",
+     "dut",
+     "mürver"
+    ],
+    "ipucu": "Kalın kabuklu üzümler ve ılık-sıcak iklim. Cassis: Cabernet Sauvignon. Böğürtlen: Syrah, Zinfandel, Malbec. Siyah erik: Merlot, Malbec. Dut ve siyah kiraz: Boğazkere, Saperavi, Touriga Nacional."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Kurutulmuş / pişmiş meyve (birincil)",
+    "tanimlar": [
+     "reçel",
+     "kuru erik",
+     "kuru üzüm",
+     "incir",
+     "kirş (kiraz likörü)",
+     "fırınlanmış meyve"
+    ],
+    "ipucu": "Çok sıcak iklim, aşırı olgun üzüm ya da kurutulmuş üzümle yapım (Amarone, appassimento). Zinfandel, Primitivo, sıcak Barossa Shiraz ve Grenache'ta 'reçelimsi' not sık görülür."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Bitkisel / otsu",
+    "tanimlar": [
+     "yeşil biber",
+     "kesilmiş çimen",
+     "domates yaprağı",
+     "kuşkonmaz",
+     "siyah frenk üzümü yaprağı",
+     "kedi çişi (Sauvignon Blanc için klasik tanım)",
+     "taze fasulye"
+    ],
+    "ipucu": "Metoksipirazin denen bileşikler; serin iklim ya da tam olgunlaşmamış üzüm. Yeşil biber: Cabernet Franc, Cabernet Sauvignon, Carménère. Çimen ve domates yaprağı: Sauvignon Blanc. Beyaz biber ve taze fasulye: Grüner Veltliner."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Aromatik otlar",
+    "tanimlar": [
+     "nane",
+     "okaliptüs",
+     "kekik",
+     "biberiye",
+     "lavanta",
+     "dereotu",
+     "rezene",
+     "garrigue (Akdeniz makisi)",
+     "çay yaprağı"
+    ],
+    "ipucu": "Okaliptüs ve nane: Avustralya Cabernet (Coonawarra), Napa Cabernet. Garrigue (kekik, biberiye, lavanta): Güney Rhône ve Languedoc kupajları (Grenache, Syrah, Mourvèdre). Rezene: Assyrtiko, Vermentino."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Keskin baharat (üzümden)",
+    "tanimlar": [
+     "karabiber",
+     "beyaz biber",
+     "meyan kökü",
+     "anason",
+     "yıldız anason"
+    ],
+    "ipucu": "Karabiber: serin iklim Syrah (rotundone bileşiği), Grüner Veltliner (beyaz biber). Meyan kökü: Grenache, Malbec, Tempranillo."
+   },
+   {
+    "katman": "birincil",
+    "aile": "Mineral / diğer",
+    "tanimlar": [
+     "çakmak taşı",
+     "ıslak taş",
+     "tebeşir",
+     "deniz tuzu / iyot",
+     "ıslak yün",
+     "grafit",
+     "kurşun kalem ucu"
+    ],
+    "ipucu": "Tartışmalı ama yaygın tanımlar. Çakmak taşı: Chablis, Pouilly-Fumé (indirgeyici yapımla da ilişkili). Islak taş ve tuzluluk: Assyrtiko (Santorini), Albariño. Islak yün: Chenin Blanc. Grafit: Bordeaux (Pauillac)."
+   },
+   {
+    "katman": "ikincil",
+    "aile": "Maya (tortu / otoliz)",
+    "tanimlar": [
+     "bisküvi",
+     "ekmek",
+     "kızarmış ekmek",
+     "brioche",
+     "hamur",
+     "pasta hamuru",
+     "maya",
+     "peynir kabuğu"
+    ],
+    "ipucu": "Ölü maya hücreleri (tortu/lees) üzerinde bekletme. Brioche ve bisküvi: geleneksel yöntemle yapılmış köpüklüler (Champagne, Cava) uzun tortu yıllanmasıyla. Hafif ekmeksi doku: 'sur lie' Muscadet, bâtonnage yapılmış Chardonnay."
+   },
+   {
+    "katman": "ikincil",
+    "aile": "Malolaktik fermantasyon (MLF)",
+    "tanimlar": [
+     "tereyağı",
+     "krema",
+     "yoğurt",
+     "taze peynir",
+     "tereyağlı patlamış mısır"
+    ],
+    "ipucu": "Bakterilerin sert malik asidi (yeşil elma asidi) yumuşak laktik aside çevirmesi; yan ürün diasetil tereyağı kokusunu verir. Kırmızıların neredeyse hepsi MLF'den geçer; beyazlarda ise üslup tercihidir: tereyağlı Chardonnay (Kaliforniya, Meursault) MLF'nin klasik örneğidir."
+   },
+   {
+    "katman": "ikincil",
+    "aile": "Meşe",
+    "tanimlar": [
+     "vanilya",
+     "hindistan cevizi",
+     "tost",
+     "karanfil",
+     "muskat",
+     "sedir",
+     "duman",
+     "kömürleşmiş ahşap",
+     "kahve",
+     "çikolata",
+     "karamela (butterscotch)",
+     "reçine"
+    ],
+    "ipucu": "Yeni ve küçük fıçı (225 L barrique) daha belirgin iz bırakır. Hindistan cevizi ve dereotu: Amerikan meşesi (geleneksel Rioja, bazı Avustralya Shiraz). Vanilya, sedir, ince baharat: Fransız meşesi (Bordeaux, Burgundy). Tost, duman, kahve: fıçının iç yüzeyinin yüksek yakılması (toasting)."
+   },
+   {
+    "katman": "ikincil",
+    "aile": "Fermantasyon (diğer)",
+    "tanimlar": [
+     "armut şekeri",
+     "muz",
+     "sakız",
+     "kiraz şekeri",
+     "balon sakızı"
+    ],
+    "ipucu": "WSET bu notaları birincil sayar (alkol fermantasyonu ürünü), ama pratikte 'yapım ipucu' olarak okumak yararlıdır: karbonik maserasyon (Beaujolais, Gamay) ve soğuk fermantasyonlu genç beyazlarda belirgindir."
+   },
+   {
+    "katman": "üçüncül",
+    "aile": "Kasıtlı oksidasyon",
+    "tanimlar": [
+     "badem",
+     "badem ezmesi",
+     "fındık",
+     "ceviz",
+     "toffee",
+     "karamel",
+     "kahve",
+     "çikolata"
+    ],
+    "ipucu": "Oksijenle bilinçli ve uzun temas: Tawny Porto, Oloroso ve Amontillado Sherry, Madeira, Vin Jaune, eski Tokaji."
+   },
+   {
+    "katman": "üçüncül",
+    "aile": "Meyve gelişimi (beyaz)",
+    "tanimlar": [
+     "kuru kayısı",
+     "portakal marmelatı",
+     "kuru elma",
+     "kuru muz",
+     "ayva reçeli",
+     "pişmiş elma",
+     "bal"
+    ],
+    "ipucu": "Yıllanmış tatlı ve kuru beyazlar: eski Sauternes, Tokaji Aszú, olgun Chenin Blanc (Vouvray), yaşlı Riesling."
+   },
+   {
+    "katman": "üçüncül",
+    "aile": "Meyve gelişimi (kırmızı)",
+    "tanimlar": [
+     "incir",
+     "kuru erik",
+     "katran",
+     "kuru böğürtlen",
+     "kuru kızılcık",
+     "pişmiş kırmızı erik",
+     "hurma"
+    ],
+    "ipucu": "Taze meyvenin yerini kurumuş, pişmiş meyve alır. Katran ve kuru kiraz: eski Nebbiolo (Barolo). Kuru erik ve incir: olgun Bordeaux, Amarone."
+   },
+   {
+    "katman": "üçüncül",
+    "aile": "Şişe yıllanması (beyaz)",
+    "tanimlar": [
+     "petrol / gazyağı",
+     "bal",
+     "saman",
+     "kuru ot",
+     "tost",
+     "fındık",
+     "mantar",
+     "tarçın",
+     "zencefil"
+    ],
+    "ipucu": "Petrol notası (TDN bileşiği) yıllanmış Riesling'in imzasıdır; sıcak, güneşli bağlarda genç Riesling'de de görülebilir. Bal ve saman: olgun Sémillon (Hunter Valley), Chenin Blanc. Tost ve fındık: yıllanmış Champagne ve Burgundy beyazları."
+   },
+   {
+    "katman": "üçüncül",
+    "aile": "Şişe yıllanması (kırmızı)",
+    "tanimlar": [
+     "deri",
+     "orman zemini",
+     "toprak",
+     "mantar",
+     "trüf",
+     "tütün",
+     "puro kutusu",
+     "av eti",
+     "ıslak yaprak",
+     "et suyu",
+     "ahır (hafif)"
+    ],
+    "ipucu": "Meyvenin geri çekildiği, tuzlu-umami notaların öne çıktığı olgunluk. Orman zemini ve mantar: eski Pinot Noir (Burgundy). Tütün ve puro kutusu: olgun Bordeaux. Deri ve av eti: olgun Syrah (Kuzey Rhône), Mourvèdre (Bandol). Trüf: yaşlı Barolo. Belirgin 'ahır' notası Brettanomyces'e işaret edebilir."
+   }
+  ],
+  "pratik_ipuclari": [
+   "Önce kadehi çalkalamadan koklayın (en uçucu aromalar), sonra çalkalayıp tekrar koklayın.",
+   "Kısa ve birkaç kez koklayın; uzun koklama burnu çabuk yorar. Yorulursanız kendi bileğinizi ya da kolunuzu koklamak burnu 'sıfırlar'.",
+   "Genelden özele gidin: 'meyve' → 'kırmızı meyve' → 'kiraz' → 'olgun kiraz'.",
+   "Mutfakta koku hafızası çalışın: baharat çekmecesi, meyve tabağı, çay ve kahve en iyi antrenmandır.",
+   "Kesin doğru yoktur; aynı kokuyu iki kişi farklı kelimelerle anlatabilir. Önemli olan kendi tutarlı sözlüğünüzü kurmaktır."
+  ]
+ },
+ "agiz": {
+  "giris": "Ağızda iki şeyi ayrı ayrı değerlendiririz: yapı (tatlılık, asit, tanen, alkol, gövde) ve lezzet (aroma yoğunluğu, aroma karakteri, final). Yapı unsurları büyük ölçüde dilde ve ağız dokusunda hissedilir; lezzetler ise ağızdan buruna çıkan aromalarla algılanır. Küçük bir yudum alın, şarabı ağzınızın her yerine dolaştırın; isterseniz dudaklarınız arasından biraz hava çekin.",
+  "unsurlar": [
+   {
+    "ad": "Tatlılık",
+    "aciklama": "Şarapta fermantasyondan sonra kalan şeker (kalıntı şeker). Kuru şarapta litrede birkaç gramın altındadır; tatlı şaraplarda yüzlerce grama çıkabilir. WSET ölçeği: kuru – kuruya yakın (off-dry) – orta kuru – orta tatlı – tatlı – çok tatlı (luscious).",
+    "nasil_algilanir": "Dilin ucunda, ilk anda hissedilir. Dikkat: olgun meyve aroması ve yüksek alkol de 'tatlı' izlenimi yaratır; bu tatlılık değil meyvemsiliktir. Yüksek asit ise tatlılığı daha az hissettirir (Mosel Riesling'leri buna örnektir).",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Kuru",
+      "ornekler": [
+       "Chablis",
+       "Sancerre",
+       "Brut Champagne",
+       "Chianti Classico",
+       "kuru Narince"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Kuruya yakın – orta tatlı",
+      "ornekler": [
+       "Mosel Riesling Kabinett",
+       "Vouvray Demi-Sec",
+       "Moscato d'Asti",
+       "Alsace Gewürztraminer (birçoğu)"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Tatlı – çok tatlı",
+      "ornekler": [
+       "Sauternes",
+       "Tokaji Aszú",
+       "Trockenbeerenauslese",
+       "Ruby/Vintage Porto",
+       "Pedro Ximénez Sherry"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Asidite",
+    "aciklama": "Şaraba tazelik, canlılık ve 'sulandırıcı' etki veren ekşilik. Başlıca asitler tartarik, malik ve sitrik asittir. Serin iklim, yüksek rakım ve erken hasat asidi yükseltir; sıcak iklim ve geç hasat düşürür. Yüksek asit yıllanma potansiyelinin de önemli bir dayanağıdır.",
+    "nasil_algilanir": "Dilin kenarlarında karıncalanma ve yudumdan sonra ağzın sulanması. Yuttuktan sonra ağzınız ne kadar uzun ve bol sulanıyorsa asit o kadar yüksektir. Limonata gibi düşünün: asidi düşük şarap 'yavan', yüksek şarap 'canlı, keskin'dir.",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Yumuşak, bazen yavan",
+      "ornekler": [
+       "Viognier",
+       "Gewürztraminer",
+       "sıcak iklim Merlot",
+       "Bornova Misketi"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Dengeli",
+      "ornekler": [
+       "Kaliforniya Chardonnay",
+       "Rioja Crianza",
+       "Malbec",
+       "Côtes du Rhône"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Canlı, keskin",
+      "ornekler": [
+       "Riesling",
+       "Champagne",
+       "Assyrtiko (Santorini)",
+       "Barbera",
+       "Sangiovese",
+       "Kalecik Karası"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Tanen",
+    "aciklama": "Üzüm kabuğu, çekirdeği ve sapında (ayrıca meşe fıçıda) bulunan polifenoller. Kırmızı şarap kabuklarıyla birlikte fermente edildiği için tanen daha çok kırmızılarda bulunur. Tanen şaraba yapı, 'iskelet' ve yıllanma gücü verir; yaşla birlikte yumuşar. İki boyutu vardır: MİKTAR (düşük–yüksek) ve DOKU (olgunluk ve incelik).",
+    "nasil_algilanir": "Acılık değil, kurutma hissidir: diş etlerinde, dişlerin önünde ve dilin üstünde kuruluk, pütürlülük. Demlenmiş siyah çay ya da ham hurma etkisini düşünün. Tükürük proteinleri tanene bağlandığı için ağız 'zımparalanmış' gibi hissedilir.",
+    "doku": [
+     {
+      "ad": "İnce / ipeksi",
+      "aciklama": "Küçük taneli, yumuşak; ağızda pürüzsüz akar. Olgun ve iyi işlenmiş tanen.",
+      "ornek": "Pinot Noir, olgun Merlot, yaşlı Bordeaux"
+     },
+     {
+      "ad": "Kadifemsi",
+      "aciklama": "Yoğun ama yuvarlak; dolgun, yumuşak bir dokuyla ağzı kaplar.",
+      "ornek": "Pomerol (Merlot), olgun Malbec, sıcak iklim Syrah"
+     },
+     {
+      "ad": "Kaba / pütürlü / yeşil",
+      "aciklama": "Sert, kuru, bazen acımsı; olgunlaşmamış üzüm, aşırı ekstraksiyon ya da çok gençlik işareti.",
+      "ornek": "Genç Tannat, serin yılda Cabernet Sauvignon, genç Barolo, genç Boğazkere"
+     }
+    ],
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Hafif, neredeyse hissedilmez",
+      "ornekler": [
+       "Beaujolais (Gamay)",
+       "Valpolicella",
+       "Kalecik Karası",
+       "çoğu roze ve beyaz"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Belirgin ama baskın değil",
+      "ornekler": [
+       "Merlot",
+       "Rioja Crianza",
+       "Chianti",
+       "Zinfandel",
+       "Öküzgözü"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Güçlü, kurutucu",
+      "ornekler": [
+       "Barolo (Nebbiolo)",
+       "Bordeaux sol yaka (Cabernet Sauvignon)",
+       "Madiran (Tannat)",
+       "Aglianico",
+       "Saperavi",
+       "Boğazkere"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Alkol",
+    "aciklama": "Maya şekeri alkole çevirir; üzüm ne kadar olgunsa (şeker o kadar yüksek) potansiyel alkol o kadar yüksektir. Sofra şaraplarında tipik aralık %11-15'tir. WSET'e göre sofra şarabında %11'in altı düşük, %11-13,9 orta, %14 ve üzeri yüksek sayılır (alkolle güçlendirilmiş şaraplarda ölçek farklıdır).",
+    "nasil_algilanir": "Yutarken boğazda ve göğüste sıcaklık hissi; ağırlık ve hafif tatlımsılık. Dengeli şarapta yüksek alkol bile 'yakmaz'; dengesizse burun ve boğazda keskin bir yanma olur.",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "%11'in altı",
+      "ornekler": [
+       "Mosel Riesling Kabinett (%7-9)",
+       "Moscato d'Asti (%5,5)",
+       "Vinho Verde (%9-11)"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "%11-13,9",
+      "ornekler": [
+       "Chablis",
+       "Bordeaux kırmızısı",
+       "Sancerre",
+       "Beaujolais",
+       "Kalecik Karası"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "%14 ve üzeri",
+      "ornekler": [
+       "Amarone (%15-16)",
+       "Châteauneuf-du-Pape",
+       "Barossa Shiraz",
+       "Kaliforniya Zinfandel",
+       "Primitivo di Manduria"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Gövde",
+    "aciklama": "Şarabın ağızdaki ağırlığı, doluluğu. Tek bir bileşen değil; alkol, ekstrakt, şeker, tanen ve gliserinin toplam etkisidir. En büyük katkı alkoldendir.",
+    "nasil_algilanir": "Su, yağsız süt ve tam yağlı süt karşılaştırmasını düşünün: hafif gövde suya, dolgun gövde krema benzeri bir ağırlığa yakındır. Şarabı ağızda çevirdiğinizde ne kadar 'yer kapladığını' hissedin.",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Hafif gövde",
+      "ornekler": [
+       "Muscadet",
+       "Vinho Verde",
+       "Beaujolais",
+       "Pinot Grigio",
+       "Emir"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Orta gövde",
+      "ornekler": [
+       "Chianti Classico",
+       "Sauvignon Blanc",
+       "Rioja Crianza",
+       "Pinot Noir (Burgundy)",
+       "Öküzgözü"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Dolgun gövde",
+      "ornekler": [
+       "Napa Cabernet Sauvignon",
+       "Barossa Shiraz",
+       "Amarone",
+       "fıçılı Kaliforniya Chardonnay",
+       "Viognier (Condrieu)"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Aroma yoğunluğu (ağızda)",
+    "aciklama": "Ağızdaki lezzetlerin ne kadar güçlü olduğu; burundaki yoğunlukla genellikle paraleldir. Ölçek: hafif – orta(-) – orta – orta(+) – belirgin.",
+    "nasil_algilanir": "Yudumladıktan sonra aromalar hemen ve canlı biçimde mi yayılıyor, yoksa onları 'aramak' mı gerekiyor? Ağızdan hava çekmek (dudakları büzüp hafifçe 'fıslamak') aromaları açar.",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Nötr, ince",
+      "ornekler": [
+       "Muscadet",
+       "Pinot Grigio (İtalya, basit)",
+       "Trebbiano/Ugni Blanc",
+       "Sultaniye"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Belirgin ama ölçülü",
+      "ornekler": [
+       "Chablis",
+       "Merlot",
+       "Rioja",
+       "Grüner Veltliner"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Belirgin, ekspresif",
+      "ornekler": [
+       "Gewürztraminer",
+       "Marlborough Sauvignon Blanc",
+       "Muscat",
+       "Barossa Shiraz",
+       "Viognier"
+      ]
+     }
+    ]
+   },
+   {
+    "ad": "Final (uzunluk)",
+    "aciklama": "Yutup ya da tükürdükten sonra hoş aromaların ağızda kalma süresi. Sadece asit, tanen ya da alkolün yanma hissi değil, AROMALARIN kalış süresi ölçülür. Kalitenin en güvenilir göstergelerinden biridir.",
+    "nasil_algilanir": "Yudumdan sonra saniye sayın. Kabaca: birkaç saniye kısa, 5-10 saniye orta, 10-15 saniyeden uzun ise uzun final. Büyük şaraplarda aromalar bir dakikaya kadar kalabilir.",
+    "kademeler": [
+     {
+      "etiket": "düşük",
+      "aciklama": "Kısa",
+      "ornekler": [
+       "Basit sofra şarapları",
+       "toplu üretim Pinot Grigio",
+       "Beaujolais Nouveau"
+      ]
+     },
+     {
+      "etiket": "orta",
+      "aciklama": "Orta",
+      "ornekler": [
+       "Côtes du Rhône",
+       "Chianti Classico",
+       "Marlborough Sauvignon Blanc",
+       "iyi bir Kalecik Karası"
+      ]
+     },
+     {
+      "etiket": "yüksek",
+      "aciklama": "Uzun",
+      "ornekler": [
+       "Grand Cru Burgundy",
+       "Barolo",
+       "Grand Cru Classé Bordeaux",
+       "Tokaji Aszú",
+       "olgun Riesling Spätlese"
+      ]
+     }
+    ]
+   }
+  ],
+  "diger": {
+   "kopuk_mousse": "Köpüklülerde kabarcığın ağızdaki dokusu: narin (ince, ipeksi), kremamsı ya da sert/agresif. Geleneksel yöntemle uzun tortu yıllanmasından geçen Champagne'lar genelde ince ve kremamsı köpük verir.",
+   "denge_notu": "Unsurlar birbirini etkiler: şeker asidi yumuşatır, asit tatlılığı dengeler, tanen ve asit birlikte 'sertlik' hissini artırır, alkol tatlılık ve ağırlık katar."
+  }
+ },
+ "kalite": {
+  "giris": "Şarabı beğenmek ile kalitesini değerlendirmek farklı şeylerdir. WSET'in Sistematik Tadım Yaklaşımı (SAT), kişisel zevkten bağımsız, gerekçeli bir yargı için dört ölçüt kullanır. İngilizce baş harflerinden 'BLIC' diye anılır: Balance (denge), Length (uzunluk), Intensity (yoğunluk), Complexity (karmaşıklık). Ne kadar çoğu güçlü biçimde sağlanıyorsa şarap o kadar kalitelidir.",
+  "olcutler": [
+   {
+    "harf": "B",
+    "ad": "Denge",
+    "ingilizce": "Balance",
+    "aciklama": "Şarabın unsurlarının (meyve, tatlılık, asit, tanen, alkol, meşe) birbiriyle uyumu. Hiçbiri öne fırlayıp diğerlerini bastırmamalı. Asit meyveyi taşımalı, tanen meyveyle sarılmalı, alkol yakmamalı, meşe meyveyi örtmemeli.",
+    "soru": "Bir unsur 'bağırıyor' mu? Çok ekşi, çok kuru, çok yakıcı, çok tatlı ya da çok odunsu mu?",
+    "ornek": "Sauternes çok tatlıdır ama yüksek asidi sayesinde ağdalı değil, canlıdır: dengeli. Yeterli meyvesi olmayan çok tanenli genç bir kırmızı ise 'kuru ve sert' kalır: dengesiz."
+   },
+   {
+    "harf": "L",
+    "ad": "Uzunluk (final)",
+    "ingilizce": "Length",
+    "aciklama": "Yudumdan sonra hoş aromaların ağızda ne kadar kaldığı. Uzun final, genellikle yoğun ve kaliteli meyveden ve özenli yapımdan gelir.",
+    "soru": "Yuttuktan sonra aroma kaç saniye sürüyor? Sadece asit ya da alkol hissi mi kalıyor, yoksa gerçekten meyve ve diğer aromalar mı?",
+    "ornek": "Basit bir sofra şarabı birkaç saniyede kaybolurken büyük bir Burgundy ya da Barolo'nun aromaları on beş saniyeden fazla sürebilir."
+   },
+   {
+    "harf": "I",
+    "ad": "Yoğunluk",
+    "ingilizce": "Intensity",
+    "aciklama": "Aromaların burunda ve ağızda ne kadar güçlü ve net olduğu. Sulanmış, silik bir şarap düşük puan alır. Ancak yoğunluk tek başına yeterli değildir: hem yoğun hem dengeli olmalıdır.",
+    "soru": "Aromalar kendiliğinden mi geliyor, yoksa onları aramak mı gerekiyor? Silik mi, net ve canlı mı?",
+    "ornek": "Hafif ama çok saf ve canlı aromalı bir Mosel Riesling, daha 'güçlü' ama bulanık aromalı bir şaraptan daha kaliteli olabilir: yoğunluk 'baskınlık' değil 'netlik ve güç'tür."
+   },
+   {
+    "harf": "C",
+    "ad": "Karmaşıklık",
+    "ingilizce": "Complexity",
+    "aciklama": "Aromaların çeşitliliği ve katmanlılığı. Basit bir şarap 'sadece kırmızı meyve' derken karmaşık bir şarapta meyve, çiçek, baharat, meşe ve yıllanma notaları iç içe geçer ve kadehte zamanla değişir.",
+    "soru": "Kaç farklı aroma ailesi sayabiliyorum? Kadehte beklettikçe yeni notalar çıkıyor mu?",
+    "ornek": "Genç Beaujolais keyifli ama basittir (çilek, muz şekeri). Yıllanmış bir Bordeaux ise cassis, sedir, tütün, grafit ve deriyi bir arada sunar."
+   }
+  ],
+  "kalite_kademeleri": [
+   {
+    "ad": "Kusurlu",
+    "aciklama": "Belirgin bir kusur (TCA, oksidasyon vb.) var; kalite değerlendirmesi yapılmaz."
+   },
+   {
+    "ad": "Zayıf",
+    "aciklama": "Kusur yok ama dengesiz, silik ya da kısa; ölçütlerin çoğu karşılanmıyor."
+   },
+   {
+    "ad": "Kabul edilebilir",
+    "aciklama": "Basit ve kusursuz; ölçütlerden belki biri karşılanıyor."
+   },
+   {
+    "ad": "İyi",
+    "aciklama": "Ölçütlerden ikisi belirgin biçimde karşılanıyor."
+   },
+   {
+    "ad": "Çok iyi",
+    "aciklama": "Ölçütlerden üçü belirgin biçimde karşılanıyor."
+   },
+   {
+    "ad": "Olağanüstü",
+    "aciklama": "Dört ölçütün hepsi güçlü biçimde karşılanıyor; denge, uzunluk, yoğunluk ve karmaşıklık bir arada."
+   }
+  ],
+  "icime_hazirlik": {
+   "aciklama": "SAT, kaliteden ayrı olarak şarabın şu anki durumunu da sorar.",
+   "kademeler": [
+    "Çok genç: Tanen ve asit henüz sert; birkaç yıl beklemeli.",
+    "Şimdi içilebilir, ama yıllanma potansiyeli var: Hem keyifli hem de beklendikçe gelişecek.",
+    "Şimdi için; yıllandırmaya uygun değil: En iyi hali şu an (çoğu beyaz, roze ve günlük kırmızı).",
+    "Çok yaşlı: Meyve solmuş, yapı dağılmış."
+   ],
+   "ipucu": "Yıllanma için gereken 'malzeme': yeterli konsantre meyve + asit ve/veya tanen gibi koruyucu bir yapı. Sadece taneni yüksek ama meyvesi zayıf bir şarap yıllandıkça daha iyi olmaz; meyvesi önce biter."
+  },
+  "kaynak": [
+   "https://www.wsetglobal.com/knowledge-centre/wset-systematic-approach-to-tasting-sat",
+   "https://www.wsetglobal.com/media/3119/wset_l3_wines_sat_en_jun-2016.pdf"
+  ]
+ },
+ "kusurlar": {
+  "giris": "Kusur, şarabın keyfini bozan ve üreticinin istemediği bir kimyasal ya da mikrobiyolojik sorundur. Bazı 'kusurlar' (az miktarda Brett, hafif uçucu asit) belirli stillerde karmaşıklık katkısı olarak da görülebilir; çizgi miktardadır. Restoranda şarap size tattırıldığında geri çevirmeniz gereken durum, beğenmemeniz değil, bir kusur saptamanızdır.",
+  "liste": [
+   {
+    "ad": "Mantarlanma (TCA, 'corked')",
+    "belirti": "Islak karton, küflü bodrum, nemli gazete, ıslak köpek kokusu. Meyve silik ve bastırılmış, final kısa. Hafif vakalarda yalnızca 'şarap kendini göstermiyor' izlenimi verir.",
+    "neden": "Başta 2,4,6-trikloroanizol (TCA) olmak üzere haloanizoller. Mantarın (ya da şaraphanedeki ahşap, karton gibi malzemelerin) mikrobik küflerle ve klorlu/fenolik bileşiklerle etkileşimiyle oluşur. İnsan burnu trilyonda birkaç parça düzeyindeki TCA'yı bile algılayabilir.",
+    "onlem": "Mantarın kalite kontrolü, alternatif kapaklar (vidalı kapak, teknik/sentetik mantar). Açılmış şişede düzeltilemez.",
+    "kaynak": "https://en.wikipedia.org/wiki/2,4,6-Trichloroanisole"
+   },
+   {
+    "ad": "Oksidasyon",
+    "belirti": "Beyazlarda koyulaşmış, kahveye dönen renk; kırmızılarda tuğla-kahve kenar. Kokuda çürük elma, sherry benzeri fındıksı not, karamel; meyve solmuş ve yassı.",
+    "neden": "Şarabın aşırı oksijene maruz kalması: kurumuş ya da kusurlu mantar, şişede fazla boşluk (ullage), kötü depolama, açık şişenin uzun bekletilmesi. Asetaldehit oluşumu tipik kokuyu verir. Not: Sherry, Tawny Porto, Madeira, Vin Jaune gibi stillerde oksidatif karakter kasıtlıdır ve kusur değildir.",
+    "onlem": "Doğru kapama, serin ve sabit mahzen, şişeleri yatay saklamak, açılmış şarabı vakum ya da inert gazla korumak.",
+    "kaynak": "https://en.wikipedia.org/wiki/Oxygen_in_wine"
+   },
+   {
+    "ad": "Uçucu asit (VA)",
+    "belirti": "Sirke, aseton, oje çıkarıcı, yapıştırıcı kokusu; ağızda keskin, yakıcı, ekşi bir bitiş.",
+    "neden": "Asetik asit bakterileri (Acetobacter) oksijen varlığında alkolü asetik aside (sirke) çevirir; etil asetat da oje kokusunu verir. Hijyen eksikliği, oksijen teması ve fıçı bakımsızlığı başlıca sebeplerdir. Düşük düzeyde bazı büyük şaraplarda (ör. bazı Amarone ve klasik Barolo'larda) 'canlılık' katan bir unsur olarak tolere edilir.",
+    "onlem": "Şaraphane hijyeni, fıçıların tam doldurulması (topping up), uygun kükürt dioksit kullanımı.",
+    "kaynak": "https://en.wikipedia.org/wiki/Volatile_acidity"
+   },
+   {
+    "ad": "Brettanomyces ('Brett')",
+    "belirti": "Ahır, at teri, eyer derisi, yara bandı, ilaç, tütsülenmiş et, metalik kokular. Yoğun olduğunda meyveyi tamamen siler ve finali metalik-acımsı yapar.",
+    "neden": "Brettanomyces (Dekkera) türü bir yaban mayası. Özellikle eski fıçılarda yaşar; 4-etilfenol ve 4-etilguayakol gibi uçucu fenoller üretir. Düşük asit, yüksek pH ve yetersiz kükürt riski artırır.",
+    "onlem": "Fıçı hijyeni, pH ve kükürt kontrolü, filtrasyon. Az miktarda Brett'i bazı tadımcılar 'karakter' olarak sever (klasik Rhône ve bazı Bordeaux'larda tartışma konusudur), ama baskın olduğunda kusurdur.",
+    "kaynak": "https://en.wikipedia.org/wiki/Brettanomyces"
+   },
+   {
+    "ad": "İndirgenme (reduksiyon)",
+    "belirti": "Çürük yumurta (hidrojen sülfür), lahana, haşlanmış sebze, yanmış kibrit, lastik, sarımsak kokuları. Hafif biçimi (kibrit, çakmak taşı) bazı beyazlarda 'karakter' olarak bilinçli istenir.",
+    "neden": "Oksijen yetersizliğinde mayanın kükürtlü bileşikler (H2S, merkaptanlar) üretmesi; azot eksikliği yaşayan mayalar, sıkı kapalı vidalı kapaklar ve tortu üzerinde uzun bekletme katkıda bulunur.",
+    "onlem": "Hafif indirgenme dekantasyon ya da kadehte çalkalamayla dağılabilir; temiz bir bakır parçası (eski usul bakır para) H2S'yi bağlayabilir. Merkaptanlar zamanla daha kalıcı disülfitlere dönüşebilir.",
+    "kaynak": "https://en.wikipedia.org/wiki/Wine_fault"
+   },
+   {
+    "ad": "Isı hasarı ('pişmiş' şarap)",
+    "belirti": "Reçelimsi, pişmiş, kaynatılmış meyve kokusu; tatlımsı ama yorgun, yassı ağız. Mantar kısmen dışarı itilmiş olabilir, kapsülün altında şarap sızıntısı görülebilir. Erken kahverengileşme.",
+    "neden": "Taşıma ya da depolamada yüksek sıcaklık (kabaca 25-30°C üstü), ani ısı dalgalanmaları. Isıyla genleşen şarap mantarı iter, ardından oksijen girer. Güneşli vitrin, yazın araba bagajı, ısıtılan depolar başlıca suçlulardır.",
+    "onlem": "Serin, sabit sıcaklıkta depolama ve taşıma; sızıntı izi olan şişelerden kaçınmak.",
+    "kaynak": "https://en.wikipedia.org/wiki/Wine_fault"
+   }
+  ],
+  "diger_kisa": [
+   {
+    "ad": "Işık hasarı ('goût de lumière')",
+    "aciklama": "Şeffaf ya da açık renkli şişedeki beyaz ve köpüklülerde, güneş ya da floresan ışığı altında oluşan ıslak karton, lahana, ıslak yün benzeri kokular."
+   },
+   {
+    "ad": "Aşırı kükürt",
+    "aciklama": "Yanmış kibrit kokusu, burunda batma. Çoğu kez havalandırınca dağılır."
+   },
+   {
+    "ad": "Şişede ikinci fermantasyon",
+    "aciklama": "Durgun bir şarapta istenmeyen kabarcık ve bulanıklık; şişede kalan şeker ya da bakteri faaliyeti."
+   }
+  ],
+  "kaynak": [
+   "https://en.wikipedia.org/wiki/Wine_fault",
+   "https://winefolly.com/tips/wine-faults/",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/august/24/common-wine-faults-and-how-to-spot-them"
+  ]
+ },
+ "adimlar": [
+  {
+   "sira": 1,
+   "ad": "Hazırlan",
+   "ne_yapilir": "Temiz, kokusuz bir lale kadeh seçin; kadehin en geniş yerinin altına kadar (yaklaşık üçte bir) şarap koyun. İyi ışık ve beyaz bir zemin hazırlayın. Güçlü parfüm, sigara, nane şekeri ve diş macunundan kaçının.",
+   "ipucu": "Birden fazla şarap tadıyorsanız sırayı hafiften ağıra, kurudan tatlıya, beyazdan kırmızıya kurun."
+  },
+  {
+   "sira": 2,
+   "ad": "Bak",
+   "ne_yapilir": "Kadehi beyaz zemin üzerinde 45 derece eğin. Berraklığa, renk yoğunluğuna (soluk–orta–koyu), renk tonuna ve kenar (rim) ile merkez arasındaki farka bakın. Gerekirse bacaklara, tortuya, kabarcığa dikkat edin.",
+   "ipucu": "Renk, şarabı tatmadan önce yaş, üzüm kalınlığı ve fıçı hakkında bir hipotez kurmanızı sağlar; sonraki adımlarda bu hipotezi sınayın."
+  },
+  {
+   "sira": 3,
+   "ad": "Çalkala",
+   "ne_yapilir": "Kadehi masada ayağından tutarak birkaç saniye küçük daireler çizerek çalkalayın. Şarap kadeh çeperine yayıldıkça yüzey alanı artar ve aromalar havaya karışır.",
+   "ipucu": "Önce çalkalamadan bir kez koklayın; sonra çalkalayıp yeniden koklayın ve farkı not edin. Kadehi gövdesinden değil ayağından tutun ki şarap ısınmasın."
+  },
+  {
+   "sira": 4,
+   "ad": "Kokla",
+   "ne_yapilir": "Burnunuzu kadehin içine sokup kısa, birkaç nefeste koklayın. Önce temizlik (kusur var mı?), sonra yoğunluk, sonra aromalar: birincil (meyve, çiçek, bitki), ikincil (maya, tereyağı, meşe), üçüncül (yıllanma).",
+   "ipucu": "Genelden özele gidin: 'meyve' → 'siyah meyve' → 'böğürtlen'. Takılırsanız aroma çarkına bakın."
+  },
+  {
+   "sira": 5,
+   "ad": "Tat",
+   "ne_yapilir": "Orta büyüklükte bir yudum alın ve ağzınızın her yerine dolaştırın. Sırayla tatlılık, asit, tanen (miktar ve doku), alkol, gövde ve aroma yoğunluğunu değerlendirin. Burunda bulduğunuz aromaların ağızda doğrulanıp doğrulanmadığına bakın. Yuttuktan ya da tükürdükten sonra finalin süresini sayın.",
+   "ipucu": "Dudaklarınızı hafifçe aralayıp ağızdaki şarabın üzerinden hava çekin; aromalar 'açılır'. Çok şarap tadıyorsanız tükürmek tamamen normaldir."
+  },
+  {
+   "sira": 6,
+   "ad": "Düşün ve sonuca var",
+   "ne_yapilir": "Denge, uzunluk, yoğunluk ve karmaşıklığa (BLIC) göre kaliteyi değerlendirin; şarabın içime hazır mı, yıllanmaya uygun mu olduğunu düşünün. Gözlemlerinizi kısa bir notla kaydedin: renk, burun, ağız, sonuç.",
+   "ipucu": "'Sevdim / sevmedim' ile 'iyi / zayıf' ayrı sorulardır. Kişisel beğeniniz değerlidir, ama bir şarabın neden kaliteli olduğunu gerekçeleriyle anlatabilmek asıl beceridir. Yemekle tekrar tatmak şarabı çok değiştirebilir."
+  }
+ ],
+ "servis_ileri": {
+  "sicaklik": {
+   "aciklama": "Yanlış sıcaklık şarabın en sık rastlanan 'servis kusuru'dur. Çok soğuk şarap aromalarını kapatır, tanen ve asidi sertleştirir; çok sıcak şarap ise alkolü öne çıkarıp şarabı ağır ve yavan gösterir. Unutmayın: 'oda sıcaklığı' kuralı ısıtmanın olmadığı serin mahzen-ev dönemlerinden kalmadır; Türkiye'de yazın oda sıcaklığı kırmızılar için bile fazladır.",
+   "tablo": [
+    {
+     "stil": "Tatlı beyaz ve tatlı köpüklü",
+     "sicaklik_c": "6-8",
+     "ornekler": "Sauternes, Tokaji, Moscato d'Asti, geç hasat tatlılar",
+     "not": "Soğukluk tatlılığı dengeler."
+    },
+    {
+     "stil": "Köpüklü şaraplar",
+     "sicaklik_c": "6-10",
+     "ornekler": "Prosecco, Cava, Champagne (vintage Champagne üst sınıra yakın)",
+     "not": "Daha soğuk servis köpüğü daha uzun korur ve basınç kaynaklı taşmayı azaltır."
+    },
+    {
+     "stil": "Hafif-orta gövdeli beyaz ve roze",
+     "sicaklik_c": "7-10",
+     "ornekler": "Sauvignon Blanc, Pinot Grigio, Albariño, Riesling, Provence rozesi, Emir, Narince (fıçısız)",
+     "not": "Buzdolabından çıkarıp birkaç dakika beklemek yeterli."
+    },
+    {
+     "stil": "Orta-dolgun gövdeli, meşeli beyaz",
+     "sicaklik_c": "10-13",
+     "ornekler": "Fıçılı Chardonnay (Burgundy, Kaliforniya), Viognier, olgun Chenin, fıçılı Narince",
+     "not": "Çok soğuk servis dokuyu ve karmaşıklığı kapatır."
+    },
+    {
+     "stil": "Hafif gövdeli kırmızı",
+     "sicaklik_c": "12-14",
+     "ornekler": "Beaujolais (Gamay), hafif Pinot Noir, Valpolicella, Kalecik Karası, Çalkarası",
+     "not": "Hafif soğutulmuş servis meyveyi canlandırır."
+    },
+    {
+     "stil": "Orta-dolgun gövdeli kırmızı",
+     "sicaklik_c": "15-18",
+     "ornekler": "Bordeaux, Barolo, Rioja Reserva, Syrah, Malbec, Öküzgözü-Boğazkere kupajları",
+     "not": "Sıcak havada şişeyi servisten önce 15-20 dakika buzdolabına koymak doğru sıcaklığa getirir."
+    },
+    {
+     "stil": "Alkolle güçlendirilmiş şaraplar",
+     "sicaklik_c": "Fino/Manzanilla Sherry 7-10; Tawny Porto 12-14; Vintage/Ruby Porto, Oloroso, Madeira 15-18",
+     "ornekler": "Sherry, Porto, Madeira",
+     "not": "Hafif ve kuru olan stiller soğuk; ağır ve tatlı olanlar daha ılık servis edilir."
+    }
+   ],
+   "kaynak": [
+    "https://www.wsetglobal.com/knowledge-centre/blog/2022/april/26/ideal-serving-temperatures-and-top-tips-for-wine-storage",
+    "https://winefolly.com/tips/wine-serving-temperature/"
+   ]
+  },
+  "kadehler": {
+   "aciklama": "İyi bir kadeh ince, renksiz ve şeffaftır; ağzı gövdesinden dar olan lale formu aromaları toplar ve çalkalamayı kolaylaştırır. Kadeh ayaklı olmalı ki el sıcaklığı şarabı ısıtmasın.",
+   "tipler": [
+    {
+     "ad": "Standart tadım kadehi (ISO / INAO)",
+     "kullanim": "Her türlü şarap için tarafsız referans; profesyonel tadımlar ve öğrenme için idealdir."
+    },
+    {
+     "ad": "Beyaz şarap kadehi",
+     "kullanim": "Daha küçük hazne: şarabı soğuk tutar, aromaları yoğunlaştırır. Gövdeli, meşeli beyazlar için biraz daha geniş hazneli formlar tercih edilir."
+    },
+    {
+     "ad": "Bordeaux kırmızı kadehi",
+     "kullanim": "Uzun, geniş hazne; Cabernet Sauvignon, Merlot, Syrah gibi tanenli, dolgun kırmızılar için. Şarap ağzın ortasına yönelir."
+    },
+    {
+     "ad": "Burgundy (balon) kadehi",
+     "kullanim": "Çok geniş, yuvarlak hazne ve daralan ağız; Pinot Noir, Nebbiolo gibi narin ama aromatik kırmızıların kokusunu toplar."
+    },
+    {
+     "ad": "Köpüklü kadehi (flüt ve lale)",
+     "kullanim": "Flüt köpüğü uzun süre korur ve görsel olarak etkileyicidir. Kaliteli, yıllanmış köpüklülerde aromaların açılması için lale formu ya da beyaz şarap kadehi giderek daha çok tercih edilir."
+    },
+    {
+     "ad": "Tatlı ve güçlendirilmiş şarap kadehi",
+     "kullanim": "Küçük hazne; daha küçük servis miktarına ve yüksek alkole uygun. Sherry için 'copita' klasik formdur."
+    }
+   ],
+   "not": "Tek bir kadeh alacaksanız orta boy, lale formlu, ince kenarlı 'üniversal' bir kadeh hemen her şarap için yeterlidir. Kadehleri kokulu deterjan ve kurulama bezinden uzak tutun; deterjan kalıntısı köpüğü öldürür ve koku katar.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Wine_glass"
+   ]
+  },
+  "dekantasyon": {
+   "aciklama": "Dekantasyon, şarabı şişeden sürahiye (dekantöre) aktarmaktır. İki amacı vardır: tortuyu ayırmak ve şarabı havalandırmak.",
+   "ne_zaman": [
+    {
+     "durum": "Genç, tanenli, dolgun kırmızılar",
+     "sure": "1-3 saat",
+     "ornek": "Genç Barolo, Bordeaux, Napa Cabernet, Syrah, Boğazkere",
+     "neden": "Havalanma aromaları açar, sert tanenleri yumuşatır gibi hissettirir."
+    },
+    {
+     "durum": "Orta yaşlı (8-15 yıl) kırmızılar",
+     "sure": "30 dakika - 1 saat",
+     "ornek": "Olgun Bordeaux, Rioja Reserva",
+     "neden": "Hem tortuyu ayırır hem kısa bir havalanma sağlar."
+    },
+    {
+     "durum": "Çok yaşlı, narin kırmızılar (20+ yıl)",
+     "sure": "Servisten hemen önce, sadece tortuyu ayırmak için",
+     "ornek": "Eski Burgundy, eski Barolo",
+     "neden": "Uzun havalanma, zaten kırılgan olan aromaları hızla dağıtabilir."
+    },
+    {
+     "durum": "Vintage Porto ve filtrelenmemiş şaraplar",
+     "sure": "Birkaç saat (genç Vintage Porto'da daha uzun)",
+     "ornek": "Vintage Porto, unfiltered kırmızılar",
+     "neden": "Yoğun tortu içerir."
+    },
+    {
+     "durum": "İndirgeyici (kibrit, kükürt) kokulu şaraplar",
+     "sure": "15-30 dakika",
+     "ornek": "Bazı genç Syrah'lar, vidalı kapaklı beyazlar",
+     "neden": "Havalanma hafif indirgeyici kokuları dağıtır."
+    },
+    {
+     "durum": "Gövdeli beyazlar",
+     "sure": "İsteğe bağlı, 15-30 dakika",
+     "ornek": "Genç Grand Cru Burgundy beyazı, olgun Chenin, Hermitage Blanc",
+     "neden": "Kapalı aromaları açabilir. Soğukluğunu korumaya dikkat edin."
+    }
+   ],
+   "nasil": "Yaşlı şarabı servisten bir gün önce dik konumda bekletin ki tortu dibe çöksün. Şişeyi yavaşça, ışığa (mum, el feneri) karşı dökün; tortu şişenin omzuna ulaştığında durun.",
+   "gereksiz_durumlar": "Hafif ve meyveli kırmızılar, çoğu beyaz ve roze, köpüklüler genelde dekante edilmez (bazı sommelier'ler yıllanmış Champagne'ı da dekante eder ama bu bir tercihtir).",
+   "kaynak": [
+    "https://winefolly.com/tips/how-long-to-decant-wine/",
+    "https://en.wikipedia.org/wiki/Decanter"
+   ]
+  },
+  "acilmis_sarap": {
+   "aciklama": "Açılan şarap oksijenle temas ettikçe aromalarını kaybeder ve zamanla sirkeleşmeye başlar. Soğuk ortam bu süreci yavaşlatır: açılmış kırmızıyı da buzdolabında saklayıp servisten önce çıkarın.",
+   "tablo": [
+    {
+     "stil": "Köpüklü",
+     "sure": "1-3 gün",
+     "yontem": "Köpüklü şişe tıpasıyla, buzdolabında."
+    },
+    {
+     "stil": "Hafif beyaz ve roze",
+     "sure": "5-7 gün",
+     "yontem": "Tıpası takılı, buzdolabında."
+    },
+    {
+     "stil": "Gövdeli beyaz",
+     "sure": "3-5 gün",
+     "yontem": "Buzdolabında; oksidasyona daha yatkındır."
+    },
+    {
+     "stil": "Kırmızı",
+     "sure": "3-5 gün",
+     "yontem": "Tıpası takılı, serin yerde ya da buzdolabında. Tanenli ve asitli şaraplar daha uzun dayanır."
+    },
+    {
+     "stil": "Tatlı şaraplar",
+     "sure": "5-7 gün (çok tatlı stiller daha uzun)",
+     "yontem": "Buzdolabında."
+    },
+    {
+     "stil": "Güçlendirilmiş şaraplar",
+     "sure": "Fino/Manzanilla 2-3 gün; Tawny Porto, Oloroso ve diğer oksidatif stiller yaklaşık 3-4 hafta; Madeira ve Marsala çok uzun süre (aylar)",
+     "yontem": "Fino buzdolabında; oksidatif stiller serin ve karanlık yerde."
+    }
+   ],
+   "yardimci_araclar": "Vakum pompası, inert gaz (argon) spreyleri, şarabı küçük bir şişeye aktarıp hava boşluğunu azaltmak. Mantarı delmeden şarap çeken iğneli sistemler (ör. Coravin) şişeyi uzun süre açmadan servis sağlar.",
+   "kaynak": [
+    "https://winefolly.com/tips/how-long-does-an-open-bottle-of-wine-last/",
+    "https://winefolly.com/tips/tips-on-storing-open-wine/"
+   ]
+  },
+  "mahzen": {
+   "aciklama": "Uzun saklama için dört düşman: ısı, ışık, titreşim ve kuru hava. Amaç şarabın yavaş ve öngörülebilir biçimde gelişmesidir.",
+   "kosullar": [
+    {
+     "unsur": "Sıcaklık",
+     "deger": "10-15°C; ideal 12-13°C civarı",
+     "aciklama": "Sabitlik, kesin sayıdan daha önemlidir. Sık ve büyük dalgalanmalar mantarın genleşip büzülmesine, şarabın sızmasına ve oksijen girişine yol açar. Yüksek sıcaklık yıllanmayı hızlandırır ve 'pişmiş' tatlar yaratır."
+    },
+    {
+     "unsur": "Nem",
+     "deger": "Yaklaşık %60-80 (çoğunlukla %70 önerilir)",
+     "aciklama": "Çok kuru hava mantarı kurutup büzer; çok nem ise küf ve etiket hasarına yol açar."
+    },
+    {
+     "unsur": "Işık",
+     "deger": "Karanlık",
+     "aciklama": "Morötesi ışık ve floresan, özellikle açık renkli şişelerdeki beyaz ve köpüklülerde 'ışık hasarı'na neden olur."
+    },
+    {
+     "unsur": "Konum",
+     "deger": "Mantarlı şişeler yatay",
+     "aciklama": "Yatay durma şarabın mantarla temasını sağlayıp mantarın kurumasını önler. Vidalı kapaklı şişeler dik de saklanabilir. Kısa süreli (birkaç hafta) saklamada konum önemli değildir."
+    },
+    {
+     "unsur": "Titreşim ve koku",
+     "deger": "Sakin, kokusuz ortam",
+     "aciklama": "Sürekli titreşim (çamaşır makinesi, buzdolabı motoru) yıllanmayı olumsuz etkileyebilir; güçlü kokular (boya, yakıt) uzun vadede mantardan geçebilir."
+    }
+   ],
+   "evde_pratik": "Evde mahzen yoksa: güneş almayan, ısıtıcıdan uzak bir dolabın alt rafı ya da bir şarap soğutucusu. Mutfak buzdolabı birkaç haftayı aşan saklama için fazla soğuk ve kurudur.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Storage_of_wine",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2022/april/26/ideal-serving-temperatures-and-top-tips-for-wine-storage"
+   ]
+  }
+ },
+ "yillanma": {
+  "giris": "Şarapların büyük çoğunluğu (genel kabul gören tahminlere göre %90'ı aşkın kısmı) piyasaya çıktıktan sonraki 1-3 yıl içinde içilmek üzere yapılır. Yıllanmaya değer şarapların ortak noktası; konsantre meyve ile bu meyveyi koruyacak bir 'iskelet'tir: yüksek asit, güçlü tanen, şeker ya da alkol. Aşağıdaki süreler iyi koşullarda saklanmış, iyi üreticilerden gelen şaraplar için kabaca yol göstericidir; bağbozumu yılı ve üretici farkı süreyi ciddi biçimde değiştirebilir.",
+  "tablo": [
+   {
+    "stil": "Günlük beyaz ve roze (fıçısız, hafif)",
+    "sure_yil": "1-3",
+    "ornekler": "Pinot Grigio, Vinho Verde, Provence rozesi, Muscadet, çoğu Sauvignon Blanc, Emir",
+    "not": "Tazeliği için alınır; beklemek bir şey kazandırmaz."
+   },
+   {
+    "stil": "Kaliteli kuru beyaz (fıçısız, yüksek asitli)",
+    "sure_yil": "3-10+",
+    "ornekler": "Chablis Premier/Grand Cru, Sancerre (iyi üreticiler), Grüner Veltliner Smaragd, Assyrtiko (Santorini), Albariño (iyi örnekler)",
+    "not": "Zamanla bal, tost, fındık notaları kazanır."
+   },
+   {
+    "stil": "Riesling (kuru ve yarı tatlı, kaliteli)",
+    "sure_yil": "5-20+",
+    "ornekler": "Mosel Spätlese, Alsace Grand Cru, Clare/Eden Valley Riesling, Wachau",
+    "not": "Yüksek asit sayesinde çok uzun yıllanır; petrol, bal ve kuru meyve notaları gelişir."
+   },
+   {
+    "stil": "Fıçılı, kaliteli Chardonnay",
+    "sure_yil": "5-15",
+    "ornekler": "Meursault, Puligny-Montrachet, Corton-Charlemagne, en iyi Kaliforniya Chardonnay",
+    "not": "Grand Cru örnekleri 20 yıla kadar gidebilir; ancak bazı Burgundy beyazlarında erken oksidasyon ('premox') sorunu görülmüştür."
+   },
+   {
+    "stil": "Chenin Blanc ve Sémillon (kaliteli)",
+    "sure_yil": "10-30+",
+    "ornekler": "Vouvray, Savennières, Hunter Valley Sémillon",
+    "not": "Hunter Valley Sémillon gençken zayıf ve limonlu, yıllandıkça tost ve bal kokulu hale gelir."
+   },
+   {
+    "stil": "Günlük kırmızı (hafif-orta)",
+    "sure_yil": "1-5",
+    "ornekler": "Beaujolais Villages, Valpolicella, Côtes du Rhône, günlük Merlot ve Malbec, Kalecik Karası",
+    "not": "Meyve tazeliği ön plandadır."
+   },
+   {
+    "stil": "Orta yıllanabilir kırmızı",
+    "sure_yil": "5-15",
+    "ornekler": "Chianti Classico Riserva, Rioja Reserva, Cru Beaujolais (Morgon, Moulin-à-Vent), iyi Pinot Noir (Premier Cru Burgundy), Crozes-Hermitage, kaliteli Öküzgözü-Boğazkere kupajları",
+    "not": "Tanen yumuşar, kurutulmuş meyve ve toprak notaları belirir."
+   },
+   {
+    "stil": "Uzun ömürlü büyük kırmızılar",
+    "sure_yil": "10-30+",
+    "ornekler": "Grand Cru Classé Bordeaux, Barolo ve Barbaresco, Brunello di Montalcino, Hermitage, Grand Cru Burgundy, Napa Cabernet (en iyileri), Taurasi (Aglianico), Gran Reserva Rioja",
+    "not": "En iyi yıllarda 50 yılı aşabilir. Gençken kapalı ve sert olabilirler."
+   },
+   {
+    "stil": "Geleneksel yöntem köpüklü",
+    "sure_yil": "Yılsız (NV) 1-3; vintage 5-20+",
+    "ornekler": "Champagne, Franciacorta, Cava Gran Reserva",
+    "not": "Yıllandıkça kabarcık incelir; brioche, fındık ve bal notaları gelişir. Prosecco gibi tank yöntemli köpüklüler genç içilmelidir."
+   },
+   {
+    "stil": "Botrytis'li (soylu çürüklük) ve kurutulmuş üzüm tatlıları",
+    "sure_yil": "10-50+",
+    "ornekler": "Sauternes, Tokaji Aszú, Trockenbeerenauslese, Vin Santo",
+    "not": "Şeker ve asit birlikte olağanüstü koruma sağlar."
+   },
+   {
+    "stil": "Vintage Porto",
+    "sure_yil": "15-50+",
+    "ornekler": "Vintage Porto (iyi ilan edilen yıllar)",
+    "not": "Şişede yıllanmak için yapılır; tortu bırakır, dekante edilmelidir. Tawny Porto ise fıçıda yıllanmış olarak satılır, şişede beklemesi gerekmez."
+   },
+   {
+    "stil": "Madeira ve oksidatif güçlendirilmiş şaraplar",
+    "sure_yil": "Onlarca yıl, hatta yüzyıl",
+    "ornekler": "Vintage Madeira, eski Oloroso",
+    "not": "Zaten oksidasyon ve ısıyla yapıldıkları için en dayanıklı şaraplardır."
+   }
+  ],
+  "yillanma_ne_yapar": [
+   "Renk: kırmızılar morluktan kiremide, beyazlar limondan altına ve kehribara.",
+   "Aroma: taze meyve yerini kuru meyveye; üçüncül notalar (deri, toprak, mantar, bal, petrol, tost) belirir.",
+   "Yapı: tanen polimerleşerek yumuşar ve bir kısmı tortu olarak çöker; asit daha bütünleşik hissedilir.",
+   "Zirve sonrası: meyve solar, şarap kuru, asidik ve yorgun kalır. Her şarabın bir 'içim penceresi' vardır."
+  ],
+  "kaynak": [
+   "https://winefolly.com/tips/cellar-wine-guide/",
+   "https://winefolly.com/deep-dive/how-wines-age/",
+   "https://winefolly.com/tutorial/how-to-tell-if-a-wine-is-age-worthy",
+   "https://en.wikipedia.org/wiki/Aging_of_wine"
+  ]
+ }
+}

@@ -8,8 +8,10 @@ index.html parçalardan birleştirilip üretildi (scratchpad/build/assemble.py);
 - [x] arastirma/derle.py (TR + dünya + rehber bölge eşleştirme; eksik dosyaları atlar)
 - [x] index.html üretildi (tema, sekmeler, ağaç Ülke→Bölge→Şaraphane→Şarap, üzüm/renk modu, üzüm rehberi, bölgeler+harita, prestij, tadım okulu, sofra, kültür, sosyal)
 - [x] sw.js, manifest, ikonlar, scripts (75 cl), README, docs/ONERILER.md
-- [ ] Kalite kontrol (sözdizimi, playwright 390/1280, api testi, grep)
-- [ ] oduller.json geldiğinde derle.py'yi yeniden çalıştır; Prestij sekmesini kontrol et
+- [x] Kalite kontrol: script sözdizimi, playwright 390/1280 (20 sekme, hata ve yatay taşma yok), api/*.ts sahte KV testi, kelime grep'i
+- [x] oduller.json geldi, derle.py ile işlendi; Prestij sekmesi kontrol edildi
+- [ ] (isteğe bağlı) ham veriler büyürse `python3 arastirma/derle.py` yeniden çalıştırılır
 
 ## Notlar
-- oduller.json henüz yok (Prestij sekmesi yedek metin gösterir); dunya-uzumler.json büyüyebilir.
+- Harita (Leaflet/Esri) sandbox'ta internet olmadığından yalnızca sahte L ile denendi (205 nokta çizildi); canlıda kontrol edilmeli.
+- Dünya şarap fiyatı USD; TL karşılığı için data/fiyatlar.json'da kur.usd gerekir (aylık görev doldurur).

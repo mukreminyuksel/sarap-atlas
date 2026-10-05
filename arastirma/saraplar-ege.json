@@ -4437,5 +4437,51 @@
   "kaynak": [
    "https://www.turkish-wine.com/kayrakl%C4%B1-asarc%C4%B1k-vineyards-asarcik-vineyards"
   ]
+ },
+ {
+  "id": "mistia-puduhepa-ak-uzum",
+  "ad": "Mistia Puduhepa Ak Üzüm",
+  "uretici": "Mistia Wines",
+  "il": "Konya",
+  "bolge": "Konya",
+  "renk": "beyaz",
+  "uzum": [
+   "Aküzüm"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hüyük'ün yüksek rakımlı bağlarından yerel Aküzüm'le yapılan beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://mistiawines.com/anadolunun-bagirindan-bir-hikaye-mistia-wines/"
+  ]
+ },
+ {
+  "id": "mistia-zale-sikkara-kizil-uzum",
+  "ad": "Mistia Zale Sıkkara & Kızıl Üzüm",
+  "uretici": "Mistia Wines",
+  "il": "Konya",
+  "bolge": "Konya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Sıkkara",
+   "Kızıl Üzüm"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Konya'nın iki yerel kırmızı üzümünün kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://mistiawines.com/anadolunun-bagirindan-bir-hikaye-mistia-wines/",
+   "https://mistiawines.com/urun/zale-sikkara-kizil-uzum/"
+  ]
  }
 ]

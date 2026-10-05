@@ -507,7 +507,10 @@ yaz('bolgeler.json', {'turkiye': tr_b, 'ulkeler': ulkeler, 'katalog_bolgeleri': 
 # ---------- 8. Sofra, kültür, topluluk, satış, ödüller, tadım okulu ----------
 yaz('yemek.json', {'yemekler': oku('yemek.json', []) or []})
 kul = oku('kultur.json', {}) or {}
-yaz('kultur.json', {k: v for k, v in kul.items() if k not in ('topluluk', 'notlar')})
+# Kardeş sitelerin konusu olan içki adları sitede yalnızca kardeş site bağlantısında geçsin: tarihçedeki geçiş nötrleştirilir
+kul_json = json.dumps({k: v for k, v in kul.items() if k not in ('topluluk', 'notlar')}, ensure_ascii=False)
+kul_json = kul_json.replace('şarap, bira ve bal likörünün (mead)', 'şarap ve diğer mayalı içeceklerin (bal likörü mead dahil)')
+yaz('kultur.json', json.loads(kul_json))
 yaz('topluluk.json', {'topluluklar': kul.get('topluluk') or []})
 sat = oku('satis.json', {'yasal_not': '', 'yerler': []})
 sat['yerler'] = [y for y in sat.get('yerler', []) if y.get('tur') in ('zincir', 'duty-free')]

@@ -1,0 +1,2859 @@
+{
+  "meta": {
+    "baslik": "Dünya Şarap Bölgeleri ve Prestij Sınıflandırmaları",
+    "dil": "tr",
+    "hazirlanma": "2026-10",
+    "iyi_yillar_yontemi": "Wine Spectator kırmızı/beyaz rekolte tablolarında (winespectator.com/vintage-charts, ücretsiz bölüm) 2000–2023 arası 95+ puan alan yıllar. Bu eşiği geçen yıl sayısı 3'ten azsa en yüksek puanlı 3-4 yıl alındı. WS tablosu bulunmayan bölgelerde liste genel kabul gören yıllarla sınırlı tutuldu ya da boş bırakıldı.",
+    "not": "Kurumsal kurallar (yaşlandırma süreleri, sınıf sayıları) zaman içinde değişebilir; kaynak alanlarındaki resmî sayfalar esas alınmalıdır."
+  },
+  "ulkeler": [
+    {
+      "id": "fransa",
+      "ad": "Fransa",
+      "bayrak": "🇫🇷",
+      "ozet": "Modern şarap dünyasının referans noktası. Bordeaux'nun château kültürü, Burgonya'nın parsel (climat) takıntısı ve Champagne'ın köpüklü şarap icadı, dünyanın geri kalanının kendini ölçtüğü ölçütleri belirledi. 'Terroir' kavramı burada sistemleşti: bir şarabın kimliğini üzüm kadar toprak, iklim, eğim ve insan emeği belirler. Bugün Fransa hem üretim hacmi hem de prestij açısından İtalya ile birlikte zirvede yer alır.",
+      "sistem": "Kalite piramidi üç basamaklıdır. En üstte AOC/AOP (Appellation d'Origine Contrôlée / Protégée) bulunur: bölge sınırları, izinli üzüm çeşitleri, verim üst sınırı, asgari alkol, budama ve üretim yöntemleri INAO (Institut national de l'origine et de la qualité, 1935) tarafından onaylanan şartnamelerle belirlenir. Ortada IGP (Indication Géographique Protégée, eski adıyla Vin de Pays) yer alır; daha geniş coğrafyalar ve daha esnek kurallar sunar, örneğin Pays d'Oc IGP'de çeşit adı etikete yazılabilir. En altta Vin de France vardır; menşe kısıtı yoktur, farklı bölgelerden harman yapılabilir. Bazı yenilikçi üreticiler AOC kurallarının dışına çıkmak için bilerek Vin de France etiketini seçer. AOC'nin içinde ayrıca bölgeye özgü hiyerarşiler vardır: Bordeaux'da château sınıflandırmaları, Burgonya'da Grand Cru / Premier Cru / köy piramidi, Champagne'da Grand Cru ve Premier Cru köyleri.",
+      "bolgeler": [
+        {
+          "id": "bordeaux",
+          "ad": "Bordeaux",
+          "alt": [
+            "Médoc",
+            "Haut-Médoc",
+            "Saint-Estèphe",
+            "Pauillac",
+            "Saint-Julien",
+            "Margaux",
+            "Pessac-Léognan",
+            "Graves",
+            "Saint-Émilion",
+            "Pomerol",
+            "Sauternes",
+            "Barsac",
+            "Entre-Deux-Mers"
+          ],
+          "iklim": "Ilıman okyanus iklimi. Atlantik Okyanusu ve Gironde halici sıcaklığı dengeler, Landes çam ormanları rüzgâra karşı kalkan olur. Yağış ve sonbahar nemi rekolteler arasında belirgin farka yol açar; bu yüzden harman yapmak hem gelenek hem de sigortadır.",
+          "toprak": "Sol yakada (Médoc, Graves) ısıyı tutan ve iyi drene olan çakıl tepecikleri Cabernet Sauvignon'a uygundur. Sağ yakada (Saint-Émilion) kireçtaşı platosu ile kil-kireç yamaçlar, Pomerol'de demirce zengin kil ve çakıl Merlot'yu öne çıkarır.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot",
+            "Malbec",
+            "Sauvignon Blanc",
+            "Sémillon",
+            "Muscadelle"
+          ],
+          "stil": "Sol yaka şarapları Cabernet ağırlıklı, sıkı tanenli, sedir, grafit ve siyah frenk üzümü notalı, onlarca yıl yıllanabilen harmanlardır. Sağ yaka Merlot ve Cabernet Franc'ın etkisiyle daha yumuşak, erik ve trüf notalıdır. Sauternes ve Barsac'ta soylu çürüklükten (Botrytis cinerea) etkilenmiş Sémillon ile dünyanın en ünlü tatlı beyazları üretilir.",
+          "siniflandirma": "1855 Resmî Sınıflandırması: Paris Dünya Fuarı için Bordeaux tüccarlarınca fiyat geçmişine göre hazırlandı. Kırmızılarda Médoc'tan 60 château ve Graves'ten Haut-Brion beş seviyeye (Premier → Cinquième Cru) ayrıldı; 1856'da Cantemerle eklendi. Premier Cru'lar: Lafite Rothschild, Latour, Margaux, Haut-Brion ve 1973'te bakanlık kararıyla ikinci sınıftan yükseltilen Mouton Rothschild (listede bugüne dek yapılan tek büyük değişiklik). Sauternes ve Barsac için ayrı bir liste vardır; Château d'Yquem tek 'Premier Cru Supérieur'dür. Graves sınıflandırması 1953'te yapıldı, 1959'da revize edildi. Saint-Émilion sınıflandırması 1955'te başladı ve yaklaşık her 10 yılda bir yenilenir; Premier Grand Cru Classé 'A' ve 'B' ile Grand Cru Classé basamaklarından oluşur. 2022 listesinde 14 Premier Grand Cru Classé (A: Pavie ve Figeac; 12 B) ve 71 Grand Cru Classé vardır. Cheval Blanc ve Ausone 2021'de, Angélus 2022'de değerlendirme kriterlerine (pazarlama ve enoturizm ağırlığı) itiraz ederek sınıflandırmadan çekildi. Pomerol'ün resmî sınıflandırması yoktur; Pétrus ve Le Pin prestijlerini tamamen fiyat ve itibarla kazanmıştır. Médoc'taki sınıflandırılmamış iyi château'lar için Cru Bourgeois sistemi (2020'den beri Cru Bourgeois, Supérieur, Exceptionnel) kullanılır.",
+          "ikonlar": [
+            "Château Lafite Rothschild",
+            "Château Latour",
+            "Château Margaux",
+            "Château Haut-Brion",
+            "Château Mouton Rothschild",
+            "Pétrus",
+            "Le Pin",
+            "Château Cheval Blanc",
+            "Château Ausone",
+            "Château d'Yquem"
+          ],
+          "iyi_yillar": [
+            "2000",
+            "2005",
+            "2009",
+            "2010",
+            "2016",
+            "2018",
+            "2022"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Bordeaux_wine",
+            "https://en.wikipedia.org/wiki/Bordeaux_Wine_Official_Classification_of_1855",
+            "https://en.wikipedia.org/wiki/Classification_of_Saint-%C3%89milion_wine",
+            "https://www.winespectator.com/vintage-charts/region/bordeaux-left-bank-reds-medoc-pessac-leognan",
+            "https://www.winespectator.com/vintage-charts/region/bordeaux-right-bank-reds-pomerol-st-emilion"
+          ]
+        },
+        {
+          "id": "burgonya",
+          "ad": "Burgonya (Bourgogne)",
+          "alt": [
+            "Côte de Nuits",
+            "Côte de Beaune",
+            "Côte Chalonnaise",
+            "Mâconnais",
+            "Chablis",
+            "Beaujolais (çoğu zaman ayrı ele alınır)"
+          ],
+          "iklim": "Serin-ılıman karasal iklim. Bahar donları, dolu ve hasat dönemi yağmurları önemli riskleridir; rekolte farkları belirgindir.",
+          "toprak": "Jura dönemi kireçtaşı ve marn katmanları. Côte d'Or yamacının orta kısmı, ideal drenaj ve güneşlenme nedeniyle en iyi parselleri (Grand Cru) barındırır; tepe ve düzlüğe inildikçe sınıf düşer.",
+          "uzumler": [
+            "Pinot Noir",
+            "Chardonnay",
+            "Aligoté",
+            "Gamay"
+          ],
+          "stil": "Tek çeşit şarap kültürü: kırmızılar Pinot Noir, beyazlar Chardonnay'dir ve tüm farkı parsel yaratır. Côte de Nuits kırmızıları (Gevrey-Chambertin, Vosne-Romanée, Chambolle-Musigny) daha yapılı ve aromatik; Côte de Beaune ise Meursault, Puligny- ve Chassagne-Montrachet ile dünyanın referans beyazlarını, Volnay ve Pommard ile zarif kırmızıları verir.",
+          "siniflandirma": "Sınıflandırma üreticiye değil parsele (climat) yapılır. Piramit: Bölgesel AOC (Bourgogne) → Köy (Village, ör. Gevrey-Chambertin) → Premier Cru (köy adı + parsel adı, ör. Gevrey-Chambertin 1er Cru Clos Saint-Jacques) → Grand Cru (yalnızca parsel adı, ör. Chambertin, Romanée-Conti, Montrachet). Toplam 33 Grand Cru AOC vardır (Chablis Grand Cru dahil) ve üretimin yalnızca küçük bir yüzdesini (yaklaşık %1-2) oluşturur. Napolyon miras yasaları ve Devrim sonrası kilise arazilerinin bölünmesi nedeniyle tek bir Grand Cru'nun (ör. Clos de Vougeot) onlarca sahibi olabilir; bu yüzden üretici adı en az parsel kadar önemlidir. Monopole, tek sahipli parseli ifade eder (ör. La Tâche, Romanée-Conti). Burgonya'nın climat'ları 2015'te UNESCO Dünya Mirası listesine alındı.",
+          "ikonlar": [
+            "Domaine de la Romanée-Conti (Romanée-Conti, La Tâche)",
+            "Domaine Leroy",
+            "Domaine Armand Rousseau (Chambertin)",
+            "Domaine Georges Roumier (Musigny)",
+            "Domaine Leflaive",
+            "Domaine Coche-Dury",
+            "Domaine Comte Liger-Belair"
+          ],
+          "iyi_yillar": [
+            "2002",
+            "2005",
+            "2009",
+            "2012",
+            "2014",
+            "2015",
+            "2016",
+            "2019",
+            "2020",
+            "2022",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Burgundy_wine",
+            "https://www.bourgogne-wines.com",
+            "https://www.winespectator.com/vintage-charts/region/burgundy-cotes-de-nuits-reds",
+            "https://www.winespectator.com/vintage-charts/region/burgundy-white"
+          ]
+        },
+        {
+          "id": "chablis",
+          "ad": "Chablis",
+          "alt": [
+            "Petit Chablis",
+            "Chablis",
+            "Chablis Premier Cru",
+            "Chablis Grand Cru (Blanchot, Bougros, Les Clos, Grenouilles, Preuses, Valmur, Vaudésir)"
+          ],
+          "iklim": "Burgonya'nın en kuzeyi; serin karasal iklim, sık bahar donu (bağlarda ısıtıcı ve sulama ile donla mücadele yaygın).",
+          "toprak": "Kimmeridgian marn: küçük istiridye fosilleri içeren kireçli kil. Petit Chablis daha genç Portlandian kireçtaşında yer alır.",
+          "uzumler": [
+            "Chardonnay"
+          ],
+          "stil": "Çoğunlukla meşesiz ya da az meşeli, yüksek asitli, mineral (çakmaktaşı, istiridye kabuğu) karakterli Chardonnay. Grand Cru'lar yıllandıkça bal ve fındık katmanları kazanır.",
+          "siniflandirma": "Dört basamak: Petit Chablis → Chablis → Chablis Premier Cru → Chablis Grand Cru. Grand Cru tek bir AOC'dir ve Serein Nehri'ne bakan güneybatı yamaçtaki yedi climat'tan oluşur.",
+          "ikonlar": [
+            "Domaine François Raveneau",
+            "Domaine René et Vincent Dauvissat",
+            "William Fèvre"
+          ],
+          "iyi_yillar": [
+            "2002",
+            "2014",
+            "2015",
+            "2022"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Chablis_wine",
+            "https://www.chablis-wines.com",
+            "https://www.winespectator.com/vintage-charts/region/burgundy-white"
+          ]
+        },
+        {
+          "id": "champagne",
+          "ad": "Champagne",
+          "alt": [
+            "Montagne de Reims",
+            "Vallée de la Marne",
+            "Côte des Blancs",
+            "Côte de Sézanne",
+            "Côte des Bar (Aube)"
+          ],
+          "iklim": "Ticari bağcılığın kuzey sınırına yakın serin iklim; ortalama sıcaklık düşük, olgunlaşma zor. Yüksek asit, köpüklü şarap için idealdir.",
+          "toprak": "Tebeşir (belemnit ve mikraster tebeşiri) su tutar, asmayı serin tutar; tebeşire oyulmuş mahzenler (crayères) şişede yıllandırmayı mümkün kılar.",
+          "uzumler": [
+            "Chardonnay",
+            "Pinot Noir",
+            "Meunier"
+          ],
+          "stil": "Geleneksel yöntemle (şişede ikinci fermantasyon) üretilen köpüklü şarap. Blanc de Blancs (yalnız Chardonnay) gergin ve narenciyeli; Blanc de Noirs (Pinot Noir/Meunier) daha dolgun. Maya tortusu üzerinde uzun bekleme brioche, tost ve fındık notaları kazandırır.",
+          "siniflandirma": "Köy bazlı 'échelle des crus' sistemi tarihsel olarak üzüm fiyatını belirlerdi (Grand Cru %100, Premier Cru %90–99). Fiyat mekanizması 2010'da kaldırıldı ama etiket ifadesi kaldı: 17 Grand Cru köyü (Ambonnay, Avize, Aÿ, Beaumont-sur-Vesle, Bouzy, Chouilly, Cramant, Louvois, Mailly-Champagne, Le Mesnil-sur-Oger, Oger, Oiry, Puisieulx, Sillery, Tours-sur-Marne, Verzenay, Verzy) ve 42 Premier Cru köyü. Stil kategorileri: NV / Sans Année (yıl karışımı, en az 15 ay mahzende, 12'si tortu üzerinde) → Millésimé / vintage (tek yıl, en az 3 yıl) → Prestige cuvée (evin zirve şarabı: Dom Pérignon, Krug, Cristal vb.). Dozaj (şeker) terimleri, kuru → tatlı: Brut Nature (0–3 g/L, şeker eklenmez), Extra Brut (0–6), Brut (<12), Extra Dry (12–17), Sec (17–32), Demi-Sec (32–50), Doux (>50). Champagne yamaçları, evleri ve mahzenleri 2015'te UNESCO listesine girdi.",
+          "ikonlar": [
+            "Krug Grande Cuvée / Clos du Mesnil",
+            "Dom Pérignon",
+            "Louis Roederer Cristal",
+            "Salon",
+            "Bollinger",
+            "Taittinger Comtes de Champagne",
+            "Jacques Selosse"
+          ],
+          "iyi_yillar": [
+            "2002",
+            "2008",
+            "2012",
+            "2013"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Champagne_(wine)",
+            "https://www.champagne.fr",
+            "https://www.winespectator.com/vintage-charts/region/champagne"
+          ]
+        },
+        {
+          "id": "rhone",
+          "ad": "Rhône Vadisi",
+          "alt": [
+            "Kuzey: Côte-Rôtie",
+            "Condrieu",
+            "Château-Grillet",
+            "Saint-Joseph",
+            "Hermitage",
+            "Crozes-Hermitage",
+            "Cornas",
+            "Güney: Châteauneuf-du-Pape",
+            "Gigondas",
+            "Vacqueyras",
+            "Rasteau",
+            "Tavel",
+            "Lirac"
+          ],
+          "iklim": "Kuzey: karasal etkili, dik yamaçlarda güneş açısı belirleyici. Güney: sıcak Akdeniz iklimi; kuzeyden esen kuru mistral rüzgârı mantar hastalıklarını önler.",
+          "toprak": "Kuzey: Rhône Nehri'ne bakan dik granit ve şist teraslar. Güney: çeşitli; Châteauneuf-du-Pape'nin gündüz ısıyı depolayıp geceleri salan yuvarlak çakıl taşları (galets roulés) ünlüdür, kum ve kil parseller de vardır.",
+          "uzumler": [
+            "Syrah",
+            "Grenache",
+            "Mourvèdre",
+            "Cinsault",
+            "Viognier",
+            "Marsanne",
+            "Roussanne"
+          ],
+          "stil": "Kuzey tek çeşit Syrah'nın evidir: karabiber, zeytin, menekşe ve dumanlı et notalı, yıllanmaya uygun kırmızılar (Côte-Rôtie'de az miktarda Viognier eklenebilir). Condrieu Viognier'in şeftali-kayısı aromalı referansıdır. Güney Grenache ağırlıklı, sıcak, baharatlı, garrigue (Akdeniz çalılığı) notalı harmanlardır.",
+          "siniflandirma": "Piramit: Côtes du Rhône → Côtes du Rhône Villages → köy adlı Côtes du Rhône Villages (ör. Séguret) → Cru'lar (kendi AOC'si olan köyler: Hermitage, Côte-Rôtie, Châteauneuf-du-Pape vb.). Châteauneuf-du-Pape, Baron Pierre Le Roy'un 1920'lerdeki çalışmalarıyla AOC sisteminin öncüsü oldu ve 1936'da ilk AOC'ler arasında tanındı; şartnamesi 13 üzüm çeşidine (renk varyantlarıyla 18) izin verir.",
+          "ikonlar": [
+            "E. Guigal 'La La' (La Mouline, La Landonne, La Turque)",
+            "Domaine Jean-Louis Chave Hermitage",
+            "Paul Jaboulet Aîné Hermitage La Chapelle",
+            "Château Rayas",
+            "Château de Beaucastel",
+            "Auguste Clape Cornas"
+          ],
+          "iyi_yillar": [
+            "2005",
+            "2007",
+            "2009",
+            "2010",
+            "2015",
+            "2016",
+            "2017",
+            "2019",
+            "2020",
+            "2022"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Rh%C3%B4ne_wine",
+            "https://www.vins-rhone.com",
+            "https://www.winespectator.com/vintage-charts/region/rhone-northern",
+            "https://www.winespectator.com/vintage-charts/region/rhone-southern"
+          ]
+        },
+        {
+          "id": "loire",
+          "ad": "Loire Vadisi",
+          "alt": [
+            "Muscadet Sèvre et Maine",
+            "Anjou",
+            "Savennières",
+            "Coteaux du Layon",
+            "Quarts de Chaume",
+            "Saumur",
+            "Chinon",
+            "Bourgueil",
+            "Vouvray",
+            "Montlouis",
+            "Sancerre",
+            "Pouilly-Fumé"
+          ],
+          "iklim": "Batıda Atlantik etkili ılıman, doğuya (Sancerre) doğru karasal ve serin. Uzun nehir boyunca farklı mikroklimalar.",
+          "toprak": "Muscadet'de şist ve gnays; Anjou'da şist; Touraine'de tuffeau denen yumuşak beyaz kireçtaşı; Sancerre ve Pouilly'de çakmaktaşı (silex), Kimmeridgian marn ve kireçtaşı.",
+          "uzumler": [
+            "Sauvignon Blanc",
+            "Chenin Blanc",
+            "Melon de Bourgogne",
+            "Cabernet Franc",
+            "Pinot Noir"
+          ],
+          "stil": "Fransa'nın en çeşitli bölgelerinden biri: Muscadet'nin tortu üzerinde (sur lie) beklemiş tuzlu beyazları, Sancerre ve Pouilly-Fumé'nin mineral Sauvignon Blanc'ları, Chenin Blanc'ın kuru, yarı tatlı, tatlı ve köpüklü her biçimi (Vouvray, Savennières, Coteaux du Layon) ve Chinon'un taze, kurşun kalem notalı Cabernet Franc'ları.",
+          "siniflandirma": "Bordeaux tarzı château sınıflandırması yoktur; AOC'lerle çalışır. Quarts de Chaume tatlı şarapları 2011'de Loire'ın ilk 'Grand Cru' ifadeli AOC'si oldu; Muscadet'de 'cru communal' denen köy bazlı alt bölgeler tanımlanmıştır.",
+          "ikonlar": [
+            "Didier Dagueneau (Pouilly-Fumé)",
+            "Clos Rougeard (Saumur-Champigny)",
+            "Domaine Huet (Vouvray)",
+            "Nicolas Joly – Coulée de Serrant",
+            "Domaine Vacheron / François Cotat (Sancerre)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Loire_Valley_(wine)",
+            "https://www.vinsvaldeloire.fr",
+            "https://www.winespectator.com/vintage-charts/region/loire"
+          ]
+        },
+        {
+          "id": "alsace",
+          "ad": "Alsace",
+          "alt": [
+            "Bas-Rhin",
+            "Haut-Rhin",
+            "51 Grand Cru (ör. Schlossberg, Rangen, Brand, Hengst)"
+          ],
+          "iklim": "Vosges Dağları'nın yağmur gölgesinde; Fransa'nın en kurak ve güneşli bölgelerinden biri. Uzun, serin sonbahar geç hasada imkân verir.",
+          "toprak": "Mozaik: granit, şist, volkanik, kireçtaşı, marn ve kumtaşı birkaç kilometrede değişir.",
+          "uzumler": [
+            "Riesling",
+            "Gewurztraminer",
+            "Pinot Gris",
+            "Muscat",
+            "Pinot Blanc",
+            "Sylvaner",
+            "Pinot Noir"
+          ],
+          "stil": "Almanya sınırında olsa da çoğunlukla kuru, dolgun aromatik beyazlar; şaraplar çeşit adıyla etiketlenir ve uzun 'flûte' şişede satılır. Gewurztraminer'in gül-liçi aroması ve Riesling'in mineral gerginliği öne çıkar.",
+          "siniflandirma": "Üç AOC: Alsace (AOC Alsace), Alsace Grand Cru (51 parsel; çoğunlukla dört 'soylu' çeşit Riesling, Gewurztraminer, Pinot Gris, Muscat) ve Crémant d'Alsace (köpüklü). Geç hasat ifadeleri: Vendanges Tardives (VT) ve daha konsantre, botrytisli Sélection de Grains Nobles (SGN).",
+          "ikonlar": [
+            "Trimbach Clos Sainte Hune",
+            "Domaine Zind-Humbrecht",
+            "Domaine Weinbach",
+            "Hugel"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2005",
+            "2007",
+            "2008"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Alsace_wine",
+            "https://www.vinsalsace.com",
+            "https://www.winespectator.com/vintage-charts/region/alsace"
+          ]
+        },
+        {
+          "id": "provence",
+          "ad": "Provence",
+          "alt": [
+            "Côtes de Provence",
+            "Coteaux d'Aix-en-Provence",
+            "Bandol",
+            "Cassis",
+            "Palette",
+            "Bellet"
+          ],
+          "iklim": "Sıcak, güneşli Akdeniz iklimi; mistral rüzgârı bağları kuru ve sağlıklı tutar.",
+          "toprak": "Kuzeyde kireçtaşı, güneydoğuda (Maures masifi) şist ve kristalin kayalar.",
+          "uzumler": [
+            "Grenache",
+            "Cinsault",
+            "Syrah",
+            "Mourvèdre",
+            "Tibouren",
+            "Rolle (Vermentino)"
+          ],
+          "stil": "Dünyanın en bilinen soluk, kuru, narenciye ve kırmızı meyve notalı roze şaraplarının vatanı; üretimin büyük bölümü rozedir. Bandol ise Mourvèdre ağırlıklı, uzun yıllanan güçlü kırmızılar ve dolgun rozeler verir.",
+          "siniflandirma": "AOC sistemi geçerlidir. Côtes de Provence'ta 1955'te ilan edilen 'Cru Classé' listesi (bugün 18 mülk) tarihî bir ayrıcalık olarak etiketlerde kullanılır.",
+          "ikonlar": [
+            "Domaine Tempier (Bandol)",
+            "Château Simone (Palette)",
+            "Château d'Esclans (Garrus)",
+            "Domaines Ott"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Provence_wine",
+            "https://www.vinsdeprovence.com"
+          ]
+        },
+        {
+          "id": "languedoc",
+          "ad": "Languedoc-Roussillon",
+          "alt": [
+            "Pic Saint-Loup",
+            "Terrasses du Larzac",
+            "La Clape",
+            "Faugères",
+            "Saint-Chinian",
+            "Minervois-La Livinière",
+            "Corbières-Boutenac",
+            "Limoux",
+            "Banyuls",
+            "Maury"
+          ],
+          "iklim": "Sıcak ve kurak Akdeniz iklimi; iç kesimlerdeki yüksek araziler serin gece sıcaklıkları sağlar.",
+          "toprak": "Şist (Faugères, Saint-Chinian), kireçtaşı, çakıl ve garrigue örtülü kayalık yamaçlar.",
+          "uzumler": [
+            "Grenache",
+            "Syrah",
+            "Mourvèdre",
+            "Carignan",
+            "Cinsault",
+            "Picpoul",
+            "Mauzac",
+            "Chardonnay"
+          ],
+          "stil": "Fransa'nın en büyük bağ alanı; uzun süre hacim şarabıyla anılsa da bugün yaşlı Carignan ve Grenache bağlarından değer/fiyat oranı çok yüksek, baharatlı kırmızılar çıkarır. Roussillon tatlı-takviyeli (Vin Doux Naturel) şaraplarıyla ünlüdür; Limoux köpüklü şarap tarihinde önemli bir yere sahiptir.",
+          "siniflandirma": "Geniş Languedoc AOC'si, alt bölge AOC'leri ve en üstte 'Cru du Languedoc' olarak öne çıkarılan köy/bölge AOC'leri (Pic Saint-Loup, Terrasses du Larzac vb.). Hacmin önemli kısmı IGP Pays d'Oc etiketiyle çeşit adlı şarap olarak satılır.",
+          "ikonlar": [
+            "Mas de Daumas Gassac",
+            "Domaine de la Grange des Pères",
+            "Domaine Gauby (Roussillon)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Languedoc-Roussillon_wine",
+            "https://www.languedoc-wines.com",
+            "https://www.inao.gouv.fr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "italya",
+      "ad": "İtalya",
+      "bayrak": "🇮🇹",
+      "ozet": "Dünyanın en büyük şarap üreticilerinden biri; 20 idari bölgenin tamamında şarap yapılır ve yüzlerce yerli üzüm çeşidi yaşatılır. Piemonte'nin Nebbiolo'su ve Toscana'nın Sangiovese'si klasik prestij eksenini oluştururken, 1970'lerde kuralları yıkan Süper Toskanalar ve son yirmi yılda yükselen Etna, İtalya'nın hem gelenekçi hem yenilikçi yüzünü gösterir. İtalyan şarabı yemekle birlikte düşünülür: yüksek asit ve tanen sofraya göre tasarlanmıştır.",
+      "sistem": "1963'te kurulan DOC sistemi bugün dört basamaklıdır. DOCG (Denominazione di Origine Controllata e Garantita) en üst seviyedir: daha sıkı verim ve yaşlandırma kuralları, resmî tadım komisyonu onayı ve şişe boynunda numaralı devlet bandı. İlk DOCG'ler 1980'de verildi (Brunello di Montalcino, Vino Nobile di Montepulciano, Barolo, Barbaresco); bugün 70'i aşkın DOCG vardır. DOC, bölge ve üretim kurallarını tanımlar. IGT (Indicazione Geografica Tipica, 1992) daha geniş coğrafya ve serbest çeşit kullanımına izin verir. En altta Vino (Vino d'Italia) yer alır. Önemli istisna: Süper Toskanalar. Sassicaia (ilk ticari rekolte 1968) ve Tignanello (1971) gibi şaraplar, Cabernet Sauvignon kullandıkları ya da Chianti kurallarına uymadıkları için önce en alt kategori olan 'vino da tavola' olarak satıldı, ama İtalya'nın en pahalı şarapları arasına girdi. IGT Toscana kategorisi ve 1994'te kurulan Bolgheri DOC'u bu durumu kısmen resmîleştirdi; Sassicaia 2013'ten beri kendi DOC'una (Bolgheri Sassicaia) sahiptir. Yani İtalya'da etiket kategorisi her zaman kaliteyi göstermez.",
+      "bolgeler": [
+        {
+          "id": "piemonte",
+          "ad": "Piemonte (Barolo ve Barbaresco)",
+          "alt": [
+            "Barolo (La Morra, Barolo, Castiglione Falletto, Serralunga d'Alba, Monforte d'Alba)",
+            "Barbaresco (Barbaresco, Neive, Treiso)",
+            "Roero",
+            "Asti",
+            "Gattinara",
+            "Ghemme"
+          ],
+          "iklim": "Alplerin eteğinde karasal iklim; sisli (nebbia) sonbaharlar Nebbiolo'nun uzun olgunlaşma süresine eşlik eder. Langhe tepelerinde yamaç yönü ve rakım kritik önemdedir.",
+          "toprak": "Langhe'de kalkerli marn. Barolo'nun batısında (La Morra, Barolo) daha genç Tortonian marn daha aromatik ve erken açılan şaraplar; doğusunda (Serralunga, Monforte) daha eski Serravallian kumtaşı ve marn daha yapılı, uzun ömürlü şaraplar verir.",
+          "uzumler": [
+            "Nebbiolo",
+            "Barbera",
+            "Dolcetto",
+            "Moscato",
+            "Arneis"
+          ],
+          "stil": "Nebbiolo açık renkli ama çok tanenli ve asitlidir: gül, katran, kiraz, menekşe ve yıllandıkça trüf ve deri notaları. 'Katran ve güller' klişesi buradan gelir. Barolo daha güçlü ve uzun ömürlü; Barbaresco biraz daha erken içime hazır ve zarif.",
+          "siniflandirma": "Barolo DOCG: en az 38 ay yaşlandırma (18'i ahşapta), Riserva için 62 ay. Barbaresco DOCG: en az 26 ay (9'u ahşapta), Riserva için 50 ay. Burgonya'daki climat mantığına benzer şekilde Barbaresco 2007'de, Barolo 2010'da MGA (Menzioni Geografiche Aggiuntive) sistemini getirdi; Barolo'da 181 MGA (170 bağ alanı, 11 köy adı) sınırlandırıldı. Cannubi, Brunate, Rocche dell'Annunziata, Vigna Rionda gibi adlar artık resmî olarak etiketlenebilir. Resmî Grand Cru basamağı yoktur ama MGA'lar arasında piyasada kabul gören bir prestij sıralaması oluşmuştur. Langhe-Roero ve Monferrato bağ peyzajları 2014'te UNESCO listesine girdi.",
+          "ikonlar": [
+            "Giacomo Conterno Barolo Riserva Monfortino",
+            "Bartolo Mascarello Barolo",
+            "Giuseppe Rinaldi",
+            "Bruno Giacosa",
+            "Gaja (Sorì San Lorenzo, Sorì Tildìn)",
+            "Produttori del Barbaresco (değer)"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2006",
+            "2007",
+            "2010",
+            "2013",
+            "2015",
+            "2016",
+            "2019",
+            "2020",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Barolo",
+            "https://en.wikipedia.org/wiki/Barbaresco",
+            "https://www.langhevini.it",
+            "https://www.winespectator.com/vintage-charts/region/piedmont"
+          ]
+        },
+        {
+          "id": "brunello",
+          "ad": "Toscana – Brunello di Montalcino",
+          "alt": [
+            "Montalcino",
+            "Rosso di Montalcino",
+            "Sant'Antimo"
+          ],
+          "iklim": "Toscana'nın daha sıcak ve kurak kesimi; Amiata Dağı fırtınalara karşı koruma sağlar. Kuzey yamaçlar daha serin ve zarif, güney yamaçlar daha olgun ve güçlü şaraplar verir.",
+          "toprak": "Galestro (şistli marn), alberese (kireçtaşı), kil ve kum karışımı; tepe kasabasının farklı yönleri farklı topraklara sahiptir.",
+          "uzumler": [
+            "Sangiovese (yerel adı Brunello)"
+          ],
+          "stil": "%100 Sangiovese'den yapılan, vişne, kurutulmuş kiraz, deri, tütün ve kuru ot notalı, yüksek asitli ve tanenli, uzun ömürlü kırmızı. Daha genç içim için Rosso di Montalcino üretilir.",
+          "siniflandirma": "İtalya'nın ilk DOCG'lerinden (1980). Hasattan sonraki beşinci yılın 1 Ocak'ından önce satılamaz; en az 2 yıl ahşap fıçıda bekler. Riserva bir yıl daha bekler. Biondi-Santi ailesinin 19. yüzyıl sonunda geliştirdiği stil, bölgenin kimliğinin temelidir.",
+          "ikonlar": [
+            "Biondi-Santi Tenuta Greppo",
+            "Case Basse di Gianfranco Soldera",
+            "Poggio di Sotto",
+            "Il Marroneto",
+            "Casanova di Neri"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2004",
+            "2006",
+            "2010",
+            "2012",
+            "2013",
+            "2015",
+            "2016",
+            "2019",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Brunello_di_Montalcino",
+            "https://www.consorziobrunellodimontalcino.it",
+            "https://www.winespectator.com/vintage-charts/region/tuscany-brunello-di-montalcino"
+          ]
+        },
+        {
+          "id": "chianti-classico",
+          "ad": "Toscana – Chianti Classico",
+          "alt": [
+            "Castellina",
+            "Gaiole",
+            "Greve",
+            "Lamole",
+            "Montefioralle",
+            "Panzano",
+            "Radda",
+            "San Casciano",
+            "San Donato in Poggio",
+            "Castelnuovo Berardenga",
+            "Vagliagli"
+          ],
+          "iklim": "Floransa ile Siena arasındaki tepelerde karasal etkili Akdeniz iklimi; rakım 250–600 m arasında değişir, yüksek bağlar daha gergin şaraplar verir.",
+          "toprak": "Galestro ve alberese ağırlıklı, yer yer kumtaşı (macigno) ve kil.",
+          "uzumler": [
+            "Sangiovese",
+            "Canaiolo",
+            "Colorino",
+            "Merlot (sınırlı)",
+            "Cabernet Sauvignon (sınırlı)"
+          ],
+          "stil": "Kiraz, menekşe, kuru ot ve toprak notalı, canlı asitli, yemek dostu kırmızı. Eskiden kitsch hasır kaplı 'fiasco' şişeleriyle anılan Chianti, Classico bölgesinde ciddi ve yıllanabilir şaraplara dönüştü.",
+          "siniflandirma": "Chianti Classico, daha geniş Chianti DOCG'den ayrı bir DOCG'dir; şişede Kara Horoz (Gallo Nero) logosu bulunur. Üç basamak: Annata (en az %80 Sangiovese, en az 12 ay) → Riserva (en az 24 ay, 3'ü şişede) → Gran Selezione (2014'te piramidin tepesine eklendi). Konsorsiyumun güncel kurallarına göre Gran Selezione en az %90 Sangiovese ve en fazla %10 yerli kırmızı çeşit içerir, yalnızca mülkün kendi üzümünden yapılır ve en az 30 ay (3'ü şişede) yaşlandırılır. Etikete 11 UGA'dan (Unità Geografiche Aggiuntive, ek coğrafi birim) birinin adı yazılabilir.",
+          "ikonlar": [
+            "Castello di Ama",
+            "Fontodi (Flaccianello – IGT)",
+            "Felsina",
+            "Montevertine (Le Pergole Torte – IGT)",
+            "Isole e Olena",
+            "Antinori (Tignanello – IGT Süper Toskana)"
+          ],
+          "iyi_yillar": [
+            "2015",
+            "2016",
+            "2019",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Chianti_Classico",
+            "https://www.chianticlassico.com/en/wine/types/",
+            "https://www.winespectator.com/vintage-charts/region/tuscany-chianti-and-chianti-classico"
+          ]
+        },
+        {
+          "id": "bolgheri",
+          "ad": "Toscana – Bolgheri ve Süper Toskanalar",
+          "alt": [
+            "Bolgheri",
+            "Bolgheri Sassicaia",
+            "Maremma"
+          ],
+          "iklim": "Tiren Denizi kıyısında ılıman Akdeniz iklimi; deniz meltemi gece serinliği ve havalanma sağlar.",
+          "toprak": "Kıyı düzlüğünde çakıl, kum ve kil; Bordeaux'nun sol yakasını hatırlatan çakıllı parseller Cabernet'ye uygundur.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot",
+            "Syrah"
+          ],
+          "stil": "Bordeaux çeşitlerinden yapılan, olgun siyah meyveli, Akdeniz otları ve kekik notalı, cilalı tanenli şaraplar. İtalyan güneşiyle Bordeaux disiplini birleşir.",
+          "siniflandirma": "Marchese Mario Incisa della Rocchetta'nın Sassicaia'sı (ilk ticari rekolte 1968) ve Antinori'nin Tignanello'su (1971) kuralların dışında kalarak 'vino da tavola' etiketiyle satıldı ve Süper Toskana akımını başlattı. Bolgheri DOC 1994'te kuruldu; Sassicaia 2013'te İtalya'da tek bir mülke ait ilk DOC olan Bolgheri Sassicaia'yı aldı. Masseto (Merlot) ve Solaia gibi pek çok Süper Toskana hâlâ IGT Toscana etiketlidir.",
+          "ikonlar": [
+            "Tenuta San Guido Sassicaia",
+            "Masseto",
+            "Tenuta dell'Ornellaia Ornellaia",
+            "Antinori Solaia",
+            "Antinori Tignanello",
+            "Guado al Tasso"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2006",
+            "2007",
+            "2011",
+            "2015",
+            "2016",
+            "2019",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Super_Tuscan",
+            "https://en.wikipedia.org/wiki/Bolgheri",
+            "https://www.winespectator.com/vintage-charts/region/tuscany-bolgheri-maremma"
+          ]
+        },
+        {
+          "id": "veneto",
+          "ad": "Veneto (Amarone, Prosecco, Soave)",
+          "alt": [
+            "Valpolicella Classica",
+            "Valpolicella Valpantena",
+            "Soave",
+            "Conegliano Valdobbiadene",
+            "Cartizze",
+            "Asolo",
+            "Lugana"
+          ],
+          "iklim": "Garda Gölü'nün ılımanlaştırdığı kuzey İtalya iklimi; Alp etekleri Prosecco tepelerine serinlik verir.",
+          "toprak": "Valpolicella'da kireçtaşı ve volkanik bazalt tepeler; Soave'de volkanik topraklar; Conegliano Valdobbiadene'de marn ve kumtaşından oluşan dik 'hogback' tepeler.",
+          "uzumler": [
+            "Corvina",
+            "Corvinone",
+            "Rondinella",
+            "Garganega",
+            "Glera"
+          ],
+          "stil": "Amarone, hasattan sonra aylarca kurutulan (appassimento) üzümlerden yapılan, kuru ama çok konsantre, kuru üzüm, vişne likörü, kakao notalı ve %15 civarı alkollü bir kırmızıdır. Ripasso, Valpolicella'nın Amarone posası üzerinden yeniden fermente edilmiş orta yolu; Recioto ise tatlı versiyonudur. Prosecco, Glera üzümünden tank yöntemiyle (Charmat) yapılan, taze armut ve elma aromalı, hafif köpüklü şaraptır.",
+          "siniflandirma": "Amarone della Valpolicella 2010'da DOCG oldu. Prosecco'da 2009'daki düzenlemeyle geniş Prosecco DOC'nin üstünde iki DOCG vardır: Conegliano Valdobbiadene Prosecco Superiore ve Asolo Prosecco. En prestijli alt bölge Superiore di Cartizze'dir; tek köy bağları 'Rive' olarak etiketlenir. Conegliano ve Valdobbiadene tepeleri 2019'da UNESCO listesine girdi. Prosecco'da dozaj terimleri sezgiye aykırıdır: Extra Dry, Brut'tan daha tatlıdır.",
+          "ikonlar": [
+            "Giuseppe Quintarelli Amarone",
+            "Romano Dal Forno Amarone",
+            "Bertani Amarone Classico",
+            "Allegrini",
+            "Pieropan (Soave)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Amarone",
+            "https://en.wikipedia.org/wiki/Prosecco",
+            "https://www.prosecco.wine"
+          ]
+        },
+        {
+          "id": "etna",
+          "ad": "Sicilya – Etna",
+          "alt": [
+            "Etna Rosso",
+            "Etna Bianco",
+            "Etna Bianco Superiore (Milo)",
+            "Kuzey yamaç (Passopisciaro, Randazzo, Castiglione di Sicilia)"
+          ],
+          "iklim": "Akdeniz'in ortasında ama dağ iklimi: bağlar yaklaşık 400 ile 1.000 metrenin üzerinde rakımlarda yer alır; gece-gündüz sıcaklık farkı yüksektir, Sicilya'nın geri kalanından çok daha serin ve yağışlıdır.",
+          "toprak": "Farklı lav akıntılarından oluşmuş, yaşları ve mineral yapıları değişen volkanik kum ve kayalar. Filoksera kumlu volkanik toprakta zor yayıldığı için aşısız, yüzyıllık asmalar bulunur.",
+          "uzumler": [
+            "Nerello Mascalese",
+            "Nerello Cappuccio",
+            "Carricante"
+          ],
+          "stil": "Nerello Mascalese açık renkli, kırmızı meyveli, dumanlı ve mineral, yüksek asitli kırmızılar verir; sık sık Burgonya ve Barolo ile karşılaştırılır. Carricante'den gergin, tuzlu beyazlar yapılır.",
+          "siniflandirma": "Etna DOC 1968'de kuruldu ve Sicilya'nın ilk DOC'udur. Burgonya'daki climat'lara benzer şekilde 'contrada' (bağ mevkii) adları etikette yer alır ve şarapların prestijini belirler. Bölgenin uluslararası yükselişi 2000'lerin başında yatırım yapan Andrea Franchetti, Marc de Grazia ve Frank Cornelissen gibi üreticilerle hızlandı.",
+          "ikonlar": [
+            "Benanti Pietramarina",
+            "Passopisciaro (Contrade)",
+            "Tenuta delle Terre Nere",
+            "Frank Cornelissen",
+            "Pietradolce",
+            "Graci"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Etna_DOC",
+            "https://www.etnadoc.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ispanya",
+      "ad": "İspanya",
+      "bayrak": "🇪🇸",
+      "ozet": "Dünyanın en geniş bağ alanlarından birine sahip ülke. Uzun meşe ve şişe yaşlandırması geleneği, İspanya'yı 'içime hazır halde satılan yıllanmış şarap' konusunda benzersiz kılar. Tempranillo ve Garnacha kırmızılarının yanında Jerez'in oksidatif ve biyolojik yıllandırılmış şarapları ile Cava köpüklüleri ülkenin üç ayrı yüzüdür. Son otuz yılda Priorat, Ribera del Duero ve kuzeybatının Atlantik beyazları ülkenin modern prestijini kurdu.",
+      "sistem": "Menşe sistemi 1932 tarihli Estatuto del Vino'ya dayanır; Rioja 1925'te ilk düzenlenmiş bölge oldu. Piramit (yukarıdan aşağı): Vino de Pago (VP, tek mülke ait seçkin bağ menşei) → DOCa / DOQ (Denominación de Origen Calificada; yalnızca Rioja, 1991, ve Priorat, Katalanca DOQ olarak 2000) → DO (Denominación de Origen) → VC (Vino de Calidad con Indicación Geográfica) → Vino de la Tierra (IGP) → Vino de España. Yaşlandırma terimleri ayrı bir ekseni oluşturur ve kırmızılarda ulusal asgari süreler şöyledir: Joven (yaşlandırmasız ya da kısa), Crianza (toplam 24 ay, en az 6 ay meşe), Reserva (toplam 36 ay, en az 12 ay meşe), Gran Reserva (toplam 60 ay, en az 18 ay meşe). Rioja ve Ribera del Duero gibi bölgeler daha katıdır: Crianza için en az 1 yıl meşe, Gran Reserva için en az 2 yıl meşe istenir. Gran Reserva yalnızca iyi yıllarda üretilir.",
+      "bolgeler": [
+        {
+          "id": "rioja",
+          "ad": "Rioja",
+          "alt": [
+            "Rioja Alta",
+            "Rioja Alavesa",
+            "Rioja Oriental (eski adı Rioja Baja)"
+          ],
+          "iklim": "Sierra de Cantabria dağlarının Atlantik rüzgârlarına karşı koruduğu, Atlantik ve Akdeniz etkilerinin buluştuğu karasal iklim. Batı (Alta, Alavesa) daha serin ve yağışlı, doğu (Oriental) daha sıcak ve kurak.",
+          "toprak": "Kil-kireç (Alavesa ve Alta'nın yüksek kesimleri), demirli kil ve alüvyon (Ebro kıyıları).",
+          "uzumler": [
+            "Tempranillo",
+            "Garnacha",
+            "Graciano",
+            "Mazuelo (Carignan)",
+            "Maturana Tinta",
+            "Viura",
+            "Malvasía",
+            "Tempranillo Blanco"
+          ],
+          "stil": "Geleneksel Rioja, Amerikan meşesinde uzun süre yıllanmış; vanilya, hindistancevizi, kurutulmuş kırmızı meyve, tütün ve deri notalı, yumuşak tanenli şaraptır. Modern üreticiler daha koyu, Fransız meşeli, meyve odaklı şaraplar yapar. Beyaz Gran Reserva'lar (López de Heredia) on yıllarca yaşayabilir.",
+          "siniflandirma": "İspanya'nın ilk DOCa'sı (1991). Kırmızılarda yerel yaşlandırma kuralları: Crianza toplam 2 yıl (en az 1 yıl meşe fıçı), Reserva toplam 3 yıl (en az 1 yıl meşe), Gran Reserva en az 2 yıl meşe ve ardından en az 3 yıl şişe. 2017'den sonra eklenen menşe katmanları: Vino de Zona (Rioja Alta, Rioja Alavesa, Rioja Oriental), Vino de Municipio (köy) ve en üstte Viñedo Singular (tek bağ; yaşlı asma, düşük verim ve elle hasat şartları). Böylece Rioja, yalnızca yaşlandırmaya değil yere de dayalı bir hiyerarşiye geçti.",
+          "ikonlar": [
+            "R. López de Heredia Viña Tondonia",
+            "La Rioja Alta Gran Reserva 890 / 904",
+            "CVNE Imperial Gran Reserva",
+            "Marqués de Murrieta Castillo Ygay",
+            "Bodegas Contador",
+            "Artadi",
+            "Remírez de Ganuza"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2010",
+            "2016",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Rioja_(wine)",
+            "https://www.riojawine.com",
+            "https://www.winespectator.com/vintage-charts/region/rioja"
+          ]
+        },
+        {
+          "id": "ribera-del-duero",
+          "ad": "Ribera del Duero",
+          "alt": [
+            "Peñafiel",
+            "Pesquera de Duero",
+            "Roa",
+            "La Horra",
+            "Soria"
+          ],
+          "iklim": "Kastilya'nın 750–1.000 m yüksek platosunda sert karasal iklim: sıcak gündüzler, çok serin geceler, uzun soğuk kışlar ve geç bahar donları.",
+          "toprak": "Kireçtaşı, marn ve kil katmanları; nehir kenarında kum ve çakıl.",
+          "uzumler": [
+            "Tempranillo (Tinto Fino / Tinta del País)",
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Malbec",
+            "Albillo Mayor"
+          ],
+          "stil": "Rioja'dan daha koyu, daha yoğun ve daha tanenli; siyah meyve, mürekkep, maden ve kızarmış meşe notalı Tempranillo. Gece-gündüz sıcaklık farkı asidi korur.",
+          "siniflandirma": "DO statüsü 1982'de verildi. Crianza, Reserva, Gran Reserva yaş kuralları Rioja'ya benzer. Bölgenin prestiji DO'dan çok eskidir: 1864'te kurulan Vega Sicilia'nın 'Único'su uzun süre İspanya'nın en ünlü şarabı oldu. 1980'lerde Alejandro Fernández'in Pesquera'sı ve 1995'te Peter Sisseck'in Pingus'u bölgeyi uluslararası kült listesine taşıdı.",
+          "ikonlar": [
+            "Vega Sicilia Único",
+            "Dominio de Pingus",
+            "Tinto Pesquera",
+            "Aalto",
+            "Hacienda Monasterio"
+          ],
+          "iyi_yillar": [
+            "2004",
+            "2005",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Ribera_del_Duero_(DO)",
+            "https://www.riberadelduero.es",
+            "https://www.winespectator.com/vintage-charts/region/ribera-del-duero"
+          ]
+        },
+        {
+          "id": "priorat",
+          "ad": "Priorat",
+          "alt": [
+            "Gratallops",
+            "Porrera",
+            "Torroja del Priorat",
+            "Poboleda",
+            "Bellmunt del Priorat",
+            "Montsant (komşu ayrı DO)"
+          ],
+          "iklim": "Katalonya'nın iç kesiminde sıcak, kurak Akdeniz iklimi; dağlar deniz etkisini sınırlar. Dik yamaçlar ve düşük verim yoğunluğu artırır.",
+          "toprak": "Llicorella: parçalanmış koyu şist ve kuvarsit. Isıyı yansıtır, kökleri derinlere iner, verim çok düşüktür.",
+          "uzumler": [
+            "Garnacha",
+            "Cariñena (Samsó)",
+            "Cabernet Sauvignon",
+            "Syrah",
+            "Garnacha Blanca"
+          ],
+          "stil": "Çok konsantre, mineral, siyah meyve, likör, grafit ve kavrulmuş ot notalı güçlü kırmızılar; en iyileri tazelik ve taşsı bir gerginlik taşır.",
+          "siniflandirma": "1980'lerin sonunda René Barbier, Álvaro Palacios ve arkadaşlarının 'Clos' projeleriyle yeniden doğdu. Katalan hukukunda DOQ (2000), İspanyol hukukunda DOCa olarak İspanya'nın ikinci 'calificada' bölgesidir. İç hiyerarşisi Burgonya'yı örnek alır: Vi de Vila (köy), Vi de Paratge (mevki), Vinya Classificada ve Gran Vinya Classificada (sınıflandırılmış tek bağ).",
+          "ikonlar": [
+            "Álvaro Palacios L'Ermita",
+            "Clos Mogador",
+            "Clos Erasmus",
+            "Mas Martinet",
+            "Scala Dei"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2010",
+            "2016",
+            "2019"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Priorat_(DOQ)",
+            "https://www.doqpriorat.org",
+            "https://www.winespectator.com/vintage-charts/region/priorat"
+          ]
+        },
+        {
+          "id": "jerez",
+          "ad": "Jerez / Sherry",
+          "alt": [
+            "Jerez de la Frontera",
+            "Sanlúcar de Barrameda (Manzanilla)",
+            "El Puerto de Santa María"
+          ],
+          "iklim": "Endülüs'ün sıcak güneyi. Atlantik'ten gelen nemli poniente ve sıcak-kuru levante rüzgârları; Sanlúcar'ın deniz kenarındaki nemi flor mayasının kalın tabaka oluşturmasını sağlar.",
+          "toprak": "Albariza: tebeşir benzeri, bembeyaz, yağmuru sünger gibi tutan kireçli toprak. Barro (kil) ve arena (kum) daha düşük kalite kabul edilir.",
+          "uzumler": [
+            "Palomino Fino",
+            "Pedro Ximénez",
+            "Moscatel"
+          ],
+          "stil": "Takviyeli (fortifiye) şarap ailesi. Biyolojik yıllanma: Fino ve Manzanilla, fıçıda şarabın yüzeyini örten flor maya tabakası altında oksijenden korunarak yıllanır; kemik kuru, bademli, tuzlu ve mayalıdır. Oksidatif yıllanma: Oloroso, flor oluşmasın diye daha yüksek alkole takviye edilir; ceviz, kuru meyve ve deri notalıdır. Arada Amontillado (önce flor altında, sonra oksidatif) ve gizemli Palo Cortado vardır. Pedro Ximénez (PX) güneşte kurutulmuş üzümden yapılan, melas kıvamında tatlı şaraptır. Sıralama, kuru ve hafiften koyu ve ağıra doğru: Manzanilla/Fino → Amontillado → Palo Cortado → Oloroso → (tatlılar: Cream, PX).",
+          "siniflandirma": "Jerez-Xérès-Sherry ve Manzanilla-Sanlúcar de Barrameda DO'ları. Çoğu Sherry yılsızdır; solera sistemi ile yıllanır: üst üste dizilmiş fıçı sıralarında (criadera) en alttaki en yaşlı sıradan (solera) şişelemek için şarap çekilir, eksilen kısım bir üst sıradaki daha genç şarapla tamamlanır. Böylece tutarlı bir ev stili ve çok yaşlı şaraplardan izler korunur. Yaş belgeli kategoriler: VOS (Vinum Optimum Signatum, ortalama 20 yıl üzeri) ve VORS (Vinum Optimum Rare Signatum, 30 yıl üzeri); ayrıca 12 ve 15 yıllık ibareler kullanılır. 'En rama' etiketi az filtrelenmiş şişelemeyi gösterir.",
+          "ikonlar": [
+            "Equipo Navazos (La Bota serisi)",
+            "Valdespino Fino Inocente",
+            "González Byass Tío Pepe / Noé PX",
+            "Bodegas Hidalgo La Gitana (Manzanilla)",
+            "Lustau",
+            "Barbadillo"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Sherry",
+            "https://www.sherry.wine"
+          ]
+        },
+        {
+          "id": "cava",
+          "ad": "Cava",
+          "alt": [
+            "Comtats de Barcelona (Penedès, Sant Sadurní d'Anoia)",
+            "Valle del Ebro",
+            "Viñedos de Almendralejo",
+            "Levante"
+          ],
+          "iklim": "Penedès'te ılıman Akdeniz iklimi; kıyıdan iç kesime doğru rakımla serinleşen katmanlar.",
+          "toprak": "Kalkerli kil ve marn.",
+          "uzumler": [
+            "Macabeo",
+            "Xarel·lo",
+            "Parellada",
+            "Chardonnay",
+            "Pinot Noir",
+            "Trepat"
+          ],
+          "stil": "Champagne ile aynı geleneksel yöntemle (şişede ikinci fermantasyon) yapılan köpüklü şarap; yerli çeşitler daha az ekmeksi, daha otsu ve elmalı bir profil verir. Uygun fiyatlı köpüklünün dünya standardıdır, uzun bekletilmiş versiyonları ise ciddi rakiplerdir.",
+          "siniflandirma": "Cava DO (1986) bir yöntem menşeidir ve İspanya'nın farklı bölgelerine yayılır; üretimin büyük kısmı Sant Sadurní d'Anoia çevresindedir. Tortu üzerinde asgari süreler: Cava de Guarda (9 ay); 'Cava de Guarda Superior' çatısı altında Reserva (18 ay), Gran Reserva (30 ay) ve tek bağdan Cava de Paraje Calificado (36 ay). 2020'de alt bölgeler (zonificación) tanımlandı. Gramona ve Recaredo gibi önde gelen bazı üreticiler daha sıkı kurallarla 2019'da Corpinnat adlı ayrı bir marka kurmak için Cava DO'dan ayrıldı. Dozaj terimleri Champagne ile aynı mantıktadır (Brut Nature → Dulce).",
+          "ikonlar": [
+            "Gramona (Corpinnat)",
+            "Recaredo (Corpinnat)",
+            "Codorníu",
+            "Juvé & Camps",
+            "Raventós i Blanc (Conca del Riu Anoia)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Cava_(Spanish_wine)",
+            "https://www.cava.wine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portekiz",
+      "ad": "Portekiz",
+      "bayrak": "🇵🇹",
+      "ozet": "Küçük bir ülke ama 250'yi aşkın yerli üzüm çeşidiyle dünyanın en özgün şarap mirasından birine sahip. Porto ve Madeira, takviyeli şarapların iki büyük klasiğidir ve İngiliz ticaretiyle dünyaya yayılmıştır. Son yıllarda Douro'nun sek kırmızıları ve Vinho Verde'nin taze beyazları ülkeyi takviyeli şarap imajının ötesine taşıdı.",
+      "sistem": "Piramit: DOP (Denominação de Origem Protegida; geleneksel adıyla DOC) → IGP (Vinho Regional) → Vinho. Douro, 1756'da Marquês de Pombal tarafından sınırları çizilen ve bağları kaliteye göre kayıt altına alınan dünyanın en eski düzenlenmiş şarap bölgelerinden biridir. Porto ve Douro şaraplarını IVDP (Instituto dos Vinhos do Douro e do Porto), Madeira'yı IVBAM denetler. Yaşlandırma terimleri: Reserva ve Garrafeira (daha uzun yaşlandırma).",
+      "bolgeler": [
+        {
+          "id": "douro-porto",
+          "ad": "Douro Vadisi ve Porto",
+          "alt": [
+            "Baixo Corgo",
+            "Cima Corgo (Pinhão)",
+            "Douro Superior",
+            "Vila Nova de Gaia (Porto mahzenleri)"
+          ],
+          "iklim": "Marão ve Montemuro dağlarının yağmur gölgesinde sert karasal iklim; çok sıcak ve kuru yazlar. Batıdan doğuya (Douro Superior) gidildikçe iklim daha kurak ve sıcak olur.",
+          "toprak": "Nehre doğru inen dik yamaçlarda şist; elle örülmüş taş teraslar (socalcos) ve daha geniş patamar teraslar. Şistin dikey katmanları köklerin su aramak için derinlere inmesini sağlar.",
+          "uzumler": [
+            "Touriga Nacional",
+            "Touriga Franca",
+            "Tinta Roriz (Tempranillo)",
+            "Tinta Barroca",
+            "Tinto Cão",
+            "Sousão"
+          ],
+          "stil": "Porto, fermantasyon yarıdayken üzüm brendisi (aguardente) eklenerek durdurulan, doğal şekeri korunmuş, yaklaşık %19–22 alkollü takviyeli şaraptır. Genç portolar mürekkep koyuluğunda, siyah meyve ve menekşeli; tawny'ler fıçıda oksitlenerek kehribar renkli, fındık, karamel ve kuru incir notalı olur. Douro sek kırmızıları güçlü ama giderek daha zarif bir stile sahiptir.",
+          "siniflandirma": "Porto stilleri iki ana aileye ayrılır. Şişede ya da kısa süre büyük fıçıda yıllanan RUBY ailesi: Ruby (genç, meyveli) → Reserve → LBV (Late Bottled Vintage; tek yıl, 4–6 yıl fıçıda bekletilip şişelenir, çoğu içime hazır) → Vintage Port (yalnızca istisnai yıllarda evlerin 'ilan ettiği' (declaration), 2–3 yıl fıçıdan sonra şişelenip onlarca yıl şişede gelişen zirve stil; tortu bırakır, dekante edilir). Tek bağdan 'single quinta' vintage'lar ilan edilmeyen iyi yıllarda çıkar. Küçük fıçıda oksidatif yıllanan TAWNY ailesi: Tawny → yaş ibareli Tawny (10, 20, 30, 40 yıl; ortalama yaş ve stil göstergesi) → Colheita (tek yıl tawny, en az 7 yıl fıçıda). Ayrıca beyaz ve roze porto vardır. Douro'nun teraslı bağ peyzajı (Alto Douro) 2001'de UNESCO listesine girdi.",
+          "ikonlar": [
+            "Quinta do Noval Nacional",
+            "Taylor's Vintage Port",
+            "Graham's",
+            "Fonseca",
+            "Dow's",
+            "Niepoort",
+            "Ferreira Barca Velha (sek Douro)"
+          ],
+          "iyi_yillar": [
+            "2000",
+            "2003",
+            "2007",
+            "2011",
+            "2016",
+            "2017"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Port_wine",
+            "https://en.wikipedia.org/wiki/Douro_DOC",
+            "https://www.ivdp.pt",
+            "https://www.winespectator.com/vintage-charts/region/vintage-port",
+            "https://www.winespectator.com/vintage-charts/region/douro-valley-reds"
+          ]
+        },
+        {
+          "id": "madeira",
+          "ad": "Madeira",
+          "alt": [
+            "Madeira adası",
+            "Porto Santo"
+          ],
+          "iklim": "Atlantik'in ortasında subtropikal ada iklimi; nemli, ılık; dik volkanik yamaçlarda küçük teraslar (poios).",
+          "toprak": "Bazaltik volkanik topraklar.",
+          "uzumler": [
+            "Sercial",
+            "Verdelho",
+            "Boal (Bual)",
+            "Malvasia (Malmsey)",
+            "Terrantez",
+            "Tinta Negra"
+          ],
+          "stil": "Kasıtlı olarak ısıtılarak ve oksitlenerek yapılan takviyeli şarap; bu yüzden açıldıktan sonra bile aylarca bozulmaz ve neredeyse ölümsüzdür. Yüksek asit, karamel, kuru incir, kahve ve narenciye kabuğu notaları. Çeşit adı tatlılık düzeyini de gösterir: Sercial (en kuru) → Verdelho → Boal → Malvasia/Malmsey (en tatlı).",
+          "siniflandirma": "Isıtma yöntemleri: estufagem (paslanmaz tanklarda hızlı ısıtma, giriş seviyesi) ve canteiro (fıçıların çatı katlarında doğal sıcakta yıllarca bekletilmesi, kaliteli şaraplar). Yaş ibareleri: 5, 10, 15, 20, 30, 40 ve 50 yıl gibi ortalama yaş gösteren kategoriler; Colheita (tek yıl, en az 5 yıl) ve Frasqueira / Garrafeira (tek yıl, en az 20 yıl fıçıda) en prestijlisidir.",
+          "ikonlar": [
+            "Blandy's",
+            "Barbeito",
+            "D'Oliveiras",
+            "Henriques & Henriques"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Madeira_wine",
+            "https://www.ivbam.gov-madeira.pt"
+          ]
+        },
+        {
+          "id": "vinho-verde",
+          "ad": "Vinho Verde",
+          "alt": [
+            "Monção e Melgaço",
+            "Lima",
+            "Cávado",
+            "Basto",
+            "Amarante",
+            "Baião",
+            "Paiva",
+            "Sousa",
+            "Ave"
+          ],
+          "iklim": "Kuzeybatıda Atlantik etkili serin ve yağışlı iklim; Portekiz'in en yeşil bölgesi.",
+          "toprak": "Granit ağırlıklı, asidik ve kumlu topraklar.",
+          "uzumler": [
+            "Alvarinho",
+            "Loureiro",
+            "Arinto (Pedernã)",
+            "Avesso",
+            "Trajadura",
+            "Vinhão (kırmızı)"
+          ],
+          "stil": "'Yeşil şarap' adı genç içilmesini anlatır. Klasik stil hafif, düşük alkollü, hafif kabarcıklı ve limonludur. Monção e Melgaço'nun Alvarinho'ları (İspanya'daki Albariño ile aynı çeşit) daha dolgun, şeftalili ve yıllanabilir beyazlardır.",
+          "siniflandirma": "Vinho Verde DOC dokuz alt bölgeye ayrılır. Monção e Melgaço, Alvarinho'nun en prestijli kaynağıdır ve bu çeşidin adının etikette öne çıkarılmasında tarihsel bir ayrıcalığa sahiptir. Kaliteli tek bağ ve tortu üzerinde beklemiş şaraplar giderek artmaktadır.",
+          "ikonlar": [
+            "Soalheiro",
+            "Anselmo Mendes",
+            "Quinta do Ameal",
+            "Quinta de Covela"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Vinho_Verde",
+            "https://www.vinhoverde.pt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "almanya",
+      "ad": "Almanya",
+      "bayrak": "🇩🇪",
+      "ozet": "Riesling'in vatanı ve serin iklim şarapçılığının en uç örneklerinden biri. Nehir vadilerinin dik, güneye bakan yamaçlarında üzüm, ancak suyun yansıttığı ışık ve taşın depoladığı ısı sayesinde olgunlaşır. Almanya hem çok hafif, düşük alkollü, tatlı-ekşi dengeli şaraplarıyla hem de son otuz yılda yükselen kuru 'Grosses Gewächs' Riesling'leri ve Spätburgunder (Pinot Noir) kırmızılarıyla tanınır.",
+      "sistem": "Geleneksel sistem (1971 şarap yasası) kaliteyi yere değil hasattaki üzüm olgunluğuna, yani şıra yoğunluğuna (Oechsle derecesi) bağlar. Piramit: Deutscher Wein → Landwein → Qualitätswein (QbA; 13 resmî şarap bölgesinden, Anbaugebiet) → Prädikatswein. Prädikat basamakları, en az olgundan en olguna: Kabinett (hafif, zarif, çoğu zaman hafif tatlı) → Spätlese ('geç hasat', daha olgun) → Auslese (seçilmiş olgun salkımlar, kısmen botrytisli) → Beerenauslese (BA; tek tek seçilmiş, aşırı olgun ve botrytisli taneler, tatlı) → Trockenbeerenauslese (TBA; asmada kuru üzüme dönmüş botrytisli taneler, son derece konsantre ve tatlı). Eiswein (buz şarabı) ayrı bir kategoridir: en az BA olgunluğundaki üzüm, asmada donmuşken (yaklaşık −7 °C ve altı) hasat edilip sıkılır; botrytis değil donma suyun ayrılmasını sağlar. Prädikat bir olgunluk göstergesidir, tatlılık göstergesi değildir: 'trocken' (kuru) Spätlese de mümkündür. 2021'deki yasa reformu Fransa'daki gibi menşe ağırlıklı bir piramidi (bölge → köy/Ortswein → tek bağ/Lagenwein) öne çıkardı. Paralel olarak, en iyi üreticileri bir araya getiren VDP (Verband Deutscher Prädikatsweingüter; şişe kapsülündeki kartal logosu) kendi Burgonya tarzı sınıflandırmasını uygular: VDP.Gutswein (mülk şarabı) → VDP.Ortswein (köy) → VDP.Erste Lage (premier cru) → VDP.Grosse Lage (grand cru). Grosse Lage parselinden yapılan kuru şaraplar 'Grosses Gewächs' (GG) adını alır; aynı parselden yapılan tatlı şaraplar geleneksel Prädikat adlarıyla (Kabinett, Spätlese, Auslese…) etiketlenir.",
+      "bolgeler": [
+        {
+          "id": "mosel",
+          "ad": "Mosel",
+          "alt": [
+            "Orta Mosel (Bernkastel, Wehlen, Graach, Piesport, Ürzig, Erden)",
+            "Saar",
+            "Ruwer",
+            "Terrassenmosel"
+          ],
+          "iklim": "Serin karasal iklim; olgunlaşma ancak nehre bakan dik, güney yönlü yamaçlarda mümkün. Nehir ışığı yansıtır ve sıcaklığı dengeler.",
+          "toprak": "Mavi, gri ve kırmızı Devon dönemi arduvazı (Schiefer); ısıyı depolar, iyi drene olur. Bremmer Calmont Avrupa'nın en dik bağları arasında gösterilir.",
+          "uzumler": [
+            "Riesling",
+            "Elbling",
+            "Müller-Thurgau",
+            "Pinot Blanc"
+          ],
+          "stil": "Dünyanın en hafif ve en ince Riesling'leri: düşük alkol (Kabinett'lerde %7–9 civarı), yüksek asit, yeşil elma, şeftali, çiçek ve ıslak taş notaları. Tatlılık ve asit arasındaki denge şarabın kalbidir; en iyileri on yıllarca yıllanır.",
+          "siniflandirma": "Prädikat sistemi ve VDP sınıflandırması birlikte kullanılır. Ünlü Grosse Lage'ler: Scharzhofberger (Saar), Wehlener Sonnenuhr, Bernkasteler Doctor, Ürziger Würzgarten, Piesporter Goldtröpfchen. Mosel, tatlı Prädikat şaraplarının prestijinin en canlı korunduğu bölgedir.",
+          "ikonlar": [
+            "Egon Müller Scharzhofberger",
+            "Joh. Jos. Prüm",
+            "Fritz Haag",
+            "Dr. Loosen",
+            "Zilliken",
+            "Markus Molitor"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2005",
+            "2007",
+            "2009",
+            "2011",
+            "2015",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Mosel_(wine_region)",
+            "https://en.wikipedia.org/wiki/German_wine_classification",
+            "https://www.vdp.de",
+            "https://www.winespectator.com/vintage-charts/region/germany"
+          ]
+        },
+        {
+          "id": "rheingau",
+          "ad": "Rheingau",
+          "alt": [
+            "Rüdesheim",
+            "Johannisberg",
+            "Hattenheim",
+            "Kiedrich",
+            "Hochheim",
+            "Assmannshausen"
+          ],
+          "iklim": "Ren Nehri'nin yaklaşık 30 km boyunca doğu-batı yönünde aktığı bölümde, bağlar tamamen güneye bakar; Taunus Dağları kuzey rüzgârlarını keser.",
+          "toprak": "Yamaçların üst kısmında kuvarsit ve arduvaz, aşağıda lös, kil ve kumlu marn.",
+          "uzumler": [
+            "Riesling",
+            "Spätburgunder (Pinot Noir)"
+          ],
+          "stil": "Mosel'den daha dolgun, daha 'aristokratik' ve yapılı Riesling'ler; kuru ve tatlı stiller bir arada. Assmannshausen, Almanya'nın tarihî Spätburgunder kırmızı şarap merkezidir.",
+          "siniflandirma": "Geç hasat (Spätlese) kavramının doğuşu geleneksel olarak 1775'te Schloss Johannisberg'e, hasat iznini getiren ulağın geç kalmasına bağlanır. Kloster Eberbach'ın Cistercian manastır mirası önemlidir. VDP Grosse Lage sistemi burada da geçerlidir; bölgenin kendi kuru şarap tanımı da bulunur.",
+          "ikonlar": [
+            "Weingut Robert Weil (Kiedrich Gräfenberg)",
+            "Schloss Johannisberg",
+            "Georg Breuer",
+            "Leitz",
+            "Peter Jakob Kühn"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2005",
+            "2007",
+            "2009",
+            "2011",
+            "2015",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Rheingau_(wine_region)",
+            "https://www.rheingau.de",
+            "https://www.winespectator.com/vintage-charts/region/germany"
+          ]
+        },
+        {
+          "id": "pfalz",
+          "ad": "Pfalz",
+          "alt": [
+            "Mittelhaardt (Forst, Deidesheim, Wachenheim, Bad Dürkheim)",
+            "Südliche Weinstraße"
+          ],
+          "iklim": "Almanya'nın en sıcak ve kurak bölgelerinden biri; Haardt Dağları (Vosges'un uzantısı) yağmur gölgesi oluşturur. İncir, badem ve limon ağaçları yetişebilir.",
+          "toprak": "Kumtaşı, kireçtaşı, bazalt (Forst'ta ünlü bazalt parseller) ve lös.",
+          "uzumler": [
+            "Riesling",
+            "Spätburgunder",
+            "Grauburgunder",
+            "Weissburgunder",
+            "Dornfelder"
+          ],
+          "stil": "Güneşli iklim sayesinde dolgun, olgun meyveli ve çoğunlukla kuru Riesling'ler ile yükselen kalitede Pinot ailesi şarapları. Almanya'nın 'kuru devrimi'nin merkezlerinden biri.",
+          "siniflandirma": "Forster Kirchenstück, Forster Jesuitengarten ve Deidesheimer Hohenmorgen gibi parseller VDP Grosse Lage'dir; bölgenin 'üç büyük B'si (Bassermann-Jordan, Bürklin-Wolf, von Buhl) tarihî olarak kaliteyi temsil eder.",
+          "ikonlar": [
+            "Dr. Bürklin-Wolf",
+            "Geheimer Rat Dr. von Bassermann-Jordan",
+            "Reichsrat von Buhl",
+            "Weingut von Winning",
+            "Friedrich Becker (Spätburgunder)",
+            "A. Christmann"
+          ],
+          "iyi_yillar": [
+            "2001",
+            "2005",
+            "2007",
+            "2009",
+            "2011",
+            "2015",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Pfalz_(wine_region)",
+            "https://www.winesofgermany.co.uk",
+            "https://www.winespectator.com/vintage-charts/region/germany"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avusturya",
+      "ad": "Avusturya",
+      "bayrak": "🇦🇹",
+      "ozet": "Grüner Veltliner'in vatanı ve dünyanın en ciddi kuru beyaz üreticilerinden biri. 1985'teki dietilen glikol skandalı ülkeyi Avrupa'nın en sıkı şarap yasalarından birine yöneltti ve kalite devrimini başlattı. Tuna kıyısındaki Wachau'nun teraslı Riesling'leri, Burgenland'in Blaufränkisch kırmızıları ve Neusiedl Gölü'nün botrytisli tatlı şarapları ülkenin üç zirvesidir.",
+      "sistem": "Almanya'ya benzer olgunluk temelli Prädikat sistemi (Kabinett'ten TBA'ya, ayrıca Ausbruch ve Strohwein) hâlâ vardır ancak kuru şarap ağırlıklı yeni sistem DAC'tır (Districtus Austriae Controllatus). Fransız AOC mantığıyla bölge, çeşit ve stil tanımlar; ilk DAC Weinviertel (2003). Bugün yaygın DAC piramidi: Gebietswein (bölge) → Ortswein (köy) → Riedenwein (tek bağ; 'Ried'). Wachau'da DAC'tan önce gelen ve hâlâ kullanılan Vinea Wachau stil kategorileri: Steinfeder (hafif, en fazla %11,5 alkol), Federspiel (%11,5–12,5) ve Smaragd (en olgun, %12,5 üzeri). Özel üretici birliği ÖTW (Österreichische Traditionsweingüter) Erste Lage sınıflandırması yapar.",
+      "bolgeler": [
+        {
+          "id": "wachau-kamptal-kremstal",
+          "ad": "Niederösterreich: Wachau, Kremstal, Kamptal, Weinviertel",
+          "alt": [
+            "Wachau",
+            "Kremstal",
+            "Kamptal",
+            "Weinviertel",
+            "Wagram",
+            "Traisental"
+          ],
+          "iklim": "Pannonya'dan gelen sıcak hava ile kuzeybatı ormanlarından inen serin gece hava akımlarının buluştuğu karasal iklim; büyük gece-gündüz farkı aromayı korur.",
+          "toprak": "Wachau'da Tuna'ya inen gnays ve granit teraslar (Riesling için), alt kısımlarda lös (Grüner Veltliner için). Kamptal'da Heiligenstein'in permiyen kumtaşı ve volkanik kökenli kayaları.",
+          "uzumler": [
+            "Grüner Veltliner",
+            "Riesling",
+            "Gelber Muskateller"
+          ],
+          "stil": "Grüner Veltliner beyaz biber, yeşil fasulye, limon ve beyaz şeftali notalı, canlı, baharatlı, hafiften çok yapılıya uzanan bir yelpazede kuru beyazlar verir. Wachau Smaragd'ları olgun, dolgun ve uzun ömürlüdür; Riesling'ler Alsace ile Mosel arasında, kuru ve mineraldir.",
+          "siniflandirma": "Weinviertel DAC (2003) Avusturya'nın ilk DAC'ıdır; Kamptal ve Kremstal ardından geldi, Wachau DAC 2020 rekoltesiyle başladı. Ünlü tek bağlar (Ried): Loibenberg, Kellerberg, Achleiten, Singerriedel (Wachau), Heiligenstein, Lamm (Kamptal).",
+          "ikonlar": [
+            "F.X. Pichler",
+            "Franz Hirtzberger",
+            "Emmerich Knoll",
+            "Prager",
+            "Weingut Bründlmayer",
+            "Schloss Gobelsburg"
+          ],
+          "iyi_yillar": [
+            "2006",
+            "2015",
+            "2019",
+            "2021"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Austrian_wine",
+            "https://en.wikipedia.org/wiki/Districtus_Austriae_Controllatus",
+            "https://www.austrianwine.com",
+            "https://www.winespectator.com/vintage-charts/region/austria"
+          ]
+        },
+        {
+          "id": "burgenland",
+          "ad": "Burgenland",
+          "alt": [
+            "Leithaberg",
+            "Mittelburgenland",
+            "Eisenberg",
+            "Neusiedlersee",
+            "Rust"
+          ],
+          "iklim": "Pannonya ovasının sıcak karasal iklimi; sığ Neusiedl Gölü sonbahar sislerini ve dolayısıyla soylu çürüklüğü (botrytis) besler.",
+          "toprak": "Leithaberg'de kireçtaşı ve şist, Mittelburgenland'da ağır kil, Eisenberg'de şist.",
+          "uzumler": [
+            "Blaufränkisch",
+            "Zweigelt",
+            "St. Laurent",
+            "Welschriesling",
+            "Furmint"
+          ],
+          "stil": "Blaufränkisch, Avusturya'nın en ciddi kırmızısıdır: vişne, böğürtlen, karabiber ve canlı asit. Neusiedl Gölü çevresinde ve Rust'ta dünya standartlarında botrytisli tatlı şaraplar (Ruster Ausbruch, TBA) yapılır.",
+          "siniflandirma": "Leithaberg, Mittelburgenland, Eisenberg ve Neusiedlersee DAC'ları; Ruster Ausbruch özel bir tarihî tatlı şarap kategorisidir.",
+          "ikonlar": [
+            "Moric (Roland Velich)",
+            "Weingut Prieler",
+            "Ernst Triebaumer",
+            "Kracher (tatlı)",
+            "Weingut Uwe Schiefer"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Burgenland_(wine_region)",
+            "https://www.austrianwine.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "macaristan",
+      "ad": "Macaristan",
+      "bayrak": "🇭🇺",
+      "ozet": "Tokaji Aszú ile dünyanın en eski ve en ünlü tatlı şaraplarından birinin vatanı; Fransa kralı XIV. Louis'nin 'şarapların kralı, kralların şarabı' dediği rivayet edilir. Komünist dönemde devlet tekelinde gerileyen bölge, 1990'lardan sonra yabancı ve yerli yatırımla yeniden doğdu. Volkanik toprakları ve yerli Furmint üzümüyle bugün kuru beyazlarda da dikkat çekiyor.",
+      "sistem": "AB uyumlu OEM (Oltalmazott Eredetmegjelölés, korumalı menşe) ve OFJ (korumalı coğrafi işaret) sistemi. Tokaj tarihsel olarak öncüdür: 1737 tarihli kraliyet kararnamesi bölgeyi kapalı bir üretim alanı olarak tanımladı (dünyanın ilk menşe sistemlerinden biri sayılır; Chianti'nin 1716 sınır tanımı da bu unvana adaydır). Bağ sınıflandırması 1730'da başladı ve 1765 ile 1772 sayımlarıyla tamamlandı; yani Bordeaux 1855'ten yaklaşık bir asır önce.",
+      "bolgeler": [
+        {
+          "id": "tokaj",
+          "ad": "Tokaj",
+          "alt": [
+            "Tarcal",
+            "Mád",
+            "Tállya",
+            "Tolcsva",
+            "Sárospatak",
+            "Erdőbénye"
+          ],
+          "iklim": "Bodrog ve Tisza nehirlerinin birleştiği yerde karasal iklim; sonbaharda nehirlerden yükselen sabah sisleri ve ardından gelen güneşli öğleden sonralar Botrytis cinerea'nın (soylu çürüklük) gelişmesi için ideal koşullar yaratır.",
+          "toprak": "Volkanik kökenli topraklar: riyolit, andezit, tüf, lös; bazı parsellerde nyirok denen ağır volkanik kil.",
+          "uzumler": [
+            "Furmint",
+            "Hárslevelű",
+            "Sárgamuskotály (Muscat Blanc)",
+            "Kövérszőlő",
+            "Zéta"
+          ],
+          "stil": "Aszú: botrytisli, kurumuş taneler (aszú) tek tek toplanıp hamur haline getirilir, ardından baz şarap veya şıra ile ıslatılır ve yeniden fermente edilip fıçıda yıllandırılır. Sonuç kayısı, portakal kabuğu, bal ve çay notalı, keskin asidi sayesinde ağır olmayan tatlı şaraplardır. Eszencia, aszú tanelerinin kendi ağırlığıyla süzülen serbest akış şırasından yapılır; şeker oranı aşırı yüksek, alkolü çok düşüktür ve yıllarca fermente olur. Furmint'ten yapılan kuru şaraplar ise gergin, dumanlı ve mineraldir; Szamorodni kısmen botrytisli salkımlardan kuru ya da tatlı yapılır.",
+          "siniflandirma": "Puttonyos sistemi: Geleneksel olarak 'puttony' (yaklaşık 25 kg'lık sepet) sayısı, bir gönci fıçısına (yaklaşık 136 litre) eklenen aszú hamuru miktarını gösterirdi; 3'ten 6 puttonyosa kadar etiketlenir, 6'nın üstü Aszú-Eszencia adını alırdı. Bugün sınıf, olgun şaraptaki kalıntı şeker ve şekersiz ekstrakt değerleriyle tanımlanır. 2013'teki düzenlemeyle Aszú için asgari kalıntı şeker 120 g/L'ye çıkarıldı; böylece 3 ve 4 puttonyos kategorileri kalktı, etikette yalnızca 5 puttonyos (en az 120 g/L) ve 6 puttonyos (en az 150 g/L) ifadeleri kullanılabilir hale geldi; Aszú-Eszencia kategorisi de kaldırıldı. Eszencia ayrı ve en üst kategoridir. Aszú en az 3 yıl yaşlandırılır, bunun en az 18 ayı fıçıdadır. Tokaj Şarap Bölgesi Tarihî Kültürel Peyzajı 2002'de UNESCO listesine girdi.",
+          "ikonlar": [
+            "Királyudvar",
+            "Szepsy István",
+            "Disznókő",
+            "Oremus",
+            "Royal Tokaji",
+            "Dobogó",
+            "Crown Estates (Eszencia)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Tokaji",
+            "https://hu.wikipedia.org/wiki/Tokaji_asz%C3%BA",
+            "https://en.wikipedia.org/wiki/Tokaj_wine_region"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yunanistan",
+      "ad": "Yunanistan",
+      "bayrak": "🇬🇷",
+      "ozet": "Antik dünyanın şarap kültürünü şekillendiren ülke, bugün yerli üzümleriyle yeniden keşfediliyor. Santorini'nin volkanik Assyrtiko'su dünyanın en özgün beyazlarından biri kabul edilirken, kuzeydeki Naoussa'nın Xinomavro'su 'Yunanistan'ın Barolo'su' diye anılıyor. Ege ve Türk mutfağıyla ortak bir sofra kültürü, Yunan şaraplarını Türk okuru için de doğal bir eşleşme alanı yapar.",
+      "sistem": "AB uyumlu iki ana kategori: ΠΟΠ / PDO (Korumalı Menşe Adı; eski OPAP ve OPE kategorilerinin birleşimi) ve ΠΓΕ / PGI (Korumalı Coğrafi İşaret; eski adıyla Topikos Oinos). Altında coğrafi işaretsiz şaraplar bulunur. Ayrıca 'Retsina' geleneksel adı korumalıdır. Yaşlandırma ifadeleri: Reserve ve Grande Reserve (kırmızıda daha uzun meşe ve şişe yaşlandırması).",
+      "bolgeler": [
+        {
+          "id": "santorini",
+          "ad": "Santorini",
+          "alt": [
+            "Pyrgos",
+            "Megalochori",
+            "Oia",
+            "Akrotiri",
+            "Emporio"
+          ],
+          "iklim": "Sıcak, çok kurak ve rüzgârlı Ege adası; yağış neredeyse yok, asma nemini gece denizden gelen sisten alır. Güçlü meltem rüzgârları nedeniyle asmalar yere yakın tutulur.",
+          "toprak": "Yaklaşık MÖ 1600'lerdeki büyük volkanik patlamadan kalan kül, pomza ve lav; neredeyse hiç kil ve organik madde yok. Filoksera bu toprakta yaşayamadığı için asmalar aşısızdır ve kök sistemleri yüzyıllık olabilir.",
+          "uzumler": [
+            "Assyrtiko",
+            "Athiri",
+            "Aidani",
+            "Mavrotragano"
+          ],
+          "stil": "Assyrtiko sıcak iklime rağmen çok yüksek asidini korur: limon, tuz, çakmaktaşı ve deniz notalı, gergin, mineral ve yıllanabilen kuru beyazlar. Nykteri (geleneksel olarak gece hasat edilen, meşede bekleyen dolgun stil) ve güneşte kurutulmuş üzümden yapılan tatlı Vinsanto bölgenin diğer klasikleridir.",
+          "siniflandirma": "Santorini PDO (kuru beyazlar, en az %75 Assyrtiko) ve Vinsanto için ayrı tanım. Asmalar 'kouloura' denen sepet şeklinde örülerek yere yakın yetiştirilir; bu yöntem salkımları rüzgâr ve güneşten korur.",
+          "ikonlar": [
+            "Hatzidakis",
+            "Domaine Sigalas",
+            "Estate Argyros",
+            "Gaia Thalassitis",
+            "Santo Wines"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Santorini_(wine)",
+            "https://en.wikipedia.org/wiki/Assyrtiko",
+            "https://winesofgreece.org"
+          ]
+        },
+        {
+          "id": "naoussa",
+          "ad": "Makedonya: Naoussa ve Amyndeon",
+          "alt": [
+            "Naoussa",
+            "Amyndeon",
+            "Goumenissa",
+            "Rapsani (Teselya)"
+          ],
+          "iklim": "Vermio Dağı'nın doğu yamaçlarında serin karasal etkili iklim; Amyndeon daha yüksek ve serindir, göller ılımanlaştırır.",
+          "toprak": "Kil, kum ve kireçtaşı karışımı; Amyndeon'da kumlu topraklar filokseraya direnç sağlar.",
+          "uzumler": [
+            "Xinomavro",
+            "Negoska",
+            "Assyrtiko",
+            "Malagousia"
+          ],
+          "stil": "Xinomavro ('ekşi-siyah') açık renkli, çok tanenli ve asitli, domates, zeytin, kuru kiraz ve baharat notalı, uzun yıllanan kırmızılar verir; Nebbiolo ile sıkça karşılaştırılır. Amyndeon roze ve köpüklü Xinomavro'larıyla bilinir.",
+          "siniflandirma": "Naoussa PDO (%100 Xinomavro), Amyndeon PDO, Goumenissa PDO (Xinomavro ve Negoska harmanı).",
+          "ikonlar": [
+            "Thymiopoulos Vineyards",
+            "Kir-Yianni",
+            "Boutari Naoussa",
+            "Dalamara",
+            "Alpha Estate (Amyndeon)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Xinomavro",
+            "https://winesofgreece.org"
+          ]
+        },
+        {
+          "id": "nemea",
+          "ad": "Peloponez: Nemea",
+          "alt": [
+            "Nemea",
+            "Mantinia",
+            "Patras"
+          ],
+          "iklim": "Akdeniz iklimi; Nemea'da rakım arttıkça (yaklaşık 250 m'den 800 m'ye) şarabın yapısı tazelenir.",
+          "toprak": "Kil, kireçtaşı ve alüvyon.",
+          "uzumler": [
+            "Agiorgitiko",
+            "Moschofilero"
+          ],
+          "stil": "Agiorgitiko yumuşak tanenli, kırmızı meyveli, baharatlı ve yuvarlak kırmızılar verir; Mantinia'nın Moschofilero'su çiçeksi, hafif beyazlardır.",
+          "siniflandirma": "Nemea PDO, Yunanistan'ın en büyük kırmızı şarap menşelerinden biridir.",
+          "ikonlar": [
+            "Gaia Estate",
+            "Domaine Skouras",
+            "Papaioannou"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Agiorgitiko",
+            "https://winesofgreece.org"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gurcistan",
+      "ad": "Gürcistan",
+      "bayrak": "🇬🇪",
+      "ozet": "Arkeolojik bulgulara göre şarabın bilinen en eski yurtlarından biri: Güney Kafkasya'da (Gadachrili Gora ve Shulaveris Gora yerleşimlerinde) MÖ 6000 civarına tarihlenen çömleklerde şarap kalıntıları bulundu; bu yüzden '8.000 yıllık şarap geleneği' ifadesi kullanılır. Gürcistan şarabı ulusal kimlikle iç içedir ve 500'den fazla yerli üzüm çeşidine ev sahipliği yapar. Toprağa gömülü kil küplerde (qvevri) yapılan kabuk temaslı beyazlar, dünyadaki 'amber/turuncu şarap' akımının ilham kaynağı oldu.",
+      "sistem": "Menşe adları (PDO) ulusal şarap ajansı tarafından tescil edilir; çoğu Kakheti'dedir (Tsinandali, Mukuzani, Napareuli, Kindzmarauli, Akhasheni gibi). Bazı menşeler stil de tanımlar: Kindzmarauli ve Khvanchkara doğal yarı tatlı kırmızılardır. Asıl ayrım, Avrupa tarzı şarap ile qvevri yöntemiyle yapılan geleneksel 'Kakhuri' şarap arasındadır. Geleneksel Gürcü qvevri şarapçılığı 2013'te UNESCO Somut Olmayan Kültürel Miras listesine alındı.",
+      "bolgeler": [
+        {
+          "id": "kakheti",
+          "ad": "Kakheti",
+          "alt": [
+            "Telavi",
+            "Kvareli",
+            "Tsinandali",
+            "Mukuzani",
+            "Napareuli",
+            "Kindzmarauli",
+            "Akhasheni",
+            "Gurjaani"
+          ],
+          "iklim": "Alazani ve Iori vadilerinde, kuzeyde Büyük Kafkas Dağları'nın soğuk rüzgârlara karşı koruduğu ılıman karasal iklim; sıcak yazlar, ılık kışlar.",
+          "toprak": "Alüvyon, kalkerli kil ve kahverengi orman toprakları.",
+          "uzumler": [
+            "Saperavi",
+            "Rkatsiteli",
+            "Mtsvane Kakhuri",
+            "Kisi",
+            "Khikhvi"
+          ],
+          "stil": "Qvevri yönteminde üzüm sapı ve kabuğuyla birlikte toprağa gömülü kil küplerde fermente edilip aylarca bekletilir. Beyaz üzümlerden yapılan bu şaraplar amber renkli, tanenli, kuru kayısı, ceviz, çay ve bal notalıdır. Saperavi, kabuğu kadar eti de renkli olan nadir bir üzümdür: koyu, asidi yüksek, böğürtlen ve baharat notalı, yıllanabilir kırmızılar verir.",
+          "siniflandirma": "Gürcistan şarap üretiminin büyük bölümü Kakheti'dedir ve PDO'ların çoğu buradadır. Etikette 'Qvevri' ifadesi ve Kakhuri yöntemi, geleneksel üretimin göstergesidir.",
+          "ikonlar": [
+            "Pheasant's Tears",
+            "Alaverdi Manastırı",
+            "Teliani Valley",
+            "Shalauri",
+            "Our Wine (Soliko Tsaishvili)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Georgian_wine",
+            "https://en.wikipedia.org/wiki/Qvevri",
+            "https://ich.unesco.org/en/RL/ancient-georgian-traditional-qvevri-wine-making-method-00870",
+            "https://www.pnas.org/doi/10.1073/pnas.1714728114"
+          ]
+        },
+        {
+          "id": "bati-gurcistan",
+          "ad": "Kartli, Imereti ve Racha-Lechkhumi",
+          "alt": [
+            "Kartli",
+            "Imereti",
+            "Racha (Khvanchkara)",
+            "Lechkhumi"
+          ],
+          "iklim": "Kartli serin karasal; batıdaki Imereti Karadeniz etkisiyle daha nemli ve ılıman; Racha dağlık ve serin.",
+          "toprak": "Kireçtaşı, kil ve alüvyon.",
+          "uzumler": [
+            "Tsolikouri",
+            "Tsitska",
+            "Krakhuna",
+            "Chinuri",
+            "Aleksandrouli",
+            "Mujuretuli",
+            "Otskhanuri Sapere"
+          ],
+          "stil": "Imereti'de qvevri (yerel adıyla 'churi') şarapları daha az kabuk temasıyla yapılır, Kakheti'ye göre daha hafif ve taze olur. Racha'nın Khvanchkara'sı yarı tatlı, kırmızı meyveli bir kırmızıdır; Kartli köpüklü şarap ve Chinuri beyazlarıyla bilinir.",
+          "siniflandirma": "Khvanchkara (Racha) ve Tvishi (Lechkhumi) gibi menşeler doğal yarı tatlı stilleri korur.",
+          "ikonlar": [
+            "Iago's Wine (Chinuri)",
+            "Ramaz Nikoladze",
+            "Gotsa"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Georgian_wine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lubnan",
+      "ad": "Lübnan",
+      "bayrak": "🇱🇧",
+      "ozet": "Fenikelilerin Akdeniz'e taşıdığı şarap kültürünün kadim topraklarından biri. Modern Lübnan şarabı, 19. yüzyılda Cizvit rahiplerinin kurduğu Château Ksara ve iç savaş boyunca bile şarap üretmeyi sürdüren Château Musar sayesinde dünyaya tanıtıldı. Bağların büyük kısmı yüksek Bekaa Vadisi'ndedir.",
+      "sistem": "Fransa veya İtalya tarzı ayrıntılı bir menşe ve kalite hiyerarşisi yoktur; prestij üretici adına dayanır. Sektör, Fransız etkisiyle Bordeaux ve Rhône çeşitleriyle şekillenmiştir; son yıllarda yerli beyaz üzümler (Obaideh, Merwah) ön plana çıkıyor.",
+      "bolgeler": [
+        {
+          "id": "bekaa",
+          "ad": "Bekaa Vadisi",
+          "alt": [
+            "Batı Bekaa",
+            "Zahle",
+            "Kefraya",
+            "Baalbek çevresi"
+          ],
+          "iklim": "Lübnan ve Anti-Lübnan dağları arasında, yaklaşık 1.000 m rakımlı yüksek vadi; sıcak güneşli yazlar, soğuk geceler ve karlı kışlar. Kurak hasat dönemi mantar hastalığı riskini azaltır.",
+          "toprak": "Kireçtaşı, kil ve çakıl.",
+          "uzumler": [
+            "Cinsault",
+            "Cabernet Sauvignon",
+            "Carignan",
+            "Syrah",
+            "Grenache",
+            "Obaideh",
+            "Merwah"
+          ],
+          "stil": "Akdeniz baharatları, kuru meyve ve deri notalı, olgun ama yüksek rakım sayesinde dengeli kırmızılar. Château Musar'ın Cabernet Sauvignon, Cinsault ve Carignan harmanı, bilinçli olarak 'doğal' ve oksidatif dokunuşlu, onlarca yıl yaşayan bir stile sahiptir.",
+          "siniflandirma": "Resmî sınıflandırma yoktur. Château Ksara 1857'de Cizvit rahiplerince kuruldu. Château Musar 1930'da Gaston Hochar tarafından kuruldu; oğlu Serge Hochar iç savaş yıllarında bile üretimi sürdürdü ve 1984'te Decanter dergisi tarafından 'Yılın İnsanı' (Man of the Year) seçildi.",
+          "ikonlar": [
+            "Château Musar",
+            "Château Ksara",
+            "Château Kefraya",
+            "Massaya",
+            "Domaine des Tourelles"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Lebanese_wine",
+            "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Musar",
+            "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Ksara"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abd",
+      "ad": "ABD",
+      "bayrak": "🇺🇸",
+      "ozet": "Yeni Dünya'nın en güçlü şarap ülkesi ve dünyanın en büyük şarap pazarlarından biri. Üretimin büyük kısmı Kaliforniya'dadır; Napa Vadisi Cabernet Sauvignon'u Bordeaux'nun premier cru'larıyla aynı fiyat liginde yer alır. 1976 Paris Tadımı, Amerikan şarabını bir gecede dünya sahnesine taşıdı. Oregon Pinot Noir'ı ve Washington'ın çöl iklimi kırmızıları ülkenin çeşitliliğini gösterir.",
+      "sistem": "ABD'de Avrupa tarzı kalite hiyerarşisi yoktur. AVA (American Viticultural Area), federal TTB (Alcohol and Tobacco Tax and Trade Bureau) tarafından tanımlanan coğrafi bir menşedir; üzüm çeşidi, verim veya yöntem kısıtlamaz. Etikette AVA adı kullanılıyorsa üzümlerin en az %85'i o AVA'dan gelmelidir; çeşit adı kullanılıyorsa o çeşit en az %75 olmalıdır (eyalet adı kullanılırsa üzümlerin %75'i o eyaletten olmalı; Kaliforniya kendi kuralıyla %100 ister). İlk AVA 1980'de Augusta (Missouri), Napa Valley ise 1981'de tanımlandı; bugün 34 eyalette 280 civarı AVA vardır. AVA'lar iç içe geçebilir (ör. Kaliforniya → North Coast → Napa Valley → Oakville). 'Meritage' Bordeaux çeşitlerinden yapılan harmanlar için tescilli bir terimdir. Prestij tamamen üretici, bağ ve eleştirmen puanlarıyla oluşur.",
+      "paris_tadimi_1976": "24 Mayıs 1976'da İngiliz şarap tüccarı Steven Spurrier ve Amerikalı meslektaşı Patricia Gallagher, ABD'nin 200. kuruluş yıl dönümü vesilesiyle Paris'te kör bir tadım düzenledi. Çoğu Fransız şarap otoritesinden oluşan jüri, Kaliforniya şaraplarını Burgonya'nın beyazları ve Bordeaux'nun kırmızılarıyla karşılaştırdı. Spurrier Fransız şaraplarının kazanacağını düşünüyordu; oysa Chardonnay kategorisinde Chateau Montelena 1973, kırmızılarda Stag's Leap Wine Cellars 1973 Cabernet Sauvignon birinci oldu. Etkinliğe katılan tek gazeteci olan Time muhabiri George M. Taber sonucu 'Judgment of Paris' (Paris'in Yargısı) başlığıyla duyurdu ve haber Yeni Dünya şaraplarının ciddiye alınmasının dönüm noktası oldu. 'Fransız şarapları daha iyi yıllanır' itirazı üzerine 2006'da 30. yıl tadımı Napa ve Londra'da eş zamanlı yapıldı: birinciliği Ridge Monte Bello 1971 aldı, ilk beş sırayı Kaliforniya kırmızıları paylaştı. Tadım 2008'de 'Bottle Shock' filmine de konu oldu. 2026'daki 50. yıl rekreasyonunda orijinal kırmızı serinin ilk beşinin dördü yine Kaliforniya'dan çıktı (birinci Heitz Martha's Vineyard 1970). Not: 2026'da Richard Ballantyne MW'nin yayımladığı bir analiz, Taber'in 2005 kitabındaki beyaz şarap toplamlarında aritmetik hatalar bulunduğunu ve Montelena ile Meursault Charmes'ın aslında eşit puan aldığını öne sürdü; yani beyazlarda sonuç tartışmaya açıktır.",
+      "bolgeler": [
+        {
+          "id": "napa",
+          "ad": "Napa Vadisi (Kaliforniya)",
+          "alt": [
+            "Oakville",
+            "Rutherford",
+            "Stags Leap District",
+            "St. Helena",
+            "Calistoga",
+            "Howell Mountain",
+            "Mount Veeder",
+            "Spring Mountain District",
+            "Diamond Mountain District",
+            "Coombsville",
+            "Yountville",
+            "Los Carneros"
+          ],
+          "iklim": "Akdeniz iklimi: kuru, sıcak yazlar ve yağışlı kışlar. Güneyden San Pablo Körfezi'nden gelen sis ve serin hava vadinin güney ucunu (Carneros) serin tutar; kuzeye (Calistoga) gidildikçe sıcaklık artar. Dağ AVA'ları sis çizgisinin üstünde kalır.",
+          "toprak": "Vadi tabanında alüvyal yelpaze tortuları (Rutherford'un 'toz' denen tınlı toprakları), batıda Mayacamas, doğuda Vaca dağlarında volkanik ve sığ, taşlı topraklar.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Chardonnay",
+            "Sauvignon Blanc",
+            "Zinfandel"
+          ],
+          "stil": "Olgun, yoğun, kadifemsi tanenli, siyah frenk üzümü, kakao, vanilya ve maden notalı Cabernet Sauvignon. Bordeaux'ya göre daha meyveli ve yüksek alkollüdür; dağ şarapları daha sıkı ve uzun ömürlüdür. Carneros'un serin ikliminde Chardonnay, Pinot Noir ve köpüklü şarap yapılır.",
+          "siniflandirma": "Resmî sınıflandırma yoktur; 'kült Cabernet' kavramı 1990'larda çok küçük üretimli, posta listesiyle satılan ve eleştirmenlerden 100 puan alan şaraplarla (Screaming Eagle, Harlan Estate, Bryant Family) doğdu. Tarihî dönüm noktaları: Robert Mondavi Winery (1966), Mondavi ile Baron Philippe de Rothschild'in ortaklığı Opus One (ilk rekolte 1979) ve Paris Tadımı'nda birinci olan Stag's Leap Wine Cellars ile Chateau Montelena. Napa Valley AVA'sının içinde bölünmüş alt AVA'lar terroir farkını tanımlar.",
+          "ikonlar": [
+            "Screaming Eagle",
+            "Harlan Estate",
+            "Opus One",
+            "Dominus Estate",
+            "Scarecrow",
+            "Heitz Cellar Martha's Vineyard",
+            "Shafer Hillside Select",
+            "Stag's Leap Wine Cellars",
+            "Chateau Montelena"
+          ],
+          "iyi_yillar": [
+            "2004",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2012",
+            "2013",
+            "2014",
+            "2016",
+            "2018",
+            "2019",
+            "2021",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Napa_Valley_AVA",
+            "https://en.wikipedia.org/wiki/American_Viticultural_Area",
+            "https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)",
+            "https://napavintners.com",
+            "https://www.winespectator.com/vintage-charts/region/california-cabernet-napa"
+          ]
+        },
+        {
+          "id": "sonoma",
+          "ad": "Sonoma (Kaliforniya)",
+          "alt": [
+            "Russian River Valley",
+            "Sonoma Coast",
+            "Alexander Valley",
+            "Dry Creek Valley",
+            "Sonoma Valley",
+            "Fort Ross-Seaview"
+          ],
+          "iklim": "Napa'dan daha geniş ve çeşitli: Pasifik'ten gelen sis Petaluma boşluğu ve Russian River boyunca içeri sızar, serin kıyı bölgeleri Pinot Noir ve Chardonnay'e uygundur; iç kesimler (Alexander, Dry Creek) sıcaktır.",
+          "toprak": "Goldridge kumlu tınısı (Russian River), volkanik ve alüvyal topraklar, kıyıda deniz tortuları.",
+          "uzumler": [
+            "Pinot Noir",
+            "Chardonnay",
+            "Cabernet Sauvignon",
+            "Zinfandel",
+            "Syrah",
+            "Sauvignon Blanc"
+          ],
+          "stil": "Russian River Valley ve Sonoma Coast olgun ama canlı, kırmızı meyveli Pinot Noir'lar ve dolgun-mineral Chardonnay'ler; Dry Creek baharatlı, yaşlı asma Zinfandel'leri; Alexander Valley yumuşak Cabernet'leri ile bilinir.",
+          "siniflandirma": "AVA sistemi geçerlidir; 'Sonoma County' çatısı altında birçok alt AVA vardır. Prestij üretici ve tek bağ adlarına dayanır.",
+          "ikonlar": [
+            "Kistler",
+            "Williams Selyem",
+            "Marcassin",
+            "Littorai",
+            "Hirsch Vineyards",
+            "Ridge Lytton Springs",
+            "Flowers"
+          ],
+          "iyi_yillar": [
+            "2019",
+            "2021",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Sonoma_County_wine",
+            "https://sonomawine.com",
+            "https://www.winespectator.com/vintage-charts/region/california-pinot-noir",
+            "https://www.winespectator.com/vintage-charts/region/california-chardonnay"
+          ]
+        },
+        {
+          "id": "oregon",
+          "ad": "Oregon – Willamette Vadisi",
+          "alt": [
+            "Dundee Hills",
+            "Eola-Amity Hills",
+            "Yamhill-Carlton",
+            "Ribbon Ridge",
+            "Chehalem Mountains",
+            "McMinnville",
+            "Van Duzer Corridor"
+          ],
+          "iklim": "Kıyı Sıradağları'nın kısmen koruduğu serin, ılıman iklim; Burgonya'ya benzer şekilde marjinal olgunlaşma koşulları. Van Duzer Koridoru'ndan giren okyanus rüzgârı akşamları serinlik getirir.",
+          "toprak": "Kırmızı volkanik Jory toprağı (Dundee Hills), deniz tortusu kökenli Willakenzie ve rüzgârla taşınmış lös (Chehalem).",
+          "uzumler": [
+            "Pinot Noir",
+            "Chardonnay",
+            "Pinot Gris",
+            "Riesling"
+          ],
+          "stil": "Kaliforniya'dan daha ince, daha asitli; kırmızı kiraz, ahududu, toprak ve baharat notalı Pinot Noir. Son yıllarda Burgonya tarzı, gergin Chardonnay'ler de öne çıkıyor.",
+          "siniflandirma": "Willamette Valley AVA 1983'te tanındı. Oregon'un kendi etiket kuralları federal kurallardan sıkıdır: çeşit adlı şarapta o çeşidin en az %90 olması gerekir (bazı istisnalar hariç). Öncü David Lett, 1965'te Eyrie Vineyards'ı kurdu; 1979'da Paris'te yapılan bir karşılaştırmalı tadımda Eyrie Pinot Noir'ın üst sıralara girmesi Burgonya'nın Drouhin ailesini 1987'de bölgeye yatırım yapmaya yöneltti.",
+          "ikonlar": [
+            "The Eyrie Vineyards",
+            "Domaine Drouhin Oregon",
+            "Beaux Frères",
+            "Cristom",
+            "Domaine Serene",
+            "Bergström"
+          ],
+          "iyi_yillar": [
+            "2002",
+            "2008",
+            "2012",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2019",
+            "2021",
+            "2023"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Willamette_Valley_AVA",
+            "https://en.wikipedia.org/wiki/Oregon_wine",
+            "https://www.oregonwine.org",
+            "https://www.winespectator.com/vintage-charts/region/oregon"
+          ]
+        },
+        {
+          "id": "washington",
+          "ad": "Washington Eyaleti",
+          "alt": [
+            "Columbia Valley",
+            "Walla Walla Valley",
+            "Red Mountain",
+            "Yakima Valley",
+            "Horse Heaven Hills",
+            "Wahluke Slope"
+          ],
+          "iklim": "Cascade Dağları'nın yağmur gölgesinde yarı çöl; yıllık yağış çok düşük, sulama şart. Kuzey enlemi nedeniyle yazın uzun gün ışığı ve büyük gece-gündüz sıcaklık farkı. Sert kışlar zaman zaman asmalara zarar verir.",
+          "toprak": "Buzul çağı sonundaki Missoula selleriyle taşınmış kumlu tın ve lös; kumlu toprak filoksera yayılımını sınırladığı için asmaların çoğu kendi kökleri üzerindedir.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Syrah",
+            "Riesling",
+            "Chardonnay"
+          ],
+          "stil": "Napa'nın olgunluğu ile Bordeaux'nun asit yapısı arasında, koyu meyveli ama canlı asitli Cabernet ve Merlot'lar; Walla Walla'nın taşlı parsellerinden ('The Rocks') etli, zeytinli Syrah'lar.",
+          "siniflandirma": "Eyaletin AVA'larının çoğu dev Columbia Valley AVA'sının alt bölgeleridir. Resmî kalite sınıflandırması yoktur.",
+          "ikonlar": [
+            "Quilceda Creek",
+            "Leonetti Cellar",
+            "Cayuse Vineyards",
+            "Betz Family",
+            "Chateau Ste. Michelle (Eroica Riesling)"
+          ],
+          "iyi_yillar": [
+            "2007",
+            "2008",
+            "2012"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Washington_wine",
+            "https://www.washingtonwine.org",
+            "https://www.winespectator.com/vintage-charts/region/washington"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arjantin",
+      "ad": "Arjantin",
+      "bayrak": "🇦🇷",
+      "ozet": "Dünyanın en büyük şarap üreticilerinden biri ve Malbec'in yeni vatanı. Fransa'nın Cahors bölgesinden gelen Malbec, And Dağları eteğindeki yüksek, güneşli ve kurak bağlarda Fransa'dakinden çok daha yumuşak ve meyveli bir kimlik kazandı. Rakım, Arjantin şarabının anahtar kelimesidir: bağlar yaklaşık 800 metreden 3.000 metrenin üzerine kadar çıkar.",
+      "sistem": "Üç basamaklı menşe sistemi: IP (Indicación de Procedencia, geniş sofra şarabı menşei) → IG (Indicación Geográfica; il, bölge veya alt bölge, ör. Valle de Uco, Paraje Altamira, Gualtallary) → DOC (Denominación de Origen Controlada; yalnızca Luján de Cuyo ve San Rafael gibi az sayıda örnek). Uygulamada prestij, IG düzeyindeki bağ yeri, rakım ve üretici adıyla belirlenir. Çeşit adı kullanmak için en az %85 kuralı geçerlidir.",
+      "bolgeler": [
+        {
+          "id": "mendoza",
+          "ad": "Mendoza",
+          "alt": [
+            "Luján de Cuyo",
+            "Maipú",
+            "Valle de Uco (Tupungato, Tunuyán, San Carlos)",
+            "Gualtallary",
+            "Paraje Altamira",
+            "Los Chacayes",
+            "San Rafael"
+          ],
+          "iklim": "Yüksek rakımlı kurak çöl iklimi; yıllık yağış çok düşük, sulama Andlar'ın kar suyuyla yapılır. Bol güneş, yoğun UV ışığı ve büyük gece-gündüz farkı. Riskler: dolu ve sıcak, kuru zonda rüzgârı.",
+          "toprak": "Andlar'dan inen alüvyal tortular: kum, çakıl, mil ve Uco Vadisi'nde kalkerli (kalsiyum karbonat kaplı) taşlar; düşük organik madde.",
+          "uzumler": [
+            "Malbec",
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Bonarda",
+            "Chardonnay",
+            "Torrontés (Salta'da)"
+          ],
+          "stil": "Malbec koyu mor renkli, mürdüm eriği, böğürtlen, menekşe ve kakao notalı, yumuşak tanenli bir kırmızıdır. Luján de Cuyo'nun yaşlı bağları daha olgun ve geleneksel; Uco Vadisi'nin yüksek bağları daha gergin, çiçeksi ve mineral şaraplar verir.",
+          "siniflandirma": "Luján de Cuyo, Arjantin'in ilk DOC'udur. Uco Vadisi'nde Paraje Altamira, Gualtallary ve Los Chacayes gibi IG'lerle Burgonya tarzı yer odaklı bir hiyerarşi oluşuyor. Malbec'in Arjantin'e 1853'te Fransız tarımcı Michel Aimé Pouget tarafından getirildiği kabul edilir; 17 Nisan 'Dünya Malbec Günü' olarak kutlanır. Modern dönüşümün öncüsü Nicolás Catena Zapata'nın 1990'lardaki yüksek rakım deneyleridir.",
+          "ikonlar": [
+            "Catena Zapata Adrianna Vineyard",
+            "Nicolás Catena Zapata",
+            "Achaval-Ferrer",
+            "Zuccardi (Finca Piedra Infinita)",
+            "Cheval des Andes",
+            "Bodega Noemía (Patagonya)",
+            "Colomé (Salta)"
+          ],
+          "iyi_yillar": [
+            "2002",
+            "2019",
+            "2021",
+            "2022"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Mendoza_wine",
+            "https://en.wikipedia.org/wiki/Argentine_wine",
+            "https://www.winesofargentina.org",
+            "https://www.winespectator.com/vintage-charts/region/argentina"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sili",
+      "ad": "Şili",
+      "bayrak": "🇨🇱",
+      "ozet": "Pasifik Okyanusu ile And Dağları arasında uzanan dar ülke, filokseranın hiç ulaşmadığı nadir şarap bölgelerinden biridir; asmaların çoğu kendi kökleri üzerindedir. Uzun süre 'iyi fiyatlı Cabernet' olarak bilinen Şili, 2004 Berlin Tadımı'ndan sonra prestij liginde de ciddiye alınmaya başladı. Bordeaux'da neredeyse kaybolan Carmenère burada yeniden keşfedildi.",
+      "sistem": "DO (Denominación de Origen) sistemi 1995'te kuruldu ve tamamen coğrafidir: bölge (ör. Valle Central) → alt bölge (ör. Valle del Maipo) → zon → alan. 2011'de kuzey-güney bölümlemesine ek olarak doğu-batı ekseni getirildi: Costa (okyanus etkili serin kıyı), Entre Cordilleras (orta vadi) ve Andes (dağ etekleri). Çeşit, bölge ve yıl için en az %85 kuralı uygulanır. Yaşlandırma terimleri (Reserva, Gran Reserva) asgari alkol ve meşe kullanımına dair hafif kurallar içerir, kalite sıralaması gibi okunmamalıdır.",
+      "bolgeler": [
+        {
+          "id": "sili-merkez",
+          "ad": "Maipo, Colchagua, Aconcagua, Casablanca",
+          "alt": [
+            "Alto Maipo (Puente Alto, Pirque)",
+            "Colchagua (Apalta)",
+            "Cachapoal",
+            "Aconcagua",
+            "Casablanca",
+            "San Antonio (Leyda)",
+            "Maule",
+            "Itata",
+            "Bío-Bío"
+          ],
+          "iklim": "Akdeniz iklimi; soğuk Humboldt Akıntısı kıyıyı serinletir, And Dağları'ndan inen soğuk hava gece sıcaklığını düşürür. Kuzeyden güneye ve batıdan doğuya belirgin iklim farkları vardır.",
+          "toprak": "Maipo'nun And eteklerinde alüvyal çakıl; Apalta'da granit yamaçlar; kıyı bölgelerinde granit ve kil; güneyde volkanik topraklar.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Carmenère",
+            "Syrah",
+            "Merlot",
+            "Sauvignon Blanc",
+            "Chardonnay",
+            "País",
+            "Carignan"
+          ],
+          "stil": "Alto Maipo Cabernet'leri olgun siyah meyve, nane ve okaliptüs notalı, dengeli ve zarif; Colchagua daha dolgun ve sıcaktır. Carmenère yeşil biber, baharat ve yumuşak tanen getirir. Casablanca ve Leyda'nın serin kıyıları canlı Sauvignon Blanc ve Pinot Noir verir; güneydeki Maule ve Itata'da yüzyıllık País ve Carignan bağları yeniden keşfediliyor.",
+          "siniflandirma": "Resmî prestij sınıflandırması yoktur. Kırılma anları: 1994'te ampelograf Jean-Michel Boursiquot'nun Şili'de Merlot sanılan asmaların bir kısmının aslında Carmenère olduğunu tespit etmesi ve 2004 Berlin Tadımı'nda 36 Avrupalı uzmanın kör tadımında Viñedo Chadwick 2000 ile Seña 2001'in Lafite ve Margaux gibi şarapların önünde ilk iki sırayı alması. Bordeaux ortaklıkları (Concha y Toro ve Baron Philippe de Rothschild'in Almaviva'sı) bölgenin prestijini artırdı.",
+          "ikonlar": [
+            "Almaviva",
+            "Seña",
+            "Viñedo Chadwick",
+            "Don Melchor",
+            "Clos Apalta",
+            "Montes Purple Angel"
+          ],
+          "iyi_yillar": [
+            "2005",
+            "2018",
+            "2021",
+            "2022"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Chilean_wine",
+            "https://en.wikipedia.org/wiki/Carm%C3%A9n%C3%A8re",
+            "https://www.winesofchile.org",
+            "https://www.winespectator.com/vintage-charts/region/chile"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avustralya",
+      "ad": "Avustralya",
+      "bayrak": "🇦🇺",
+      "ozet": "Teknik ustalığı ve güçlü markalarıyla Yeni Dünya şarabının dünya pazarını dönüştüren ülke. Shiraz (Syrah) burada kendine has olgun, baharatlı ve dolgun bir kimlik kazandı. 19. yüzyıldan kalma, filokseradan korunmuş dünyanın en yaşlı asmalarından bazıları Barossa'dadır. Coonawarra'nın Cabernet'i, Clare ve Eden Valley'nin Riesling'i, Hunter Valley'nin Semillon'u ve Margaret River'ın Bordeaux harmanları ülkenin çok yönlülüğünü gösterir.",
+      "sistem": "GI (Geographical Indication) sistemi tamamen coğrafidir: Güneydoğu Avustralya gibi çok eyaletli zonlar → eyalet → zon → bölge (ör. Barossa Valley) → alt bölge. Etiketteki bölge, çeşit ve yıl için en az %85 kuralı geçerlidir (Label Integrity Program). Resmî kalite hiyerarşisi yoktur; en itibarlı özel sınıflandırma, ikincil piyasa (müzayede) performansına dayanan ve 1991'den beri yayımlanan Langton's Classification of Australian Wine'dır (en üst kategori: 'Exceptional'). Barossa'da bağ yaşını belgeleyen Old Vine Charter vardır: Old Vine (35+ yıl), Survivor (70+), Centenarian (100+), Ancestor (125+).",
+      "bolgeler": [
+        {
+          "id": "barossa",
+          "ad": "Barossa (Barossa Valley ve Eden Valley)",
+          "alt": [
+            "Barossa Valley",
+            "Eden Valley",
+            "Ebenezer",
+            "Moppa",
+            "Marananga"
+          ],
+          "iklim": "Barossa Valley sıcak ve kurak Akdeniz iklimi; komşu Eden Valley daha yüksek rakımlı ve serindir.",
+          "toprak": "Kumlu tın, kırmızı kahverengi kil ve demirli topraklar; Eden Valley'de sığ, kayalık topraklar.",
+          "uzumler": [
+            "Shiraz",
+            "Grenache",
+            "Mourvèdre (Mataro)",
+            "Cabernet Sauvignon",
+            "Riesling (Eden Valley)",
+            "Semillon"
+          ],
+          "stil": "Dolgun, yüksek alkollü, siyah meyve, çikolata, meyankökü ve baharat notalı, yumuşak tanenli Shiraz; GSM (Grenache-Shiraz-Mataro) harmanları. Eden Valley'nin Riesling'leri limonlu ve kuru, Hill of Grace ise yüksek rakımın zarif Shiraz'ıdır.",
+          "siniflandirma": "1840'larda Silezyalı Lutheran göçmenler tarafından kurulan bağlarda filoksera hiç görülmediği için 100 yaşın üzerinde asmalar hâlâ üretimdedir. Penfolds Grange: Penfolds şarapçısı Max Schubert 1950'deki Bordeaux gezisinden etkilenerek ilk deneysel rekolteyi 1951'de yaptı. Yönetim 1957'de olumsuz eleştiriler nedeniyle üretimi yasakladı ama Schubert 1959'a kadar gizlice sürdürdü. Bugün Grange birden fazla bölgeden (çoğu zaman Barossa ağırlıklı) seçilmiş Shiraz ve az miktarda Cabernet Sauvignon'un Amerikan meşesinde harmanıdır ve Avustralya'nın 'premier cru'su sayılır.",
+          "ikonlar": [
+            "Penfolds Grange",
+            "Henschke Hill of Grace",
+            "Torbreck RunRig",
+            "Chris Ringland",
+            "Rockford Basket Press",
+            "Two Hands",
+            "Yalumba The Octavius"
+          ],
+          "iyi_yillar": [
+            "2005",
+            "2010",
+            "2012",
+            "2015"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Barossa_Valley_(wine)",
+            "https://en.wikipedia.org/wiki/Penfolds_Grange",
+            "https://www.barossawine.com",
+            "https://www.langtons.com.au/langtons-classification",
+            "https://www.winespectator.com/vintage-charts/region/barossa-and-mclaren-vale"
+          ]
+        },
+        {
+          "id": "coonawarra",
+          "ad": "Coonawarra",
+          "alt": [
+            "Limestone Coast zonu",
+            "Penola"
+          ],
+          "iklim": "Güney Okyanusu'na yakın serin ve ılıman iklim; Bordeaux ile kıyaslanabilir sıcaklık toplamları.",
+          "toprak": "Ünlü 'terra rossa': kireçtaşı üzerinde ince kırmızı, demirli toprak tabakası; yaklaşık 15 km uzunluğunda dar bir şerit halindedir.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Shiraz",
+            "Merlot"
+          ],
+          "stil": "Avustralya'nın en klasik Cabernet Sauvignon'ları: siyah frenk üzümü, nane, okaliptüs ve sedir notalı, sıkı tanenli, yıllanabilir kırmızılar.",
+          "siniflandirma": "GI sınırlarının tartışmalı biçimde terra rossa şeridi ile çizilmesi Avustralya'nın 'terroir' tartışmalarının simgesi oldu. Bölge 1890'da John Riddoch tarafından kuruldu.",
+          "ikonlar": [
+            "Wynns Coonawarra Estate John Riddoch",
+            "Balnaves",
+            "Majella",
+            "Parker Coonawarra Estate",
+            "Katnook Odyssey"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Coonawarra_wine_region",
+            "https://www.coonawarra.org"
+          ]
+        },
+        {
+          "id": "avustralya-diger",
+          "ad": "Margaret River, Hunter Valley, Clare Valley, Yarra Valley",
+          "alt": [
+            "Margaret River (Batı Avustralya)",
+            "Hunter Valley (Yeni Güney Galler)",
+            "Clare Valley (Güney Avustralya)",
+            "Yarra Valley (Victoria)",
+            "McLaren Vale",
+            "Tasmanya"
+          ],
+          "iklim": "Margaret River Hint Okyanusu etkili ılıman; Hunter sıcak ve nemli; Clare karasal ve kurak; Yarra ve Tasmanya serindir.",
+          "toprak": "Margaret River'da laterit ve granit; Hunter'da kumlu tın ve kil; Clare'de arduvaz ve terra rossa.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Chardonnay",
+            "Semillon",
+            "Riesling",
+            "Pinot Noir",
+            "Shiraz"
+          ],
+          "stil": "Margaret River zarif Bordeaux harmanları ve dünya standardında Chardonnay; Hunter Valley'nin düşük alkollü, meşesiz Semillon'u gençken limonlu, yıllandıkça tostlu ve ballı; Clare Valley'nin kemik kuru, limonlu Riesling'i; Yarra ve Tasmanya'nın serin iklim Pinot Noir ve köpüklüleri.",
+          "siniflandirma": "GI sistemi geçerlidir; prestij Langton's Classification ve üretici itibarıyla belirlenir.",
+          "ikonlar": [
+            "Leeuwin Estate Art Series Chardonnay",
+            "Cullen Diana Madeline",
+            "Moss Wood",
+            "Tyrrell's Vat 1 Semillon",
+            "Grosset Polish Hill Riesling",
+            "Giaconda (Beechworth)"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Australian_wine",
+            "https://en.wikipedia.org/wiki/Margaret_River_wine_region",
+            "https://www.wineaustralia.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yeni-zelanda",
+      "ad": "Yeni Zelanda",
+      "bayrak": "🇳🇿",
+      "ozet": "Görece genç bir şarap ülkesi ama 1980'lerden beri Marlborough Sauvignon Blanc'ı ile kendi stilini yaratıp dünyaya kabul ettirdi. Okyanusla çevrili serin iklim, yoğun aromatik ve canlı asitli şaraplar üretir. Güneydeki Central Otago, dünyanın en güneydeki önemli bağ bölgelerinden biri olarak Pinot Noir'da yükselen bir yıldızdır.",
+      "sistem": "2016-2017 itibarıyla uygulanmaya başlayan Coğrafi İşaretler (Şarap ve Alkollü İçkiler) Tescil Yasası kapsamında tescil edilen GI'lar (ör. Marlborough, Central Otago, Hawke's Bay) coğrafi menşe sağlar; kalite hiyerarşisi yoktur. Çeşit, bölge ve yıl için en az %85 kuralı uygulanır. Sürdürülebilirlik sertifikası (Sustainable Winegrowing New Zealand) sektörün büyük kısmını kapsar.",
+      "bolgeler": [
+        {
+          "id": "marlborough",
+          "ad": "Marlborough",
+          "alt": [
+            "Wairau Valley",
+            "Southern Valleys",
+            "Awatere Valley"
+          ],
+          "iklim": "Güney Adası'nın kuzeydoğusunda, dağların yağmur gölgesinde güneşli, kuru ve serin iklim; gündüz sıcak, geceler soğuk. Uzun olgunlaşma süresi aromayı ve asidi korur.",
+          "toprak": "Wairau'da nehir kaynaklı alüvyal çakıl ve tın; Southern Valleys'de kil; Awatere'de daha yüksek ve serin teraslar.",
+          "uzumler": [
+            "Sauvignon Blanc",
+            "Pinot Noir",
+            "Chardonnay",
+            "Pinot Gris",
+            "Riesling"
+          ],
+          "stil": "Tutku meyvesi, greyfurt, yeşil biber, kesilmiş çimen ve frenk üzümü yaprağı notalı, patlayıcı aromalı ve canlı asitli Sauvignon Blanc. Sancerre'den daha meyveli ve yoğundur; dünyada yeni bir stil kategorisi yarattı. Ülkenin şarap üretiminin büyük kısmı bu bölgededir.",
+          "siniflandirma": "Marlborough'ya ilk ticari bağlar 1973'te dikildi. 1985'te kurulan Cloudy Bay, bölgenin Sauvignon Blanc'ını uluslararası bir ikona dönüştürdü.",
+          "ikonlar": [
+            "Cloudy Bay",
+            "Dog Point",
+            "Greywacke",
+            "Seresin",
+            "Te Whare Ra"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Marlborough_wine_region",
+            "https://en.wikipedia.org/wiki/New_Zealand_wine",
+            "https://www.nzwine.com"
+          ]
+        },
+        {
+          "id": "central-otago",
+          "ad": "Central Otago",
+          "alt": [
+            "Gibbston",
+            "Bannockburn",
+            "Bendigo",
+            "Cromwell Basin",
+            "Wanaka",
+            "Alexandra"
+          ],
+          "iklim": "Ülkenin tek gerçek karasal iklimli bölgesi: sıcak, kuru yazlar, soğuk kışlar, bahar donu riski ve büyük gece-gündüz farkı. Dünyanın en güneydeki önemli şarap bölgelerinden biridir.",
+          "toprak": "Şist kökenli çakıl ve lös; buzul tortuları.",
+          "uzumler": [
+            "Pinot Noir",
+            "Pinot Gris",
+            "Riesling",
+            "Chardonnay"
+          ],
+          "stil": "Koyu kiraz, ahududu, kekik ve baharat notalı, saf meyveli ve canlı asitli Pinot Noir. Bannockburn ve Bendigo daha olgun ve dolgun, Gibbston daha serin ve zariftir.",
+          "siniflandirma": "Resmî sınıflandırma yoktur; prestij alt bölge ve üreticiye dayanır.",
+          "ikonlar": [
+            "Felton Road",
+            "Rippon",
+            "Burn Cottage",
+            "Mount Difficulty",
+            "Two Paddocks"
+          ],
+          "iyi_yillar": [
+            "2010",
+            "2016",
+            "2019",
+            "2020"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Central_Otago_wine_region",
+            "https://www.nzwine.com",
+            "https://www.winespectator.com/vintage-charts/region/new-zealand"
+          ]
+        },
+        {
+          "id": "yz-diger",
+          "ad": "Hawke's Bay ve Martinborough",
+          "alt": [
+            "Gimblett Gravels (Hawke's Bay)",
+            "Bridge Pa Triangle",
+            "Martinborough (Wairarapa)"
+          ],
+          "iklim": "Hawke's Bay ülkenin en güneşli ve sıcak bölgelerinden; Martinborough serin ve rüzgârlı.",
+          "toprak": "Gimblett Gravels: eski nehir yatağından kalan, ısıyı tutan çakıl; Martinborough'da alüvyal teras.",
+          "uzumler": [
+            "Syrah",
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Chardonnay",
+            "Pinot Noir"
+          ],
+          "stil": "Hawke's Bay Kuzey Rhône'u hatırlatan karabiberli Syrah'lar ve Bordeaux harmanları; Martinborough ülkenin öncü Pinot Noir bölgelerinden biridir.",
+          "siniflandirma": "Gimblett Gravels, üretici birliğinin kendi tanımladığı bir alt bölge markasıdır.",
+          "ikonlar": [
+            "Te Mata Coleraine",
+            "Craggy Range",
+            "Ata Rangi",
+            "Dry River"
+          ],
+          "iyi_yillar": [],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/Hawke%27s_Bay_wine_region",
+            "https://www.nzwine.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guney-afrika",
+      "ad": "Güney Afrika",
+      "bayrak": "🇿🇦",
+      "ozet": "Yeni Dünya'nın en eski şarap ülkesi: Cape'te ilk şarap 1659'da yapıldı. 18. ve 19. yüzyılda Constantia'nın tatlı şarapları Avrupa saraylarında efsaneydi. Apartheid sonrasında dünya pazarına açılan ülke, bugün yaşlı asma Chenin Blanc'ları, Stellenbosch'un Bordeaux harmanları ve kendi melezi Pinotage ile hem değer hem prestij sunuyor.",
+      "sistem": "Wine of Origin (WO) sistemi 1973'te kuruldu ve coğrafidir: Coğrafi Birim (ör. Western Cape) → Bölge (ör. Coastal Region) → Bölge altı ilçe (District, ör. Stellenbosch) → Ward (ör. Simonsberg-Stellenbosch). Ayrıca tek bağ ve 'Estate' ifadeleri vardır. Çeşit, yıl ve menşe için %85 kuralı geçerlidir. Şişe boynundaki Integrity & Sustainability mührü menşe ve sürdürülebilirliği belgeler. Old Vine Project, 35 yaşın üzerindeki bağları 'Certified Heritage Vineyard' olarak işaretler.",
+      "bolgeler": [
+        {
+          "id": "stellenbosch",
+          "ad": "Stellenbosch ve Cape Winelands",
+          "alt": [
+            "Stellenbosch (Simonsberg-Stellenbosch, Helderberg, Jonkershoek)",
+            "Constantia",
+            "Franschhoek",
+            "Paarl",
+            "Swartland",
+            "Hemel-en-Aarde (Walker Bay)",
+            "Elgin"
+          ],
+          "iklim": "Akdeniz iklimi; False Bay'den esen serin rüzgârlar ve Atlantik'in soğuk Benguela Akıntısı sıcaklığı dengeler. Güneydoğudan esen 'Cape Doctor' rüzgârı bağları kuru tutar.",
+          "toprak": "Dağ yamaçlarında ayrışmış granit, Table Mountain kumtaşı ve şist; Swartland'de granit ve şist.",
+          "uzumler": [
+            "Cabernet Sauvignon",
+            "Pinotage",
+            "Syrah",
+            "Chenin Blanc",
+            "Chardonnay",
+            "Sauvignon Blanc",
+            "Cinsault"
+          ],
+          "stil": "Stellenbosch Cabernet ve Bordeaux harmanları Eski Dünya ile Yeni Dünya arasında, yapılı ve hafif otsu. Pinotage dumanlı, böğürtlenli ve yer yer muzlu-kahveli notalar verir. Chenin Blanc ülkenin en çok dikilen beyazıdır; yaşlı asmalardan dolgun ve karmaşık şaraplar yapılır. Hemel-en-Aarde ve Elgin serin iklim Pinot Noir ve Chardonnay'leriyle öne çıkar.",
+          "siniflandirma": "Pinotage, Stellenbosch Üniversitesi'nin ilk bağcılık profesörü Abraham Izak Perold tarafından 1920'lerin ortasında Pinot Noir ile Cinsaut (o zamanki yerel adıyla Hermitage) çaprazlanarak geliştirildi; adı bu iki ebeveynden gelir. Constantia, 1685'te Simon van der Stel tarafından kurulan tarihî mülküyle Vin de Constance tatlı şarabının vatanıdır. Swartland 2000'lerde Eben Sadie gibi üreticilerin öncülüğündeki 'Swartland devrimi' ile yaşlı asma ve az müdahaleli şarapçılığın merkezi oldu.",
+          "ikonlar": [
+            "Kanonkop Paul Sauer / Pinotage",
+            "Meerlust Rubicon",
+            "Klein Constantia Vin de Constance",
+            "Sadie Family Wines",
+            "Mullineux",
+            "Hamilton Russell Vineyards",
+            "Rust en Vrede"
+          ],
+          "iyi_yillar": [
+            "2005",
+            "2009",
+            "2015",
+            "2017"
+          ],
+          "kaynak": [
+            "https://en.wikipedia.org/wiki/South_African_wine",
+            "https://en.wikipedia.org/wiki/Pinotage",
+            "https://en.wikipedia.org/wiki/Stellenbosch_(wine_region)",
+            "https://www.wosa.co.za",
+            "https://www.winespectator.com/vintage-charts/region/south-africa"
+          ]
+        }
+      ]
+    }
+  ],
+  "prestij_piramidi": {
+    "aciklama": "Bu piramit resmî bir sınıflandırma değildir; dünyanın en prestijli şaraplarını düşünmek için bir çerçevedir. Sıralamayı belirleyen ölçütler: (1) Kıtlık – üretim miktarı ve dağıtımın kısıtlılığı; (2) Kanıtlanmış geçmiş – onlarca yıl boyunca tutarlı kalite ve iyi yıllanma; (3) Resmî ya da kurumsal sınıflandırma – 1855 Premier Cru, Burgonya Grand Cru, VDP Grosse Lage, Langton's 'Exceptional' gibi; (4) İkincil piyasa – müzayede ve tüccar fiyatları, fiyatın yıllar içindeki istikrarı; (5) Eleştirmen konsensüsü – farklı eleştirmenlerin ve tadım panellerinin uzun dönemli değerlendirmeleri; (6) Terroir'in benzersizliği – başka hiçbir yerde kopyalanamayan bir parsel ya da tarz. Bir şarabın katmanı yıl, üretici değişikliği ve piyasa ile kayabilir; burada verilen örnekler genel kabulü yansıtır.",
+    "katmanlar": [
+      {
+        "id": "efsane-kult",
+        "ad": "Efsane / Kült",
+        "aciklama": "Piramidin tepesi. Bu şaraplar çoğu zaman birkaç bin, hatta birkaç yüz kasa üretilir; satın almak için tahsis listesine girmek gerekir ve fiyatları ikincil piyasada belirlenir. Hepsini birleştiren nokta, bağın ya da üreticinin kopyalanamaz olmasıdır: Romanée-Conti'nin 1,8 hektarlık monopole parseli, Pétrus'un mavi kili, Screaming Eagle'ın Oakville'deki küçük bağı gibi. Bu katmanda şarap artık bir içecekten çok bir koleksiyon nesnesi ve kültürel semboldür. Kalite elbette çok yüksektir ama fiyatı belirleyen asıl etken kıtlık ve efsanedir.",
+        "ornekler": [
+          "Domaine de la Romanée-Conti – Romanée-Conti ve La Tâche (Burgonya)",
+          "Pétrus ve Le Pin (Pomerol)",
+          "Domaine Leroy ve Domaine d'Auvenay (Burgonya)",
+          "Screaming Eagle (Napa)",
+          "Château d'Yquem (Sauternes)",
+          "Egon Müller Scharzhofberger Trockenbeerenauslese (Mosel)",
+          "Giacomo Conterno Monfortino (Barolo)",
+          "Krug Clos d'Ambonnay (Champagne)",
+          "Masseto (Toscana)",
+          "Henri Jayer (artık üretilmeyen, müzayedede efsane)"
+        ]
+      },
+      {
+        "id": "premier-cru",
+        "ad": "Premier Cru seviyesi",
+        "aciklama": "Resmî ya da fiilî olarak bölgesinin en üst basamağında yer alan, ölçeği efsanelerden daha büyük ama itibarı aynı ölçüde oturmuş şaraplar. Bordeaux'nun 1855 Premier Cru'ları bu katmanın adını verir; Saint-Émilion'un tarihî 'A' château'ları, Burgonya'nın Grand Cru'ları, Champagne evlerinin prestige cuvée'leri ve Yeni Dünya'nın kendi 'premier cru' konumunu kazanmış ikonları da buradadır. Ortak özellikleri: her yıl üretilmeleri (kötü yıllarda bile ikinci şarapla seçim yapmaları), dünya çapında dağıtılmaları ve onlarca yıllık yıllanma potansiyelleri.",
+        "ornekler": [
+          "Château Lafite Rothschild, Latour, Margaux, Haut-Brion, Mouton Rothschild",
+          "Château Cheval Blanc ve Château Ausone (Saint-Émilion)",
+          "Armand Rousseau Chambertin, Roumier Musigny gibi Burgonya Grand Cru'ları",
+          "Dom Pérignon, Krug Grande Cuvée, Louis Roederer Cristal, Salon",
+          "Tenuta San Guido Sassicaia, Ornellaia, Biondi-Santi Brunello Riserva, Gaja",
+          "Vega Sicilia Único, Dominio de Pingus",
+          "Harlan Estate, Opus One",
+          "Penfolds Grange, Henschke Hill of Grace",
+          "Quinta do Noval Nacional",
+          "Almaviva, Seña"
+        ]
+      },
+      {
+        "id": "klasik-ikonlar",
+        "ad": "Klasik ikonlar",
+        "aciklama": "Şarap bilgisinin referans şişeleri. Fiyatları erişilebilir olmaktan uzak olabilir ama hâlâ 'içmek için' alınırlar ve bir bölgenin ya da stilin ne olduğunu en iyi bu şaraplar öğretir. Bordeaux'nun 'Super Second'ları (Premier Cru'nun hemen altındaki ikinci sınıf château'lar), Kuzey Rhône'un tek bağ Syrah'ları, gelenekçi Barolo ve Rioja üreticileri, büyük Porto evlerinin vintage'ları ve kendi ülkesinin kalitesini dünyaya kanıtlamış öncü şaraplar bu katmandadır.",
+        "ornekler": [
+          "Léoville Las Cases, Pichon Longueville Comtesse de Lalande, Ducru-Beaucaillou, Cos d'Estournel, Palmer (Bordeaux 'Super Second'ları)",
+          "E. Guigal 'La La' Côte-Rôtie'leri, Jean-Louis Chave Hermitage, Château de Beaucastel",
+          "Bartolo Mascarello Barolo, Bruno Giacosa",
+          "R. López de Heredia Viña Tondonia, La Rioja Alta 904",
+          "Taylor's, Graham's, Fonseca vintage Port",
+          "Ridge Monte Bello, Stag's Leap Wine Cellars, Chateau Montelena",
+          "Catena Zapata Adrianna Vineyard, Kanonkop Paul Sauer, Felton Road",
+          "Château Musar, Királyudvar ve Disznókő Tokaji Aszú 6 Puttonyos",
+          "Trimbach Clos Sainte Hune, Robert Weil Kiedrich Gräfenberg"
+        ]
+      },
+      {
+        "id": "deger-sampiyonlari",
+        "ad": "Değer şampiyonları",
+        "aciklama": "Kalite-fiyat oranında dünyanın en iyileri. Bu katman, ünlü bölgelerin 'giriş kapısı' şarapları (büyük üreticilerin bölgesel ve köy şarapları, ikinci şaraplar, Rosso di Montalcino gibi küçük kardeşler) ile ünü henüz fiyatına yansımamış bölgelerden oluşur. Akıllı tüketici için en büyük keşif alanıdır: büyük bir üreticinin sıradan etiketi, sıradan bir üreticinin büyük etiketinden çoğu zaman daha iyidir. Fino Sherry ve Alman Kabinett gibi tarzlar, zahmetli üretimlerine rağmen dünyanın en düşük fiyatlı klasik şarapları arasındadır.",
+        "ornekler": [
+          "Bordeaux Cru Bourgeois ve Premier Cru'ların ikinci şarapları",
+          "Crozes-Hermitage, Saint-Joseph, Côtes du Rhône Villages",
+          "İyi üreticilerden Bourgogne Rouge / Blanc, Mâcon ve Chablis",
+          "Langhe Nebbiolo, Rosso di Montalcino, Chianti Classico Annata, Etna Rosso",
+          "Produttori del Barbaresco",
+          "Rioja Crianza ve Reserva (ör. La Rioja Alta Viña Ardanza, CVNE)",
+          "Fino ve Manzanilla Sherry, LBV Port",
+          "Mosel Kabinett Riesling, Grüner Veltliner Federspiel",
+          "Muscadet Sèvre et Maine sur lie, Loire Cabernet Franc",
+          "Languedoc cru'ları (Pic Saint-Loup, Terrasses du Larzac)",
+          "Santorini Assyrtiko, Naoussa Xinomavro",
+          "Douro sek kırmızıları, Vinho Verde Alvarinho",
+          "Mendoza Malbec, Şili Alto Maipo Cabernet",
+          "Güney Afrika yaşlı asma Chenin Blanc, Cava Reserva"
+        ]
+      }
+    ]
+  },
+  "rekolte_tablosu": {
+    "aciklama": "Önemli 10 bölge için 2010–2023 yıl notları, 5 üzerinden. Veriler Wine Spectator'ın herkese açık rekolte tablolarından (Ekim 2026 itibarıyla) alınan 100 puanlık bölge/yıl notlarının 5'lik ölçeğe dönüştürülmesidir. Wine Spectator notu her yılın 'ws' alanında ayrıca verilmiştir. Bir yıl için tabloda not yoksa veya not yalnızca ön değerlendirme aralığıysa 'puan' boş (null) bırakılmıştır. Decanter'ın rekolte tablosu sayfasına bu çalışma sırasında erişilemediği için kullanılmadı.",
+    "donusum": {
+      "98-100": 5.0,
+      "95-97": 4.5,
+      "92-94": 4.0,
+      "89-91": 3.5,
+      "85-88": 3.0,
+      "80-84": 2.5,
+      "75-79": 2.0,
+      "<75": 1.5
+    },
+    "uyari": "Rekolte notları bölgenin geneline ait ortalama bir göstergedir; iyi üreticiler zor yıllarda da başarılı şarap yapabilir. Wine Spectator notlarını zaman zaman yeniden tadımlarla günceller.",
+    "kaynak": [
+      "https://www.winespectator.com/vintage-charts",
+      "https://www.winespectator.com/articles/about-our-vintage-charts"
+    ],
+    "bolgeler": [
+      {
+        "bolge": "Bordeaux Sol Yaka (Médoc, Pessac-Léognan) – kırmızı",
+        "ws_bolge": "bordeaux-left-bank-reds-medoc-pessac-leognan",
+        "yillar": {
+          "2010": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2011": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2012": {
+            "puan": 3.0,
+            "ws": 88
+          },
+          "2013": {
+            "puan": 2.5,
+            "ws": 84
+          },
+          "2014": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2015": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2016": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2017": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2018": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2019": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2021": {
+            "puan": 2.5,
+            "ws": 84
+          },
+          "2022": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2023": {
+            "puan": 3.5,
+            "ws": 90
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/bordeaux-left-bank-reds-medoc-pessac-leognan"
+        ]
+      },
+      {
+        "bolge": "Burgonya Côte de Nuits – kırmızı",
+        "ws_bolge": "burgundy-cotes-de-nuits-reds",
+        "yillar": {
+          "2010": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2011": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2012": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2013": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2014": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2015": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2016": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2019": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2020": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2021": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2022": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2023": {
+            "puan": 4.5,
+            "ws": 96
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/burgundy-cotes-de-nuits-reds"
+        ]
+      },
+      {
+        "bolge": "Champagne (vintage)",
+        "ws_bolge": "champagne",
+        "yillar": {
+          "2010": {
+            "puan": 3.0,
+            "ws": 88
+          },
+          "2011": {
+            "puan": 2.0,
+            "ws": 79
+          },
+          "2012": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2013": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2014": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2015": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2016": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2017": {
+            "puan": 2.5,
+            "ws": 83
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2019": {
+            "puan": null,
+            "ws": "89–92",
+            "not": "Ön değerlendirme (fıçı örneği) – kesin not verilmedi"
+          },
+          "2020": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          },
+          "2021": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          },
+          "2022": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          },
+          "2023": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/champagne"
+        ]
+      },
+      {
+        "bolge": "Güney Rhône – kırmızı",
+        "ws_bolge": "rhone-southern",
+        "yillar": {
+          "2010": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2011": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2012": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2013": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2014": {
+            "puan": 3.0,
+            "ws": 88
+          },
+          "2015": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2016": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2019": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2021": {
+            "puan": 3.0,
+            "ws": 88
+          },
+          "2022": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2023": {
+            "puan": 4.0,
+            "ws": 94
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/rhone-southern"
+        ]
+      },
+      {
+        "bolge": "Piemonte (Barolo, Barbaresco)",
+        "ws_bolge": "piedmont",
+        "yillar": {
+          "2010": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2011": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2012": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2013": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2014": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2015": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2016": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2019": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2020": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2021": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2022": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          },
+          "2023": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/piedmont"
+        ]
+      },
+      {
+        "bolge": "Brunello di Montalcino",
+        "ws_bolge": "tuscany-brunello-di-montalcino",
+        "yillar": {
+          "2010": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2011": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2012": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2013": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2014": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2015": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2016": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2019": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2021": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2022": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          },
+          "2023": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda henüz yer almıyor (şarap piyasaya çıkmadı)"
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/tuscany-brunello-di-montalcino"
+        ]
+      },
+      {
+        "bolge": "Rioja",
+        "ws_bolge": "rioja",
+        "yillar": {
+          "2010": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2011": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2012": {
+            "puan": 3.5,
+            "ws": 90
+          },
+          "2013": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2014": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2015": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2016": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2017": {
+            "puan": 3.0,
+            "ws": 87
+          },
+          "2018": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2019": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2021": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2022": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2023": {
+            "puan": null,
+            "ws": "88-91",
+            "not": "Ön değerlendirme (fıçı örneği) – kesin not verilmedi"
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/rioja"
+        ]
+      },
+      {
+        "bolge": "Vintage Port",
+        "ws_bolge": "vintage-port",
+        "yillar": {
+          "2010": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda yok (Porto'da genel vintage ilanı yapılmayan yıl olabilir) ya da henüz piyasaya çıkmadı"
+          },
+          "2011": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2012": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda yok (Porto'da genel vintage ilanı yapılmayan yıl olabilir) ya da henüz piyasaya çıkmadı"
+          },
+          "2013": {
+            "puan": null,
+            "ws": null,
+            "not": "Tabloda yok (Porto'da genel vintage ilanı yapılmayan yıl olabilir) ya da henüz piyasaya çıkmadı"
+          },
+          "2014": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2015": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2016": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2017": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2019": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2021": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2022": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2023": {
+            "puan": 4.0,
+            "ws": 93
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/vintage-port"
+        ]
+      },
+      {
+        "bolge": "Napa Vadisi Cabernet Sauvignon",
+        "ws_bolge": "california-cabernet-napa",
+        "yillar": {
+          "2010": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2011": {
+            "puan": 3.0,
+            "ws": 88
+          },
+          "2012": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2013": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2014": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2015": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2016": {
+            "puan": 5.0,
+            "ws": 98
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 92
+          },
+          "2018": {
+            "puan": 5.0,
+            "ws": 99
+          },
+          "2019": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2020": {
+            "puan": 3.0,
+            "ws": 87
+          },
+          "2021": {
+            "puan": 4.5,
+            "ws": 97
+          },
+          "2022": {
+            "puan": 2.5,
+            "ws": 84
+          },
+          "2023": {
+            "puan": 4.5,
+            "ws": 95
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/california-cabernet-napa"
+        ]
+      },
+      {
+        "bolge": "Almanya – Riesling",
+        "ws_bolge": "germany",
+        "yillar": {
+          "2010": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2011": {
+            "puan": 4.5,
+            "ws": 95
+          },
+          "2012": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2013": {
+            "puan": 3.5,
+            "ws": 89
+          },
+          "2014": {
+            "puan": 3.5,
+            "ws": 91
+          },
+          "2015": {
+            "puan": 4.5,
+            "ws": 96
+          },
+          "2016": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2017": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2018": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2019": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2020": {
+            "puan": 4.0,
+            "ws": 94
+          },
+          "2021": {
+            "puan": 3.5,
+            "ws": 90
+          },
+          "2022": {
+            "puan": 4.0,
+            "ws": 93
+          },
+          "2023": {
+            "puan": 4.5,
+            "ws": 96
+          }
+        },
+        "kaynak": [
+          "https://www.winespectator.com/vintage-charts/region/germany"
+        ]
+      }
+    ]
+  }
+}

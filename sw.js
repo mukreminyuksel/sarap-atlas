@@ -1,5 +1,5 @@
 // Şarap Atlası — Service Worker (çevrimdışı destek)
-const CACHE = 'sarap-atlas-v1';
+const CACHE = 'sarap-atlas-v2';
 const ASSETS = [
   './',
   './index.html',

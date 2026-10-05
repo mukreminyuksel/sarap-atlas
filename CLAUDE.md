@@ -1,10 +1,11 @@
 # Şarap Atlası — geliştirici notları
 
-Türkçe şarap atlası: Türkiye ve dünya şarapları, üzümler, bölgeler, prestij ve ödüller, tadım okulu. Yayın: https://sarap-atlas.pages.dev · Depo: `mukreminyuksel/sarap-atlas` (`main`). **Kurulum sürüyor** (bu not, site tamamlandığında güncellenmeli).
+Türkçe şarap atlası: Türkiye ve dünya şarapları, üzümler, bölgeler, prestij ve ödüller, tadım okulu. Yayın: https://sarap-atlas.pages.dev · Depo: `mukreminyuksel/sarap-atlas` (`main`).
 
 ## Çalıştırma
 - Yerel: `python3 -m http.server 8000`; 18 yaş onayı için `localStorage.setItem('sarap_yas','1')`.
-- Veri `arastirma/` dosyalarından üretilir: `python3 arastirma/derle.py` → `index.html` içindeki `DATA` ve `data/*.json`.
+- Veri `arastirma/` dosyalarından üretilir: `python3 arastirma/derle.py` → yalnızca `index.html` içindeki `DATA` bloğunu ve `data/*.json` dosyalarını yeniden yazar. **Arayüz değişikliği doğrudan `index.html`'de yapılır** (derleme sırasında ezilmez).
+- Sekmeler: Keşfet (Katalog, Üzüm Rehberi, Bölgeler), Öğren & Prestij (Tadım Okulu, Prestij & Ödüller), Sofra & Kültür, Öneriler, Mahzenim, Sosyal Buluşmalar, Kaynaklar. Dünya şaraplarında fiyat USD gösterilir; TL için `data/fiyatlar.json` içinde `kur.usd` gerekir (aylık fiyat görevi doldurur).
 
 ## Yapı
 - Türkiye: `ureticiler-trakya|ege|anadolu.json` (163 lisanslı firma, resmî listeye göre), `saraplar-trakya|ege|anadolu.json` (~490 şarap), `lisans-sarap.json`.

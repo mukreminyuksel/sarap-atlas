@@ -540,6 +540,10 @@ header{background:linear-gradient(180deg,rgba(194,51,77,.10),transparent)}
 .rekolte-aciklama{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin:8px 0;font-size:12px;color:var(--muted)}.rk-skala i{display:inline-block;width:14px;height:14px;border-radius:3px;margin:0 4px 0 10px;vertical-align:middle}
 .sc-cubuk.yil{background:linear-gradient(90deg,#3b6ea8,#8fb7d9 30%,#e3b65c 65%,#c2334d)}
 .glass{border-color:var(--amber-soft)}.fill{background:linear-gradient(180deg,#c2334d,#6d1530)}
+.sc-satir.uzun{grid-template-columns:minmax(0,1.3fr) minmax(120px,1.4fr)}.sc-metin{font-size:12.5px;color:var(--amber2);font-weight:700;line-height:1.35}.sc-ad{min-width:0}.sc-d{min-width:0}
+@media(max-width:760px){.sc-satir.uzun{grid-template-columns:1fr}}
+.adim-ip{display:block;margin-top:6px}.gv.ai{color:var(--wine2)}
+@media(max-width:760px){.pk{width:100%!important}}
 
 </style>
 </head>
@@ -2029,6 +2033,7 @@ const bayrak=u=>BAYRAK[u]||'🌍';
 function bayrakYukle(){(BOLGE.ulkeler||[]).forEach(u=>{if(u.bayrak)BAYRAK[u.ad||u.ulke]=u.bayrak;});}
 
 /* ===== DURUM ===== */
+DATA.forEach(b=>{b.dam=b.ure;}); // Raf Asistanı (raf.js) şaraphane adını 'dam' alanından okur
 const LS='sarap_atlas_v1';
 let state=(()=>{try{return JSON.parse(localStorage.getItem(LS)||'null');}catch(e){return null;}})();
 if(!state){state={have:[],target:[],prices:{},custom:[],qty:{},notes:{}};}
@@ -2069,6 +2074,8 @@ function thumb(b){
 }
 function renkNokta(b){return `<span class="renk" style="background:${colorFor(b)}" title="${esc(renkAd(b.renk))}"></span>`;}
 function avail(b){return `<span class="avail av-${esc(b.bul)}">${AV_TXT[b.bul]||esc(b.bul)}</span>`;}
+const trAra=s=>String(s||'').toLocaleLowerCase('tr').replace(/[ıİ]/g,'i').replace(/ş/g,'s').replace(/ç/g,'c').replace(/ğ/g,'g').replace(/ö/g,'o').replace(/ü/g,'u').replace(/â/g,'a').replace(/î/g,'i').replace(/û/g,'u').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/\s+/g,' ').trim();
+const araUyar=(metin,q)=>{const m=trAra(metin);return trAra(q).split(' ').filter(Boolean).every(k=>m.includes(k));};
 const trNorm=s=>String(s||'').toLocaleLowerCase('tr').replace(/[ıİ]/g,'i').replace(/ş/g,'s').replace(/ç/g,'c').replace(/ğ/g,'g').replace(/ö/g,'o').replace(/ü/g,'u').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'');
 
 /* ===== VERİ DOSYALARI (data/*.json) ===== */
@@ -2107,10 +2114,10 @@ function flavorsOf(b){
 
 /* ===== FİLTRELER ===== */
 function sayi(id){const v=document.getElementById(id);return v&&v.value!==''?+v.value:null;}
-function aramaMetni(b){return b._ara||(b._ara=[b.ad,b.ure,b.il,b.ulke,bolgeAdi(b),b.bolgeAd,b.alt,renkAd(b.renk),(b.uzum||[]).join(' '),b.tat,b.odul,b.sinif].join(' ').toLocaleLowerCase('tr'));}
+function aramaMetni(b){return b._ara||(b._ara=trAra([b.ad,b.ure,b.il,b.ulke,bolgeAdi(b),b.bolgeAd,b.alt,renkAd(b.renk),(b.uzum||[]).join(' '),b.tat,b.odul,b.sinif].join(' ')));}
 function passFilters(b){
-  const q=document.getElementById('search').value.trim().toLocaleLowerCase('tr');
-  if(q&&!aramaMetni(b).includes(q))return false;
+  const q=trAra(document.getElementById('search').value);
+  if(q&&!q.split(' ').every(k=>aramaMetni(b).includes(k)))return false;
   const st=document.getElementById('fStatus').value;
   if(st==='have'&&!state.have.includes(b.id))return false;
   if(st==='missing'&&state.have.includes(b.id))return false;
@@ -2468,8 +2475,8 @@ function uzumRenk(u){return u.renk==='beyaz'?'#e9dc8f':u.renk==='kirmizi'?'#a324
 function renderUzum(){
   const box=document.getElementById('uzumBox');if(!box)return;
   if(!UZUMLER.length){box.innerHTML='<div class="empty">Üzüm rehberi yükleniyor…</div>';return;}
-  const q=(document.getElementById('uzumAra').value||'').toLocaleLowerCase('tr').trim();
-  const uy=u=>!q||[u.ad,u.bolge,(u.bolgeler||[]).join(' '),u.koken,u.karakter,u.eslesme,(u.aromalar||[]).join?u.aromalar.join(' '):u.aromalar,u.turkiyede].join(' ').toLocaleLowerCase('tr').includes(q);
+  const q=document.getElementById('uzumAra').value||'';
+  const uy=u=>!q.trim()||araUyar([u.ad,u.bolge,(u.bolgeler||[]).join(' '),u.koken,u.karakter,u.eslesme,(u.aromalar||[]).join?u.aromalar.join(' '):u.aromalar,u.turkiyede].join(' '),q);
   const dn=denenenUzumler();
   const kart=u=>{const n=u.katalog||uzumSaraplari(u.id).length,ok=dn.has(u.id),txt=String(u.karakter||u.aciklama||u.not||'');
     return `<div class="stilkart" data-uzum="${esc(u.id)}"><div class="sk-ust"><span class="renk buyuk" style="background:${uzumRenk(u)}"></span><div><div class="sk-ad">${esc(u.ad)}${ok?' <span title="Denedin" style="color:var(--have)">✓</span>':''}</div><div class="sk-tr">${u.renk==='beyaz'?'Beyaz üzüm':u.renk==='kirmizi'?'Kırmızı üzüm':''}${u.bolge?' · '+esc(String(u.bolge).split(/[;,]/)[0]):''}</div></div></div>
@@ -2713,7 +2720,7 @@ function renderKultur(){
 }
 function terimCiz(){
   const k=document.getElementById('terimListe');if(!k||!KULTUR)return;
-  const q=TERIM_Q.toLocaleLowerCase('tr').trim(),te=(KULTUR.terimler||[]).filter(t=>!q||(t.terim+' '+t.aciklama).toLocaleLowerCase('tr').includes(q)).sort((a,b)=>a.terim.localeCompare(b.terim,'tr'));
+  const q=TERIM_Q.toLocaleLowerCase('tr').trim(),te=(KULTUR.terimler||[]).filter(t=>!q||araUyar(t.terim+' '+t.aciklama,q)).sort((a,b)=>a.terim.localeCompare(b.terim,'tr'));
   k.innerHTML=te.length?`<div class="terimler">${te.map(t=>`<div class="terim"><b>${esc(t.terim)}</b><span>${esc(t.aciklama)}</span></div>`).join('')}</div>`:'<div class="empty">Bu aramaya uyan terim yok.</div>';
 }
 document.addEventListener('input',e=>{if(e.target.id==='terimAra'){TERIM_Q=e.target.value;terimCiz();}});
@@ -2758,11 +2765,11 @@ function renderPrestij(){
   const PP=BOLGE.prestij_piramidi,pk=liste(PP);
   const katSay=k=>allBottles().filter(b=>b.katman===k).length;
   if(pk.length){
-    html+=`<h3 class="stilaile">🔺 Prestij piramidi</h3>${PP&&!Array.isArray(PP)&&nMetin(PP)?`<p class="dt-txt" style="color:var(--muted);margin-bottom:8px">${esc(nMetin(PP))}</p>`:''}<div class="piramit">${pk.map((x,i)=>{const ad=nBaslik(x)||String(x),k=Object.keys(KATMAN).find(z=>trNorm(ad).includes(z.replace('deger','deger')));const w=Math.round(34+66*i/Math.max(1,pk.length-1));
+    html+=`<h3 class="stilaile">🔺 Prestij piramidi</h3>${PP&&!Array.isArray(PP)&&nMetin(PP)?`<p class="dt-txt" style="color:var(--muted);margin-bottom:8px">${esc(nMetin(PP))}</p>`:''}<div class="piramit">${pk.map((x,i)=>{const ad=nBaslik(x)||String(x),k=Object.keys(KATMAN).find(z=>trNorm(ad).includes(z.replace('deger','deger')));const w=Math.round(62+38*i/Math.max(1,pk.length-1));
       const orn=x&&typeof x==='object'?(x.ornekler||x.saraplar||x.ornek):null;
       return `<div class="pk" style="width:${w}%"><div class="pk-ad">${esc(ad)}${k&&katSay(k)?` <small>· katalogda ${katSay(k)}</small>`:''}</div>${nMetin(x)?`<div class="pk-txt">${esc(nMetin(x))}</div>`:''}${orn?`<div class="pk-txt">${esc(Array.isArray(orn)?orn.map(o=>typeof o==='object'?nBaslik(o):o).join(', '):orn)}</div>`:''}</div>`;}).join('')}</div>`;
   }else if(KATMAN_SIRA.some(katSay)){
-    html+=`<h3 class="stilaile">🔺 Katalogdaki prestij katmanları</h3><div class="piramit">${KATMAN_SIRA.map((k,i)=>`<div class="pk" style="width:${34+22*i}%"><div class="pk-ad">${KATMAN[k].e} ${KATMAN[k].ad} <small>· ${katSay(k)} şarap</small></div><div class="pk-txt">${esc(KATMAN[k].d)}</div></div>`).join('')}</div>`;
+    html+=`<h3 class="stilaile">🔺 Katalogdaki prestij katmanları</h3><div class="piramit">${KATMAN_SIRA.map((k,i)=>`<div class="pk" style="width:${62+12*i}%"><div class="pk-ad">${KATMAN[k].e} ${KATMAN[k].ad} <small>· ${katSay(k)} şarap</small></div><div class="pk-txt">${esc(KATMAN[k].d)}</div></div>`).join('')}</div>`;
   }
   if(KATMAN_SIRA.some(katSay))html+=`<div class="aromarow" style="margin:10px 0 4px">${KATMAN_SIRA.filter(katSay).map(k=>`<span class="aroma" data-katmangit="${k}">${KATMAN[k].e} ${KATMAN[k].ad} şaraplarını katalogda gör (${katSay(k)})</span>`).join('')}</div>`;
   // Rekolte tablosu
@@ -2859,6 +2866,11 @@ function aralikCubuk(metin,max,min0){
   const lo=Math.max(0,(a-min0)/(max-min0)*100),w=Math.max(3,Math.min(100-lo,(b-a)/(max-min0)*100));
   return `<div style="left:${lo.toFixed(1)}%;width:${w.toFixed(1)}%"></div>`;
 }
+function olcekSatir(ad,ornek,deger,birim,max,min0,cls){
+  const d=String(deger||'');
+  if(/^[\d.,+\s\-–]+$/.test(d))return `<div class="sc-satir"><div class="sc-ad">${esc(ad)}<div class="dt-mini">${esc(ornek||'')}</div></div><div class="sc-cubuk ${cls||''}">${aralikCubuk(d,max,min0)}</div><div class="sc-d">${esc(d)}${birim}</div></div>`;
+  return `<div class="sc-satir uzun"><div class="sc-ad">${esc(ad)}<div class="dt-mini">${esc(ornek||'')}</div></div><div class="sc-metin">${esc(d)}${/\d/.test(d)?birim:''}</div></div>`;
+}
 function okulBasliklar(t,e){return `<h3 class="stilaile" style="margin-top:26px">${e} ${t}</h3>`;}
 function renderOkul(){
   const box=document.getElementById('okulBox');if(!box)return;
@@ -2866,7 +2878,7 @@ function renderOkul(){
   const O=OKUL;let html='';
   // 1. Beş adım
   const ad=O.adimlar||[];
-  if(ad.length)html+=`<div class="gkart"><h3>🍷 Sistematik tadım: ${ad.length} adımda</h3><p class="dt-txt" style="color:var(--muted);margin-bottom:6px">${esc((O._meta&&O._meta.aciklama)||'')}</p><div class="adimlar">${ad.map(a=>`<div><span><b>${esc(a.ad)}</b> — ${esc(a.ne_yapilir)}${a.ipucu?`<div class="ipucu" style="margin-top:6px">💡 ${esc(a.ipucu)}</div>`:''}</span></div>`).join('')}</div></div>`;
+  if(ad.length)html+=`<div class="gkart"><h3>🍷 Sistematik tadım: ${ad.length} adımda</h3><p class="dt-txt" style="color:var(--muted);margin-bottom:6px">${esc((O._meta&&O._meta.aciklama)||'')}</p><div class="adimlar">${ad.map(a=>`<div><span><b>${esc(a.ad)}</b> — ${esc(a.ne_yapilir)}${a.ipucu?`<span class="ipucu adim-ip">💡 ${esc(a.ipucu)}</span>`:''}</span></div>`).join('')}</div></div>`;
   // 2. Kadehte renk
   const R=O.renk||{};
   if(okulRenkleri().length){
@@ -2915,7 +2927,7 @@ function renderOkul(){
   // 7. Servis
   const S=O.servis_ileri||{};
   if(S.sicaklik){
-    html+=okulBasliklar('Servis sıcaklığı ve ekipman','🌡️')+`<div class="gkart"><div class="dt-txt" style="margin-bottom:10px">${esc(S.sicaklik.aciklama)}</div><div class="sicaklik">${(S.sicaklik.tablo||[]).map(s=>`<div class="sc-satir"><div class="sc-ad">${esc(s.stil)}<div class="dt-mini">${esc(s.ornekler||'')}</div></div><div class="sc-cubuk">${aralikCubuk(s.sicaklik_c,20,4)}</div><div class="sc-d">${esc(s.sicaklik_c)}°C</div></div>`).join('')}</div>
+    html+=okulBasliklar('Servis sıcaklığı ve ekipman','🌡️')+`<div class="gkart"><div class="dt-txt" style="margin-bottom:10px">${esc(S.sicaklik.aciklama)}</div><div class="sicaklik">${(S.sicaklik.tablo||[]).map(s=>olcekSatir(s.stil,s.ornekler,s.sicaklik_c,'°C',20,4,'')).join('')}</div>
       <div class="sc-olcek"><span>4°C</span><span></span><span>20°C</span></div></div>`;
     html+='<div class="tesisgrid">';
     if(S.kadehler)html+=`<div class="gkart"><h3>🍷 Kadeh tipleri</h3><div class="dt-txt">${esc(S.kadehler.aciklama)}</div>${(S.kadehler.tipler||[]).map(t=>`<div class="nk-satir"><b>${esc(t.ad)}:</b> ${esc(t.kullanim)}</div>`).join('')}${S.kadehler.not?`<p class="note">${esc(S.kadehler.not)}</p>`:''}</div>`;
@@ -2927,7 +2939,7 @@ function renderOkul(){
   // 8. Yıllanma
   const Y=O.yillanma||{};
   if((Y.tablo||[]).length){
-    html+=okulBasliklar('Yıllanma','⏳')+`<div class="gkart"><div class="dt-txt" style="margin-bottom:10px">${esc(Y.giris||'')}</div><div class="sicaklik yilsc">${Y.tablo.map(s=>`<div class="sc-satir"><div class="sc-ad">${esc(s.stil)}<div class="dt-mini">${esc(s.ornekler||'')}</div></div><div class="sc-cubuk yil">${aralikCubuk(s.sure_yil,50,0)}</div><div class="sc-d">${esc(s.sure_yil)} yıl</div></div>`).join('')}</div>
+    html+=okulBasliklar('Yıllanma','⏳')+`<div class="gkart"><div class="dt-txt" style="margin-bottom:10px">${esc(Y.giris||'')}</div><div class="sicaklik yilsc">${Y.tablo.map(s=>olcekSatir(s.stil,s.ornekler,s.sure_yil,' yıl',50,0,'yil')).join('')}</div>
       <div class="sc-olcek"><span>0</span><span></span><span>50 yıl</span></div>
       ${(Y.yillanma_ne_yapar||[]).length?`<div class="dt-sec"><h4>Yıllanma ne yapar?</h4>${Y.yillanma_ne_yapar.map(x=>`<div class="nk-satir">• ${esc(x)}</div>`).join('')}</div>`:''}</div>`;
   }
@@ -3345,7 +3357,7 @@ document.getElementById('addBtn').onclick=()=>{
   const ad=document.getElementById('naAd').value.trim();if(!ad){alert('Şarabın adı gerekli.');return;}
   const id='ozel-'+Date.now(),ure=document.getElementById('naDam').value.trim()||'Diğer şaraphaneler';
   const uzum=document.getElementById('naUzum').value.split(',').map(x=>x.trim()).filter(Boolean),uz=uzum.map(a=>{const u=uzumAdBul(a);return u?u.id:trNorm(a);});
-  state.custom.push({id,ad,ure,ulke:'Türkiye',bolge:'diger',renk:document.getElementById('naKat').value,uzum,uz,abv:parseFloat(document.getElementById('naAbv').value)||0,
+  state.custom.push({id,ad,ure,dam:ure,ulke:'Türkiye',bolge:'diger',renk:document.getElementById('naKat').value,uzum,uz,abv:parseFloat(document.getElementById('naAbv').value)||0,
     tat:'',not:'Kendi eklediğin şarap',puan:0,tl:parseInt(document.getElementById('naTl').value)||0,tlK:'',yil:'',bul:'sarapci',kaynak:[]});
   state.have.push(id);state.qty[id]=1;['naAd','naDam','naUzum','naAbv','naTl'].forEach(x=>document.getElementById(x).value='');
   save();renderAll();
