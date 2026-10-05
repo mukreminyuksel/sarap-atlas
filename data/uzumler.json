@@ -1,0 +1,4155 @@
+{
+ "_aciklama": "Üzüm rehberi: rehber=true olanların ayrıntısı araştırma dosyalarından; rehber=false olanlar yalnızca katalogda geçen üzümler.",
+ "uzumler": [
+  {
+   "id": "okuzgozu",
+   "ad": "Öküzgözü",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Elazığ (Maden, Sivrice), Malatya; bugün Kapadokya, Denizli-Çal, Ege ve Trakya bağlarında da",
+   "karakter": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar.",
+   "eslesme": "Güveçler, kebaplar, isli yemekler, hünkâr beğendi, ızgara kırmızı et.",
+   "ornek_ureticiler": [
+    "Kavaklıdere",
+    "Eskibağlar",
+    "Ninova",
+    "Vinkara",
+    "Turasan",
+    "Lucien Arkas Bağları",
+    "Kutman"
+   ],
+   "not": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+   ],
+   "rehber": true,
+   "katalog": 51
+  },
+  {
+   "id": "bogazkere",
+   "ad": "Boğazkere",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Diyarbakır (Dicle havzası); Elazığ ve diğer sıcak iç bölgeler; Kapadokya, Ege ve Denizli'de de dikili",
+   "karakter": "Geç olgunlaşan, kalın kabuklu, küçük taneli bir üzüm. Yoğun renk, yüksek ve kurutan tanen, sağlam yapı ve orta asit verir; vişne, kiraz ve baharat notaları taşır. Meşe olgunlaştırması tanenini yumuşatır, yıllanma potansiyeli yüksektir.",
+   "eslesme": "Soslu baharatlı etler, kebaplar, mangal, kuzu tandır, olgun ve sert peynirler.",
+   "ornek_ureticiler": [
+    "Kavaklıdere",
+    "Vinkara",
+    "Turasan",
+    "Ninova",
+    "Eskibağlar",
+    "Midyat Shiluh",
+    "Kalvi (Chateau Kalecik)"
+   ],
+   "not": "Adı \"boğazı yakan\" anlamına gelir; ağızda bıraktığı belirgin tanen hissini anlatır. En klasik kupaj eşi Öküzgözü'dür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/bogazkere",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+   ],
+   "rehber": true,
+   "katalog": 36
+  },
+  {
+   "id": "kalecik-karasi",
+   "ad": "Kalecik Karası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Ankara-Kalecik ve Kızılırmak vadisi; Kapadokya, Denizli, Trakya",
+   "karakter": "Düşük-orta tanen, parlak asit ve kiraz-ahududu gibi kırmızı meyve aromalarıyla zarif, orta gövdeli şaraplar verir. Meşede dinlendirilmiş daha gövdeli yorumları ve rozeleri de yaygındır.",
+   "eslesme": "Pide, domates soslu etler, ızgara pirzola, hafif kırmızı et yemekleri.",
+   "ornek_ureticiler": [
+    "Kavaklıdere",
+    "Vinkara",
+    "Kalvi (Chateau Kalecik)",
+    "Tomurcukbağ",
+    "Tafali",
+    "Kuzubağ",
+    "Turasan"
+   ],
+   "not": "Filoksera ve uzun süreli ihmal nedeniyle yok olmanın eşiğine gelmiş; 1970'lerde Ankara Üniversitesi'nden Prof. Dr. Y. Sabit Ağaoğlu'nun klon seleksiyonu çalışmalarıyla yeniden canlandırılmıştır. Sık sık Pinot Noir'a benzetilir ama botanik olarak akraba değildir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/kalecik-karasi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1"
+   ],
+   "rehber": true,
+   "katalog": 35
+  },
+  {
+   "id": "papazkarasi",
+   "ad": "Papazkarası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Trakya: Tekirdağ, Edirne, Kırklareli (Lüleburgaz)",
+   "karakter": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+   "eslesme": "Izgara köfte, Trakya mutfağının etli sebze yemekleri, hafif kırmızı etler.",
+   "ornek_ureticiler": [
+    "Chamlija",
+    "Prius",
+    "Edrine",
+    "Ellez Bağcılık",
+    "Paşaeli"
+   ],
+   "not": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 12
+  },
+  {
+   "id": "karasakiz",
+   "ad": "Karasakız (Kuntra)",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Bozcaada (Kuntra adıyla), Gelibolu Yarımadası, Avşa Adası",
+   "karakter": "Erken olgunlaşan, ince kabuklu bir çeşittir. Düşük tanen, orta-düşük asit ve görece yüksek alkol; kiraz, çilek ve baharat notalarıyla hafif-orta gövdeli şaraplar verir, tarzı sıkça Gamay'a benzetilir.",
+   "eslesme": "Mezeler, ızgara balık, hafif et yemekleri; rozeleri yaz sofralarına.",
+   "ornek_ureticiler": [
+    "Corvus",
+    "Çamlıbağ",
+    "Talay",
+    "Ataol",
+    "Suvla",
+    "Kutman",
+    "Paşaeli"
+   ],
+   "not": "Kuntra, Bozcaada'daki yerel adıdır. Roze ve köpüklü şarap yapımına da çok uygundur; Bozcaada'da sıkça Karalahna ile harmanlanır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/karasakiz",
+    "https://www.vitikultur.com/tr/uzumler/karalahna"
+   ],
+   "rehber": true,
+   "katalog": 7
+  },
+  {
+   "id": "karalahna",
+   "ad": "Karalahna",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Bozcaada; Gelibolu ve Mürefte'de sınırlı",
+   "karakter": "Koyu renk, yüksek asit ve belirgin tanen yapısıyla orta-tam gövdeli şaraplar verir. Siyah erik, kara kiraz ve ahududu aromaları taşır; meşeye iyi yanıt verir.",
+   "eslesme": "Izgara kırmızı et, kuzu, güveç yemekleri, sert peynirler.",
+   "ornek_ureticiler": [
+    "Corvus",
+    "Talay",
+    "Çamlıbağ",
+    "Ataol",
+    "Suvla",
+    "Kutman"
+   ],
+   "not": "Adı \"kara lahana\" anlamına gelir. Slow Food'un Lezzet Gemisi (Ark of Taste) kataloğunda yer alır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/karalahna",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 3
+  },
+  {
+   "id": "calkarasi",
+   "ad": "Çalkarası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Denizli-Çal; yaklaşık 1.200 m'ye varan yüksek kalkerli platolar",
+   "karakter": "Düşük pigmentli bir siyah üzümdür; açık renkli şaraplar ve özellikle kaliteli rozeler verir. Orta-yüksek asit, düşük tanen; çilek, ahududu, vişne ve hafif çiçeksi notalar taşır.",
+   "eslesme": "Deniz ürünleri, hafif baharatlı yemekler, mezeler.",
+   "ornek_ureticiler": [
+    "Pamukkale Şarapçılık",
+    "Kuzubağ",
+    "Lermonos",
+    "Ezel",
+    "Paşaeli"
+   ],
+   "not": "Çalkarası ve \"Çal Karası\" aynı üzümün iki yazımıdır. Hafif kırmızı ve köpüklü roze de yapılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/calkarasi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 9
+  },
+  {
+   "id": "adakarasi",
+   "ad": "Adakarası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Avşa Adası (Marmara); Marmara kıyısı ve Doğu Trakya",
+   "karakter": "Kalın kabuklu, mor taneli bir üzümdür. Yaklaşık %12 alkol ve parlak asitle ferah, baharatlı, orta gövdeli kırmızı ve rozeler verir; kırmızı meyve, tatlı baharat ve karabiber belirgindir.",
+   "eslesme": "Izgara balık, midye dolma, mezeler, hafif etler.",
+   "ornek_ureticiler": [
+    "Büyülübağ"
+   ],
+   "not": "Adı \"adanın karası\" demektir. Vitikultur'a göre 2025'te Avşa Adakarası, coğrafi işaret tescili alan ilk Türk şarabı olmuştur.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/adakarasi"
+   ],
+   "rehber": true,
+   "katalog": 2
+  },
+  {
+   "id": "urla-karasi",
+   "ad": "Urla Karası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Urla Yarımadası (İzmir)",
+   "karakter": "Orta-yüksek tanen, koyu meyve karakteri ve belirgin baharatlı notalarla orta-tam gövdeli kırmızılar verir. Volkanik tüf ve kireçli kayalık topraklara iyi uyum sağlar.",
+   "eslesme": "Izgara etler, Ege usulü kuzu yemekleri, baharatlı köfteler.",
+   "ornek_ureticiler": [
+    "Urla Şarapçılık",
+    "Urlice Bağı",
+    "USCA"
+   ],
+   "not": "Türkiye'nin en az ekilen yerli kırmızılarından biridir; Urla bağ rotası üreticilerinin eski bahçelerden aldığı çeliklerle yeniden yaygınlaşmıştır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/urla-karasi"
+   ],
+   "rehber": true,
+   "katalog": 2
+  },
+  {
+   "id": "foca-karasi",
+   "ad": "Foça Karası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Foça (İzmir); Urla",
+   "karakter": "Geç olgunlaşan, koyu ve kalın kabuklu taneli bir üzümdür. Kırmızı, roze ve blanc de noir tarzlarında ve harmanlarda kullanılır; geleneksel pekmez yapımında da değerlendirilir.",
+   "eslesme": "Ege mezeleri, ızgara etler; rozeleri deniz ürünleriyle.",
+   "ornek_ureticiler": [
+    "USCA"
+   ],
+   "not": "Yaklaşık 2.600 yıllık geçmişe sahip olduğu ve antik Phokaia ile ilişkilendirildiği belirtilir; Slow Food Lezzet Gemisi kataloğundadır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/foca-karasi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 5
+  },
+  {
+   "id": "acikara",
+   "ad": "Acıkara",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Antalya-Elmalı (antik Likya), yüksek rakımlı kalkerli topraklar",
+   "karakter": "Kalın kabuklu, yüksek tanenli, fenolik açıdan zengin bir çeşit. Yoğun mor-siyah renkte, orta gövdeli şaraplar; karabiber, kara kiraz, erik ve böğürtlen aromaları.",
+   "eslesme": "Yağlı peynirler, ızgara kırmızı et, av etleri.",
+   "ornek_ureticiler": [
+    "Likya Şarapları",
+    "Kuzubağ"
+   ],
+   "not": "Neredeyse kaybolmuşken Likya Bağları tarafından tek bir yaban asmadan yeniden keşfedilmiştir (2002-2003). Adı \"acı, kara\" anlamına gelir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/acikara",
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "dimrit",
+   "ad": "Dimrit",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Isparta-Senirkent, Burdur; Kapadokya",
+   "karakter": "Yüksek şeker içeriğiyle bilinir. Senirkent siyah Dimrit'inin nitelikli kırmızı şarap verebildiği belirtilir; ayrıntılı tanen-asit profili kaynaklarda az belgelenmiştir.",
+   "eslesme": "Etli sebze yemekleri, hafif kırmızı etler.",
+   "ornek_ureticiler": [
+    "Evenez Şarap Evi"
+   ],
+   "not": "Bulgaristan'ın Dimyat üzümüyle aynı değildir. Sofralık, sirke, şıra ve pekmez için de kullanılır; genetik çalışmalara göre Narince'nin ebeveynlerinden biridir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/dimrit",
+    "https://en.wikipedia.org/wiki/Narince_(grape)"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "cakal",
+   "ad": "Çakal",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Ege (Paşaeli tarafından işleniyor)",
+   "karakter": "İnce kabuklu, erken olgunlaşan, pembemsi kabuklu \"gri\" bir üzümdür; roze yapımına uygundur. Düşük tanen, orta asit; çilek reçeli, tropik meyve ve mango notaları.",
+   "eslesme": "Yaz mezeleri, salatalar, hafif deniz ürünleri.",
+   "ornek_ureticiler": [
+    "Paşaeli"
+   ],
+   "not": "Erken olgunlaşan tanelerini tepelerden inen çakallar yediği için bu adı aldığı aktarılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/cakal"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "patkara",
+   "ad": "Patkara",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Mersin (Silifke, Çömelek), Toros eteklerinde 900-1.400 m",
+   "karakter": "Koyu yakut renkli, aromatik bir kırmızı; mürdüm eriği, böğürtlen ve baharat notaları, diri asit ve yumuşak tanenle orta gövdeli şaraplar verir.",
+   "eslesme": "Izgara etler, Akdeniz usulü baharatlı yemekler.",
+   "ornek_ureticiler": [
+    "Tasheli",
+    "Selefkia"
+   ],
+   "not": "Toros Dağları'nın endemik üzümlerinden biri; Tasheli ve Selefkia bağları tarafından şaraba kazandırılmıştır.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 3
+  },
+  {
+   "id": "fersun",
+   "ad": "Fersun",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Antalya-Elmalı",
+   "karakter": "Açık yakut renkli, aroması yoğun; çilek, vişne ve gül notalarıyla orta gövdeli, yumuşak tanenli bir şarap verir.",
+   "eslesme": "Hafif etler, sebze yemekleri, mezeler.",
+   "ornek_ureticiler": [
+    "Likya Şarapları (Arkeo serisi)"
+   ],
+   "not": "Likya'nın Arkeo serisi altında şişelenen endemik üzümlerdendir.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "knidos-karasi",
+   "ad": "Knidos Karası",
+   "renk": "kirmizi",
+   "yerli": true,
+   "bolge": "Datça Yarımadası (Muğla)",
+   "karakter": "Koyu yakut renkli; nar ve orman meyvesi gibi ekşimsi notalar, canlı asit ve yumuşak tanenle orta gövdeli, meyvemsi bir şarap verir.",
+   "eslesme": "Ege otlarıyla pişen etler, ızgara balık, mezeler.",
+   "ornek_ureticiler": [
+    "Knidos"
+   ],
+   "not": "Datça Yarımadası'nın lokal üzümü olarak Knidos bağevi tarafından şişelenir.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "narince",
+   "ad": "Narince",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Tokat (Niksar, Yeşilırmak havzası); Kapadokya, Trakya, Ege",
+   "karakter": "Orta-yüksek asit, narenciye, taş meyvesi ve hafif bal nüanslı, dengeli kuru beyazlar verir. Meşeye uygundur ve on yıla kadar yıllanabilir.",
+   "eslesme": "Yağlı ızgara balık, baharatlı tavuk, patlıcan salatası, Karadeniz zeytinyağlıları, hamsi tava, otlu peynir.",
+   "ornek_ureticiler": [
+    "Kavaklıdere",
+    "Vinkara",
+    "Turasan",
+    "Kocabağ",
+    "Lucien Arkas Bağları",
+    "Chamlija",
+    "Kuzubağ"
+   ],
+   "not": "Adı \"narin\" sözcüğünden gelir; ince kabuğuna gönderme yapar. Genetik çalışmalar Kalecik Karası ile Dimrit'in doğal melezi olduğunu gösterir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/narince",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://en.wikipedia.org/wiki/Narince_(grape)"
+   ],
+   "rehber": true,
+   "katalog": 28
+  },
+  {
+   "id": "emir",
+   "ad": "Emir",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Kapadokya: Nevşehir, Ürgüp, Avanos, Gülşehir",
+   "karakter": "Yüksek asit, ince yapı ve mineral karakterle öne çıkar; çok açık renkli, yeşil elma ve narenciye aromalı kuru beyazlar verir. Köpüklü şarap için de kullanılır.",
+   "eslesme": "Yağlı balıklar, domates soslu tavuk, sirkesiz salatalar, kuşkonmaz, kabuklu deniz ürünleri, kremalı beyaz soslar.",
+   "ornek_ureticiler": [
+    "Turasan",
+    "Kocabağ",
+    "Kavaklıdere (Côtes d'Avanos)",
+    "Evenez",
+    "S'narin",
+    "Deniz Şarapçılık"
+   ],
+   "not": "Adının bölgedeki beylerin sofralarında tercih edilmesinden geldiği anlatılır. Volkanik tüf toprak ve yüksek rakımın gece-gündüz farkı asidini korur.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/emir",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://en.wikipedia.org/wiki/Emir_(grape)"
+   ],
+   "rehber": true,
+   "katalog": 15
+  },
+  {
+   "id": "hasandede",
+   "ad": "Hasandede",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Kırıkkale (Hasandede köyü), Keskin; Ankara çevresi",
+   "karakter": "İnce kabuklu, orta taneli beyaz bir üzüm. Çiçeksi ve narenciye parfümlü, portakal kabuğu, yeşil elma, armut ve şeftali notalı, yumuşak dokulu ve görece dolgun beyazlar verir.",
+   "eslesme": "Tavuk yemekleri, hafif mezeler, beyaz peynirler.",
+   "ornek_ureticiler": [
+    "Vinkara"
+   ],
+   "not": "Yapılaşma nedeniyle dikim alanı ciddi biçimde azalmıştır; Vinkara bu üzümü şişeleyen az sayıdaki üreticiden biridir.",
+   "kaynak": [
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+    "https://degustasyon.net/vinkara-atelier-hasandede-2023-ankara/"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "sultaniye",
+   "ad": "Sultaniye",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Manisa, Denizli, İzmir",
+   "karakter": "Çekirdeksiz, ince kabuklu, düşük asitli bir üzümdür. Kuru ya da yarı kuru, hafif gövdeli, yeşil elma ve narenciye notalı yalın ve ferah beyazlar verir.",
+   "eslesme": "Izgara veya buğulama balık, kabuklu deniz ürünleri, tavuk.",
+   "ornek_ureticiler": [
+    "Pamukkale Şarapçılık",
+    "Ezel",
+    "Kuzubağ",
+    "Paşaeli"
+   ],
+   "not": "Dünyada Sultana / Thompson Seedless olarak bilinir. Asıl kullanımı sofralık ve kuru üzümdür; ayrıca rakının ana üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/sultaniye",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 9
+  },
+  {
+   "id": "bornova-misketi",
+   "ad": "Bornova Misketi",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "İzmir (Bornova, Urla), Manisa, Denizli platoları",
+   "karakter": "Muscat ailesinden; düşük asitli, yoğun çiçeksi ve aromatik bir üzüm. Kurudan yarı tatlıya ve geç hasat tatlılara uzanan beyaz şaraplar verir.",
+   "eslesme": "Kuru tarzları aperatif, deniz mezeleri ve salatalarla; tatlıları ayva tatlısı, karamelli tatlılar ve küflü peynirlerle.",
+   "ornek_ureticiler": [
+    "Urla Şarapçılık",
+    "USCA",
+    "Perdix",
+    "Lucien Arkas Bağları",
+    "Nif Bağları",
+    "Pamukkale Şarapçılık"
+   ],
+   "not": "Anadolu koşullarında yüzyıllar içinde ayrışmış bir Muscat (Muscat Blanc à Petits Grains) koludur; sofralık olarak da tüketilir. Hasat zamanlaması kritiktir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/bornova-misketi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 12
+  },
+  {
+   "id": "cavus",
+   "ad": "Çavuş",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Bozcaada; sınırlı Çanakkale anakarası",
+   "karakter": "Orta asit, hafif aromatik ve taze meyve karakterli, ferah beyaz şaraplar verir. Aşırı olgunlaşınca asidi düşer.",
+   "eslesme": "Ada mezeleri, ızgara balık, otlu salatalar.",
+   "ornek_ureticiler": [
+    "Corvus",
+    "Talay",
+    "Çamlıbağ",
+    "Ataol"
+   ],
+   "not": "Bozcaada'da sofralık üzüm olarak da tüketilir; sıkça Vasilaki ile kupaj yapılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/cavus"
+   ],
+   "rehber": true,
+   "katalog": 2
+  },
+  {
+   "id": "vasilaki",
+   "ad": "Vasilaki",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Bozcaada",
+   "karakter": "İnce kabuklu, küçük taneli bir üzüm. Kuru, açık renkli, canlı asitli; narenciye, portakal kabuğu ve karanfil aromalı ince beyazlar verir. Uzun yıllanmaya uygun değildir.",
+   "eslesme": "Deniz ürünleri, ızgara balık, zeytinyağlılar.",
+   "ornek_ureticiler": [
+    "Corvus",
+    "Talay",
+    "Çamlıbağ",
+    "Ataol"
+   ],
+   "not": "1900'lerin başında Dedeağaç'tan adaya getirildiği aktarılır. Slow Food Lezzet Gemisi kataloğunda yer alır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/vasilaki",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 3
+  },
+  {
+   "id": "kolorko",
+   "ad": "Kolorko",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Trakya: Şarköy ve Uçmakdere çevresi",
+   "karakter": "Geç olgunlaşan, düşük verimli bir çeşit. Oldukça aromatik, hafif gövdeli, düşük alkollü ve belirgin yüksek asitli şaraplar verir; kimi zaman misket üzümlerine benzetilir.",
+   "eslesme": "Hafif mezeler, balık, otlu yemekler.",
+   "ornek_ureticiler": [
+    "Paşaeli"
+   ],
+   "not": "1960'lardan sonra dikim alanı hızla daraldı; 2000'lere gelindiğinde birkaç üreticide birkaç asma kalmıştı.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/kolorko"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "yapincak",
+   "ad": "Yapıncak",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Trakya: Şarköy, Mürefte (Tekirdağ)",
+   "karakter": "İnce kabuklu, geç olgunlaşan bir üzüm. Elma, armut ve ayva aromalı, orta-düşük asitli beyazlar; ferah kuru, meşede dinlendirilmiş ve geleneksel yöntemle köpüklü tarzlar yapılır.",
+   "eslesme": "Lüfer, sardalya, yumuşak peynirler.",
+   "ornek_ureticiler": [
+    "Paşaeli"
+   ],
+   "not": "Yetiştirilmesi zor ve düşük verimlidir; tatlı şarap üretimine de uygundur.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/yapincak",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "sidalan",
+   "ad": "Sıdalan",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Kaz Dağları çevresi (Çanakkale, Balıkesir)",
+   "karakter": "Canlı, yüksek asitli; hafif-orta gövdeli, narenciye, armut ve tropik meyve notalı, ıslak taş mineralliği ve tuzumsu bitişli beyazlar verir. Köpüklüye de uygundur.",
+   "eslesme": "İstiridye, midye, çiğ deniz ürünleri, ızgara balık.",
+   "ornek_ureticiler": [
+    "Paşaeli"
+   ],
+   "not": "Geçmişte Çanakkale Şarap Fabrikası'nda kanyak için yetiştirilirdi; damıtımevi kapanınca neredeyse yok olmuştu.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/sidalan"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "kerkus",
+   "ad": "Kerküş",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Mardin-Midyat (Güneydoğu Anadolu)",
+   "karakter": "Beyaz sayılsa da kabukları yoğun pigmentlidir; tek başına yapıldığında amber renkli, bir miktar tanenli, dokulu şaraplar verir. Yüksek şeker içerir.",
+   "eslesme": "Baharatlı Mezopotamya mezeleri, içli köfte, kaburga dolması.",
+   "ornek_ureticiler": [
+    "Midyat Shiluh Süryani Şarapçılık"
+   ],
+   "not": "Bölgenin Süryani şarapçılık geleneğinin parçasıdır; Shiluh tarafından Mazrona ile harmanlanır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/kerkus"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "mazrona",
+   "ad": "Mazrona",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Mardin-Midyat",
+   "karakter": "İnce kabuklu, terroire duyarlı, geç (çoğunlukla ekimde) olgunlaşan bir çeşit. Harmanlarda ferah, kuru ve mineral karakterli beyazlara katkı verir.",
+   "eslesme": "Mezeler, tavuk ve sebze yemekleri.",
+   "ornek_ureticiler": [
+    "Midyat Shiluh Süryani Şarapçılık"
+   ],
+   "not": "Tek başına şişelenen örnekleri azdır; Süryani şarapçılık mirasına bağlıdır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/mazrona"
+   ],
+   "rehber": true,
+   "katalog": 3
+  },
+  {
+   "id": "gokuzum",
+   "ad": "Göküzüm",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Mersin (Toros etekleri)",
+   "karakter": "Kabuk temaslı (turuncu/amber) tarzda yapıldığında olgun kayısı, ıhlamur ve çiçeksi notalar, orta tanen ve orta asitle hafif buruk bir şarap verir.",
+   "eslesme": "Baharatlı mezeler, sebze yemekleri, olgun peynirler.",
+   "ornek_ureticiler": [
+    "Tasheli"
+   ],
+   "not": "Tasheli'nin \"Kehribar\" şarabında yaklaşık 15 gün kabuk temasıyla işlenmiştir.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 1
+  },
+  {
+   "id": "akuzum",
+   "ad": "Aküzüm",
+   "renk": "beyaz",
+   "yerli": true,
+   "bolge": "Mersin (Silifke, Toros etekleri)",
+   "karakter": "Açık limon sarısı; otsu, altın elma ve ayva notalı, düşük asitli, hafif-orta gövdeli beyazlar verir.",
+   "eslesme": "Zeytinyağlılar, hafif balık ve tavuk.",
+   "ornek_ureticiler": [
+    "Selefkia",
+    "Tasheli"
+   ],
+   "not": "Toros'ta goble usulü yaşlı bağlarda yetiştirilir.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ],
+   "rehber": true,
+   "katalog": 3
+  },
+  {
+   "id": "cabernet-sauvignon",
+   "ad": "Cabernet Sauvignon",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli, Elmalı",
+   "karakter": "Kalın kabuklu Bordeaux üzümü; yüksek tanen, orta-yüksek asit ve tam gövde. Kuşüzümü, kara kiraz, sedir ve meşeden gelen vanilya-tütün notaları; yıllanmaya çok uygundur.",
+   "eslesme": "Kuzu tandır, biftek, ızgara pirzola, sert peynirler.",
+   "ornek_ureticiler": [
+    "Likya",
+    "Suvla",
+    "Kutman",
+    "Urla Şarapçılık",
+    "Chateau Kalpak",
+    "Barel"
+   ],
+   "not": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; çoğunlukla Merlot ve yerli üzümlerle kupaj yapılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Cabernet_Sauvignon",
+    "https://winefolly.com/grapes/cabernet-sauvignon/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Bordeaux. DNA analizleri 1990'larda (UC Davis) Cabernet Franc ile Sauvignon Blanc'ın 17. yüzyılda kendiliğinden melezlenmesiyle oluştuğunu gösterdi.",
+   "bolgeler": [
+    "Bordeaux sol yaka (Médoc: Pauillac, Margaux, Saint-Julien, Saint-Estèphe)",
+    "Napa Vadisi (Kaliforniya)",
+    "Coonawarra ve Margaret River (Avustralya)",
+    "Maipo (Şili)",
+    "Toskana (Bolgheri, 'Süper Toskanlar')",
+    "Washington",
+    "Güney Afrika (Stellenbosch)"
+   ],
+   "aromalar": [
+    "siyah frenk üzümü (cassis)",
+    "siyah kiraz",
+    "böğürtlen",
+    "yeşil biber",
+    "nane / okaliptüs",
+    "sedir",
+    "grafit",
+    "vanilya (meşe)",
+    "tütün (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Günlük örnekler 3-7 yıl; iyi Bordeaux ve Napa örnekleri 15-30 yıl ve üzeri.",
+   "ikon_saraplar": [
+    "Château Latour",
+    "Château Lafite Rothschild",
+    "Château Mouton Rothschild",
+    "Screaming Eagle (Napa)",
+    "Sassicaia (Bolgheri)",
+    "Penfolds Bin 707"
+   ],
+   "turkiyede": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli ve Elmalı'da yetişir. Hem tek çeşit hem de Merlot ve yerli üzümlerle kupaj olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Chateau Kalpak, Barbare, Likya, Urla Şarapçılık, Kutman, Lucien Arkas Bağları.",
+   "dunya": true,
+   "katalog": 154
+  },
+  {
+   "id": "merlot",
+   "ad": "Merlot",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Trakya, Gelibolu, Ege, Elmalı",
+   "karakter": "Yumuşak-orta tanen, orta asit ve dolgun meyve; erik, böğürtlen ve çikolata notaları. Cabernet Sauvignon'dan daha yuvarlak ve erken içime hazırdır.",
+   "eslesme": "Kebaplar, köfte, mantar yemekleri, kırmızı soslu makarnalar.",
+   "ornek_ureticiler": [
+    "Suvla",
+    "Ayda",
+    "Claros",
+    "Arcadia",
+    "Badur"
+   ],
+   "not": "Bordeaux kupajlarında Cabernet ile birlikte sıkça kullanılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Merlot",
+    "https://winefolly.com/grapes/merlot/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Bordeaux. Cabernet Franc ile Magdeleine Noire des Charentes'in çocuğudur; Cabernet Sauvignon'un üvey kardeşidir.",
+   "bolgeler": [
+    "Bordeaux sağ yaka (Pomerol, Saint-Émilion)",
+    "Toskana (Bolgheri, Masseto)",
+    "Washington (Columbia Valley)",
+    "Napa ve Sonoma",
+    "Şili",
+    "Kuzey İtalya",
+    "Ticino (İsviçre)"
+   ],
+   "aromalar": [
+    "siyah erik",
+    "siyah kiraz",
+    "ahududu",
+    "çikolata",
+    "kakao",
+    "vanilya",
+    "defne yaprağı",
+    "trüf (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Günlük örnekler 2-5 yıl; Pomerol ve Saint-Émilion'un iyi örnekleri 10-30 yıl.",
+   "ikon_saraplar": [
+    "Château Pétrus",
+    "Le Pin",
+    "Château Cheval Blanc (Cabernet Franc ile)",
+    "Masseto",
+    "Leonetti Cellar Merlot (Washington)"
+   ],
+   "turkiyede": "Trakya, Gelibolu, Ege ve Elmalı'da yaygın olarak dikilir; Bordeaux tarzı kupajlarda ve tek çeşit olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Ayda, Claros, Arcadia, Badur, Chateau Kalpak, Kutman.",
+   "dunya": true,
+   "katalog": 100
+  },
+  {
+   "id": "syrah",
+   "ad": "Syrah / Shiraz",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Ege (Urla, Selçuk, Bodrum), Trakya, Denizli, Datça",
+   "karakter": "Koyu renkli, orta-yüksek tanenli, tam gövdeli; karabiber, böğürtlen, menekşe ve dumanlı notalar. Sıcak bölgelerde daha olgun ve yumuşak, serin bölgelerde daha baharatlı olur.",
+   "eslesme": "Adana kebap, baharatlı ızgaralar, kokoreç, isli etler.",
+   "ornek_ureticiler": [
+    "Çakır",
+    "Urlice",
+    "Mozaik",
+    "Karnas",
+    "Barbare",
+    "Erdel"
+   ],
+   "not": "Ege'de iyi uyum sağlamış, hem tek başına hem GSM tarzı kupajlarda kullanılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Syrah",
+    "https://winefolly.com/grapes/syrah/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Kuzey Rhône. DNA analizleri Dureza ile Mondeuse Blanche'ın çocuğu olduğunu gösterdi; İran'daki Şiraz şehriyle bağlantısı bir efsanedir.",
+   "bolgeler": [
+    "Kuzey Rhône (Hermitage, Côte-Rôtie, Cornas, Saint-Joseph, Crozes-Hermitage)",
+    "Güney Rhône ve Languedoc (kupajlarda)",
+    "Barossa ve McLaren Vale (Avustralya)",
+    "Washington",
+    "Kaliforniya",
+    "Hawke's Bay (Yeni Zelanda)",
+    "Güney Afrika"
+   ],
+   "aromalar": [
+    "böğürtlen",
+    "yaban mersini",
+    "siyah erik",
+    "karabiber",
+    "menekşe",
+    "zeytin",
+    "füme et / pastırma",
+    "meyan kökü",
+    "çikolata (Shiraz)"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta-yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Günlük örnekler 3-6 yıl; Hermitage, Côte-Rôtie ve en iyi Barossa Shiraz 15-30 yıl.",
+   "ikon_saraplar": [
+    "Penfolds Grange",
+    "Henschke Hill of Grace",
+    "Jean-Louis Chave Hermitage",
+    "E. Guigal 'La La' serisi (La Mouline, La Landonne, La Turque)",
+    "Paul Jaboulet Aîné Hermitage La Chapelle"
+   ],
+   "turkiyede": "Ege'ye (Urla, Selçuk, Bodrum, Datça) ve Trakya'ya iyi uyum sağlamıştır; tek çeşit ve kupaj olarak yaygındır. Yetiştirenlerden bazıları: Urla Şarapçılık, Çakır, Mozaik, Karnas, Barbare, Erdel, Lucien Arkas Bağları, Likya.",
+   "dunya": true,
+   "katalog": 96
+  },
+  {
+   "id": "cabernet-franc",
+   "ad": "Cabernet Franc",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Gelibolu, Trakya, Urla, Bodrum, Elmalı",
+   "karakter": "Orta gövde, orta-yüksek asit, ince tanen; kırmızı meyve, kırmızı biber ve otsu notalar. Cabernet Sauvignon'dan daha zarif ve aromatiktir.",
+   "eslesme": "Izgara sebze, kuzu şiş, domatesli etler.",
+   "ornek_ureticiler": [
+    "USCA",
+    "Dvin Urla",
+    "Chateau Gali",
+    "Caeli",
+    "Likya"
+   ],
+   "not": "Bordeaux kupajlarının aromatik bileşenidir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Cabernet_Franc",
+    "https://winefolly.com/grapes/cabernet-franc/"
+   ],
+   "rehber": true,
+   "koken": "Büyük olasılıkla İspanya Bask bölgesi; 17. yüzyıldan beri Bordeaux ve Loire'da. Cabernet Sauvignon ve Merlot'nun ebeveynlerinden biridir.",
+   "bolgeler": [
+    "Loire Vadisi (Chinon, Bourgueil, Saumur-Champigny)",
+    "Bordeaux sağ yaka (Saint-Émilion, özellikle Château Cheval Blanc)",
+    "Kuzey İtalya (Friuli) ve Toskana",
+    "Arjantin",
+    "Finger Lakes ve Virginia (ABD)",
+    "Macaristan (Villány)"
+   ],
+   "aromalar": [
+    "kırmızı kiraz",
+    "ahududu",
+    "çilek",
+    "yeşil biber (kırmızı biber)",
+    "grafit / kurşun kalem",
+    "menekşe",
+    "kuru ot",
+    "kırmızı acı biber pul"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "orta",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Loire kırmızıları 3-10 yıl; en iyi Chinon ve Saint-Émilion örnekleri 15-25 yıl.",
+   "ikon_saraplar": [
+    "Château Cheval Blanc (Merlot ile)",
+    "Clos Rougeard (Saumur-Champigny)",
+    "Château Le Puy",
+    "Bernard Baudry Chinon",
+    "Le Macchiole Paleo Rosso"
+   ],
+   "turkiyede": "Gelibolu, Trakya, Urla, Bodrum ve Elmalı'da dikilir; hem Bordeaux tarzı kupajlarda hem tek çeşit olarak. Yetiştirenlerden bazıları: Chamlija, USCA, Dvin Urla, Chateau Gali, Caeli, Likya, Lucien Arkas Bağları.",
+   "dunya": true,
+   "katalog": 76
+  },
+  {
+   "id": "petit-verdot",
+   "ad": "Petit Verdot",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Trakya, Gelibolu, Menderes",
+   "karakter": "Çok koyu renkli, yüksek tanenli ve baharatlı; menekşe, mürekkep ve kara meyve notaları. Genellikle kupajda az oranda kullanılır.",
+   "eslesme": "Kızarmış kırmızı et, av etleri.",
+   "ornek_ureticiler": [
+    "Chateau Gali",
+    "Chateau Kalpak",
+    "Dessera",
+    "Asmadan"
+   ],
+   "not": "Türkiye'de bazı üreticiler tek çeşit olarak da şişeler.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Petit_Verdot",
+    "https://winefolly.com/grapes/petit-verdot/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Bordeaux.",
+   "bolgeler": [
+    "Bordeaux (kupajlarda küçük oranlarda)",
+    "İspanya (La Mancha, Jumilla)",
+    "Avustralya (Riverland, McLaren Vale)",
+    "Virginia ve Kaliforniya (ABD)",
+    "Şili ve Arjantin"
+   ],
+   "aromalar": [
+    "yaban mersini",
+    "böğürtlen",
+    "siyah erik",
+    "menekşe",
+    "leylak",
+    "adaçayı",
+    "kuru kekik",
+    "vanilya (meşe)"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Tek çeşit örnekler 5-15 yıl.",
+   "ikon_saraplar": [
+    "Château Margaux ve Château Latour gibi Médoc kupajlarının bileşeni",
+    "Pirramimma Petit Verdot (McLaren Vale)",
+    "Marqués de Griñón Petit Verdot (Dominio de Valdepusa)"
+   ],
+   "turkiyede": "Trakya, Gelibolu ve Ege'de dikilir; bazı üreticiler tek çeşit olarak da şişeler. Yetiştirenlerden bazıları: Chateau Gali, Chateau Kalpak, Dessera, Asmadan, Mozaik, Perdix, Lucien Arkas Bağları.",
+   "dunya": true,
+   "katalog": 40
+  },
+  {
+   "id": "pinot-noir",
+   "ad": "Pinot Noir",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Ege (Urla, Gömeç), Denizli-Çal",
+   "karakter": "İnce kabuklu; açık renk, düşük-orta tanen, yüksek asit; çilek, kiraz ve toprak notalı zarif kırmızılar. Serin mikroklima ister.",
+   "eslesme": "Levrek, somon, ördek, mantarlı yemekler.",
+   "ornek_ureticiler": [
+    "Perdix",
+    "Ma'adra",
+    "Küp Şarapçılık"
+   ],
+   "not": "Sıcak iklimde zor yetişir; Türkiye'de yüksek rakım ve rüzgârlı parsellerde denenir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Pinot_noir",
+    "https://winefolly.com/grapes/pinot-noir/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Burgundy. En eski kültür üzümlerinden biridir; Pinot Gris ve Pinot Blanc aynı üzümün renk mutasyonlarıdır.",
+   "bolgeler": [
+    "Burgundy (Côte de Nuits, Côte de Beaune)",
+    "Champagne (köpüklü)",
+    "Oregon (Willamette Valley)",
+    "Kaliforniya (Sonoma Coast, Santa Rita Hills)",
+    "Yeni Zelanda (Central Otago, Martinborough)",
+    "Almanya (Spätburgunder)",
+    "Avustralya (Yarra Valley, Tazmanya)"
+   ],
+   "aromalar": [
+    "kırmızı kiraz",
+    "ahududu",
+    "çilek",
+    "kızılcık",
+    "gül",
+    "menekşe",
+    "mantar",
+    "orman zemini",
+    "baharat (meşe)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük-orta",
+    "govde": "hafif-orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Günlük örnekler 2-5 yıl; Premier Cru Burgundy 8-15 yıl; Grand Cru 15-30 yıl.",
+   "ikon_saraplar": [
+    "Domaine de la Romanée-Conti Romanée-Conti",
+    "Domaine Leroy Musigny",
+    "Domaine Armand Rousseau Chambertin",
+    "Domaine Drouhin Oregon",
+    "Felton Road (Central Otago)"
+   ],
+   "turkiyede": "Sıcak iklim nedeniyle zor yetişir; serin, rüzgârlı ya da yüksek rakımlı parsellerde denenir. Yetiştirenlerden bazıları: Chamlija ve Arcadia (Trakya), Perdix (Urla), Ma'adra (Gömeç), Küp Şarapçılık (Denizli-Çal), Likya (Elmalı), Ellez.",
+   "dunya": true,
+   "katalog": 37
+  },
+  {
+   "id": "grenache",
+   "ad": "Grenache",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Ege (Çeşme, Gömeç), Tekirdağ",
+   "karakter": "Açık-orta renk, düşük-orta tanen, yüksek alkol; çilek, ahududu ve beyaz biber notaları. Roze yapımında da çok kullanılır.",
+   "eslesme": "Izgara etler, mezeler, rozeleri yaz yemekleriyle.",
+   "ornek_ureticiler": [
+    "Buradan",
+    "Barbare",
+    "Aura"
+   ],
+   "not": "Syrah ve Mourvèdre ile GSM kupajlarının parçasıdır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Grenache",
+    "https://winefolly.com/grapes/grenache/"
+   ],
+   "rehber": true,
+   "koken": "İspanya, büyük olasılıkla Aragón (Garnacha). Sardinya'da Cannonau adıyla bilinir; kökeni konusunda Sardinya ile İspanya arasında tartışma sürer.",
+   "bolgeler": [
+    "Güney Rhône (Châteauneuf-du-Pape, Gigondas, Vacqueyras)",
+    "İspanya (Priorat, Campo de Borja, Calatayud, Navarra rozeleri)",
+    "Sardinya (Cannonau)",
+    "McLaren Vale ve Barossa (Avustralya)",
+    "Roussillon (Banyuls tatlı şarapları)",
+    "Provence (roze)"
+   ],
+   "aromalar": [
+    "çilek",
+    "ahududu",
+    "kirş (kiraz likörü)",
+    "kurutulmuş kırmızı meyve",
+    "beyaz biber",
+    "meyan kökü",
+    "garrigue (kekik, biberiye)",
+    "portakal kabuğu"
+   ],
+   "yapi": {
+    "asit": "düşük-orta",
+    "tanen": "düşük-orta",
+    "govde": "orta-dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Roze ve günlük kırmızılar 1-4 yıl; Châteauneuf-du-Pape ve Priorat'ın iyi örnekleri 10-20 yıl.",
+   "ikon_saraplar": [
+    "Château Rayas Châteauneuf-du-Pape",
+    "Clos Erasmus (Priorat)",
+    "Álvaro Palacios L'Ermita",
+    "Domaine du Vieux Télégraphe",
+    "Clarendon Hills (McLaren Vale)"
+   ],
+   "turkiyede": "Ege (Çeşme, Gömeç, Urla) ve Tekirdağ'da sınırlı ekim; genellikle Syrah ve Mourvèdre ile GSM tarzı kupajlarda ya da roze olarak. Yetiştirenlerden bazıları: Barbare, Buradan, Aura, Lucien Arkas Bağları, Nif Bağları, Statera.",
+   "dunya": true,
+   "katalog": 38
+  },
+  {
+   "id": "carignan",
+   "ad": "Carignan",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Urla",
+   "karakter": "Yüksek asit, yüksek tanen ve koyu renk; kırmızı meyve ve baharat notaları. Yaşlı asmalardan daha yoğun şaraplar verir.",
+   "eslesme": "Güveç, baharatlı etler.",
+   "ornek_ureticiler": [
+    "HUS Şarapçılık"
+   ],
+   "not": "Akdeniz'e özgü sıcak iklim üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Carignan",
+    "https://winefolly.com/grapes/carignan/"
+   ],
+   "rehber": true,
+   "koken": "İspanya, Aragón (Cariñena kasabası). İtalya'da Carignano, Kaliforniya'da Carignane, İspanya'da Mazuelo ya da Samsó adlarıyla da bilinir.",
+   "bolgeler": [
+    "Languedoc-Roussillon (Corbières, Minervois, Faugères)",
+    "Priorat ve Montsant (İspanya)",
+    "Rioja (Mazuelo, kupajda)",
+    "Sardinya (Carignano del Sulcis)",
+    "Şili (Maule, yaşlı bağlar)",
+    "Kaliforniya"
+   ],
+   "aromalar": [
+    "kızılcık",
+    "ahududu",
+    "siyah kiraz",
+    "meyan kökü",
+    "kurutulmuş ot",
+    "garrigue",
+    "pastırma / tütsülenmiş et",
+    "toprak"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "orta-yüksek",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Çoğu 3-8 yıl; yaşlı bağ örnekleri 10-15 yıl.",
+   "ikon_saraplar": [
+    "Agricola Punica Terre Brune (Carignano del Sulcis)",
+    "Clos Erasmus ve Priorat kupajları",
+    "Domaine Maxime Magnon (Corbières)",
+    "Ridge Lytton Springs (kupaj bileşeni)"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Urla'da HUS Şarapçılık yetiştiriyor.",
+   "dunya": true,
+   "katalog": 9
+  },
+  {
+   "id": "alicante-bouschet",
+   "ad": "Alicante Bouschet",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Urla; Ege",
+   "karakter": "Hem kabuğu hem eti kırmızı olan (teinturier) nadir bir çeşit; çok koyu renk, orta tanen, kara meyve notaları verir.",
+   "eslesme": "Kırmızı et, kebaplar.",
+   "ornek_ureticiler": [
+    "HUS Şarapçılık"
+   ],
+   "not": "19. yüzyılda Fransa'da Grenache ile Petit Bouschet melezlenerek elde edilmiştir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+   ],
+   "rehber": true,
+   "katalog": 5
+  },
+  {
+   "id": "mourvedre",
+   "ad": "Mourvèdre",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Tekirdağ",
+   "karakter": "Tanenli, tam gövdeli; böğürtlen, et suyu ve toprak notaları. Sıcak ve güneşli iklim ister.",
+   "eslesme": "Kuzu, av etleri, tandır.",
+   "ornek_ureticiler": [
+    "Barbare"
+   ],
+   "not": "GSM kupajlarına yapı katar.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Mourv%C3%A8dre"
+   ],
+   "rehber": true,
+   "koken": "İspanya (Valensiya-Murcia çevresi). İspanya'da Monastrell, Avustralya ve Kaliforniya'da zaman zaman Mataro adıyla anılır.",
+   "bolgeler": [
+    "Bandol (Provence)",
+    "Güney Rhône ve Languedoc (GSM kupajları)",
+    "Jumilla, Yecla, Alicante (İspanya, Monastrell)",
+    "Barossa ve McLaren Vale (Avustralya)",
+    "Kaliforniya (Paso Robles, Contra Costa)"
+   ],
+   "aromalar": [
+    "böğürtlen",
+    "siyah erik",
+    "av eti",
+    "deri",
+    "karabiber",
+    "garrigue (kekik, lavanta)",
+    "kakao",
+    "toprak"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Monastrell gençleri 2-5 yıl; Bandol kırmızıları 10-20 yıl.",
+   "ikon_saraplar": [
+    "Domaine Tempier Bandol (La Tourtine, Cabassaou)",
+    "Château de Pibarnon Bandol",
+    "Château Pradeaux",
+    "Casa Castillo Pie Franco (Jumilla)"
+   ],
+   "turkiyede": "Sınırlı ekim; Vitikultur kayıtlarına göre Barbare (Tekirdağ), MMG (Urla) ve Statera yetiştiriyor, genellikle GSM tarzı kupajlar için.",
+   "dunya": true,
+   "katalog": 15
+  },
+  {
+   "id": "sangiovese",
+   "ad": "Sangiovese",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Urla",
+   "karakter": "Yüksek asit, orta-yüksek tanen; vişne, domates yaprağı ve kuru ot notaları.",
+   "eslesme": "Domates soslu yemekler, pide, ızgara etler.",
+   "ornek_ureticiler": [
+    "Mozaik"
+   ],
+   "not": "Chianti'nin ana üzümüdür; Türkiye'de az sayıda üretici işler.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Sangiovese",
+    "https://winefolly.com/grapes/sangiovese/"
+   ],
+   "rehber": true,
+   "koken": "İtalya, Toskana. Adı Latince 'sanguis Jovis' (Jüpiter'in kanı) ifadesinden geldiği rivayet edilir. DNA çalışmaları Ciliegiolo ile Calabrese di Montenuovo'nun çocuğu olduğunu öne sürer.",
+   "bolgeler": [
+    "Chianti ve Chianti Classico",
+    "Brunello di Montalcino (Sangiovese Grosso)",
+    "Vino Nobile di Montepulciano (Prugnolo Gentile)",
+    "Bolgheri ve 'Süper Toskanlar'",
+    "Emilia-Romagna",
+    "Korsika (Nielluccio)"
+   ],
+   "aromalar": [
+    "vişne",
+    "kırmızı kiraz",
+    "kurutulmuş kiraz",
+    "domates yaprağı",
+    "kekik",
+    "menekşe",
+    "çay",
+    "toprak",
+    "balzamik (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "orta-yüksek",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Chianti 3-7 yıl; Chianti Classico Riserva 8-15 yıl; Brunello di Montalcino 15-30 yıl.",
+   "ikon_saraplar": [
+    "Biondi-Santi Brunello di Montalcino",
+    "Soldera Case Basse",
+    "Montevertine Le Pergole Torte",
+    "Tignanello (Antinori)",
+    "Fontodi Flaccianello"
+   ],
+   "turkiyede": "Az sayıda üretici işler. Vitikultur kayıtlarına göre Mozaik (Urla), Nif Bağları, Lucien Arkas Bağları ve Dessera yetiştiriyor.",
+   "dunya": true,
+   "katalog": 21
+  },
+  {
+   "id": "montepulciano",
+   "ad": "Montepulciano",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Urla",
+   "karakter": "Koyu renkli, yumuşak tanenli, orta-yüksek gövdeli; erik ve kara meyve notaları.",
+   "eslesme": "Etli pide, köfte, mangal.",
+   "ornek_ureticiler": [
+    "Mozaik"
+   ],
+   "not": "Orta İtalya kökenli üzüm; Urla'da kupajlarda kullanılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Montepulciano_(grape)",
+    "https://winefolly.com/grapes/montepulciano/"
+   ],
+   "rehber": true,
+   "koken": "İtalya, Abruzzo. Toskana'daki Montepulciano kasabasıyla karıştırılmamalıdır: Vino Nobile di Montepulciano şarabı Sangiovese'den yapılır.",
+   "bolgeler": [
+    "Montepulciano d'Abruzzo",
+    "Rosso Conero ve Rosso Piceno (Marche)",
+    "Molise ve Puglia",
+    "Cerasuolo d'Abruzzo (roze)"
+   ],
+   "aromalar": [
+    "siyah kiraz",
+    "erik",
+    "böğürtlen",
+    "kekik",
+    "kuru otlar",
+    "meyan kökü",
+    "tütün",
+    "kakao"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta-yüksek",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Günlük örnekler 2-5 yıl; en iyi örnekler 10-20 yıl.",
+   "ikon_saraplar": [
+    "Emidio Pepe Montepulciano d'Abruzzo",
+    "Edoardo Valentini Montepulciano d'Abruzzo",
+    "Masciarelli Villa Gemma",
+    "Le Terrazze Rosso Conero"
+   ],
+   "turkiyede": "Sınırlı; Vitikultur kayıtlarına göre Urla'da Mozaik, Nif Bağları ve Lucien Arkas Bağları yetiştiriyor, çoğunlukla kupajlarda.",
+   "dunya": true,
+   "katalog": 5
+  },
+  {
+   "id": "tempranillo",
+   "ad": "Tempranillo",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Çeşme",
+   "karakter": "Orta gövde, orta tanen; kiraz, erik, deri ve tütün notaları. Meşede iyi gelişir.",
+   "eslesme": "Kuzu pirzola, sucuk, kuru fasulye.",
+   "ornek_ureticiler": [
+    "Buradan"
+   ],
+   "not": "İspanya'nın Rioja bölgesinin ana üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Tempranillo",
+    "https://winefolly.com/grapes/tempranillo/"
+   ],
+   "rehber": true,
+   "koken": "İspanya, büyük olasılıkla Rioja-Navarra çevresi. Adı İspanyolca 'temprano' (erken) kelimesinden gelir: erken olgunlaşır.",
+   "bolgeler": [
+    "Rioja",
+    "Ribera del Duero (Tinto Fino / Tinta del País)",
+    "Toro (Tinta de Toro)",
+    "La Mancha (Cencibel)",
+    "Portekiz: Douro ve Alentejo (Tinta Roriz / Aragonez)"
+   ],
+   "aromalar": [
+    "kırmızı kiraz",
+    "kuru incir",
+    "domates",
+    "deri",
+    "tütün",
+    "dereotu (Amerikan meşesi)",
+    "vanilya",
+    "hindistan cevizi",
+    "sedir"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta-yüksek",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Joven 1-3 yıl; Crianza 4-8 yıl; Reserva ve Gran Reserva 10-25 yıl ve üzeri.",
+   "ikon_saraplar": [
+    "Vega Sicilia Único (Ribera del Duero)",
+    "Dominio de Pingus",
+    "López de Heredia Viña Tondonia",
+    "La Rioja Alta Gran Reserva 904",
+    "CVNE Imperial Gran Reserva"
+   ],
+   "turkiyede": "Sınırlı ekim. Vitikultur kayıtlarına göre Çeşme'de Buradan ve Ege'de Lucien Arkas Bağları yetiştiriyor.",
+   "dunya": true,
+   "katalog": 25
+  },
+  {
+   "id": "zinfandel",
+   "ad": "Zinfandel",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Bodrum",
+   "karakter": "Yüksek alkol, olgun böğürtlen, reçel ve baharat notaları. Taneleri düzensiz olgunlaşır.",
+   "eslesme": "Barbekü, baharatlı etler; rozesi mezelerle.",
+   "ornek_ureticiler": [
+    "Karnas"
+   ],
+   "not": "İtalya'daki adı Primitivo, Hırvatistan'daki adı Crljenak Kaštelanski'dir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Zinfandel",
+    "https://winefolly.com/grapes/zinfandel/"
+   ],
+   "rehber": true,
+   "koken": "Hırvatistan (Dalmaçya). DNA çalışmaları Kaliforniya Zinfandel'i, İtalyan Primitivo ve Hırvat Crljenak Kaštelanski / Tribidrag'ın aynı üzüm olduğunu kanıtladı.",
+   "bolgeler": [
+    "Kaliforniya (Sonoma: Dry Creek Valley; Lodi; Paso Robles; Amador)",
+    "Puglia (Primitivo di Manduria, Gioia del Colle)",
+    "Hırvatistan (Dalmaçya)"
+   ],
+   "aromalar": [
+    "böğürtlen reçeli",
+    "ahududu",
+    "kuru üzüm",
+    "kiraz",
+    "tarçın",
+    "karabiber",
+    "meyan kökü",
+    "tütün"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta",
+    "govde": "dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Çoğu 2-6 yıl; en iyi yaşlı bağ örnekleri 10-15 yıl.",
+   "ikon_saraplar": [
+    "Ridge Vineyards Geyserville",
+    "Ridge Lytton Springs",
+    "Turley Wine Cellars (yaşlı bağ Zinfandel'leri)",
+    "Gianfranco Fino 'Es' Primitivo di Manduria"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Bodrum'da Karnas Vineyards yetiştiriyor.",
+   "dunya": true,
+   "katalog": 5
+  },
+  {
+   "id": "nebbiolo",
+   "ad": "Nebbiolo",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Denizli-Çal",
+   "karakter": "Açık renkli ama yüksek tanen ve yüksek asitli; gül, katran, kiraz notaları. Uzun yıllanır.",
+   "eslesme": "Trüflü yemekler, kırmızı et, mantar.",
+   "ornek_ureticiler": [
+    "Küp Şarapçılık"
+   ],
+   "not": "Barolo ve Barbaresco'nun üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Nebbiolo",
+    "https://winefolly.com/grapes/nebbiolo/"
+   ],
+   "rehber": true,
+   "koken": "İtalya, Piemonte. Adı sonbahar sisi anlamına gelen 'nebbia'dan geldiği düşünülür: hasat sisli ekim günlerinde yapılır.",
+   "bolgeler": [
+    "Barolo",
+    "Barbaresco",
+    "Roero",
+    "Langhe",
+    "Alto Piemonte (Gattinara, Ghemme)",
+    "Valtellina (Lombardiya, Chiavennasca adıyla)"
+   ],
+   "aromalar": [
+    "gül",
+    "menekşe",
+    "kırmızı kiraz",
+    "kızılcık",
+    "katran",
+    "meyan kökü",
+    "trüf",
+    "kurutulmuş ot",
+    "deri (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "yüksek",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Langhe Nebbiolo 3-8 yıl; Barbaresco 10-25 yıl; Barolo 15-40 yıl.",
+   "ikon_saraplar": [
+    "Giacomo Conterno Monfortino",
+    "Bartolo Mascarello Barolo",
+    "Gaja Barbaresco",
+    "Bruno Giacosa Barolo Falletto",
+    "Produttori del Barbaresco Riserva"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Denizli-Çal'da Küp Şarapçılık yetiştiriyor.",
+   "dunya": true,
+   "katalog": 12
+  },
+  {
+   "id": "chardonnay",
+   "ad": "Chardonnay",
+   "renk": "beyaz",
+   "yerli": false,
+   "bolge": "Urla, Kemalpaşa, Tekirdağ, Denizli",
+   "karakter": "Nötr ve çok yönlü; serin iklimde elma-narenciye, sıcak iklimde tropik meyve. Meşe ve malolaktik fermantasyonla tereyağı-vanilya notaları kazanır.",
+   "eslesme": "Fırın tavuk, kremalı soslar, levrek, hünkâr beğendi.",
+   "ornek_ureticiler": [
+    "Çakır",
+    "Barel",
+    "Nif Bağları",
+    "İki Deniz Arası",
+    "Küp"
+   ],
+   "not": "Dünyanın en çok dikilen beyaz üzümlerindendir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Chardonnay",
+    "https://winefolly.com/grapes/chardonnay/"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Burgundy. Pinot ile Gouais Blanc'ın çocuğudur; Mâconnais'deki Chardonnay köyü adını taşır.",
+   "bolgeler": [
+    "Burgundy (Chablis, Côte de Beaune: Meursault, Puligny- ve Chassagne-Montrachet; Mâconnais)",
+    "Champagne (Blanc de Blancs)",
+    "Kaliforniya (Sonoma, Napa, Santa Barbara)",
+    "Avustralya (Margaret River, Adelaide Hills, Yarra Valley)",
+    "Yeni Zelanda",
+    "Şili ve Arjantin",
+    "Oregon"
+   ],
+   "aromalar": [
+    "yeşil elma",
+    "limon",
+    "armut",
+    "şeftali",
+    "ananas",
+    "tereyağı",
+    "vanilya",
+    "tost",
+    "fındık",
+    "çakmak taşı"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Fıçısız günlük örnekler 1-3 yıl; Chablis Premier/Grand Cru ve Côte de Beaune beyazları 5-15 yıl ve üzeri.",
+   "ikon_saraplar": [
+    "Domaine de la Romanée-Conti Montrachet",
+    "Domaine Coche-Dury Corton-Charlemagne",
+    "Domaine Leflaive Puligny-Montrachet",
+    "Raveneau Chablis Grand Cru",
+    "Kistler Vineyards (Sonoma)",
+    "Leeuwin Estate Art Series Chardonnay"
+   ],
+   "turkiyede": "Urla, Kemalpaşa, Tekirdağ, Denizli ve Elmalı başta olmak üzere yaygın dikilir; fıçılı ve fıçısız stillerde, ayrıca yerli Narince ile kupajlarda. Yetiştirenlerden bazıları: Suvla, Çakır, Barel, Nif Bağları, İki Deniz Arası, Küp, Kutman, Likya, Lucien Arkas Bağları.",
+   "dunya": true,
+   "katalog": 69
+  },
+  {
+   "id": "sauvignon-blanc",
+   "ad": "Sauvignon Blanc",
+   "renk": "beyaz",
+   "yerli": false,
+   "bolge": "Trakya, Ege (Urla, Menderes), Denizli",
+   "karakter": "Yüksek asitli, aromatik; greyfurt, yeşil biber, kesilmiş ot ve bektaşi üzümü notaları. Genellikle meşesiz yapılır.",
+   "eslesme": "Zeytinyağlı enginar, keçi peyniri, çiğ sebzeler, deniz mezeleri.",
+   "ornek_ureticiler": [
+    "Chamlija",
+    "Arcadia",
+    "Perdix",
+    "İsabey",
+    "Erdel"
+   ],
+   "not": "Loire ve Bordeaux kökenlidir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Sauvignon_blanc",
+    "https://winefolly.com/grapes/sauvignon-blanc/"
+   ],
+   "rehber": true,
+   "koken": "Fransa; Loire Vadisi ve Bordeaux arasında. Adı Fransızca 'sauvage' (yabani) kelimesinden gelir. Savagnin ile akrabadır ve Cabernet Sauvignon'un ebeveynlerinden biridir.",
+   "bolgeler": [
+    "Loire (Sancerre, Pouilly-Fumé, Touraine)",
+    "Bordeaux (Graves, Pessac-Léognan; Sémillon ile kupaj; Sauternes)",
+    "Marlborough (Yeni Zelanda)",
+    "Güney Afrika (Constantia, Elgin)",
+    "Şili (Casablanca, Leyda)",
+    "Styria (Avusturya)",
+    "Kaliforniya ('Fumé Blanc')"
+   ],
+   "aromalar": [
+    "greyfurt",
+    "lime",
+    "bektaşi üzümü",
+    "çarkıfelek",
+    "guava",
+    "kesilmiş çimen",
+    "yeşil biber",
+    "domates yaprağı",
+    "kedi çişi",
+    "çakmak taşı"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Çoğu 1-3 yıl; iyi Sancerre/Pouilly-Fumé 5-10 yıl; Pessac-Léognan beyazları 10-20 yıl.",
+   "ikon_saraplar": [
+    "Didier Dagueneau Silex (Pouilly-Fumé)",
+    "Cloudy Bay Sauvignon Blanc (Marlborough)",
+    "Domaine Vacheron Sancerre",
+    "Château Haut-Brion Blanc (Sémillon ile)",
+    "Domaine de Chevalier Blanc"
+   ],
+   "turkiyede": "Trakya, Ege (Urla, Menderes), Denizli ve Elmalı'da yaygın; en başarılı uluslararası beyazlarımızdan biridir. Yetiştirenlerden bazıları: Chamlija, Arcadia, Suvla, Perdix, İsabey, Erdel, Likya, Lucien Arkas Bağları, Prius.",
+   "dunya": true,
+   "katalog": 41
+  },
+  {
+   "id": "viognier",
+   "ad": "Viognier",
+   "renk": "beyaz",
+   "yerli": false,
+   "bolge": "Kemalpaşa (İzmir)",
+   "karakter": "Düşük-orta asit, dolgun gövde; şeftali, kayısı ve beyaz çiçek aromaları.",
+   "eslesme": "Baharatlı tavuk, kayısılı yemekler, zeytinyağlılar.",
+   "ornek_ureticiler": [
+    "Nif Bağları"
+   ],
+   "not": "Rhône vadisi kökenli aromatik üzümdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Viognier",
+    "https://winefolly.com/grapes/viognier/",
+    "https://www.milliyet.com.tr/yazarlar/mehmet-yalcin/yeni-uzumler-yeni-saraplar-1123985"
+   ],
+   "rehber": true,
+   "koken": "Fransa, Kuzey Rhône. 1960'larda Condrieu'de yalnızca birkaç hektara inmiş, neredeyse yok olmuşken yeniden yayılmıştır.",
+   "bolgeler": [
+    "Condrieu ve Château-Grillet (Kuzey Rhône)",
+    "Côte-Rôtie (Syrah ile birlikte fermente)",
+    "Languedoc",
+    "Kaliforniya (Central Coast)",
+    "Avustralya (Eden Valley)",
+    "Virginia"
+   ],
+   "aromalar": [
+    "şeftali",
+    "kayısı",
+    "mandalina",
+    "hanımeli",
+    "akasya",
+    "menekşe",
+    "zencefil",
+    "vanilya (meşe)"
+   ],
+   "yapi": {
+    "asit": "düşük",
+    "tanen": "düşük",
+    "govde": "dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Çoğu 1-4 yıl; en iyi Condrieu örnekleri 5-10 yıl.",
+   "ikon_saraplar": [
+    "Georges Vernay Coteau de Vernon (Condrieu)",
+    "E. Guigal La Doriane",
+    "Château-Grillet",
+    "Yalumba The Virgilius (Eden Valley)"
+   ],
+   "turkiyede": "Sınırlı. Vitikultur kayıtlarına göre Nif Bağları (Kemalpaşa), Chateau Gali, Dvin Urla, MMG ve Lucien Arkas Bağları yetiştiriyor; İdol Şarapçılık'ın Torbalı'da organik Viognier ürettiği de basına yansımıştır.",
+   "dunya": true,
+   "katalog": 12
+  },
+  {
+   "id": "riesling",
+   "ad": "Riesling",
+   "renk": "beyaz",
+   "yerli": false,
+   "bolge": "Trakya (Lüleburgaz)",
+   "karakter": "Çok yüksek asit, düşük-orta alkol; yeşil elma, limon, beyaz çiçek ve yaşlandıkça petrol notaları. Kurudan tatlıya her tarz yapılır.",
+   "eslesme": "Baharatlı yemekler, balık, tatlı tarzları tatlılarla.",
+   "ornek_ureticiler": [
+    "Chamlija"
+   ],
+   "not": "Almanya'nın simge üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Riesling",
+    "https://winefolly.com/grapes/riesling/"
+   ],
+   "rehber": true,
+   "koken": "Almanya, Ren Nehri vadisi. Belgelerde 15. yüzyıldan (1435) itibaren anılır.",
+   "bolgeler": [
+    "Mosel",
+    "Rheingau",
+    "Pfalz",
+    "Nahe",
+    "Alsace (Fransa)",
+    "Wachau ve Kamptal (Avusturya)",
+    "Clare ve Eden Valley (Avustralya)",
+    "Finger Lakes (New York)",
+    "Washington"
+   ],
+   "aromalar": [
+    "lime",
+    "limon",
+    "yeşil elma",
+    "şeftali",
+    "kayısı",
+    "akasya",
+    "yasemin",
+    "bal",
+    "ıslak taş / arduvaz",
+    "petrol (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "düşük-orta (tatlı Mosel'de %7-9; kuru Alsace ve Avusturya'da %12-14)"
+   },
+   "yillanma": "İyi örnekler 10-30 yıl; tatlı TBA ve Eiswein'lar 50 yıla kadar.",
+   "ikon_saraplar": [
+    "Egon Müller Scharzhofberger",
+    "J.J. Prüm Wehlener Sonnenuhr",
+    "Trimbach Clos Sainte Hune (Alsace)",
+    "F.X. Pichler (Wachau)",
+    "Grosset Polish Hill (Clare Valley)",
+    "Keller G-Max"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Lüleburgaz'da (Trakya) Chamlija yetiştiriyor.",
+   "dunya": true,
+   "katalog": 14
+  },
+  {
+   "id": "vermentino",
+   "ad": "Vermentino",
+   "renk": "beyaz",
+   "yerli": false,
+   "bolge": "Bodrum",
+   "karakter": "Ferah asit, narenciye, yeşil elma ve tuzlu mineral notalarıyla hafif-orta gövdeli beyazlar.",
+   "eslesme": "Deniz ürünleri, ızgara ahtapot, otlu mezeler.",
+   "ornek_ureticiler": [
+    "Karnas"
+   ],
+   "not": "Sardinya ve Liguria'nın Akdeniz üzümüdür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+    "https://en.wikipedia.org/wiki/Vermentino",
+    "https://winefolly.com/grapes/vermentino/"
+   ],
+   "rehber": true,
+   "koken": "Büyük olasılıkla İspanya (Aragón) ya da Korsika-Sardinya; Fransa'nın güneyinde Rolle, Liguria ve Toskana'da Vermentino adıyla bilinir. Köken tartışmalıdır.",
+   "bolgeler": [
+    "Sardinya (Vermentino di Gallura DOCG)",
+    "Liguria",
+    "Toskana kıyıları (Bolgheri)",
+    "Korsika",
+    "Provence ve Languedoc (Rolle)",
+    "Avustralya ve Kaliforniya"
+   ],
+   "aromalar": [
+    "limon",
+    "misket limonu",
+    "yeşil elma",
+    "greyfurt",
+    "beyaz çiçek",
+    "adaçayı",
+    "acı badem",
+    "deniz tuzu"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Genç içilir; 1-3 yıl (en iyi Gallura örnekleri 5 yıla kadar).",
+   "ikon_saraplar": [
+    "Capichera Vermentino di Gallura",
+    "Pigato ve Vermentino Liguria örnekleri (Bruna, Lunae)",
+    "Sella & Mosca La Cala",
+    "Antinori Guado al Tasso Vermentino"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Bodrum'da Karnas Vineyards yetiştiriyor.",
+   "dunya": true,
+   "katalog": 0
+  },
+  {
+   "id": "muscat-noir",
+   "ad": "Siyah Misket (Black Muscat)",
+   "renk": "kirmizi",
+   "yerli": false,
+   "bolge": "Urla",
+   "karakter": "Gül, liçi ve kırmızı meyve aromalı, aromatik; genellikle roze veya tatlı şarap yapımında kullanılır.",
+   "eslesme": "Meyveli tatlılar, peynirler.",
+   "ornek_ureticiler": [
+    "MMG Şarapçılık"
+   ],
+   "not": "Muscat ailesinin koyu kabuklu bir üyesidir.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+   ],
+   "rehber": true,
+   "katalog": 0
+  },
+  {
+   "id": "malbec",
+   "ad": "Malbec",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Güneybatı (Cahors). Fransa'da Côt ya da Auxerrois adıyla da bilinir. 19. yüzyıl ortasında (1853, Fransız agronom Michel Pouget aracılığıyla) Arjantin'e götürülmüş ve orada dünya ünü kazanmıştır.",
+   "bolgeler": [
+    "Mendoza (Luján de Cuyo, Uco Vadisi) - Arjantin",
+    "Salta (Arjantin)",
+    "Cahors (Fransa)",
+    "Şili",
+    "Bordeaux (küçük oranlarda kupaj)"
+   ],
+   "karakter": "Kalın kabuklu, koyu mor renkli, dolgun ve meyvesi bol bir üzümdür. Arjantin'in yüksek rakımlı (900-1.500 m+) bağlarında yoğun güneş ve serin geceler sayesinde olgun ama tazeliğini koruyan, kadifemsi tanenli şaraplar verir. Cahors'daki tarihî örnekler daha sert, toprak ve tanen ağırlıklıdır ('siyah şarap' diye anılırdı).",
+   "aromalar": [
+    "siyah erik",
+    "böğürtlen",
+    "siyah kiraz",
+    "menekşe",
+    "kakao",
+    "tatlı tütün",
+    "meyan kökü",
+    "vanilya (meşe)"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta-yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Günlük örnekler 2-5 yıl; Uco Vadisi ve Cahors'un iyi örnekleri 10-20 yıl.",
+   "eslesme": "Izgara biftek (Arjantin asado), kuzu şiş, köfte, mangalda etler, isli patlıcan yemekleri.",
+   "ikon_saraplar": [
+    "Catena Zapata Adrianna Vineyard Malbec",
+    "Achával-Ferrer Finca Altamira",
+    "Zuccardi Finca Piedra Infinita",
+    "Château du Cèdre (Cahors)",
+    "Clos Triguedina 'The New Black Wine'"
+   ],
+   "turkiyede": "Sınırlı ekim. Vitikultur kayıtlarına göre Likya (Elmalı), Chateau Kalpak, Asmadan, Prius ve Antik Bağcılık yetiştiriyor; Corvus (Bozcaada) da Malbec şişeliyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Malbec",
+    "https://winefolly.com/grapes/malbec/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 18
+  },
+  {
+   "id": "carmenere",
+   "ad": "Carménère",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Bordeaux. 19. yüzyıl sonundaki filoksera salgınında Bordeaux'da neredeyse yok oldu. Şili'de yıllarca Merlot sanılarak yetiştirildi; 1994'te ampelograf Jean-Michel Boursiquot tarafından teşhis edildi.",
+   "bolgeler": [
+    "Şili (Colchagua, Cachapoal, Maipo, Peumo)",
+    "Kuzey İtalya (Veneto, Friuli)",
+    "Çin (bazı bölgeler)"
+   ],
+   "karakter": "Bugün Şili'nin imza üzümlerinden biridir. Geç olgunlaşır; tam olgunlaşmadığında yeşil biber ve otsu notalar baskınlaşır. İyi olgunlaştığında koyu renkli, yumuşak tanenli, kırmızı-siyah meyveli ve baharatlı, orta-dolgun şaraplar verir.",
+   "aromalar": [
+    "kırmızı erik",
+    "böğürtlen",
+    "yeşil biber",
+    "kırmızı biber",
+    "paprika",
+    "karabiber",
+    "kakao",
+    "tütün"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Çoğu 2-7 yıl; en iyi örnekler 10-15 yıl.",
+   "eslesme": "Izgara etler, biber dolması, közlenmiş biberli yemekler, Meksika ve Latin Amerika mutfağı, baharatlı köfteler.",
+   "ikon_saraplar": [
+    "Concha y Toro Carmín de Peumo",
+    "Viña Errázuriz Kai",
+    "Montes Purple Angel",
+    "De Martino 'Alto de Piedras'"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari bir ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Carm%C3%A9n%C3%A8re",
+    "https://winefolly.com/grapes/carmenere/"
+   ],
+   "dunya": true,
+   "katalog": 4
+  },
+  {
+   "id": "touriga-nacional",
+   "ad": "Touriga Nacional",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Portekiz; büyük olasılıkla Dão bölgesi.",
+   "bolgeler": [
+    "Douro (Porto ve sofra şarapları)",
+    "Dão",
+    "Alentejo",
+    "Lizbon bölgesi",
+    "Avustralya ve Güney Afrika'da küçük miktarlar"
+   ],
+   "karakter": "Portekiz'in en saygın kırmızı üzümüdür ve Porto şarabının temel taşlarından biridir. Küçük, kalın kabuklu taneleri koyu renk, yüksek tanen ve yoğun bir aroma verir. Menekşe ve bergamot gibi çiçeksi notalar, siyah meyveyle birleşir. Bugün Douro ve Dão'da kuru, yıllanabilir sofra şarapları için de çok kullanılır.",
+   "aromalar": [
+    "menekşe",
+    "bergamot",
+    "yaban mersini",
+    "böğürtlen",
+    "siyah erik",
+    "biberiye",
+    "meyan kökü",
+    "kakao"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Kuru sofra şarapları 5-20 yıl; Vintage Porto 20-50 yıl ve üzeri.",
+   "eslesme": "Kuru şarapları kuzu, ızgara kırmızı et, isli sucuk; Porto'su bitter çikolata, ceviz, Stilton gibi küflü peynirler.",
+   "ikon_saraplar": [
+    "Taylor's Vintage Port",
+    "Quinta do Noval Nacional",
+    "Quinta do Crasto Touriga Nacional",
+    "Barca Velha (Casa Ferreirinha)",
+    "Quinta dos Roques Touriga Nacional (Dão)"
+   ],
+   "turkiyede": "Türkiye'de bilinen yaygın bir ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Touriga_Nacional",
+    "https://winefolly.com/grapes/touriga-nacional/"
+   ],
+   "dunya": true,
+   "katalog": 13
+  },
+  {
+   "id": "aglianico",
+   "ad": "Aglianico",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Güney İtalya. Adının 'Hellenico' (Yunan) kelimesinden geldiği ve antik Yunan kolonistlerle getirildiği sık anlatılır, ancak bu kökene dair kesin kanıt yoktur.",
+   "bolgeler": [
+    "Taurasi (Campania)",
+    "Aglianico del Vulture (Basilicata)",
+    "Campania'nın diğer bölgeleri (Irpinia, Sannio)",
+    "Puglia"
+   ],
+   "karakter": "Güney İtalya'nın 'Barolo'su' diye anılır: çok geç olgunlaşan, yüksek tanenli ve yüksek asitli, uzun ömürlü kırmızılar verir. Volkanik topraklarda yetiştiğinde (Vulture, Irpinia) koyu meyveye duman, toprak ve mineral notalar eşlik eder. Gençken sert ve kapalıdır; zaman ister.",
+   "aromalar": [
+    "siyah kiraz",
+    "siyah erik",
+    "dut",
+    "beyaz biber",
+    "duman",
+    "deri",
+    "toprak",
+    "meyan kökü"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "10-25 yıl; en iyi Taurasi'ler daha uzun.",
+   "eslesme": "Kuzu ve keçi eti, ızgara biftek, ağır soslu makarnalar, yaşlı sert peynirler; kuzu incik ve kemikli et yemekleri.",
+   "ikon_saraplar": [
+    "Mastroberardino Taurasi Radici",
+    "Feudi di San Gregorio Taurasi",
+    "Elena Fucci Titolo (Vulture)",
+    "Salvatore Molettieri Taurasi"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Aglianico",
+    "https://winefolly.com/grapes/aglianico/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "barbera",
+   "ad": "Barbera",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "İtalya, Piemonte (Monferrato tepeleri).",
+   "bolgeler": [
+    "Barbera d'Asti",
+    "Barbera d'Alba",
+    "Barbera del Monferrato",
+    "Oltrepò Pavese (Lombardiya)",
+    "Kaliforniya",
+    "Arjantin"
+   ],
+   "karakter": "Piemonte'nin 'gündelik' ama son derece sevilen kırmızı üzümüdür. Koyu renkli olmasına rağmen tanen düşüktür; asit ise çok yüksektir. Bu da onu sulu, canlı ve yemeğe çok uygun bir şarap yapar. Meşede olgunlaştırılan modern örnekler daha dolgun ve vanilyalı olur.",
+   "aromalar": [
+    "vişne",
+    "ekşi kiraz",
+    "kırmızı erik",
+    "böğürtlen",
+    "menekşe",
+    "kurutulmuş ot",
+    "meyan kökü",
+    "vanilya (meşe)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Çoğu 2-6 yıl; meşede olgunlaştırılmış Barbera d'Asti Superiore / Nizza 8-15 yıl.",
+   "eslesme": "Pizza, domatesli makarna, salam ve şarküteri, mantarlı yemekler, kıymalı börek, lahmacun.",
+   "ikon_saraplar": [
+    "Giacomo Bologna Braida 'Bricco dell'Uccellone'",
+    "Giacomo Conterno Barbera d'Alba Cascina Francia",
+    "Vietti Barbera d'Asti La Crena",
+    "Prunotto Barbera d'Asti Costamiòle"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Dessera bağ evi 'Barbera d'Asti' yetiştiriyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Barbera",
+    "https://winefolly.com/grapes/barbera/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "gamay",
+   "ad": "Gamay",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Burgundy (Gamay köyü). Pinot ile Gouais Blanc'ın çocuğudur. 1395'te Burgundy Dükü Philip the Bold, Pinot Noir lehine Gamay'ı Côte d'Or'dan yasaklatmıştır.",
+   "bolgeler": [
+    "Beaujolais (Beaujolais Nouveau, Beaujolais-Villages, 10 Cru: Morgon, Moulin-à-Vent, Fleurie vb.)",
+    "Loire Vadisi (Touraine)",
+    "İsviçre (Vaud, Valais)",
+    "Oregon"
+   ],
+   "karakter": "Düşük tanenli, yüksek asitli, açık-orta renkli ve bol meyveli kırmızılar verir. Beaujolais'de sıklıkla karbonik maserasyonla (bütün salkımın oksijensiz ortamda fermente edilmesi) yapılır; bu da muz ve sakız gibi şekerleme aromaları katar. Morgon ve Moulin-à-Vent gibi Cru'larda ise daha derin, toprak ve çiçek notalı, yıllanabilen şaraplar çıkar.",
+   "aromalar": [
+    "çilek",
+    "ahududu",
+    "kırmızı kiraz",
+    "muz",
+    "balon sakızı",
+    "menekşe",
+    "şakayık",
+    "toprak (Cru'larda)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif",
+    "alkol": "orta"
+   },
+   "yillanma": "Beaujolais Nouveau birkaç ay; Beaujolais-Villages 1-3 yıl; Morgon ve Moulin-à-Vent 5-10+ yıl.",
+   "eslesme": "Şarküteri, tavuk, hindi, ızgara somon, kahvaltılık peynirler, sebzeli yemekler; hafif soğutularak piknik şarabı.",
+   "ikon_saraplar": [
+    "Marcel Lapierre Morgon",
+    "Jean Foillard Morgon Côte du Py",
+    "Château Thivin Côte de Brouilly",
+    "Domaine Jean-Louis Dutraive Fleurie",
+    "Château des Jacques Moulin-à-Vent"
+   ],
+   "turkiyede": "Tekirdağ'da tarihsel bir yeri vardır: Tekel'in uzun yıllar çok satan Hoşbağ şarabı Tekirdağ Gamay'ından yapılırdı ve 2000'lerde piyasadan çekildi. Bugün Trakya'da sınırlı miktarda yetiştirilir.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Gamay",
+    "https://winefolly.com/grapes/gamay/",
+    "https://t24.com.tr/yazarlar/mehmet-yalcin/yitik-uzumun-pesinde,50127"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "pinotage",
+   "ad": "Pinotage",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Güney Afrika. 1925'te Stellenbosch Üniversitesi'nden Prof. Abraham Izak Perold tarafından Pinot Noir ile Cinsault (o dönem Güney Afrika'da 'Hermitage' deniyordu) melezlenerek elde edildi; adı da buradan gelir.",
+   "bolgeler": [
+    "Stellenbosch",
+    "Swartland",
+    "Paarl",
+    "Walker Bay",
+    "Yeni Zelanda ve ABD'de küçük miktarlar"
+   ],
+   "karakter": "Güney Afrika'nın imza kırmızısıdır ve tartışmalı bir üne sahiptir. Koyu renkli, orta-dolgun gövdeli, isli ve topraksı karakterli şaraplar verir. Özensiz yapımda aseton ya da boya benzeri kokular çıkabildiği için geçmişte eleştirilmiş, modern üreticiler daha temiz, meyveli ve zarif örneklerle imajını iyileştirmiştir. 'Kahve Pinotage' adlı mokamsı, meşeli bir stil de popülerdir.",
+   "aromalar": [
+    "siyah erik",
+    "böğürtlen",
+    "dut",
+    "duman",
+    "tütün",
+    "kahve",
+    "mokka",
+    "toprak",
+    "muz (bazı genç örneklerde)"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "orta-yüksek",
+    "govde": "orta-dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "Çoğu 3-8 yıl; en iyi örnekler 10-15 yıl.",
+   "eslesme": "Izgara ve barbekü (Güney Afrika braai), isli etler, burger, baharatlı sosisler, kuzu şiş.",
+   "ikon_saraplar": [
+    "Kanonkop Black Label Pinotage",
+    "Beyerskloof Diesel Pinotage",
+    "Southern Right Pinotage",
+    "Môreson 'Widow Maker'"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Urla'da MMG Şarapçılık yetiştiriyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Pinotage",
+    "https://winefolly.com/grapes/pinotage/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "saperavi",
+   "ad": "Saperavi",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Gürcistan (Kakheti). Adı Gürcüce 'boya, renk veren' anlamına gelir.",
+   "bolgeler": [
+    "Kakheti (Mukuzani, Kindzmarauli, Napareuli, Akhasheni)",
+    "Gürcistan'ın diğer bölgeleri",
+    "Ermenistan, Moldova, Ukrayna",
+    "Avustralya ve ABD (Finger Lakes)'da küçük ekimler"
+   ],
+   "karakter": "Kabuğu ve suyu da kırmızı olan 'teinturier' bir üzümdür: şarabı mürekkep gibi koyu renklidir. Yüksek asit ve yüksek tanenle birleşen siyah meyve, onu uzun ömürlü bir üzüm yapar. Gürcistan'da hem kuru (Mukuzani) hem yarı tatlı (Kindzmarauli) stillerde, ayrıca toprağa gömülen kil kaplarda (kvevri) geleneksel yöntemle yapılır; kvevri şarapçılığı UNESCO Somut Olmayan Kültürel Miras listesindedir.",
+   "aromalar": [
+    "böğürtlen",
+    "siyah kiraz",
+    "dut",
+    "siyah erik",
+    "meyan kökü",
+    "çikolata",
+    "tütün",
+    "karabiber"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Kuru örnekler 5-15 yıl; en iyi kvevri ve Mukuzani örnekleri 20 yıla kadar.",
+   "eslesme": "Kuzu, mangal ve şiş kebap, cevizli soslar, Gürcü mutfağı (mtsvadi, çakapuli), baharatlı güveçler.",
+   "ikon_saraplar": [
+    "Pheasant's Tears Saperavi",
+    "Teliani Valley Mukuzani",
+    "Schuchmann Saperavi Kvevri",
+    "Tbilvino Mukuzani"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Saperavi",
+    "https://ich.unesco.org/en/RL/ancient-georgian-traditional-qvevri-wine-making-method-00870"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "xinomavro",
+   "ad": "Xinomavro",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Yunanistan, Makedonya bölgesi. Adı 'ekşi-siyah' anlamına gelir.",
+   "bolgeler": [
+    "Naoussa",
+    "Amyndeon (rozeler ve köpüklüler dahil)",
+    "Goumenissa (Negoska ile kupaj)",
+    "Rapsani (kupaj)"
+   ],
+   "karakter": "Kuzey Yunanistan'ın asil kırmızısıdır ve Nebbiolo'ya sıkça benzetilir: rengi orta-açık, tanen ve asit yüksek, kokusu karmaşıktır. Domates, zeytin ve kuru gülle birleşen kırmızı meyve, yıllandıkça toprak ve deriye döner. Serin Amyndeon'da zarif roze ve köpüklüler de verir.",
+   "aromalar": [
+    "ahududu",
+    "vişne",
+    "domates",
+    "kurutulmuş domates",
+    "siyah zeytin",
+    "gül",
+    "meyan kökü",
+    "toprak"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "yüksek",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Naoussa'nın iyi örnekleri 10-20 yıl.",
+   "eslesme": "Domatesli et güveçleri, mussaka, kuzu, ızgara köfte, zeytinli yemekler, sert peynirler.",
+   "ikon_saraplar": [
+    "Thymiopoulos Uranos Naoussa",
+    "Kir-Yianni Ramnista",
+    "Boutari Grande Reserve Naoussa",
+    "Domaine Karydas Naoussa"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Xinomavro",
+    "https://winefolly.com/grapes/xinomavro/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "tannat",
+   "ad": "Tannat",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Güneybatı (Pireneler'in eteği, Madiran).",
+   "bolgeler": [
+    "Madiran (Fransa)",
+    "Irouléguy ve Saint-Mont",
+    "Uruguay (Canelones; ülkenin ulusal üzümü)",
+    "Arjantin (Salta)",
+    "Brezilya"
+   ],
+   "karakter": "Adının da işaret ettiği gibi dünyadaki en tanenli üzümlerden biridir. Koyu renkli, güçlü ve sert şaraplar verir. Madiran'da 'mikro-oksijenasyon' tekniği tanenleri yumuşatmak için bu üzümde geliştirilmiştir. Uruguay'da daha olgun ve yumuşak, siyah meyveli bir yorumu vardır. Prosiyanidin bakımından zengin olması nedeniyle sağlık tartışmalarında da anılır.",
+   "aromalar": [
+    "siyah erik",
+    "böğürtlen",
+    "siyah frenk üzümü",
+    "meyan kökü",
+    "kakao",
+    "tütün",
+    "duman",
+    "baharat"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Madiran 10-20 yıl; Uruguay örnekleri 5-12 yıl.",
+   "eslesme": "Ördek konfi, cassoulet, ızgara kırmızı et, kuzu kaburga, yağlı etler, olgun koyun peyniri.",
+   "ikon_saraplar": [
+    "Château Montus (Alain Brumont, Madiran)",
+    "Château Bouscassé",
+    "Bodega Garzón Tannat (Uruguay)",
+    "Bodega Bouza Tannat A6"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Lucien Arkas Bağları ve Mozaik yetiştiriyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Tannat",
+    "https://winefolly.com/grapes/tannat/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "cinsault",
+   "ad": "Cinsault",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Güney (Languedoc-Provence). Cinsaut olarak da yazılır.",
+   "bolgeler": [
+    "Languedoc ve Provence (özellikle roze)",
+    "Güney Rhône (kupaj)",
+    "Güney Afrika (Swartland, yaşlı bağlar)",
+    "Lübnan (Bekaa Vadisi)",
+    "Fas ve Cezayir",
+    "Şili (Itata)"
+   ],
+   "karakter": "Sıcağa ve kuraklığa dayanıklı, iri taneli bir üzümdür. Açık renkli, düşük tanenli, çiçeksi ve kırmızı meyveli şaraplar verir; bu yüzden Provence rozelerinin temel bileşenlerindendir. Kupajlarda (ör. Lübnan'ın Château Musar'ında) taze ve parfümlü bir katman oluşturur. Pinotage'ın ebeveynlerinden biridir.",
+   "aromalar": [
+    "çilek",
+    "ahududu",
+    "kırmızı kiraz",
+    "gül",
+    "menekşe",
+    "karabiber",
+    "badem",
+    "kurutulmuş ot"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Roze ve günlük kırmızılar 1-3 yıl; yaşlı bağ örnekleri 5-10 yıl; kupaj içinde (Musar) çok daha uzun.",
+   "eslesme": "Rozeleri mezeler, ızgara balık, salata ve sebze yemekleri; kırmızıları hafif etler, tavuk şiş, hafif soğutulmuş olarak piknik.",
+   "ikon_saraplar": [
+    "Château Musar (Cabernet Sauvignon ve Carignan ile kupaj)",
+    "Château d'Esclans Whispering Angel (Grenache ağırlıklı kupaj bileşeni)",
+    "Pedro Parra Itata Cinsault",
+    "A.A. Badenhorst Ramnasgras Cinsault"
+   ],
+   "turkiyede": "Türkiye'de geniş bir ekimi bilinmiyor; Vitikultur bağ evi kayıtlarında görünmüyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Cinsaut",
+    "https://winefolly.com/grapes/cinsault/"
+   ],
+   "dunya": true,
+   "katalog": 5
+  },
+  {
+   "id": "nero-d-avola",
+   "ad": "Nero d'Avola",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "İtalya, Sicilya (Avola kasabası). Calabrese adıyla da bilinir.",
+   "bolgeler": [
+    "Sicilya (Noto, Pachino, Vittoria)",
+    "Cerasuolo di Vittoria (Frappato ile kupaj)",
+    "Avustralya'da küçük ekimler"
+   ],
+   "karakter": "Sicilya'nın en önemli kırmızı üzümüdür. Sıcak iklimde iyi olgunlaşır; koyu renkli, orta-dolgun gövdeli, olgun kara meyveli ve tatlı baharatlı şaraplar verir. Asidi sıcak iklime göre şaşırtıcı biçimde canlı kalır. Fıçısız taze stillerden meşede olgunlaştırılmış yoğun örneklere kadar geniş bir yelpazesi vardır.",
+   "aromalar": [
+    "siyah kiraz",
+    "siyah erik",
+    "dut",
+    "meyan kökü",
+    "karabiber",
+    "tütün",
+    "kakao",
+    "domates yaprağı"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "orta",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Çoğu 3-6 yıl; en iyi örnekler 10-15 yıl.",
+   "eslesme": "Izgara kırmızı et, domates soslu yemekler, patlıcan yemekleri (caponata, imam bayıldı), kuzu, pizza.",
+   "ikon_saraplar": [
+    "Planeta Santa Cecilia",
+    "Donnafugata Mille e Una Notte",
+    "COS Cerasuolo di Vittoria (kupaj)",
+    "Gulfi Nerobufaleffj"
+   ],
+   "turkiyede": "Türkiye'de bilinen yaygın bir ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Nero_d'Avola",
+    "https://winefolly.com/grapes/nero-davola/"
+   ],
+   "dunya": true,
+   "katalog": 4
+  },
+  {
+   "id": "corvina",
+   "ad": "Corvina",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "İtalya, Veneto (Verona çevresi).",
+   "bolgeler": [
+    "Valpolicella",
+    "Amarone della Valpolicella",
+    "Recioto della Valpolicella",
+    "Bardolino"
+   ],
+   "karakter": "Valpolicella'nın ana üzümüdür; genellikle Rondinella ve Corvinone ile harmanlanır. Taze olarak açık renkli, yüksek asitli, vişne ve badem notalı, hafif-orta gövdeli şaraplar verir. Asıl ünü ise 'appassimento' yönteminden gelir: üzümler hasattan sonra aylarca kurutulup şeker ve aroma yoğunlaştırılır, böylece kuru, güçlü ve yüksek alkollü Amarone ile tatlı Recioto yapılır. Bu iki yöntemin arasındaki 'Ripasso' ise Valpolicella'nın Amarone posası üzerinde yeniden fermente edilmesiyle yapılır.",
+   "aromalar": [
+    "vişne",
+    "ekşi kiraz",
+    "acı badem",
+    "kırmızı erik",
+    "kuru üzüm (Amarone)",
+    "kuru incir",
+    "tarçın",
+    "çikolata (Amarone)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük-orta",
+    "govde": "hafif (Valpolicella) – dolgun (Amarone)",
+    "alkol": "orta (Valpolicella) – yüksek (Amarone, %15-16+)"
+   },
+   "yillanma": "Valpolicella 1-4 yıl; Ripasso 4-8 yıl; Amarone 10-25 yıl ve üzeri.",
+   "eslesme": "Valpolicella: şarküteri, makarna, pizza. Amarone: kuzu incik, uzun pişen güveçler, yaşlı Parmigiano, bitter çikolata.",
+   "ikon_saraplar": [
+    "Giuseppe Quintarelli Amarone della Valpolicella",
+    "Dal Forno Romano Amarone",
+    "Allegrini La Poja",
+    "Bertani Amarone Classico"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Corvina",
+    "https://winefolly.com/grapes/corvina/"
+   ],
+   "dunya": true,
+   "katalog": 4
+  },
+  {
+   "id": "mencia",
+   "ad": "Mencía",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "İspanya, kuzeybatı (Bierzo / Galiçya). Portekiz Dão'daki Jaen ile aynı üzümdür.",
+   "bolgeler": [
+    "Bierzo",
+    "Ribeira Sacra",
+    "Valdeorras",
+    "Dão (Portekiz, Jaen adıyla)"
+   ],
+   "karakter": "İspanya'nın serin kuzeybatısındaki dik, şist ve granit yamaçlarda yetişen, son yıllarda yeniden keşfedilmiş bir üzümdür. Orta gövdeli, canlı asitli, kırmızı meyve ve çiçek notalı, mineral karakterli şaraplar verir; Pinot Noir ile Cabernet Franc arasında bir yerde tarif edilir. Ribeira Sacra'nın teraslı bağları 'kahramanlık bağcılığı' olarak anılır.",
+   "aromalar": [
+    "kırmızı kiraz",
+    "nar",
+    "böğürtlen",
+    "menekşe",
+    "meyan kökü",
+    "kuru ot",
+    "çakıl / mineral",
+    "karabiber"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "orta",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Çoğu 2-6 yıl; en iyi Bierzo örnekleri 10-15 yıl.",
+   "eslesme": "Kuzu pirzola, domuz, mantarlı yemekler, ızgara sebzeler, chorizo, hafif güveçler.",
+   "ikon_saraplar": [
+    "Descendientes de J. Palacios Corullón / La Faraona",
+    "Raúl Pérez Ultreia",
+    "Dominio do Bibei",
+    "Guímaro Ribeira Sacra"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Menc%C3%ADa",
+    "https://winefolly.com/grapes/mencia/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "blaufrankisch",
+   "ad": "Blaufränkisch",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Orta Avrupa; muhtemelen bugünkü Avusturya-Slovenya-Macaristan çevresi. Gouais Blanc'ın çocuğudur. Almanya'da Lemberger, Macaristan'da Kékfrankos adıyla bilinir.",
+   "bolgeler": [
+    "Burgenland (Avusturya: Mittelburgenland, Leithaberg, Eisenberg)",
+    "Macaristan (Sopron, Eger'in Bikavér kupajı)",
+    "Württemberg (Almanya, Lemberger)",
+    "Slovenya ve Slovakya",
+    "Washington ve Finger Lakes (ABD)"
+   ],
+   "karakter": "Orta Avrupa'nın en önemli kırmızılarından biridir. Koyu renkli, yüksek asitli ve orta-yüksek tanenli; siyah kiraz, böğürtlen ve belirgin bir karabiber notasıyla tanınır. Serin iklimde gergin ve mineral, daha sıcak sitlerde dolgun şaraplar verir. Kireçtaşı ve şist topraklarda teruarı iyi yansıtır.",
+   "aromalar": [
+    "siyah kiraz",
+    "böğürtlen",
+    "yaban mersini",
+    "karabiber",
+    "meyan kökü",
+    "menekşe",
+    "çakmak taşı / mineral",
+    "pişmiş erik"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "orta-yüksek",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Günlük örnekler 3-6 yıl; en iyi Burgenland örnekleri 10-20 yıl.",
+   "eslesme": "Gulaş ve paprikalı yemekler, ördek, av eti, kızarmış domuz, mantarlı yemekler, közlenmiş biberli et yemekleri.",
+   "ikon_saraplar": [
+    "Moric Blaufränkisch (Roland Velich)",
+    "Weingut Prieler Goldberg",
+    "Uwe Schiefer Szapary",
+    "Weingut Ernst Triebaumer Mariental"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Blaufr%C3%A4nkisch",
+    "https://winefolly.com/grapes/blaufrankisch/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "petite-sirah",
+   "ad": "Petite Sirah / Durif",
+   "yerli": false,
+   "rehber": true,
+   "renk": "kirmizi",
+   "koken": "Fransa, Montpellier. 1880'lerde Dr. François Durif'in bağında Syrah ile Peloursin'in kendiliğinden melezlenmesiyle ortaya çıktı.",
+   "bolgeler": [
+    "Kaliforniya (Napa, Paso Robles, Lodi, Mendocino)",
+    "Avustralya (Rutherglen, Riverina)",
+    "İsrail",
+    "Meksika (Baja California)"
+   ],
+   "karakter": "Adının aksine 'petite' (küçük) değil, son derece güçlü bir şaraptır: mürekkep koyuluğunda, çok tanenli, dolgun ve yoğun siyah meyveli. Kaliforniya'da tarihsel olarak Zinfandel kupajlarına renk ve yapı katmak için kullanılmıştır. Tanen ve antosiyanin açısından en zengin üzümlerden biridir.",
+   "aromalar": [
+    "yaban mersini",
+    "böğürtlen",
+    "siyah erik",
+    "karabiber",
+    "bitter çikolata",
+    "kakao",
+    "meyan kökü",
+    "kahve"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "yüksek",
+    "govde": "dolgun",
+    "alkol": "yüksek"
+   },
+   "yillanma": "5-20 yıl.",
+   "eslesme": "Barbekü, kaburga, isli etler, kuzu, mangal etleri, bitter çikolata.",
+   "ikon_saraplar": [
+    "Stags' Leap Winery Petite Syrah",
+    "Turley Wine Cellars Petite Syrah",
+    "Ridge Lytton Springs (kupaj bileşeni)",
+    "Morris of Rutherglen Durif"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Durif",
+    "https://winefolly.com/grapes/petite-sirah/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "chenin-blanc",
+   "ad": "Chenin Blanc",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Fransa, Loire Vadisi (Anjou-Touraine). Güney Afrika'da Steen adıyla da bilinir.",
+   "bolgeler": [
+    "Loire (Vouvray, Savennières, Montlouis, Saumur, Anjou; tatlı Coteaux du Layon, Quarts de Chaume, Bonnezeaux)",
+    "Güney Afrika (Swartland, Stellenbosch; dünyanın en geniş Chenin bağları)",
+    "Kaliforniya",
+    "Arjantin"
+   ],
+   "karakter": "Belki de en çok yönlü beyaz üzümdür: kuru, yarı tatlı, botrytis'li tatlı ve köpüklü (Crémant de Loire, Vouvray Mousseux) stillerin hepsinde başarılıdır. Yüksek asidi sayesinde uzun ömürlüdür. Gençken ayva, yeşil elma ve çiçek; yıllandıkça bal, balmumu, ıslak yün ve kuru kayısı notaları gelişir.",
+   "aromalar": [
+    "ayva",
+    "yeşil elma",
+    "armut",
+    "limon",
+    "akasya",
+    "bal",
+    "balmumu",
+    "ıslak yün",
+    "zencefil",
+    "papatya"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Günlük örnekler 1-3 yıl; Savennières ve Vouvray'nin iyi örnekleri 10-30 yıl; tatlıları 50 yıla kadar.",
+   "eslesme": "Domuz, kızarmış tavuk ve hindi, elmalı ve ayvalı yemekler, Hint ve Tay köri (yarı tatlı), keçi peyniri, ayva tatlısı (tatlıları).",
+   "ikon_saraplar": [
+    "Domaine Huet Le Haut-Lieu (Vouvray)",
+    "Nicolas Joly Coulée de Serrant (Savennières)",
+    "Clos Rougeard Brézé",
+    "Eben Sadie Skerpioen / Old Vine Series (Swartland)",
+    "Mullineux Old Vines White"
+   ],
+   "turkiyede": "Çok sınırlı. Vitikultur kayıtlarına göre Lucien Arkas Bağları yetiştiriyor (Chardonnay ile kupaj olarak şişelenmiştir); İdol Şarapçılık'ın Torbalı'da organik Chenin Blanc ürettiği de basına yansımıştır.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Chenin_blanc",
+    "https://winefolly.com/grapes/chenin-blanc/",
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.milliyet.com.tr/yazarlar/mehmet-yalcin/yeni-uzumler-yeni-saraplar-1123985"
+   ],
+   "dunya": true,
+   "katalog": 4
+  },
+  {
+   "id": "pinot-gris",
+   "ad": "Pinot Gris / Pinot Grigio",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Fransa, Burgundy. Pinot Noir'ın gri-pembe kabuklu bir mutasyonudur. Almanya'da Grauburgunder ya da Ruländer, Macaristan'da Szürkebarát adıyla bilinir.",
+   "bolgeler": [
+    "Kuzeydoğu İtalya (Friuli, Veneto, Alto Adige; 'Pinot Grigio' stili)",
+    "Alsace (Fransa; 'Pinot Gris' stili)",
+    "Oregon (Willamette Valley)",
+    "Almanya (Baden, Pfalz)",
+    "Yeni Zelanda"
+   ],
+   "karakter": "Aynı üzümden iki farklı stil çıkar: İtalya'da erken hasatla hafif, nötr, ferah ve limonlu 'Pinot Grigio'; Alsace'ta geç hasat ve düşük verimle dolgun, yağlı, baharatlı ve bazen hafif tatlı 'Pinot Gris'. Kabuğu pembemsi olduğu için kabukla temas ettirilerek bakır renkli 'ramato' tarzı şaraplar da yapılır.",
+   "aromalar": [
+    "limon",
+    "yeşil elma",
+    "armut",
+    "beyaz şeftali",
+    "kavun",
+    "badem",
+    "bal",
+    "zencefil",
+    "tütsü (Alsace)"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "düşük",
+    "govde": "hafif (Grigio) – dolgun (Alsace)",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Pinot Grigio 1-2 yıl; Alsace Grand Cru Pinot Gris 5-15 yıl.",
+   "eslesme": "Pinot Grigio: hafif mezeler, deniz ürünleri, salatalar, aperatif. Alsace Pinot Gris: kaz ciğeri, domuz, ördek, mantarlı yemekler, hafif baharatlı tavuk.",
+   "ikon_saraplar": [
+    "Domaine Zind-Humbrecht Pinot Gris Clos Windsbuhl",
+    "Domaine Weinbach Pinot Gris",
+    "Livio Felluga Pinot Grigio",
+    "Jermann Pinot Grigio",
+    "Eyrie Vineyards Pinot Gris (Oregon)"
+   ],
+   "turkiyede": "Çok nadir. Lüleburgaz'daki Arcadia Bağları, Sauvignon Gris ile birlikte Pinot Gris yetiştiren ilk ve uzun süre tek Türk bağı olarak bilinir.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Pinot_gris",
+    "https://winefolly.com/grapes/pinot-gris/",
+    "https://www.arcadiavineyards.com/",
+    "https://yoldaolmak.com/arcadia-baglari-bakucha-hotel"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "gewurztraminer",
+   "ad": "Gewürztraminer",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Avrupa'nın çok eski üzümlerinden Savagnin (Traminer) ailesinin pembe kabuklu, aromatik bir formudur. Adı Almanca 'baharatlı' (Gewürz) ve Kuzey İtalya'daki Tramin köyünden gelir.",
+   "bolgeler": [
+    "Alsace (Fransa)",
+    "Alto Adige / Südtirol (İtalya)",
+    "Pfalz (Almanya)",
+    "Avusturya",
+    "Yeni Zelanda (Gisborne)",
+    "Oregon ve Washington"
+   ],
+   "karakter": "Kokusu en kolay tanınan üzümdür: liçi, gül ve zencefil adeta kadehten taşar. Asidi düşük, alkolü ve gövdesi yüksektir; bu da onu yağlı ve dolgun yapar. Kurudan çok tatlıya (Vendanges Tardives, Sélection de Grains Nobles) kadar yapılır. Kabuğu pembe olduğu için şarabı koyu altın renkli olabilir.",
+   "aromalar": [
+    "liçi",
+    "gül",
+    "zencefil",
+    "pembe greyfurt",
+    "ananas",
+    "şeftali",
+    "tarçın",
+    "Türk lokumu",
+    "bal"
+   ],
+   "yapi": {
+    "asit": "düşük",
+    "tanen": "düşük",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Çoğu 2-5 yıl; Alsace Grand Cru ve geç hasat örnekleri 10-20 yıl.",
+   "eslesme": "Baharatlı Asya ve Hint yemekleri, köri, Munster peyniri, kaz ciğeri, isli balık; Türk mutfağında baharatlı mantı ve içli köfte.",
+   "ikon_saraplar": [
+    "Domaine Zind-Humbrecht Gewurztraminer",
+    "Trimbach Cuvée des Seigneurs de Ribeaupierre",
+    "Hugel Gewurztraminer Vendange Tardive",
+    "Tramin Nussbaumer (Alto Adige)"
+   ],
+   "turkiyede": "Çok sınırlı. Diren'in 'Vadi' yarı tatlı beyazı, Tokat'ta yetişen Narince ile Gewürztraminer'in yarı yarıya kupajıdır.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Gew%C3%BCrztraminer",
+    "https://winefolly.com/grapes/gewurztraminer/",
+    "https://direnwines.com/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "semillon",
+   "ad": "Sémillon",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Fransa, Bordeaux (Sauternes çevresi).",
+   "bolgeler": [
+    "Sauternes ve Barsac (tatlı, botrytis'li)",
+    "Graves ve Pessac-Léognan (Sauvignon Blanc ile kuru kupaj)",
+    "Hunter Valley (Avustralya)",
+    "Barossa ve Margaret River (Avustralya)",
+    "Güney Afrika",
+    "Washington"
+   ],
+   "karakter": "İnce kabuklu, soylu çürüklüğe (Botrytis cinerea) yatkın bir üzümdür; bu yüzden Sauternes'in ana üzümüdür ve dünyanın en ünlü tatlı şaraplarını verir. Kuru şaraplarda Sauvignon Blanc'a dolgunluk ve yağlı doku katar. Avustralya Hunter Valley'de erken toplanıp fıçısız yapıldığında gençken hafif, limonlu ve sade; 10-20 yıl içinde tost, bal ve fındık kokulu muhteşem bir şaraba dönüşür.",
+   "aromalar": [
+    "limon",
+    "yeşil elma",
+    "armut",
+    "bal",
+    "balmumu",
+    "lanolin",
+    "safran",
+    "kayısı (botrytis)",
+    "portakal marmelatı (Sauternes)",
+    "tost (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "orta (Hunter Valley'de yüksek)",
+    "tanen": "düşük",
+    "govde": "orta-dolgun",
+    "alkol": "orta (Hunter %10-11; Sauternes %13-14)"
+   },
+   "yillanma": "Hunter Valley kuru Sémillon 10-25 yıl; Sauternes 15-50 yıl ve üzeri.",
+   "eslesme": "Kuru stiller: balık, kremalı deniz ürünleri, tavuk. Sauternes: kaz ciğeri, Roquefort, meyveli turtalar, kayısı tatlısı, baklava.",
+   "ikon_saraplar": [
+    "Château d'Yquem (Sauternes)",
+    "Château Climens (Barsac)",
+    "Château Haut-Brion Blanc (kupaj)",
+    "Tyrrell's Vat 1 Sémillon (Hunter Valley)",
+    "Mount Pleasant Lovedale"
+   ],
+   "turkiyede": "Trakya'da (Tekirdağ, Şarköy) uzun bir geçmişi vardır; Doluca'nın kurucusu Nihat Kutman ve Tekel dönemiyle bölgeye yerleşmiştir. Paşaeli'nin Sémillon-Narince kupajı ve Umurbey'in Tekirdağ bağları bilinen örneklerdir.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/S%C3%A9millon",
+    "https://winefolly.com/grapes/semillon/",
+    "https://www.hurriyet.com.tr/ekonomi/trakya-uzumlerinden-yeni-bir-sarap-markasi-38525183",
+    "https://www.milliyet.com.tr/ekonomi/sato-tipi-sarap-uretiyoruz-1678455"
+   ],
+   "dunya": true,
+   "katalog": 9
+  },
+  {
+   "id": "gruner-veltliner",
+   "ad": "Grüner Veltliner",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Avusturya. Traminer ile St. Georgener-Rebe adlı neredeyse kaybolmuş bir üzümün çocuğudur.",
+   "bolgeler": [
+    "Wachau",
+    "Kamptal",
+    "Kremstal",
+    "Weinviertel",
+    "Wagram",
+    "Slovakya ve Çekya",
+    "Yeni Zelanda ve ABD'de küçük ekimler"
+   ],
+   "karakter": "Avusturya'nın ulusal üzümüdür ve ülkedeki bağların yaklaşık üçte birini kaplar. Orta-yüksek asitli, taze ve hafif baharatlı beyazlar verir; imzası beyaz biber notasıdır. Hafif Weinviertel stillerinden Wachau'nun dolgun 'Smaragd' sınıfına kadar geniş bir yelpaze vardır. Kuşkonmaz ve enginar gibi eşleştirilmesi zor sebzelerle bile uyumludur.",
+   "aromalar": [
+    "yeşil elma",
+    "limon",
+    "lime",
+    "beyaz şeftali",
+    "beyaz biber",
+    "taze fasulye",
+    "kuşkonmaz",
+    "turp",
+    "ıslak taş"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-dolgun (stile göre)",
+    "alkol": "orta"
+   },
+   "yillanma": "Çoğu 2-5 yıl; Wachau Smaragd ve Erste Lage örnekleri 10-20 yıl.",
+   "eslesme": "Wiener Schnitzel, kuşkonmaz, enginar, zeytinyağlı sebzeler, sushi, şnitzel, tavuk, Asya mutfağı.",
+   "ikon_saraplar": [
+    "F.X. Pichler Grüner Veltliner Smaragd",
+    "Weingut Knoll Ried Schütt",
+    "Weingut Bründlmayer Lamm",
+    "Weingut Hirtzberger Honivogl",
+    "Weingut Prager Achleiten"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Gr%C3%BCner_Veltliner",
+    "https://winefolly.com/grapes/gruner-veltliner/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "albarino",
+   "ad": "Albariño / Alvarinho",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İspanya-Portekiz sınırı: Galiçya ve Portekiz'in kuzeyi (Minho).",
+   "bolgeler": [
+    "Rías Baixas (Galiçya, özellikle Val do Salnés)",
+    "Vinho Verde (Monção e Melgaço, Alvarinho adıyla)",
+    "Kaliforniya",
+    "Uruguay",
+    "Yeni Zelanda"
+   ],
+   "karakter": "Atlantik'in etkisindeki serin ve nemli kıyılarda yetişen, kalın kabuklu bir üzümdür. Canlı asit, narenciye ve şeftali aromaları ile hafif tuzlu, 'deniz' esintili bir finali vardır. Genellikle fıçısız, taze içilmek için yapılır; tortu üzerinde bekletilen örnekler daha yuvarlak ve karmaşıktır.",
+   "aromalar": [
+    "limon",
+    "greyfurt",
+    "lime",
+    "şeftali",
+    "nektarin",
+    "kayısı",
+    "akasya",
+    "deniz tuzu",
+    "badem"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Çoğu 1-3 yıl; en iyi örnekler 5-10 yıl.",
+   "eslesme": "Midye, istiridye, ahtapot (pulpo a la gallega), ızgara balık, karides, ceviche, deniz mahsullü pilav, levrek.",
+   "ikon_saraplar": [
+    "Pazo de Señoráns Selección de Añada",
+    "Zárate Albariño",
+    "Do Ferreiro Cepas Vellas",
+    "Anselmo Mendes Alvarinho (Vinho Verde)",
+    "Soalheiro Alvarinho"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Albari%C3%B1o",
+    "https://winefolly.com/grapes/albarino/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "assyrtiko",
+   "ad": "Assyrtiko",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Yunanistan, Santorini (Ege Denizi).",
+   "bolgeler": [
+    "Santorini",
+    "Girit",
+    "Makedonya ve Attika (Yunan anakarası)",
+    "Avustralya (Clare Valley'de küçük ekimler)"
+   ],
+   "karakter": "Sıcak ve kuru iklimde bile asidini koruyabilen ender üzümlerdendir. Santorini'nin volkanik topraklarında, rüzgârdan korunmak için sepet biçiminde (kouloura) budanan, filokseraya uğramamış çok yaşlı asmalardan son derece mineral, tuzlu, gergin ve uzun ömürlü beyazlar verir. Meşede yapılan 'Nykteri' ve güneşte kurutulmuş üzümden yapılan tatlı 'Vinsanto' stilleri de vardır.",
+   "aromalar": [
+    "limon",
+    "lime",
+    "greyfurt",
+    "yeşil elma",
+    "deniz tuzu",
+    "çakmak taşı",
+    "volkanik / dumanlı mineral",
+    "bal (yıllanmış)",
+    "rezene"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Santorini Assyrtiko 5-15 yıl; Vinsanto onlarca yıl.",
+   "eslesme": "Izgara balık, kalamar, ahtapot, istiridye, Akdeniz mezeleri, zeytinyağlı yemekler, beyaz peynir, deniz börülcesi.",
+   "ikon_saraplar": [
+    "Domaine Sigalas Santorini",
+    "Gaia Thalassitis",
+    "Hatzidakis Santorini",
+    "Estate Argyros Santorini",
+    "Domaine Gavalas"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Assyrtiko",
+    "https://winefolly.com/grapes/assyrtiko/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "furmint",
+   "ad": "Furmint",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Macaristan, Tokaj bölgesi (büyük olasılıkla). Slovenya'da Šipon, Avusturya'da Mosler adlarıyla da bilinir.",
+   "bolgeler": [
+    "Tokaj (Macaristan)",
+    "Somló (Macaristan)",
+    "Slovenya (Štajerska)",
+    "Burgenland (Avusturya)",
+    "Slovakya (Tokaj bölgesinin Slovak kısmı)"
+   ],
+   "karakter": "Tokaji Aszú'nun ana üzümüdür. Çok yüksek asidi ve botrytis'e (soylu çürüklük) yatkınlığı sayesinde dünyanın en uzun ömürlü tatlı şaraplarını verir. Son yıllarda kuru Furmint'ler de büyük ilgi görüyor: dumanlı, mineral, ayva ve armut notalı, gergin ve yapılı beyazlar. Genellikle Hárslevelű ve Sárgamuskotály ile harmanlanır.",
+   "aromalar": [
+    "ayva",
+    "yeşil elma",
+    "armut",
+    "lime",
+    "greyfurt",
+    "duman",
+    "çakmak taşı",
+    "bal",
+    "kayısı ve portakal kabuğu (Aszú)"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "orta-dolgun",
+    "alkol": "orta-yüksek (kuru stiller)"
+   },
+   "yillanma": "Kuru Furmint 3-10 yıl; Tokaji Aszú 20-50 yıl ve üzeri; Eszencia bir yüzyıl kadar.",
+   "eslesme": "Kuru stiller: kızarmış domuz, kaz, ördek, tavuk paprikaş, balık. Aszú: kaz ciğeri, mavi peynir, meyveli tatlılar, cevizli baklava.",
+   "ikon_saraplar": [
+    "Royal Tokaji Mézes Mály Aszú",
+    "Disznókő Tokaji Aszú 6 Puttonyos",
+    "Oremus Tokaji Aszú",
+    "István Szepsy Furmint ve Aszú",
+    "Château Pajzos Eszencia"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Furmint",
+    "https://winefolly.com/grapes/furmint/"
+   ],
+   "dunya": true,
+   "katalog": 4
+  },
+  {
+   "id": "muscat",
+   "ad": "Muscat (Muscat Blanc à Petits Grains ve ailesi)",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Eski Yunan ve Doğu Akdeniz kökenli olduğu düşünülen, en eski kültür üzümlerinden biri. Muscat ailesi 200'den fazla çeşidi kapsar; en kalitelisi Muscat Blanc à Petits Grains (Moscato Bianco), en yaygınları Muscat of Alexandria ve Muscat Ottonel'dir.",
+   "bolgeler": [
+    "Piemonte (Moscato d'Asti, Asti)",
+    "Alsace (kuru Muscat)",
+    "Güney Fransa (Muscat de Beaumes-de-Venise, Muscat de Rivesaltes, Frontignan)",
+    "Rutherglen (Avustralya, 'Muscat' adlı güçlendirilmiş tatlılar; Muscat à Petits Grains Rouge)",
+    "Samos (Yunanistan)",
+    "Setúbal (Portekiz, Muscat of Alexandria)",
+    "İspanya (Moscatel)"
+   ],
+   "karakter": "Kadehten tam olarak 'üzüm' kokan neredeyse tek şaraptır. Portakal çiçeği, gül ve misket aromaları belirgindir. Kuru ve narin (Alsace), hafif köpüklü ve düşük alkollü (Moscato d'Asti, ~%5,5), alkolle güçlendirilmiş tatlı (vin doux naturel) ve çok yaşlı, karamelize stiller (Rutherglen) gibi geniş bir yelpazede yapılır.",
+   "aromalar": [
+    "taze üzüm",
+    "portakal çiçeği",
+    "gül",
+    "şeftali",
+    "kayısı",
+    "mandalina",
+    "adaçayı",
+    "bal",
+    "kuru üzüm ve karamel (yaşlı tatlılar)"
+   ],
+   "yapi": {
+    "asit": "düşük-orta",
+    "tanen": "düşük",
+    "govde": "hafif (Moscato d'Asti) – dolgun (güçlendirilmiş)",
+    "alkol": "düşük (Moscato d'Asti) – yüksek (vin doux naturel %15+)"
+   },
+   "yillanma": "Moscato d'Asti ve kuru Muscat'lar 1-2 yıl; güçlendirilmiş tatlılar ve Rutherglen Muscat onlarca yıl.",
+   "eslesme": "Moscato d'Asti: meyve salatası, pasta, kahvaltı. Güçlendirilmiş tatlılar: kuru meyveli tatlılar, baklava, ceviz, mavi peynir. Kuru Muscat: kuşkonmaz, aperatif.",
+   "ikon_saraplar": [
+    "Paolo Saracco Moscato d'Asti",
+    "Domaine Zind-Humbrecht Muscat",
+    "Domaine de Durban Muscat de Beaumes-de-Venise",
+    "Chambers Rosewood Rare Rutherglen Muscat",
+    "Samos Nectar"
+   ],
+   "turkiyede": "Ailenin Türkiye'deki en önemli temsilcisi, İzmir çevresinde yetişen ve Muscat Blanc à Petits Grains'in yerel bir kolu kabul edilen Bornova Misketi'dir. Vitikultur kayıtlarına göre Bornova Misketi'ni Urla Şarapçılık, USCA, Perdix, Nif Bağları, Pamukkale, Lucien Arkas Bağları gibi pek çok üretici yetiştiriyor; MMG Siyah Misket (Black Muscat), Dessera ise Muscat of Alexandria yetiştiriyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Muscat_Blanc_%C3%A0_Petits_Grains",
+    "https://winefolly.com/grapes/muscat-blanc/",
+    "https://www.vitikultur.com/tr/baglar",
+    "https://www.vitikultur.com/tr/uzumler/bornova-misketi"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "glera",
+   "ad": "Glera (Prosecco)",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Kuzeydoğu İtalya (Veneto-Friuli). Eskiden 'Prosecco' diye anılırdı; 2009'da şarap bölgesinin adı korunup üzümün adı Glera olarak değiştirildi.",
+   "bolgeler": [
+    "Prosecco DOC (Veneto ve Friuli)",
+    "Conegliano Valdobbiadene Prosecco Superiore DOCG",
+    "Asolo Prosecco DOCG"
+   ],
+   "karakter": "Hafif, aromatik ve düşük alkollü bir beyazdır; neredeyse tamamı köpüklü şarap için kullanılır. Prosecco çoğunlukla tank yöntemiyle (Charmat/Martinotti) yapılır: ikinci fermantasyon büyük çelik tanklarda gerçekleşir, bu yüzden meyve tazeliği korunur ve maya kaynaklı brioche notaları az olur. Yeşil elma, armut, çiçek ve şeftali notalı, taze ve kolay içimli şaraplar çıkar; Brut'tan Extra Dry'a (aslında hafif tatlı) kadar farklı şeker seviyeleri vardır.",
+   "aromalar": [
+    "yeşil elma",
+    "armut",
+    "beyaz şeftali",
+    "akasya",
+    "ıhlamur",
+    "limon",
+    "kavun",
+    "badem"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "hafif",
+    "alkol": "düşük-orta"
+   },
+   "yillanma": "Genç içilir; 1-2 yıl.",
+   "eslesme": "Aperatif, jambon ve melon, hafif deniz ürünleri, sushi, kahvaltı ve brunch, meyveli tatlılar.",
+   "ikon_saraplar": [
+    "Bisol Cartizze",
+    "Nino Franco Rustico",
+    "Adami Bosco di Gica",
+    "Ruggeri Giustino B."
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari bir Glera ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Glera_(grape)",
+    "https://winefolly.com/grapes/prosecco/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "rkatsiteli",
+   "ad": "Rkatsiteli",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Gürcistan. Dünyanın en eski ve en çok dikilen beyaz üzümlerinden biridir; adı 'kırmızı sap' anlamına gelir.",
+   "bolgeler": [
+    "Kakheti (Gürcistan)",
+    "Moldova",
+    "Ukrayna",
+    "Bulgaristan",
+    "Rusya ve Orta Asya cumhuriyetleri",
+    "Finger Lakes (New York)"
+   ],
+   "karakter": "Soğuğa dayanıklı, yüksek asitli ve verimli bir üzümdür. Gürcistan'da iki farklı yüzü vardır: Avrupa tarzı fıçısız taze beyazlar ve kvevri (toprağa gömülü kil küp) içinde kabuk ve saplarıyla fermente edilen kehribar renkli, tanenli 'turuncu şaraplar'. Kvevri şarapları kuru kayısı, çay ve baharat notalı, tuhaf ve uzun ömürlüdür.",
+   "aromalar": [
+    "limon",
+    "yeşil elma",
+    "şeftali",
+    "kuru kayısı",
+    "çay yaprağı",
+    "bal",
+    "ceviz",
+    "baharat"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük (Avrupa tarzı) – orta (kvevri)",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Taze stiller 1-3 yıl; kvevri şarapları 5-15 yıl.",
+   "eslesme": "Gürcü mutfağı, peynirli hamur işleri (khachapuri), cevizli sebze yemekleri, kuzu, tavuk, olgun peynirler.",
+   "ikon_saraplar": [
+    "Pheasant's Tears Rkatsiteli (kvevri)",
+    "Iago's Wine Rkatsiteli",
+    "Schuchmann Rkatsiteli",
+    "Tbilvino Qvevri Rkatsiteli"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Rkatsiteli",
+    "https://winefolly.com/grapes/rkatsiteli/",
+    "https://ich.unesco.org/en/RL/ancient-georgian-traditional-qvevri-wine-making-method-00870"
+   ],
+   "dunya": true,
+   "katalog": 0
+  },
+  {
+   "id": "torrontes",
+   "ad": "Torrontés",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Arjantin. DNA analizleri Muscat of Alexandria ile Criolla Chica (Mission/Listán Prieto) üzümünün çocuğu olduğunu gösterir. Arjantin'de üç tip vardır; en kalitelisi Torrontés Riojano'dur.",
+   "bolgeler": [
+    "Salta (Cafayate Vadisi, 1.700-3.000 m rakım)",
+    "La Rioja (Arjantin)",
+    "Mendoza ve San Juan"
+   ],
+   "karakter": "Arjantin'in aromatik beyaz imzasıdır. Kokusu Muscat ve Gewürztraminer'i andırır: gül, şeftali ve portakal çiçeği. Ancak ağızda şaşırtıcı biçimde kuru ve hafiftir; yüksek rakım serinliği ona canlılık verir. Genellikle fıçısız ve genç içilir.",
+   "aromalar": [
+    "gül",
+    "portakal çiçeği",
+    "şeftali",
+    "kayısı",
+    "liçi",
+    "greyfurt",
+    "nane",
+    "mandalina"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Genç içilir; 1-3 yıl.",
+   "eslesme": "Baharatlı Asya yemekleri, ceviche, empanada, salatalar, hafif tavuk yemekleri, deniz ürünleri.",
+   "ikon_saraplar": [
+    "Colomé Torrontés (Salta)",
+    "Piattelli Torrontés",
+    "El Esteco Old Vines Torrontés",
+    "Crios Torrontés"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Torront%C3%A9s",
+    "https://winefolly.com/grapes/torrontes/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "verdejo",
+   "ad": "Verdejo",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İspanya, Rueda (Kastilya-León). Geleneksel olarak 11. yüzyılda Kuzey Afrika'dan getirildiği anlatılır; bu rivayet kesin kanıta dayanmaz.",
+   "bolgeler": [
+    "Rueda DO",
+    "Segovia",
+    "Cigales"
+   ],
+   "karakter": "Rueda'nın imza beyazıdır; geceleri soğuyan yüksek rakımlı platoda yetişir ve gece hasadıyla aromalarını korur. Sauvignon Blanc'a benzer ama daha yuvarlaktır: greyfurt, rezene, çimen ve hafif acı bir badem finali. Sauvignon Blanc ile harmanlanabilir; bazı örnekler tortu üzerinde ya da fıçıda bekletilerek daha dolgun yapılır.",
+   "aromalar": [
+    "greyfurt",
+    "limon kabuğu",
+    "yeşil elma",
+    "rezene",
+    "kesilmiş çimen",
+    "şeftali",
+    "acı badem",
+    "kuru ot"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Genç içilir; 1-3 yıl.",
+   "eslesme": "Tapas, deniz ürünleri, ızgara balık, salata, zeytinyağlı sebzeler, jambon, keçi peyniri.",
+   "ikon_saraplar": [
+    "Naia (Rueda)",
+    "José Pariente Verdejo",
+    "Belondrade y Lurton",
+    "Marqués de Riscal Rueda Verdejo"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Verdejo",
+    "https://winefolly.com/grapes/verdejo/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "garganega",
+   "ad": "Garganega",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İtalya, Veneto.",
+   "bolgeler": [
+    "Soave ve Soave Classico (Verona)",
+    "Gambellara",
+    "Recioto di Soave (tatlı)",
+    "Colli Berici"
+   ],
+   "karakter": "Soave'nin ana üzümüdür; Soave'nin kalitesi kötü bir üne düşmüş olsa da Classico bölgesindeki volkanik topraklarda düşük verimle yetişen Garganega gerçek bir derinlik gösterir. Orta gövdeli, hafif baharatlı, badem, beyaz şeftali ve limon notalı şaraplar verir. Kurutulmuş üzümden yapılan Recioto di Soave ise tatlı ve uzun ömürlüdür.",
+   "aromalar": [
+    "limon",
+    "beyaz şeftali",
+    "armut",
+    "badem",
+    "akasya",
+    "ıhlamur",
+    "taze çiçekler",
+    "volkanik mineral"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Soave 1-3 yıl; Soave Classico Superiore 5-15 yıl; Recioto 20+ yıl.",
+   "eslesme": "Risotto, kremalı makarna, beyaz etler, tavuk, levrek, hafif peynirler, balık çorbası.",
+   "ikon_saraplar": [
+    "Pieropan Soave Classico La Rocca",
+    "Inama Soave Classico Vigneti di Foscarino",
+    "Coffele Soave Classico Ca' Visco",
+    "Gini Soave Classico Contrada Salvarenza"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Garganega",
+    "https://winefolly.com/grapes/garganega/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "trebbiano",
+   "ad": "Trebbiano / Ugni Blanc",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İtalya (Trebbiano ailesi); Fransa'da Ugni Blanc, Cognac ve Armagnac'ın ana üzümüdür. Trebbiano Toscano en yaygın kolu olup dünyanın en çok dikili beyaz üzümlerinden biridir.",
+   "bolgeler": [
+    "Toskana ve Umbria",
+    "Abruzzo (Trebbiano d'Abruzzo)",
+    "Cognac ve Armagnac (Fransa, Ugni Blanc)",
+    "Orta İtalya genelinde birçok DOC"
+   ],
+   "karakter": "Yüksek verimli, yüksek asitli ve nötr aromalı bir üzümdür; bu nedenle tek başına çoğunlukla sıradan şaraplar verir ama damıtma için idealdir. Yüksek asit ve düşük alkol, Cognac ve Armagnac'ta damıtmadan sonra uzun yıllanma için uygun bir temel sağlar. Abruzzo'daki Trebbiano d'Abruzzo'nun en iyi örnekleri ise düşük verimli yaşlı bağlardan gelir ve şaşırtıcı bir derinlik ve uzun ömür gösterir.",
+   "aromalar": [
+    "limon",
+    "yeşil elma",
+    "armut",
+    "beyaz çiçek",
+    "badem",
+    "kuru ot",
+    "ıslak taş"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif-orta",
+    "alkol": "düşük-orta"
+   },
+   "yillanma": "Çoğu genç içilir; en iyi Trebbiano d'Abruzzo örnekleri 10-30 yıl.",
+   "eslesme": "Hafif deniz ürünleri, salatalar, makarna, hafif aperatifler, beyaz etler.",
+   "ikon_saraplar": [
+    "Valentini Trebbiano d'Abruzzo",
+    "Emidio Pepe Trebbiano d'Abruzzo",
+    "Vin Santo (Toskana; Trebbiano ve Malvasia ile)"
+   ],
+   "turkiyede": "Vitikultur kayıtlarına göre Lucien Arkas Bağları 'Ugni Blanc' (Trebbiano'nun Fransızca adı) yetiştiriyor; yaygın değildir.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Trebbiano",
+    "https://winefolly.com/grapes/trebbiano-toscano/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 0
+  },
+  {
+   "id": "melon-de-bourgogne",
+   "ad": "Melon de Bourgogne (Muscadet)",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Burgundy. 18. yüzyılda Loire Vadisi'nin Nantes bölgesine taşındı; 1709'daki büyük donda Nantes bağları yok olunca burada yoğun biçimde yeniden dikildi. Gouais Blanc ile Pinot'nun çocuğudur.",
+   "bolgeler": [
+    "Muscadet Sèvre-et-Maine (Loire, Nantes)",
+    "Muscadet Côtes de Grandlieu",
+    "Muscadet Coteaux de la Loire"
+   ],
+   "karakter": "Hafif, kuru, nötr ve tuzlu bir beyazdır; Atlantik'in yanı başındaki bağlarda yetişir. Çoğu zaman 'sur lie' (tortu üzerinde) bekletilir; bu da şaraba hafif ekmeksi doku ve tazelik katar. Asidi canlıdır, alkolü düşüktür ve istiridye için klasik bir eşleşme olarak anılır. En iyi örnekleri (uzun tortu yıllanması yapılanlar) şaşırtıcı biçimde uzun yaşar.",
+   "aromalar": [
+    "limon",
+    "yeşil elma",
+    "deniz tuzu",
+    "ıslak taş",
+    "yaban gülü",
+    "ekmek kabuğu (sur lie)",
+    "hafif mayamsı",
+    "kireç"
+   ],
+   "yapi": {
+    "asit": "yüksek",
+    "tanen": "düşük",
+    "govde": "hafif",
+    "alkol": "düşük-orta"
+   },
+   "yillanma": "Genç içilir; 1-3 yıl. Uzun tortu yıllanması yapılan cru'lar 10-15 yıl.",
+   "eslesme": "İstiridye, midye, çiğ deniz mahsulleri, ızgara balık, sushi, keçi peyniri.",
+   "ikon_saraplar": [
+    "Domaine de la Pépière Clos des Briords",
+    "Luneau-Papin Excelsior",
+    "Domaine de l'Écu Expression de Gneiss",
+    "Jo Landron Muscadet Amphibolite"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Melon_de_Bourgogne",
+    "https://winefolly.com/grapes/melon/"
+   ],
+   "dunya": true,
+   "katalog": 1
+  },
+  {
+   "id": "marsanne",
+   "ad": "Marsanne",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Fransa, Kuzey Rhône (Tain-l'Hermitage çevresi).",
+   "bolgeler": [
+    "Hermitage, Crozes-Hermitage, Saint-Joseph (Kuzey Rhône)",
+    "Languedoc ve Provence",
+    "Goulburn Valley / Nagambie Lakes (Avustralya, Victoria)",
+    "İsviçre (Valais, Ermitage adıyla)",
+    "Kaliforniya (Central Coast)"
+   ],
+   "karakter": "Dolgun, yağlı dokulu ve düşük asitli bir beyazdır. Genellikle Roussanne ile harmanlanır: Marsanne yapıyı ve ağırlığı, Roussanne ise aroma ve asit getirir. Gençken armut, badem ve beyaz çiçek; yıllandıkça bal, fındık ve marmelat kokusu gelişir. Victoria'daki 1860'lardan kalma yaşlı Marsanne bağları dünyanın en eski bağları arasındadır.",
+   "aromalar": [
+    "armut",
+    "ayva",
+    "beyaz şeftali",
+    "badem",
+    "bal",
+    "akasya",
+    "marzipan",
+    "fındık",
+    "mum (yıllanmış)"
+   ],
+   "yapi": {
+    "asit": "düşük-orta",
+    "tanen": "düşük",
+    "govde": "dolgun",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Genç örnekler 3-5 yıl; Hermitage Blanc 15-30 yıl.",
+   "eslesme": "Kremalı balık ve kümes hayvanı yemekleri, kızarmış tavuk, ıstakoz, mantarlı yemekler, yumuşak peynirler.",
+   "ikon_saraplar": [
+    "Jean-Louis Chave Hermitage Blanc",
+    "M. Chapoutier Ermitage de l'Orée",
+    "Tahbilk 1927 Vines Marsanne (Victoria)",
+    "Yves Cuilleron Saint-Joseph Blanc"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Marsanne",
+    "https://winefolly.com/grapes/marsanne/"
+   ],
+   "dunya": true,
+   "katalog": 2
+  },
+  {
+   "id": "pinot-blanc",
+   "ad": "Pinot Blanc",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "Fransa, Burgundy. Pinot Noir'ın beyaz kabuklu bir mutasyonudur; uzun süre Chardonnay ile karıştırılmıştır. Almanya'da Weißburgunder, İtalya'da Pinot Bianco, Avusturya'da Weißburgunder olarak da bilinir.",
+   "bolgeler": [
+    "Alsace (Fransa)",
+    "Alto Adige ve Friuli (İtalya)",
+    "Baden ve Pfalz (Almanya)",
+    "Avusturya",
+    "Oregon"
+   ],
+   "karakter": "Chardonnay'ın daha hafif, daha az meşeli ve daha sade bir kuzeni gibidir. Orta gövdeli, orta asitli; elma, armut ve hafif badem notalıdır. Alsace'ta Auxerrois ile birlikte 'Pinot Blanc' etiketi altında sıkça satılır. Dikkatle yapıldığında yağlı ve kremamsı bir doku sunar.",
+   "aromalar": [
+    "yeşil elma",
+    "armut",
+    "limon",
+    "çiçek",
+    "badem",
+    "kavun",
+    "hafif tereyağı",
+    "kuru ot"
+   ],
+   "yapi": {
+    "asit": "orta",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta"
+   },
+   "yillanma": "Çoğu 1-4 yıl; en iyi örnekler 5-10 yıl.",
+   "eslesme": "Kremalı yemekler, beyaz etler, kuşkonmaz, hafif balıklar, tuzlu turtalar (quiche), yumuşak peynirler.",
+   "ikon_saraplar": [
+    "Domaine Zind-Humbrecht Pinot Blanc",
+    "Trimbach Pinot Blanc",
+    "Elena Walch Pinot Bianco (Alto Adige)"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Pinot_blanc",
+    "https://winefolly.com/grapes/pinot-blanc/"
+   ],
+   "dunya": true,
+   "katalog": 0
+  },
+  {
+   "id": "palomino",
+   "ad": "Palomino (Sherry)",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İspanya, Endülüs (Jerez çevresi). Adının kökeni konusunda çeşitli rivayetler vardır; kesin bir kaynak yoktur.",
+   "bolgeler": [
+    "Jerez-Xérès-Sherry (Jerez, Sanlúcar de Barrameda, El Puerto de Santa María)",
+    "Montilla-Moriles (Pedro Ximénez ile)",
+    "Güney Afrika ve Kaliforniya'da güçlendirilmiş şaraplar"
+   ],
+   "karakter": "Sherry'nin ana üzümüdür. Tek başına son derece nötr, düşük asitli ve hafif bir şarap verir; bu nötrlük sayesinde yıllanma sürecinin etkisi (flor mayası ya da oksidasyon) olduğu gibi yansır. Fino ve Manzanilla'da yüzeyde oluşan flor mayası şarabı havadan korur ve badem, elma ve maya notaları verir; Oloroso'da ise oksijen teması ceviz, karamel ve baharat getirir. Solera sistemi ile farklı yılların şarapları harmanlanır.",
+   "aromalar": [
+    "badem",
+    "yeşil elma",
+    "maya",
+    "tuzlu deniz esintisi (Fino)",
+    "ceviz",
+    "karamel",
+    "kuru incir",
+    "baharat (Oloroso)"
+   ],
+   "yapi": {
+    "asit": "düşük",
+    "tanen": "düşük",
+    "govde": "hafif (Fino) – dolgun (Oloroso)",
+    "alkol": "orta-yüksek (güçlendirilmiş %15-22)"
+   },
+   "yillanma": "Fino ve Manzanilla taze içilir (açılışta); Amontillado ve Oloroso onlarca yıl (VOS/VORS 20-30+ yıl solera yaşı).",
+   "eslesme": "Fino/Manzanilla: tapas, zeytin, jambon, kızarmış balık, badem. Oloroso: kuzu, av eti, olgun peynirler, ceviz.",
+   "ikon_saraplar": [
+    "Tío Pepe Fino (González Byass)",
+    "La Guita Manzanilla",
+    "Lustau Almacenista",
+    "Equipo Navazos La Bota de Fino",
+    "Valdespino Palo Cortado Cardenal"
+   ],
+   "turkiyede": "Türkiye'de bilinen ticari ekimi yoktur (Vitikultur bağ evi kayıtlarında görünmüyor).",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Palomino_(grape)",
+    "https://winefolly.com/grapes/palomino-fino/",
+    "https://en.wikipedia.org/wiki/Sherry"
+   ],
+   "dunya": true,
+   "katalog": 3
+  },
+  {
+   "id": "grillo",
+   "ad": "Grillo",
+   "yerli": false,
+   "rehber": true,
+   "renk": "beyaz",
+   "koken": "İtalya, Sicilya. Catarratto ile Muscat of Alexandria'nın çocuğudur; 19. yüzyıl sonunda Sicilya'da geliştirilmiştir.",
+   "bolgeler": [
+    "Marsala (Sicilya batısı; güçlendirilmiş şarap)",
+    "Sicilia DOC (kuru beyaz)",
+    "Etna'nın yamaçları (küçük miktarlarda)"
+   ],
+   "karakter": "Başlangıçta Marsala şarabında kullanılan bir üzümdür; bugün Sicilya'nın kuru beyaz yıldızlarından biridir. Sıcak iklimde iyi olgunlaşır, asidi yine de canlıdır. Narenciye, yeşil elma ve hafif tuzlu mineral notalı, orta gövdeli ve aromatik şaraplar verir. Oksidasyona dayanıklıdır; bu özellik onu Marsala için ideal kılmıştır.",
+   "aromalar": [
+    "limon",
+    "greyfurt",
+    "yeşil elma",
+    "şeftali",
+    "kayısı",
+    "akasya",
+    "adaçayı",
+    "deniz tuzu"
+   ],
+   "yapi": {
+    "asit": "orta-yüksek",
+    "tanen": "düşük",
+    "govde": "orta",
+    "alkol": "orta-yüksek"
+   },
+   "yillanma": "Genç içilir; 1-3 yıl.",
+   "eslesme": "Deniz ürünleri, ızgara balık, kuskus, caponata, zeytinli ve kaparili yemekler, pesto, hafif beyaz etler.",
+   "ikon_saraplar": [
+    "Donnafugata SurSur Grillo",
+    "Tasca d'Almerita Grillo (Mozia)",
+    "Cantine Florio Marsala Vergine",
+    "Marco De Bartoli Grillo Vignaverde"
+   ],
+   "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Bozcaada'da Amadeus Şarapçılık yetiştiriyor.",
+   "kaynak": [
+    "https://en.wikipedia.org/wiki/Grillo",
+    "https://winefolly.com/grapes/grillo/",
+    "https://www.vitikultur.com/tr/baglar"
+   ],
+   "dunya": true,
+   "katalog": 0
+  },
+  {
+   "id": "fiano",
+   "ad": "Fiano",
+   "yerli": false,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "misket",
+   "ad": "Misket",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 3
+  },
+  {
+   "id": "sauvignon-gris",
+   "ad": "Sauvignon Gris",
+   "yerli": false,
+   "rehber": false,
+   "renk": "",
+   "katalog": 2
+  },
+  {
+   "id": "roussanne",
+   "ad": "Roussanne",
+   "yerli": false,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 3
+  },
+  {
+   "id": "kinali-yapincak",
+   "ad": "Kınalı Yapıncak",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "muscat-of-alexandria",
+   "ad": "Muscat of Alexandria",
+   "yerli": false,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "beyazkere",
+   "ad": "Beyazkere",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "ekigaina",
+   "ad": "Ekigaïna",
+   "yerli": false,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "rebo",
+   "ad": "Rebo",
+   "yerli": false,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "corinto",
+   "ad": "Corinto",
+   "yerli": false,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "marselan",
+   "ad": "Marselan",
+   "yerli": false,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "ercis-karasi",
+   "ad": "Erciş Karası",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "barburi",
+   "ad": "Barburi",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 4
+  },
+  {
+   "id": "solaris",
+   "ad": "Solaris",
+   "yerli": false,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "alphonse-lavallee",
+   "ad": "Alphonse Lavallée",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "kanlikara",
+   "ad": "Kanlıkara",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "panik",
+   "ad": "Panık",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "sikkara",
+   "ad": "Sıkkara",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "kizil-uzum",
+   "ad": "Kızıl Üzüm",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "karaoglan",
+   "ad": "Karaoğlan",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 4
+  },
+  {
+   "id": "kosetevek",
+   "ad": "Kösetevek",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 3
+  },
+  {
+   "id": "merzifon-karasi",
+   "ad": "Merzifon Karası",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 5
+  },
+  {
+   "id": "horoz-karasi",
+   "ad": "Horoz Karası",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 2
+  },
+  {
+   "id": "disi-mercan",
+   "ad": "Dişi Mercan",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "karkus",
+   "ad": "Karkuş",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "rase-gurnik",
+   "ad": "Raşe Gurnık",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 3
+  },
+  {
+   "id": "gavdoni",
+   "ad": "Gavdoni",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 3
+  },
+  {
+   "id": "kittil-nafs",
+   "ad": "Kıttıl Nafs",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "bilbizeki",
+   "ad": "Bılbızeki",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "muscadelle",
+   "ad": "Muscadelle",
+   "yerli": false,
+   "rehber": false,
+   "renk": "",
+   "katalog": 2
+  },
+  {
+   "id": "pinot-meunier",
+   "ad": "Pinot Meunier",
+   "yerli": false,
+   "rehber": false,
+   "renk": "",
+   "katalog": 9
+  },
+  {
+   "id": "counoise",
+   "ad": "Counoise",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "rolle-vermentino",
+   "ad": "Rolle (Vermentino)",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 2
+  },
+  {
+   "id": "petit-manseng",
+   "ad": "Petit Manseng",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "gros-manseng",
+   "ad": "Gros Manseng",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "savagnin",
+   "ad": "Savagnin",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "malvasia-nera",
+   "ad": "Malvasia Nera",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "canaiolo",
+   "ad": "Canaiolo",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "sangiovese-prugnolo-gentile",
+   "ad": "Sangiovese (Prugnolo Gentile)",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "moscato-bianco",
+   "ad": "Moscato Bianco",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "cortese",
+   "ad": "Cortese",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "corvinone",
+   "ad": "Corvinone",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "rondinella",
+   "ad": "Rondinella",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 4
+  },
+  {
+   "id": "croatina",
+   "ad": "Croatina",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "oseleta",
+   "ad": "Oseleta",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "molinara",
+   "ad": "Molinara",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 2
+  },
+  {
+   "id": "trebbiano-di-soave",
+   "ad": "Trebbiano di Soave",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "pinot-bianco",
+   "ad": "Pinot Bianco",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 3
+  },
+  {
+   "id": "nerello-mascalese",
+   "ad": "Nerello Mascalese",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "frappato",
+   "ad": "Frappato",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "zibibbo-muscat-of-alexandria",
+   "ad": "Zibibbo (Muscat of Alexandria)",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "ribolla-gialla",
+   "ad": "Ribolla Gialla",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "malvasia",
+   "ad": "Malvasia",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 2
+  },
+  {
+   "id": "picolit",
+   "ad": "Picolit",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "tempranillo-tinto-fino",
+   "ad": "Tempranillo (Tinto Fino)",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 4
+  },
+  {
+   "id": "graciano",
+   "ad": "Graciano",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 6
+  },
+  {
+   "id": "mazuelo",
+   "ad": "Mazuelo",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 7
+  },
+  {
+   "id": "viura",
+   "ad": "Viura",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "xarel-lo",
+   "ad": "Xarel·lo",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "macabeo",
+   "ad": "Macabeo",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "parellada",
+   "ad": "Parellada",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "pedro-ximenez",
+   "ad": "Pedro Ximénez",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "touriga-franca",
+   "ad": "Touriga Franca",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 13
+  },
+  {
+   "id": "tinta-barroca",
+   "ad": "Tinta Barroca",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 9
+  },
+  {
+   "id": "tinto-cao",
+   "ad": "Tinto Cão",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 9
+  },
+  {
+   "id": "loureiro",
+   "ad": "Loureiro",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "arinto",
+   "ad": "Arinto",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "boal",
+   "ad": "Boal",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "pinot-noir-spatburgunder",
+   "ad": "Pinot Noir (Spätburgunder)",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "welschriesling",
+   "ad": "Welschriesling",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "scheurebe",
+   "ad": "Scheurebe",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "harslevelu",
+   "ad": "Hárslevelű",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 3
+  },
+  {
+   "id": "sargamuskotaly",
+   "ad": "Sárgamuskotály",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "zeta",
+   "ad": "Zéta",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "aidani",
+   "ad": "Aidani",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "agiorgitiko",
+   "ad": "Agiorgitiko",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "plavac-mali",
+   "ad": "Plavac Mali",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "cornalin",
+   "ad": "Cornalin",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "humagne-rouge",
+   "ad": "Humagne Rouge",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "carignane",
+   "ad": "Carignane",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "muscat-de-frontignan",
+   "ad": "Muscat de Frontignan",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "vidal-blanc",
+   "ad": "Vidal Blanc",
+   "yerli": true,
+   "rehber": false,
+   "renk": "",
+   "katalog": 1
+  },
+  {
+   "id": "rara-neagra",
+   "ad": "Rara Neagră",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  }
+ ]
+}

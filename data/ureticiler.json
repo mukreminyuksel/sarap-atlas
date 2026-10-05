@@ -1,0 +1,4242 @@
+{
+ "_aciklama": "Şaraphaneler (yalnızca markası bilinen kayıtlar). konum: ilçe ya da il merkezine göre yaklaşık.",
+ "ureticiler": [
+  {
+   "ad": "Doluca",
+   "kurulus": "1926",
+   "baglar": "Mürefte (Şarköy), Saroz körfezi Sarafin bağları ve Gelibolu Yarımadası Alçıtepe (Çanakkale)",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Sauvignon Blanc",
+    "Chardonnay",
+    "Öküzgözü",
+    "Boğazkere",
+    "Narince"
+   ],
+   "web": "https://www.doluca.com",
+   "instagram": "",
+   "hikaye": "Doluca, 1926'da Nihat Kutman'ın Mürefte'de başlattığı ve Türkiye'nin en köklü aile şaraphanelerinden biri olarak bugün Kutman ailesinin üçüncü kuşağıyla süren bir markadır. Gündelik DLC ve Antik serilerinin yanında Saroz körfezindeki Sarafin bağları ile Gelibolu Yarımadası'ndaki Alçıtepe bağlarından gelen üst segment şaraplarıyla Trakya'nın ağır toplarındandır.",
+   "kaynak": [
+    "https://www.doluca.com",
+    "https://degustasyon.net/doluca-alcitepe-kirte-2022-canakkale/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Doluca Bağcılık ve Şarapçılık A.Ş.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Mürefte); ayrıca Çerkezköy OSB",
+     "bolge": "trakya",
+     "konum": [
+      40.668,
+      27.236
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Kutman",
+   "kurulus": "1896",
+   "baglar": "Mürefte ve Ganos (Işıklar) dağı yamaçları",
+   "uzumler": [
+    "Papaskarası",
+    "Gamay",
+    "Cinsault",
+    "Semillon"
+   ],
+   "web": "http://www.kutmansaraplari.com",
+   "instagram": "https://www.instagram.com/kutmansaraplari/",
+   "hikaye": "1896'da Mürefte'de kurulan Kutman, dört kuşaktır süren Türkiye'nin en eski aile şaraphanelerinden biridir. Aile 2004'te Mürefte'de Türkiye'nin ilk şarap müzesi olan Feyzi Kutman Şarap Müzesi'ni açtı; Trakya'nın yerel üzümü Papaskarası'nı şişeye taşıyan az sayıdaki üreticiden biridir.",
+   "kaynak": [
+    "http://www.kutmansaraplari.com/en",
+    "https://en.wikipedia.org/wiki/Kutman_Wine_Museum",
+    "https://kucuksomolye.wordpress.com/2022/12/14/trakyanin-9-8lik-uzumu-papaskarasi/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kutman Şarapları - Ahmet Adnan Kutman",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Mürefte)",
+     "bolge": "trakya",
+     "konum": [
+      40.703,
+      27.286
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Melen",
+   "kurulus": "1920'ler",
+   "baglar": "Hoşköy'ün Ganos dağından denize bakan rüzgârlı yamaçları",
+   "uzumler": [
+    "Papaskarası",
+    "Shiraz",
+    "Cabernet Sauvignon",
+    "Semillon"
+   ],
+   "web": "https://www.melenwinery.com",
+   "instagram": "",
+   "hikaye": "Melen, 1920'lerden bu yana Hoşköy'de şarap yapan, bölgenin en eski ailelerinden birinin şaraphanesidir; özgün binasını koruyan sahildeki şaraphane ve Melen Kafe, Şarköy bağ rotasının uğrak noktalarındandır. Ganos yamaçlarındaki bağlardan Papazkarası rezervleriyle tanınır.",
+   "kaynak": [
+    "https://www.melenwinery.com",
+    "https://tr.foursquare.com/v/melen-winery/501d3f09e4b04e60b8794e06",
+    "http://kadehtekilezzetinpesinde.com/?p=1036"
+   ],
+   "tesisler": [
+    {
+     "firma": "Melen Şarapçılık - Ahmet Cem Çetintaş",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Hoşköy)",
+     "bolge": "trakya",
+     "konum": [
+      40.69,
+      27.29
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Kayra",
+   "kurulus": "Şarköy tesisi Tekel döneminden; Kayra 2011'den beri Mey|Diageo bünyesinde",
+   "baglar": "Şarköy ve Elazığ'da toplam ~50 ha şirket bağı, Trakya ve Anadolu'dan sözleşmeli üzüm",
+   "uzumler": [
+    "Chardonnay",
+    "Viognier",
+    "Sauvignon Blanc",
+    "Semillon",
+    "Merlot",
+    "Cabernet Franc",
+    "Öküzgözü",
+    "Boğazkere"
+   ],
+   "web": "https://meyicki.com",
+   "instagram": "",
+   "hikaye": "Mey|Diageo'nun Şarköy'deki şarap fabrikası Kayra, Leona, Buzbağ, Terra, Allure ve Cumartesi gibi markaların üretim üssüdür. Kayra'nın Versus ve Vintage serilerindeki Trakya beyazları ile Imperial serisinin Merlot-Cabernet Franc harmanları bu tesisten çıkar.",
+   "kaynak": [
+    "https://tr.wikipedia.org/wiki/Mey_(%C5%9Firket)",
+    "https://degustasyon.net/",
+    "https://meyicki.com/en/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mey Alkollü İçkiler San. ve Tic. A.Ş.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy",
+     "bolge": "trakya",
+     "konum": [
+      40.613,
+      27.112
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Barbare",
+   "kurulus": "",
+   "baglar": "Yazır köyü, Karaağaçlık mevkii (Tekirdağ) – organik bağlar",
+   "uzumler": [
+    "Syrah",
+    "Grenache",
+    "Mourvèdre",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Pinot Noir",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://www.barbarewines.com",
+   "instagram": "https://www.instagram.com/barbarevineyards/",
+   "hikaye": "Barbare, Tekirdağ Yazır köyündeki Barbaros Bağ Evi'nin şarap markasıdır ve Trakya'da Rhône tarzı Syrah-Grenache-Mourvèdre harmanlarının öncülerindendir. Organik bağlarından Elegance, Ambiance ve Premier serileriyle tanınır; lisans adresi Barbare'nin Karaağaçlık mevkiindeki tesisiyle örtüşür.",
+   "kaynak": [
+    "https://www.barbarewines.com",
+    "https://degustasyon.net/barbare-elegance-2020-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Nova Şarap Üretim San. Ve Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Süleymanpaşa (Yazır, Karaağaçlık mevkii)",
+     "bolge": "trakya",
+     "konum": [
+      40.978,
+      27.511
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Umurbey",
+   "kurulus": "1993",
+   "baglar": "Yazır köyü, Tekirdağ'a 12 km – yaklaşık 120 dönüm şato bağı",
+   "uzumler": [
+    "Sauvignon Blanc",
+    "Semillon",
+    "Chardonnay",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah"
+   ],
+   "web": "https://www.umurbey.com",
+   "instagram": "",
+   "hikaye": "Umurbey, Umur Arıner'in 1993'te Tekirdağ Yazır köyünde kurduğu ve Türkiye'de tüm üretimini kendi bağlarının üzümleriyle yapan ilk şato tipi işletmelerden biridir. Kardeşi Yonca Arıner'le yürüttüğü şaraphane, özellikle Sauvignon Blanc'larıyla ve Tekirdağ merkezdeki şarap barıyla tanınır.",
+   "kaynak": [
+    "https://t24.com.tr/yazarlar/mehmet-yalcin/tekirdag-sarabini-hatirliyor,46354",
+    "https://degustasyon.net/umurbey-sauvignon-blanc-2022-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Arıner Tarım Ürünleri Meşrubat ve Gıda San.İth. İhr. Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Süleymanpaşa (Yazır)",
+     "bolge": "trakya",
+     "konum": [
+      41.013,
+      27.561
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Barel Vineyards",
+   "kurulus": "2010",
+   "baglar": "Karaevli köyü Derince mevkii (Tekirdağ)",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Syrah",
+    "Cabernet Franc",
+    "Merlot",
+    "Semillon",
+    "Sauvignon Blanc",
+    "Montepulciano"
+   ],
+   "web": "http://www.barelvineyards.com",
+   "instagram": "https://www.instagram.com/barelvineyards/",
+   "hikaye": "Barel, Akın ailesinin 2010'da Karaevli'de kurduğu bağ evi ve şaraphanedir; adı kardeşler Barkın ve Elif Akın'ın adlarının birleşiminden gelir. İstanbul'a en yakın şato tipi şaraphane-restoranlardan biri olan Barel, Reserve Cabernet'si ve yaşlı asma Semillon'uyla bilinir.",
+   "kaynak": [
+    "https://www.turkish-wine.com/barel-winery",
+    "http://www.barelvineyards.com/iletisim.html",
+    "https://www.instagram.com/barelvineyards/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Bar-El Şarapçılık Gıda San. Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Süleymanpaşa (Karaevli)",
+     "bolge": "trakya",
+     "konum": [
+      41.048,
+      27.611
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Château Kalpak",
+   "kurulus": "1990'lar (Bülent Kalpak, 1991'de Türkiye'ye dönüş)",
+   "baglar": "Şarköy, Gelibolu yolu – 300-324 m rakımda yaklaşık 100 ha",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Cabernet Franc",
+    "Petit Verdot"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Château Kalpak, ABD ve Fransa'da yıllarca yaşayan endüstri mühendisi Bülent Kalpak'ın Şarköy tepelerinde kurduğu, Bordeaux harmanlarına odaklanan şato tipi bir şaraphanedir. Semadirek ve Marmara manzaralı bağ evi, Türk butik şarapçılığının öncülerinden sayılır.",
+   "kaynak": [
+    "https://www.wayanatapas.com/en/chateau-kalpak-sarkoy-bordo-harmani-ziyareti/",
+    "https://banunundunyasi.com/bir-sarap-rotasi-chateau-kalpak-saraplari/",
+    "https://degustasyon.net/chateau-kalpak-bbk-2017-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kalpak Tarım Anonim Şirketi",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy",
+     "bolge": "trakya",
+     "konum": [
+      40.648,
+      27.162
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Château Nuzun",
+   "kurulus": "2004",
+   "baglar": "Çeşmeli köyü, 14,5 ha organik bağ (2010'dan beri organik sertifikalı)",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Pinot Noir"
+   ],
+   "web": "https://www.chateaunuzun.com",
+   "instagram": "",
+   "hikaye": "Château Nuzun, Nusret Uzun ailesinin 2004'te Marmaraereğlisi Çeşmeli köyünde kurduğu, adını 'şato' ile soyadından türeten organik bir bağ-şaraphanedir. Beyaz şarap yapmayan üretici, Türkiye'nin ilk tek çeşit Pinot Noir'larından birini şişeleyerek dikkat çekti.",
+   "kaynak": [
+    "https://www.satonuzun.com/about.html",
+    "https://eksisozluk.com/chateau-nuzun--3027654",
+    "https://degustasyon.net/chateau-nuzun-cabernet-sauvignon-2019-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Şatonuzun Bağcılık Şarapçılık Turizm San. ve Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Marmaraereğlisi (Çeşmeli)",
+     "bolge": "trakya",
+     "konum": [
+      40.97,
+      27.955
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Gürbüz Winery",
+   "kurulus": "2012 (ilk rekolte 2015)",
+   "baglar": "Şarköy Gaziköy (Ganos) çevresi 50-800 m rakım, ayrıca Çanakkale Karnar bağları; toplam 60 ha'dan üzüm",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Sauvignon Blanc",
+    "Shiraz",
+    "Merlot",
+    "Cinsault",
+    "Kalecik Karası",
+    "Karalahna",
+    "Misket"
+   ],
+   "web": "https://gurbuzwinery.com",
+   "instagram": "",
+   "hikaye": "UC Davis mezunu önolog Akın Gürbüz, Gaziköy'de bağcı bir ailede doğdu; başka şaraphanelerde danışmanlık yaptıktan sonra 2012'de kendi markasını kurdu. Hieron Oros ve Blend #1 gibi modern, enerjik kırmızılarıyla ve Sauvignon Blanc'ıyla kısa sürede Trakya'nın en çok konuşulan butiklerinden biri oldu.",
+   "kaynak": [
+    "https://aposto.com/s/bagci-sarabi-gurbuz-winery",
+    "https://www.turkish-wine.com/g%C3%BCrb%C3%BCz-winery",
+    "https://gurbuzwinery.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Gurbuz Gıda A.Ş.",
+     "il": "Tekirdağ",
+     "ilce": "Çorlu",
+     "bolge": "trakya",
+     "konum": [
+      41.159,
+      27.8
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Arcadia Vineyards",
+   "kurulus": "2002 (proje), ilk dikimler 2003",
+   "baglar": "Hamitabat köyü, Lüleburgaz – Istranca'nın güney eteklerinde sürdürülebilir bağlar",
+   "uzumler": [
+    "Sauvignon Blanc",
+    "Sauvignon Gris",
+    "Pinot Gris",
+    "Narince",
+    "Papaskarası",
+    "Öküzgözü",
+    "Cabernet Franc",
+    "Merlot"
+   ],
+   "web": "https://arcadiavineyards.com",
+   "instagram": "https://www.instagram.com/arcadiavineyard/",
+   "hikaye": "Özcan ailesinin 2002'de Kuzeydoğu Trakya'da teruar arayışıyla başlattığı Arcadia, Türkiye'nin en kuzeydeki şaraphanelerinden biridir. Minimum müdahaleyle 'yaşayan şaraplar' felsefesi, Bakucha bağ oteli ve güneş enerjisiyle sürdürülebilirlik modeli olarak öne çıkar; Türkiye'de Pinot Gris ve Sauvignon Gris'i ilk yetiştirenlerdendir.",
+   "kaynak": [
+    "https://arcadiavineyards.com/tarihce/",
+    "https://arcadiavineyards.com/llms.txt",
+    "https://degustasyon.net/arcadia-a-cabernet-franc-2021-kirklareli/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Arcadia Vineyards Turizm Tarım Ürünleri ve Tic. Ltd. Şti.",
+     "il": "Kırklareli",
+     "ilce": "Lüleburgaz (Hamitabat)",
+     "bolge": "trakya",
+     "konum": [
+      41.404,
+      27.356
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Chamlija",
+   "kurulus": "2000'ler (ilk ticari rekolte 2008 civarı)",
+   "baglar": "Istranca dağlarının güney etekleri, Sütlüce ve Kırklareli bağları; ayrıca Konya Hüyük'te teruar serisi",
+   "uzumler": [
+    "Papaskarası",
+    "Cabernet Franc",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Pinot Noir",
+    "Chardonnay",
+    "Riesling",
+    "Albariño",
+    "Assyrtiko"
+   ],
+   "web": "https://www.chamlija.com",
+   "instagram": "",
+   "hikaye": "Mustafa Çamlıca ve kızı İrem Çamlıca'nın Büyükkarıştıran'daki Chamlija'sı, Istranca eteklerindeki bağlarından onlarca çeşitle deneysel ve iddialı şaraplar üreten Trakya'nın en üretken butiklerinden biridir. Papaskarası'na Tekel uzmanı Marcel Biron anısına adanan Cuvée ile yeniden itibar kazandırırken, Asticus Mons ve Magnus gibi kırmızılarıyla uluslararası puanlar toplar.",
+   "kaynak": [
+    "https://www.chamlija.com",
+    "https://degustasyon.net/chamlija-asticus-mons-cabernet-franc-2019-kirklareli/",
+    "https://degustasyon.net/chamlija-cuvee-marcel-biron-papaskarasi-2022-kirklareli/"
+   ],
+   "tesisler": [
+    {
+     "firma": "İrem Çamlıca Bağcılık Şarapçılık ve Tarımsal Danış. San. Tic. Ltd. Şti.",
+     "il": "Kırklareli",
+     "ilce": "Lüleburgaz (Büyükkarıştıran)",
+     "bolge": "trakya",
+     "konum": [
+      41.439,
+      27.406
+     ]
+    }
+   ],
+   "sarap": 9
+  },
+  {
+   "ad": "Ellez",
+   "kurulus": "",
+   "baglar": "Çeşmekolu köyü, Lüleburgaz – firmaya ait bağlar",
+   "uzumler": [
+    "Papaskarası",
+    "Shiraz",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Cabernet Franc"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Ellez Bağcılık, Lüleburgaz'ın Çeşmekolu köyündeki kendi bağlarından şarap yapan genç bir Kırklareli üreticisidir. Papaskarası'nı hem kırmızı hem 'blanc de noir' olarak şişeleyen marka, Reserve serisiyle ölçeğini büyütmektedir.",
+   "kaynak": [
+    "https://degustasyon.net/ellez-papaskarasi-2023-luleburgaz/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ellez Bağcılık Tarım Ürünleri San.Tic.Ltd.Şti.",
+     "il": "Kırklareli",
+     "ilce": "Lüleburgaz (Çeşmekolu)",
+     "bolge": "trakya",
+     "konum": [
+      41.474,
+      27.456
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Prius Wines",
+   "kurulus": "2020'ler (bölgenin en yeni üreticilerinden)",
+   "baglar": "Istranca'nın güney etekleri, Sütlüce bağları; Papaskarası için Edirne-Uzunköprü üzümleri",
+   "uzumler": [
+    "Cabernet Franc",
+    "Cabernet Sauvignon",
+    "Malbec",
+    "Merlot",
+    "Sauvignon Blanc",
+    "Papaskarası",
+    "Narince",
+    "Chardonnay"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Prius, Ahmetbey beldesinde kurulu, degustasyon.net'in 'bölgenin en yeni üreticisi' diye tanıttığı bir Lüleburgaz şaraphanesidir. Distinction serisi Malbec ve Fumé Blanc'larıyla kısa sürede dikkat çekti; Marteniçka roze ve Papas Noir gibi Trakya'ya özgü etiketler de yapar.",
+   "kaynak": [
+    "https://degustasyon.net/prius-distinction-malbec-2023-kirklareli/",
+    "https://degustasyon.net/prius-papas-noir-papaskarasi-2025-edirne/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Prius Bağcılık ve Şarapçılık Limited Şirketi",
+     "il": "Kırklareli",
+     "ilce": "Lüleburgaz (Ahmetbey)",
+     "bolge": "trakya",
+     "konum": [
+      41.509,
+      27.506
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Saranta / Chateau Murou",
+   "kurulus": "",
+   "baglar": "Karakoç köyü, Muzır mevkii (Kırklareli)",
+   "uzumler": [
+    "Sauvignon Blanc",
+    "Cabernet Franc",
+    "Merlot",
+    "Montepulciano",
+    "Kalecik Karası",
+    "Papaskarası",
+    "Semillon"
+   ],
+   "web": "https://saranta.com.tr",
+   "instagram": "",
+   "hikaye": "Saranta, Kırklareli'nin (eski adıyla Kırk Kilise/Saranta Ekklisies) Karakoç köyündeki çiftlik evi ve şaraphanesidir. Üst serisi Chateau Murou adını taşır; Montepulciano ve Kalecik Karası gibi Trakya'da az görülen çeşitleri de şişeler.",
+   "kaynak": [
+    "https://degustasyon.net/chateau-murou-rezerv-papaskarasi-2020-kirklareli/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Saranta Farmhouse Ticaret Limited Şirketi",
+     "il": "Kırklareli",
+     "ilce": "Merkez (Karakoç)",
+     "bolge": "trakya",
+     "konum": [
+      41.735,
+      27.225
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "KA Winery",
+   "kurulus": "",
+   "baglar": "Tekirdağ Yazır köyü ve tek bağ parselleri; Cabernet Franc için Edirne",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Cabernet Franc",
+    "Sauvignon Blanc",
+    "Kalecik Karası"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "KA Winery, Büyükkarıştıran'daki tesisinde Tekirdağ ve Edirne üzümlerinden küçük partili şaraplar yapan butik bir üreticidir. Tek bağdan çıkan, 14 ay Fransız ve Amerikan meşesinde dinlenen Syrah ve Cabernet'leri 1.500-2.100 şişelik sınırlı üretimlerdir.",
+   "kaynak": [
+    "https://degustasyon.net/ka-winery-syrah-2022-tekirdag/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "KA Şarapçılık Tic. Ltd. Şti.",
+     "il": "Kırklareli",
+     "ilce": "Lüleburgaz (Büyükkarıştıran)",
+     "bolge": "trakya",
+     "konum": [
+      41.354,
+      27.356
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Vino Dessera",
+   "kurulus": "2004 (ilk dikimler)",
+   "baglar": "Ahmetçe köyü, Dönmez Çiftliği – yaklaşık 300 dönüm bağ, 355 m rakım",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Shiraz",
+    "Petit Verdot",
+    "Sangiovese",
+    "Barbera"
+   ],
+   "web": "https://desserabagevi.com",
+   "instagram": "https://www.instagram.com/dessera_bag_evi/",
+   "hikaye": "Dönmez ailesinin Ahmetçe köyündeki ceviz bahçeleriyle başlayan hikâyesi, 2004'te ilk asmaların dikilmesiyle Vino Dessera'ya dönüştü. Çiftlikteki 33 odalı Dessera Bağ Evi, Trakya bağ rotasının konaklamalı duraklarından; VD ve Arc Virtus serileri Balkan ve Mundus Vini yarışmalarından madalyalıdır.",
+   "kaynak": [
+    "https://www.themagger.com/kirklareli-ahmetce-bag-bozumu-ve-sarap-tadimi/",
+    "https://www.turkish-wine.com/vino-dessera-vineyards",
+    "https://desserabagevi.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Saniye Dönmez Dönmez Çiftliği Bağdan-Bahçeden Yetkin Tarım Uygulamaları ve Ticaret",
+     "il": "Kırklareli",
+     "ilce": "Merkez (Ahmetçe)",
+     "bolge": "trakya",
+     "konum": [
+      41.77,
+      27.275
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Aker",
+   "kurulus": "1967",
+   "baglar": "Mürefte çevresi bağları",
+   "uzumler": [
+    "Semillon",
+    "Cinsault",
+    "Papaskarası"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Aker, İbrahim Aker'in 1967'de Mürefte'de geleneksel yöntemlerle kurduğu ve bugün aile tarafından sürdürülen yerel bir şaraphanedir. Mürefte'deki satış noktası bağ rotasının durakları arasında; roze ve tatlımsı Semillon'uyla bilinir.",
+   "kaynak": [
+    "https://tr.foursquare.com/v/aker-%C5%9Farap%C3%A7%C4%B1l%C4%B1k/559d37f5498e2558c323ba94",
+    "https://aylindingil.weebly.com/aker-hakk305nda.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Aker Şarapçılık - Mesut Aker",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Mürefte)",
+     "bolge": "trakya",
+     "konum": [
+      40.738,
+      27.336
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Badur Wines & Vineyards",
+   "kurulus": "",
+   "baglar": "Husunlu köyü (Süleymanpaşa)",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Badur, Tekirdağ'ın Husunlu köyünde kendi bağlarına sahip yeni kuşak butik üreticilerden biridir. Cabernet Sauvignon ve Merlot ağırlıklı Badur Blend'iyle tanınır; ziyaretçilerine tesisi ve şaraplarını bizzat anlatan aile işletmesi olarak yorumlanır.",
+   "kaynak": [
+    "https://degustasyon.net/badur-blend-2019-tekirdag/",
+    "https://www.tikla.com.tr/badur-sarapcilik-sanayi-ticaret-limited-sirketi.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Badur Şarapçılık San. Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Süleymanpaşa (Husunlu)",
+     "bolge": "trakya",
+     "konum": [
+      41.083,
+      27.661
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Perçin",
+   "kurulus": "",
+   "baglar": "Mürefte",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Perçin, Kutman, Doluca ve Bağcı gibi isimlerle birlikte Mürefte'nin yerel şarap üreticileri arasında anılan küçük bir aile işletmesidir.",
+   "kaynak": [
+    "https://eksisozluk.com/murefte--72015?p=3"
+   ],
+   "tesisler": [
+    {
+     "firma": "Perçin Şarapçılık - Tevfik Perçin",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Mürefte)",
+     "bolge": "trakya",
+     "konum": [
+      40.773,
+      27.386
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Seler Wines",
+   "kurulus": "2004",
+   "baglar": "Yöre üreticilerinden alınan Şarköy üzümleri",
+   "uzumler": [],
+   "web": "http://www.arslangida.com/seler_alkollu_icecekler_tekirdag.php",
+   "instagram": "",
+   "hikaye": "Seler, Arslan Gıda bünyesinde 2004'te Şarköy Camikebir'de kurulan, yöre üreticilerinden aldığı üzümleri işleyen hacimli bir şaraphanedir. Yaklaşık 4 milyon litre kapasite ve 30 çeşit şarapla bölgenin büyük ölçekli üreticileri arasındadır.",
+   "kaynak": [
+    "http://www.arslangida.com/seler_alkollu_icecekler_tekirdag.php"
+   ],
+   "tesisler": [
+    {
+     "firma": "Seler Alkollü İçecekler Meşrubat Gıda Pazarlama ve Akaryakıt San. Tic. A.Ş.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy",
+     "bolge": "trakya",
+     "konum": [
+      40.683,
+      27.212
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Uçmakdere – Firuze",
+   "kurulus": "Tekel tesisi; özelleştirme sonrası yeniden yapılandırıldı",
+   "baglar": "Uçmakdere ve Ganos dağı yamaçları",
+   "uzumler": [
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Kalecik Karası"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Uçmakdere Şarapçılık, Tekel döneminde 'Güzel Marmara' şaraplarının yapıldığı tarihi tesisin özelleştirme sonrası satın alınıp modernize edilmesiyle doğdu. Adını firuze taşından alan Firuze serisi ve fiyat-performans şarabı Lirik ile tanınır.",
+   "kaynak": [
+    "https://eksisozluk.com/ucmakdere-sarapcilik--6308033",
+    "https://www.wayanatapas.com/en/ucmakdere/",
+    "https://www.denizdemirdoven.com/ucmakdere-firuze-merlot-2020/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Uçmakdere Gıda Tarım Tur. San. ve Tic. A.Ş.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Uçmakdere)",
+     "bolge": "trakya",
+     "konum": [
+      40.79,
+      27.36
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Öz Mursallı",
+   "kurulus": "2012",
+   "baglar": "Mursallı köyü bağları",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Beş kardeşin ortak kurduğu Öz Mursallı, yılda yaklaşık 300 tonluk üretimle Mursallı yayla köyünün üzümlerinden sofra şarapları yapar. Fabrika, Zonguldak'a özel '1924 Zıngıldak' gibi fason etiketlerin de üreticisidir.",
+   "kaynak": [
+    "https://www.halkinsesi.com.tr/bu-da-zingildak-sarabi",
+    "https://www.tikla.com.tr/oz-mursalli-gida-sanayi-ticaret-limited-sirketi.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Öz Mursallı Gıda Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Mursallı)",
+     "bolge": "trakya",
+     "konum": [
+      40.718,
+      27.262
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Gülor",
+   "kurulus": "1993 (dikim), 1998 (ilk üretim)",
+   "baglar": "Şarköy-Eriklice ve Güzelköy, 25-50 yaşında bağlar",
+   "uzumler": [
+    "Malbec",
+    "Cabernet Sauvignon",
+    "Petit Verdot",
+    "Merlot",
+    "Semillon",
+    "Sauvignon Blanc",
+    "Cabernet Franc"
+   ],
+   "web": "https://www.gulorwines.com",
+   "instagram": "",
+   "hikaye": "Güler Sabancı'nın Şarköy-Eriklice'deki Gülor'u, 1993'te dikilen bağlardan 1998'de ilk şarabını çıkaran ve Şarköy'ün ilk butik üreticisi sayılan şaraphanedir. Malbec ağırlıklı Cot'N ve 30. yıl için yapılan XXX harmanı öne çıkan etiketleridir.",
+   "kaynak": [
+    "https://www.iletisimadresleri.com/gulor-sarapcilik-151564",
+    "https://www.gulorwines.com/bize-ula%C5%9Fin",
+    "https://degustasyon.net/gulor-xxx-2023-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Gülor Şarapçılık Turizm San. ve Tic. Ltd. Şti.",
+     "il": "Tekirdağ",
+     "ilce": "Şarköy (Eriklice)",
+     "bolge": "trakya",
+     "konum": [
+      40.563,
+      27.112
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Arda",
+   "kurulus": "2006 (bağ), 2012 (şaraphane)",
+   "baglar": "Küçükdöllük köyü Kayrak mevkii, Edirne'nin 12 km kuzeyi; İyi Tarım sertifikalı",
+   "uzumler": [
+    "Papaskarası",
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Shiraz",
+    "Cabernet Franc",
+    "Narince",
+    "Sauvignon Blanc",
+    "Semillon",
+    "Gamay"
+   ],
+   "web": "https://ardabagevi.com",
+   "instagram": "",
+   "hikaye": "Arda, 2006'da Edirne'nin kuzeyinde bağ dikmeye başlayan bir aile şirketidir; şaraphane 2012'de, bağ evi restoranı 2019'da açıldı. Edirne gölü Gala'nın kuşlarına adanan Gala ve Kuşlu Seri etiketleri ile Ganos'un yaşlı bağlarından yaptığı Rezerv Semillon'la tanınır.",
+   "kaynak": [
+    "https://ardabagevi.com/hakkimizda/",
+    "https://degustasyon.net/arda-rezerv-semillon-2020-tekirdag/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Arda Bağcılık Ltd. Şti.",
+     "il": "Edirne",
+     "ilce": "Merkez (Küçükdöllük)",
+     "bolge": "trakya",
+     "konum": [
+      41.677,
+      26.556
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Edrine",
+   "kurulus": "2001 (bağ etütleri), 2010 (ilk kampanya)",
+   "baglar": "Uzunköprü'ye bağlı Yeniköy ve Kırcasalih ile Aslıhan, Şaraplar ve Meşeli köyleri – yaklaşık 1.200 dönüm",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Papaskarası",
+    "Sauvignon Blanc",
+    "Chardonnay",
+    "Pinot Noir",
+    "Muscat Ottonel"
+   ],
+   "web": "http://edrine.com",
+   "instagram": "",
+   "hikaye": "Edrine, Öktem ailesinin Havsa'daki şaraphanesi ve Uzunköprü çevresindeki 1.200 dönümlük bağlarıyla Edirne'nin en büyük şarap üreticisidir. Bağlar Bulgaristan Plovdiv Üniversitesi'nden Prof. Braikov danışmanlığında kuruldu; kapasite 2010'daki 400 bin litreden 2 milyon litreye çıktı ve tesis Vinum Otel ile EdrinEt restoranıyla bir bağ turizmi durağına dönüştü.",
+   "kaynak": [
+    "http://edrine.com/edrine/index.php/hakkimizda/",
+    "http://edrine.com/edrine/index.php/baglarimiz/",
+    "http://www.hudutgazetesi.com/haber/35663/edrine-edirnede.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Şinasi Öktem - Öktem Bağcılık ve Şarapçılık",
+     "il": "Edirne",
+     "ilce": "Havsa",
+     "bolge": "trakya",
+     "konum": [
+      41.548,
+      26.82
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Aura Winery (Vin Aura)",
+   "kurulus": "2020",
+   "baglar": "Kuyualan köyü Göktepe mevkii, 250 m rakımda 20 ha, Ayvalık körfezine bakan",
+   "uzumler": [
+    "Shiraz",
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Grenache",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://aurawinery.com",
+   "instagram": "",
+   "hikaye": "Erhan Seçkin'in 2020'de Gömeç'te arazi alarak kurduğu Aura, Ayvalık'ın antik bağcılık geçmişini canlandırmayı hedefleyen yeni bir butik şaraphanedir. Körfeze bakan 250 metre rakımlı bağlarındaki restoranında şaraplarına eşlik eden İtalyan mutfağı sunar.",
+   "kaynak": [
+    "https://www.wayanatapas.com/aura-winery-sektore-adim-atan-yeni-bir-butik-uretici/",
+    "https://aurawinery.com/",
+    "https://degustasyon.net/vin-aura-blend-2024-balikesir/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ali Erhan Seçkin Bağcılık ve Şarapçılık",
+     "il": "Balıkesir",
+     "ilce": "Gömeç (Kuyualan)",
+     "bolge": "diger",
+     "konum": [
+      39.39,
+      26.84
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Büyülübağ",
+   "kurulus": "2003",
+   "baglar": "Avşa Adası, Yiğitler köyü ve Gavurdere mevkii; ayrıca Tekirdağ, Denizli ve İzmir'den üzüm",
+   "uzumler": [
+    "Adakarası",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Cabernet Franc",
+    "Syrah",
+    "Chardonnay",
+    "Sultaniye"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Büyülübağ, Avşa Adası'nın ilk modern şaraphanesidir ve adanın coğrafi işaretli Adakarası üzümünü yeniden itibarlı kılmıştır. Yerçekimiyle çalışan şaraphanede yabani mayalı Cabernet'ler, özel rezerv Hedone ve Türkiye'nin ilk beyaz Adakarası'nı üretir.",
+   "kaynak": [
+    "https://degustasyon.net/buyulubag-hedone-2021-avsa-adasi/",
+    "https://degustasyon.net/buyulubag-adakarasi-blanc-de-noir-2025-avsa-adasi/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Büyülübağ Bağcılık Şarapçılık San. ve Tic. Ltd. Şti.",
+     "il": "Balıkesir",
+     "ilce": "Marmara (Avşa Adası)",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      40.51,
+      27.5
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Ma'adra Vineyards",
+   "kurulus": "2005",
+   "baglar": "Kubaşlar köyü, Madra dağı etekleri, 550 m'ye kadar poyraza açık teraslar",
+   "uzumler": [
+    "Syrah",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Pinot Noir",
+    "Chardonnay"
+   ],
+   "web": "https://maadra.com",
+   "instagram": "",
+   "hikaye": "Fikret Özdemir'in 2005'te Seki Bağcılık'ı kurarak Madra dağlarına yaptığı yatırımla doğan Ma'adra, Gömeç'in Kubaşlar köyünde tek parsel şaraplarına odaklanır. Gün batımı manzaralı bağ restoranı Ayvalık-Cunda rotasının sevilen duraklarındandır.",
+   "kaynak": [
+    "https://maadra.com/maadra-hakkinda/",
+    "https://www.themagger.com/cunda-kis-tatili/",
+    "https://degustasyon.net/maadra-syrah-reserve-2020-balikesir/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Seki Bağcılık ve Şarapçılık Ltd. Şti.",
+     "il": "Balıkesir",
+     "ilce": "Gömeç (Kubaşlar)",
+     "bolge": "diger",
+     "konum": [
+      39.425,
+      26.89
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Şen Vineyards",
+   "kurulus": "",
+   "baglar": "Balya Ilıca",
+   "uzumler": [],
+   "web": "https://www.senvineyards.com.tr",
+   "instagram": "",
+   "hikaye": "",
+   "kaynak": [
+    "http://www.balikesirbuyuksehirrehberi.com/firma-665-sen-vineyards-sen-sarapcilik.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Şen Bağcılık, Fidancılık, Tarım, Turizm San. ve Tic. Ltd. Şti.",
+     "il": "Balıkesir",
+     "ilce": "Balya (Ilıca)",
+     "bolge": "diger",
+     "konum": [
+      39.75,
+      27.58
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Yusta",
+   "kurulus": "2007 (bağ), 2017 (ilk şarap)",
+   "baglar": "Mudanya Yörükali'nin güneye bakan tepeleri",
+   "uzumler": [
+    "Shiraz",
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Sauvignon Blanc",
+    "Malbec",
+    "Chardonnay"
+   ],
+   "web": "https://yustabursa.com",
+   "instagram": "",
+   "hikaye": "Yusta, Bursalı hekim Dr. Yıldırım Beyazıt Usta'nın adının baş harflerini taşıyan, Bursa'nın ilk ve tek şato tipi şaraphanesidir. 2007'de dikilen Mudanya bağlarından 2017'den beri şarap yapar; bağda Bursa siyah inciri ve Gemlik zeytini de yetişir.",
+   "kaynak": [
+    "https://yustabursa.com/",
+    "https://degustasyon.net/yusta-shiraz-2022-bursa/"
+   ],
+   "tesisler": [
+    {
+     "firma": "USTA ÖZEL SAĞLIK HİZMETLERİ SAN.ve TİC. LTD.ŞTİ",
+     "il": "Bursa",
+     "ilce": "Mudanya (Yörükali)",
+     "bolge": "diger",
+     "konum": [
+      40.375,
+      28.883
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "V'Asbos",
+   "kurulus": "2012 (bağ), 2017 (ilk hasat), 2024 (ilk satış)",
+   "baglar": "Paşaköy altı, Assos – 60 ha",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Syrah",
+    "Grenache",
+    "Malbec"
+   ],
+   "web": "https://vasbosofficial.com",
+   "instagram": "https://www.instagram.com/vasbos_official/",
+   "hikaye": "V'Asbos, Assos'taki 60 hektarlık bağlarıyla 2012'de yola çıkan, ilk hasadını 2017'de yapıp şaraplarını ancak 2024'te piyasaya süren sabırlı bir projedir. Behramkale'deki V'Asbos Kitchen restoranı bağ manzarasında Ayvacık kuzu tandırı ve taş fırın mutfağı sunar; Expression ve Iconic serileri Grenache ve Cabernet Franc'a odaklanır.",
+   "kaynak": [
+    "https://vasboskitchen.com/",
+    "https://www.instagram.com/vasbos_official/",
+    "https://degustasyon.net/vasbos-expression-cabernet-franc-edition-1-canakkale/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Asbos Tarımsal Üretim Sanayi ve Ticaret A. Ş.",
+     "il": "Çanakkale",
+     "ilce": "Ayvacık (Paşaköy)",
+     "bolge": "diger",
+     "konum": [
+      39.6,
+      26.4
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Asmadan",
+   "kurulus": "2018-2019",
+   "baglar": "Eceabat-Kilitbahir'de 250 dönüm, Manisa'da 375 dönüm",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Syrah",
+    "Cabernet Franc",
+    "Petit Verdot",
+    "Öküzgözü",
+    "Boğazkere",
+    "Karasakız",
+    "Gamay"
+   ],
+   "web": "https://www.asmadan.com",
+   "instagram": "",
+   "hikaye": "Bursalı iş insanı Erdoğan Demir'in 2018'de Eceabat'ta Turgay Hoşkal'ın tasarladığı bağları satın almasıyla kurulan Asmadan, tapularda 'Kilitbahir, Sarafin' kaydına rastlanan tarihi bir bağ alanında şarap yapar. Bengodi Otel, şarap müzesi ve gurme dükkânıyla Eceabat'ta bir şarap kültürü vahası yaratmıştır.",
+   "kaynak": [
+    "https://www.asmadan.com/",
+    "https://www.ekonomim.com/kose-yazisi/sarap-ve-peynire-hizli-kararla-girdi-eceabata-asmadanla-yerlesti/657287",
+    "https://www.wayanatapas.com/en/eceabattaki-sarap-kulturu-vahasi-asmadan/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Asmadan Tarım Ürünleri ve Bağcılık San. ve Tic. A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Eceabat",
+     "bolge": "trakya",
+     "konum": [
+      40.184,
+      26.357
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Ataol",
+   "kurulus": "1927",
+   "baglar": "Bozcaada bağları",
+   "uzumler": [
+    "Kuntra",
+    "Karalahna",
+    "Çavuş",
+    "Vasilaki"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Ataol ailesi 1920'lerden beri Bozcaada'da şarap yapan adanın en köklü ailelerindendir; bugün işletmeyi üçüncü kuşak kardeşler yönetir. Çarşıdaki Ataol Şarap Evi adanın klasik tadım duraklarındandır.",
+   "kaynak": [
+    "https://www.bozcaadagezginleri.com/rehber/sarapcilar/ataol-sarap-evi",
+    "https://www.bozcaadabagciligi.com/osman-ataol/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ataol Bağcılık ve Şarapçılık Koll. Şti. - Faik Ahmet Ataol ve Ortakları",
+     "il": "Çanakkale",
+     "ilce": "Bozcaada",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      39.835,
+      26.07
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Corvus",
+   "kurulus": "2002",
+   "baglar": "Bozcaada'da yaklaşık 200 dönümlük bağlar",
+   "uzumler": [
+    "Kuntra",
+    "Karalahna",
+    "Çavuş",
+    "Vasilaki",
+    "Cabernet Sauvignon",
+    "Petit Verdot",
+    "Syrah",
+    "Merlot"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Mimar Reşit Soley 2002'de Bozcaada'da bağ kurdu, 2004'te Tekel'in ada fabrikasını özelleştirmede alarak Corvus'u (Latince 'karga') dünya markası hâline getirdi. Adanın yerel Kuntra, Karalahna, Çavuş ve Vasilaki üzümleriyle Bordeaux çeşitlerini harmanlayan Corpus ve Cruturk gibi ikon şaraplarıyla tanınır.",
+   "kaynak": [
+    "https://www.hurriyet.com.tr/kelebek/ikinci-hayatinda-sarapci-oldu-dunyanin-en-farkli-8-inci-bagini-kurdu-6806993",
+    "https://www.bozcaadabagciligi.com/resit-soley/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Corvus Tarım Gıda Teks. Şarapçılık İnş. Tur. Hav. San. ve Tic. A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Bozcaada (Tuzburnu)",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      39.87,
+      26.12
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Château Ergenekon",
+   "kurulus": "2000 (bağ), 2012 (ilk şarap)",
+   "baglar": "Gelibolu Tarihi Milli Parkı'nın Saroz'a bakan yamaçlarında 120 dönüm organik bağ",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Syrah",
+    "Grenache",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://chateauergenekon.com",
+   "instagram": "",
+   "hikaye": "Ergenekon ailesinin Bigalı'daki şato tipi şaraphanesi yalnızca kendi organik sertifikalı bağlarının üzümlerini kullanır, dışarıdan üzüm almaz. Yılda yaklaşık 50 bin şişeyle Türkiye'nin en küçük şaraphanelerinden biridir; bağlar 2000'de kuruldu ama ilk şarap asmalar olgunlaşınca 2012'de yapıldı.",
+   "kaynak": [
+    "https://chateauergenekon.com/",
+    "https://anatoliawine.com/chateau-ergenekon/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ergenekon Ekolojik Bağcılık Yönetim Danışmanlık Tur. San. ve Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Eceabat (Bigalı)",
+     "bolge": "trakya",
+     "konum": [
+      40.219,
+      26.407
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Nusretbey",
+   "kurulus": "",
+   "baglar": "Gökçeada – organik sertifikalı bağlar",
+   "uzumler": [
+    "Kalabaki",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz"
+   ],
+   "web": "https://nusretbey.com",
+   "instagram": "",
+   "hikaye": "Nusret Avcı'nın Etis'i, Gökçeada'nın ilk organik şarap üreticisi ve adanın yerel İmroz üzümü Kalabaki'nin tek yetiştiricisi olarak bilinir. Nusretbey ve Gökçeada markalı organik şaraplar Fransa, ABD, Kanada ve Rusya'ya da ihraç edilmiştir.",
+   "kaynak": [
+    "https://nusretbey.com/",
+    "https://hurriyet.com.tr/organik-pazari-250-milyon-dolari-buldu-sarap-one-cikti-16619564"
+   ],
+   "tesisler": [
+    {
+     "firma": "Etis Ekolojik Tarım Ürünleri ve Tur. İşl. San. ve Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Gökçeada",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      40.19,
+      25.9
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Etruscan",
+   "kurulus": "",
+   "baglar": "Eceabat – 100 dönüm",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Shiraz",
+    "Sauvignon Blanc",
+    "Petit Verdot",
+    "Cabernet Franc",
+    "Sangiovese"
+   ],
+   "web": "https://www.etruscan.com.tr/vineyard/",
+   "instagram": "",
+   "hikaye": "Etruscan, adını üzümü Avrupa'ya taşıdığı düşünülen Etrüsklerden alan ve Eceabat'taki 100 dönümlük bağında Sangiovese dahil Akdeniz çeşitleri yetiştiren küçük ölçekli (yıllık ~62 bin litre) bir şaraphanedir.",
+   "kaynak": [
+    "https://www.etruscan.com.tr/vineyard/yore/",
+    "http://canakkale.csb.gov.tr/canakkale-ili-eceabat-ilcesinde-duyuru-340122"
+   ],
+   "tesisler": [
+    {
+     "firma": "Etruscan Sağlık Bilişim Beslenme Gıda Tur. San. ve Tic. A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Eceabat",
+     "bolge": "trakya",
+     "konum": [
+      40.254,
+      26.457
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Hazar",
+   "kurulus": "2017 (Bayramiç fabrikası)",
+   "baglar": "Kazdağları eteğinde 26 dönüm tesis; Marmara, Ege, İç ve Güneydoğu Anadolu'dan üzüm",
+   "uzumler": [],
+   "web": "https://www.argrup.org/tr/goklin-icecek",
+   "instagram": "",
+   "hikaye": "Ar Grup'a bağlı Göklin, 2017'de Bayramiç'te açtığı 4 milyon litre kapasiteli fabrikada Hazar markasıyla sofra şarapları üretir; 2020'den bu yana Motto Craft markalı aromatize şarap bazlı içkiler de yapar.",
+   "kaynak": [
+    "https://www.argrup.org/tr/goklin-icecek",
+    "https://www.facebook.com/goklinicecek1/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Göklin İçecek Tütün Gıda San. ve Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Bayramiç (Çavuşlu)",
+     "bolge": "diger",
+     "konum": [
+      39.81,
+      26.61
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Gülerada",
+   "kurulus": "",
+   "baglar": "Bozcaada",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Gülerada, Bozcaada'nın Alaybey mahallesinde tadım ve satış noktası bulunan ada şaraphanelerinden biri olarak Ataol ve Corvus'la birlikte anılır; lisans adresi Alaybey'deki Bekçibayırı mevkiidir.",
+   "kaynak": [
+    "https://yandex.com.tr/maps/org/amadeus_sarapcilik/129180265544/",
+    "https://bozcaadaoteller.com/2024/05/22/sarap-fabrikalari/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Güler İnşaat Turizm San.ve Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Bozcaada (Alaybey)",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      39.905,
+      26.17
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Gali",
+   "kurulus": "2005 (ilk şarap 2011)",
+   "baglar": "Gelibolu Yarımadası'nın ana karaya bağlandığı Doğan Arslan mevkii, 48,5 ha – Ege ve Marmara'yı birlikte gören",
+   "uzumler": [
+    "Merlot",
+    "Cabernet Franc",
+    "Cabernet Sauvignon"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Hakan Kavur'un 2005'te Gelibolu'da 48,5 hektarlık arazide kurduğu Gali Bağları, %78 Merlot ağırlıklı bağından ilk şarabını 2011'de sundu. Hem Saroz'u hem Marmara'yı gören bağ evi Trakya bağ rotasının sevilen duraklarındandır.",
+   "kaynak": [
+    "https://www.gurmeajanda.com/venue/gali-baglari-ve-kavur-sarapcilik/",
+    "https://www.yolculukterapisi.com/trakya-gali/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kavur Tarım ve Bağcılık San. Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Gelibolu (Evreşe-Kadıköy)",
+     "bolge": "trakya",
+     "konum": [
+      40.41,
+      26.67
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Nympha / İmroz Nympha",
+   "kurulus": "2018",
+   "baglar": "Gökçeada'daki 'Gökyüzü Bağları' – organik ve biyodinamik",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Kadri ve Hülya Hasdemir 2018'de Gökçeada'da 1991'de kapanan yarı açık cezaevinin iki binasını kiralayarak Nympha'yı kurdu. Organik ve biyodinamik şaraplar, nadir bir turuncu şarap ve adaya özgü İmroz Nympha serisi üretirler.",
+   "kaynak": [
+    "https://visitgokceada.com/rehber/nympha-organik-bagcilik-sarapcilik",
+    "https://flyista.com/story/hazan-huzun-ve-uzum-adasi-gokceada-0"
+   ],
+   "tesisler": [
+    {
+     "firma": "Nympha Organik Bağcılık Şarapçılık ve Tur. İth. İhr. San. Tic. Ltd. Şti",
+     "il": "Çanakkale",
+     "ilce": "Gökçeada (Şirinköy)",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      40.225,
+      25.95
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Suvla",
+   "kurulus": "2003 (bağ), şaraphane 2010'lar",
+   "baglar": "Gelibolu Yarımadası Kabatepe'de Bozokbağ – yaklaşık 900-1000 dönüm organik bağ",
+   "uzumler": [
+    "Karasakız",
+    "Sauvignon Blanc",
+    "Roussanne",
+    "Marsanne",
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Petit Verdot",
+    "Syrah",
+    "Semillon",
+    "Kınalı Yapıncak"
+   ],
+   "web": "https://www.suvla.com.tr",
+   "instagram": "",
+   "hikaye": "Eski Microsoft yöneticisi Selim Ellialtı ve Pınar Ellialtı'nın 2003'te Kabatepe'deki Bozokbağ'da başlattığı Suvla, organik bağları ve Eceabat'taki şaraphanesiyle Gelibolu Yarımadası'nın amiral üreticisidir. Kilye markalı doğal ürünler de yapan Suvla, Roussanne-Marsanne'ıyla Decanter'dan bölgesel kupa kazandı ve yerel Karasakız'ı köpürenden rezerve kadar geniş bir yelpazede işler.",
+   "kaynak": [
+    "https://www.themagger.com/suvla-saraphanesi/",
+    "https://www.suvla.com.tr/vinyards.html",
+    "https://www.milliyet.com.tr/cadde/cagdas-ertuna/saraptan-hic-anlamadan-sarapci-oldum-1628649"
+   ],
+   "tesisler": [
+    {
+     "firma": "SUVLA ŞARAPLARI TARIM SAN. VE TİC.A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Eceabat",
+     "bolge": "trakya",
+     "konum": [
+      40.289,
+      26.507
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Talay",
+   "kurulus": "1948",
+   "baglar": "Bozcaada bağları",
+   "uzumler": [
+    "Kuntra",
+    "Karalahna",
+    "Çavuş",
+    "Vasilaki",
+    "Cabernet Sauvignon",
+    "Merlot"
+   ],
+   "web": "https://talay1948.com",
+   "instagram": "",
+   "hikaye": "Talay, Necati, Hayati ve Sebati Talay kardeşlerin 1948'de Bozcaada'da kurduğu ve 1955'te şişe şaraba geçen aile şaraphanesidir. 1,7 milyon litre kapasitesiyle adanın en çok üretim yapan işletmesi olan Talay'ı bugün Mehmet ve Ahmet Talay yönetiyor.",
+   "kaynak": [
+    "https://talay1948.com/",
+    "https://turkiyeturizmansiklopedisi.com/talay-sarapcilik-as"
+   ],
+   "tesisler": [
+    {
+     "firma": "Talay Şarapçılık A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Bozcaada",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      39.94,
+      26.22
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Yükseltan",
+   "kurulus": "2013 (bağ), 2017 (ilk şarap)",
+   "baglar": "Koruköy, Keşan-Gelibolu yolu – Saroz körfezine bakan 140 dönüm",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Chardonnay",
+    "Sauvignon Blanc",
+    "Riesling"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Dr. İsmail Yüksel Tan'ın Gelibolu Koruköy'deki Yükseltan Bağevi, 2013'te Saroz'a bakan yamaçlara dikilen bağlardan 2017'de ilk şarabını çıkaran şato tipi bir işletmedir. 18 odalı bağ evi kahvaltı ve yemeklerini kendi çiftliğinden karşılar.",
+   "kaynak": [
+    "https://gazeteoksijen.com/yazarlar/bahar-akinci/bolum-3-canakkale-bag-rotasi-topraga-hayat-veren-5-bin-yillik-gelenek-253063",
+    "https://tr.foursquare.com/v/y%C3%BCkseltan-ba%C4%9Fevi/5f2993b181231e5ecdce1155"
+   ],
+   "tesisler": [
+    {
+     "firma": "Tan Özel Sağlık Hizmetleri ve Tarım ve Gıda Ürünleri Tic. Ve San. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Gelibolu (Koruköy)",
+     "bolge": "trakya",
+     "konum": [
+      40.445,
+      26.72
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Tutkun (Hektor Şarap Evi)",
+   "kurulus": "2009",
+   "baglar": "Erenköy, Truva yakınında",
+   "uzumler": [],
+   "web": "https://www.hektorsarapevi.com",
+   "instagram": "https://www.instagram.com/hektorsarapevi_erenkoy/",
+   "hikaye": "Ziraat mühendisi Utku Özdamar'ın restore ettiği taş evde açılan Hektor Şarap Evi, 2009'dan beri Erenköy'de Tutkun markalı butik şaraplar üretip Çanakkale Boğazı manzarasında tadım sunar.",
+   "kaynak": [
+    "https://www.hektorsarapevi.com/en",
+    "https://tr.foursquare.com/v/hektor-%C5%9Farap-evi/4ce96269f3bda143cca3bfe4"
+   ],
+   "tesisler": [
+    {
+     "firma": "Tutkun Şarapçılık İç. Mad. Tar. Tur. Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Merkez (Erenköy/İntepe)",
+     "bolge": "trakya",
+     "konum": [
+      40.146,
+      26.408
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Porta Caeli",
+   "kurulus": "2007 (bağ), 2015 (şaraphane)",
+   "baglar": "Kumköy, Eceabat – 1x1 m sık dikimli 170 ha",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Petit Verdot",
+    "Sauvignon Blanc",
+    "Chardonnay",
+    "Viognier"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Ahmet ve Zafer Toksöz'ün 2007'de Kumköy'de kurduğu Vinero, 1x1 metre sıklıkla dikilmiş dünyanın en büyük bağlarından birine sahiptir; Tekeli-Sisa'nın tasarladığı şaraphane 2015'te tamamlandı. Porta Caeli (Cennetin Kapısı) amiral şarabı ile Ament, Pacem, Felici ve Porta Diverti serileri ve Hotel Caeli ile Gelibolu'nun en iddialı yatırımlarındandır.",
+   "kaynak": [
+    "https://www.arkiv.com.tr/proje/vinero-sarap-fabrikasi/5492",
+    "https://www.milliyet.com.tr/yazarlar/mehmet-yalcin/saraba-dev-yatirim-2290699",
+    "https://www.yolculukterapisi.com/trakya-caeli/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Vinero Bağcılık San. Tic. A.Ş.",
+     "il": "Çanakkale",
+     "ilce": "Eceabat (Kumköy)",
+     "bolge": "trakya",
+     "konum": [
+      40.134,
+      26.357
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Barba Yorgo",
+   "kurulus": "1990'lar",
+   "baglar": "Tepeköy'deki aile bağları",
+   "uzumler": [],
+   "web": "https://barbayorgo.com",
+   "instagram": "",
+   "hikaye": "İstanbul'dan doğduğu Tepeköy'e dönen Yorgi Zarbozan, köy meydanında açtığı tavernada kendi bağlarının üzümünden ev şarapları yapmaya başladı. Bölgede retsina yapan tek kişi olan Barba Yorgo'nun Diyonisos ve Retini gibi beş şarabı adanın simgelerindendir.",
+   "kaynak": [
+    "https://barbayorgo.com/gokceada/",
+    "https://visitgokceada.com/blog/gokceada-tepekoy-rehberi-tarihi-rum-koyu-ve-tavernalari"
+   ],
+   "tesisler": [
+    {
+     "firma": "Yorgi Zarbozan - Barba Yorgo Şarapları ve Pansiyon",
+     "il": "Çanakkale",
+     "ilce": "Gökçeada (Tepeköy)",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      40.26,
+      26.0
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Çamlıbağ",
+   "kurulus": "",
+   "baglar": "Bozcaada bağları",
+   "uzumler": [
+    "Kuntra",
+    "Karalahna",
+    "Vasilaki",
+    "Cabernet Sauvignon",
+    "Merlot"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Adanın en köklü üreticilerinden Yunatçılar ailesinin Çamlıbağ markası, Bozcaada'nın yerel Kuntra, Karalahna ve Vasilaki üzümlerine odaklanır. Ayapetro serisi numaralı şişeler ve Kuntra'dan likör şarabı (mistel) gibi ada geleneğini yaşatan etiketler üretir.",
+   "kaynak": [
+    "https://degustasyon.net/",
+    "https://www.iyisarap.com/products.json"
+   ],
+   "tesisler": [
+    {
+     "firma": "Yunatçılar Şarapçılık San. ve Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Bozcaada",
+     "bolge": "bozcaada-gokceada",
+     "konum": [
+      39.785,
+      26.07
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Doseluna",
+   "kurulus": "",
+   "baglar": "Korubaşı köyü, Yeşil Liman yolu (Assos)",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Doseluna Winery, Lucienne ve Doğan Şenocak'ın Ayvacık-Korubaşı'ndaki Assos bağlarında kurulu butik şaraphanesidir.",
+   "kaynak": [
+    "https://www.assosrehberim.com/en/nm-Doseluna_Winery-cp-355"
+   ],
+   "tesisler": [
+    {
+     "firma": "Şenocak Sağlık Hiz. ve Tarım Ürünleri Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Ayvacık (Korubaşı)",
+     "bolge": "diger",
+     "konum": [
+      39.635,
+      26.45
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Şirince Yedibağlar",
+   "kurulus": "",
+   "baglar": "",
+   "uzumler": [],
+   "web": "https://www.sirincesarapcilik.com",
+   "instagram": "",
+   "hikaye": "Şirince Yedibağlar, Şirince tarzı meyve şaraplarıyla bilinen bir markadır; Bayramiç'teki lisanslı tesis bu şirkete aittir.",
+   "kaynak": [
+    "https://www.sirincesarapcilik.com/urun/sirince-yedibaglar-kavun-sarabi/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Şirince Yedi Bağlar Şarapçılık Bağ. San. Tic. Ltd. Şti.",
+     "il": "Çanakkale",
+     "ilce": "Bayramiç (Gedik)",
+     "bolge": "diger",
+     "konum": [
+      39.845,
+      26.66
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Urla Şarapçılık (Urla Winery)",
+   "kurulus": "2000'lerin başı (Uzbaş Çiftliği temelinde)",
+   "baglar": "Urla Kuşçular, yaklaşık 550 dönüm",
+   "uzumler": [
+    "Urla Karası",
+    "Nero d'Avola",
+    "Bornova Misketi",
+    "Boğazkere",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Chardonnay"
+   ],
+   "web": "https://www.urlasarapcilik.com.tr",
+   "instagram": "https://www.instagram.com/urlawines/",
+   "hikaye": "Can Ortabaş'ın kurduğu Uzbaş Çiftliği'ndeki arboretumda bulunan eski asma kalıntılarıyla başlayan bir canlandırma projesi. Mübadeleyle unutulan Urla Karası'nı yeniden şişeye taşıyan şaraphane, Urla Bağ Yolu'nun öncülerinden biri oldu. Nero d'Avola & Urla Karası etiketi Decanter'da platin madalya aldı.",
+   "kaynak": [
+    "https://www.urlasarapcilik.com.tr/our-story",
+    "https://www.urlasarapcilik.com.tr/our-wines",
+    "https://dergiurla.com/urla-bag-yolu-sarap-ureticileri/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Urla Şarapçılık Gıda Turizm Tarım San. ve Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.322,
+      26.765
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "USCA",
+   "kurulus": "2002 (ilk bağ), ilk şişeleme 2013",
+   "baglar": "Urla Kuşçular ve Kocadağ; ilk bağ Güzelbahçe Payamlı",
+   "uzumler": [
+    "Bornova Misketi",
+    "Foça Karası",
+    "Öküzgözü",
+    "Syrah",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Viognier",
+    "Chardonnay"
+   ],
+   "web": "https://www.usca.com.tr",
+   "instagram": "https://www.instagram.com/uscawines/",
+   "hikaye": "Adını Klazomenaili filozof Anaksagoras'ın 'Us' kavramından alan butik şaraphane. Şarapları Shakespeare'in sonelerinin numaralarıyla adlandırılıyor ve her şişede sonenin son iki dizesi yer alıyor. Bağlarında yalnızca kendilerinde bulunan kadim Foça Karası üzümü yetişiyor.",
+   "kaynak": [
+    "https://www.usca.com.tr/",
+    "https://www.usca.com.tr/saraplar/",
+    "https://dergiurla.com/urla-bag-yolu-sarap-ureticileri/"
+   ],
+   "tesisler": [
+    {
+     "firma": "U.S.C.A. Bağcılık Şarapçılık Zeytincilik Tarım ve Gıda San. Tic. Ltd. Şti.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.357,
+      26.815
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "HUS Şarapçılık",
+   "kurulus": "2018",
+   "baglar": "Urla Kuşçular (kendi bağı) ile Seferihisar Beyler/Orhanlı köylerinde anlaşmalı bağlar",
+   "uzumler": [
+    "Carignan",
+    "Alicante",
+    "Bornova Misketi",
+    "Boğazkere",
+    "Syrah",
+    "Grenache",
+    "Emir"
+   ],
+   "web": "https://www.huswines.com",
+   "instagram": "",
+   "hikaye": "Şilili Juan Pablo Diaz Leon ile üçüncü kuşak Urlalı Ceylan Ertörer Diaz Leon'un kurduğu aile şaraphanesi. Seferihisar'ın sulanmayan yaşlı Carignan ve Alicante bağlarının potansiyelini ortaya çıkarmaya odaklanıyor. Şaraphanedeki HUS Mutfak Michelin Rehberi'nde yer alıyor.",
+   "kaynak": [
+    "https://urlabagyolu.com/hus/",
+    "https://www.huswines.com/urunlerimiz"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ceylan Ertörer Diaz Leon",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.392,
+      26.865
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Perdix",
+   "kurulus": "2012 (bağ), ilk üretim 2017",
+   "baglar": "Urla Zeytinler köyü Dağovacık mevkii, 100 dönüm, organik sertifikalı",
+   "uzumler": [
+    "Bornova Misketi",
+    "Sauvignon Blanc",
+    "Pinot Noir",
+    "Merlot",
+    "Syrah",
+    "Cabernet Sauvignon",
+    "Boğazkere",
+    "Cabernet Franc",
+    "Petit Verdot"
+   ],
+   "web": "https://www.perdixwines.com",
+   "instagram": "https://www.instagram.com/perdixwines",
+   "hikaye": "Adını bağa giden yolda sık sık karşılaşılan keklik sürülerinden (Yunanca 'perdix') alıyor. 2012'de Dağovacık'ta 100 dönümlük organik bağ kuruldu, 2017'de Urla'nın tarihi dokusuyla modern mimariyi birleştiren şaraphanede ilk üretim yapıldı. Şaraphanede restoran ve tadım hizmeti veriliyor.",
+   "kaynak": [
+    "https://urlabagyolu.com/perdix-sarapcilik/",
+    "https://www.perdixwines.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "EOS Tarım Gıda Turizm San. ve Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.427,
+      26.915
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Statera",
+   "kurulus": "2016 (bağ dikimi), tadım salonu 2024",
+   "baglar": "Urla Pınardere mevkii, 55 dekar, kireçtaşı üzerinde killi-tınlı toprak",
+   "uzumler": [
+    "Viognier",
+    "Grenache",
+    "Syrah",
+    "Mourvèdre",
+    "Bornova Misketi"
+   ],
+   "web": "https://staterasarapcilik.com",
+   "instagram": "https://www.instagram.com/stateravineyards/",
+   "hikaye": "Adı Latincede 'denge' anlamına geliyor; sloganı 'Solis et Ventis' (güneş ve rüzgârla). 2016'da Rhône çeşitleriyle kurulan bağlar sulanmadan, düşük verimle işleniyor. Erginoğlu & Çalışlar imzalı, yarısı yeraltında beton şaraphanesi 2024'te ziyarete açıldı.",
+   "kaynak": [
+    "https://urlabagyolu.com/statera/",
+    "https://staterasarapcilik.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Statera Bağcılık Şarapçılık Sanayi ve Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.272,
+      26.765
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Urlice Vineyards",
+   "kurulus": "2006",
+   "baglar": "Urla İçmeler, organik sertifikalı bağlar",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Chardonnay"
+   ],
+   "web": "https://urlice.com",
+   "instagram": "",
+   "hikaye": "Bilge Bengisu ve Reha Öğünlü çiftinin 2006'da kurduğu, Urla'nın ilk butik şarap üreticisi ve Urla Bağ Yolu'nun ilk şaraphanelerinden. Organik tarım ve yavaş yemek ilkeleriyle çalışıyor; kırmızılar en az iki yıl Fransız meşesinde, 18 ay da şişede bekletiliyor. Bağların içindeki Vineyard Cafe'de tadım yapılabiliyor.",
+   "kaynak": [
+    "https://urlabagyolu.com/urlice/",
+    "https://dergiurla.com/urla-bag-yolu-sarap-ureticileri/",
+    "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Urlice Bağcılık ve Şarapçılık - Reha Öğünlü",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.307,
+      26.815
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Mozaik Şarapçılık – Mahrem",
+   "kurulus": "2006",
+   "baglar": "Urla Kuşçular, sulama sistemi olmayan bağlar",
+   "uzumler": [
+    "Syrah",
+    "Sangiovese",
+    "Corinto",
+    "Montepulciano",
+    "Petit Verdot",
+    "Tannat",
+    "Marselan",
+    "Ekigaïna",
+    "Rebo"
+   ],
+   "web": "https://www.mozaiksarapcilik.com",
+   "instagram": "",
+   "hikaye": "İtalyan ziraatçı ve önolog önderliğinde 2006'da başlayan bir aile projesi; yalnızca kırmızı üzüm yetiştiriyor ve şaraplarını Mahrem markasıyla satıyor. Bağlarda Ekigaïna, Rebo ve Corinto gibi Türkiye'de nadir görülen dokuz kırmızı çeşit var. Şaraphane bir at çiftliğiyle iç içe.",
+   "kaynak": [
+    "https://urlabagyolu.com/mozaik-sarapcilik/",
+    "https://www.mozaiksarapcilik.com/index.php/tr/mozaik-in-hikayesi",
+    "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mozaik Organik Tarım ve Hayvancılık Sanayi Ticaret A.Ş.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.342,
+      26.865
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "MMG Şarapçılık – Şatomet",
+   "kurulus": "2011 (hobi olarak 2002)",
+   "baglar": "Urla Ovacık (40 dönüm, 120 m) ve Bademler (30 dönüm, 300 m), kireçli-taşlı topraklar",
+   "uzumler": [
+    "Bornova Misketi",
+    "Kara Misket",
+    "Mourvèdre",
+    "Syrah",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Viognier",
+    "Pinotage",
+    "Chardonnay"
+   ],
+   "web": "https://www.mmgsarapcilik.com",
+   "instagram": "",
+   "hikaye": "Prof. Dr. Metin Güner'in 2002'de hobi olarak başladığı bağcılık aile şirketine dönüştü; marka adı ilk alkollü içki olan Met'ten (bal şarabı) geliyor. Tüm üzümler elle ve gece hasat ediliyor, yılda yaklaşık 20 bin şişe üretiliyor. Bornova Misketi beyazı 2011 ve 2012 rekolteleriyle İsa Bal tarafından kategorisinde birinci seçildi.",
+   "kaynak": [
+    "https://www.mmgsarapcilik.com/",
+    "https://urlabagyolu.com/mmg-sarapcilik/"
+   ],
+   "tesisler": [
+    {
+     "firma": "MMG Şarapçılık Ziraat ve Gıda Ürünleri Turz. İnş. San. Tic. Ltd. Şti.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.377,
+      26.915
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Çakır Şarapçılık",
+   "kurulus": "1999 (arazi), ilk hasat 2018, ziyarete açılış 2020",
+   "baglar": "Urla Kuşçular",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Bornova Misketi",
+    "Chardonnay"
+   ],
+   "web": "https://www.cakirsarapcilik.com",
+   "instagram": "",
+   "hikaye": "Avukat Sevinç ve Erol Çakır'ın mübadele öncesi bağ olan, sonra tütün tarlasına dönen araziyi satın alıp yeniden bağa çevirmesiyle doğdu. İlk seriye Latince 'düş' anlamındaki Somnium adı verildi; Adventum ve Yarımadalı etiketleri de var. Taş bina, mahzen, restoran ve konaklama bağların içinde.",
+   "kaynak": [
+    "https://urlabagyolu.com/cakir-sarapcilik/",
+    "https://www.turkish-wine.com/%C3%A7akir-%C5%9Farap%C3%A7%C4%B1l%C4%B1k-ba%C4%9Fc%C4%B1l%C4%B1k-cakir-winery-vineyards"
+   ],
+   "tesisler": [
+    {
+     "firma": "Sevinç Çakır - Urla Çakır Bağcılık ve Şarapçılık",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.222,
+      26.765
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "İkidenizarası",
+   "kurulus": "1999 (bağ), şaraphane 2021",
+   "baglar": "Urla Yağcılar köyü",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Syrah",
+    "Chardonnay"
+   ],
+   "web": "https://ikidenizarasiwinery.com",
+   "instagram": "",
+   "hikaye": "Konyalı mimar Serhat Akbay'ın 1990'da yerleştiği Yağcılar'da, mübadeleyle kaybolan bağcılığı 1999'da yeniden başlatmasıyla kuruldu. Adını İzmir Körfezi ile Sığacık Körfezi'nin tam ortasındaki konumundan alıyor. Köy yerleşimi içindeki şaraphane 2021'den beri ziyaretçi ağırlıyor.",
+   "kaynak": [
+    "https://urlabagyolu.com/ikidenizarasi/",
+    "https://ikidenizarasiwinery.com/hakkimizda",
+    "https://www.teruarintadi.com/post/ikidenizarasi"
+   ],
+   "tesisler": [
+    {
+     "firma": "İkidenizarası Tarımsal Ür. San. ve Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.257,
+      26.815
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Paşaeli",
+   "kurulus": "2000",
+   "baglar": "Tire İbni Melek OSB'deki şaraphane; Kaz Dağları eteklerinden (Karasakız) iç Ege ve Anadolu platolarına uzanan kendi ve sözleşmeli bağlar",
+   "uzumler": [
+    "Karasakız",
+    "Sıdalan",
+    "Çakal",
+    "Yapıncak",
+    "Çalkarası",
+    "Sultaniye",
+    "Emir",
+    "Papazkarası",
+    "Öküzgözü",
+    "Karalahna",
+    "Kolorko"
+   ],
+   "web": "https://www.pasaeli.com",
+   "instagram": "",
+   "hikaye": "Seyit Karagözoğlu'nun 2000'de kurduğu aile şaraphanesi, adını antik Paşaelis kentinden alıyor. Yok olmaya yüz tutmuş Yapıncak, Sıdalan, Çakal, Çalkarası ve Karasakız gibi yerli üzümlerin yaşlı bağlarını kurtarmasıyla uluslararası ün kazandı. 2011 Yapıncak, San Francisco'da altın ve 'Best of Nation' alan ilk Türk şarabı oldu.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/pasaeli",
+    "https://vintnerproject.com/wine/seyit-karagozoglu-and-pasaeli-wines-rescuing-the-lost-turkish-grapes/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Paşaeli Bağcılık ve Şarapçılık A.Ş.",
+     "il": "İzmir",
+     "ilce": "Tire",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      38.089,
+      27.735
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Sevilen",
+   "kurulus": "1942",
+   "baglar": "Menderes İsabey Bağevi ve 900 m rakımlı yayla bağları (toplam ~160 ha), Güney (Denizli); üretim Ortaklar-Germencik Magnesia tesisinde",
+   "uzumler": [
+    "Sauvignon Blanc",
+    "Cabernet Franc",
+    "Syrah",
+    "Petit Verdot",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Narince",
+    "Bornova Misketi"
+   ],
+   "web": "https://www.sevilen.com.tr",
+   "instagram": "",
+   "hikaye": "Bulgaristan'dan şarapçılık bilgisini getiren dedenin 1942'de kurduğu aile şirketi bugün Türkiye'nin büyük üreticilerinden. İsabey Bağevi 1958'den beri grubun parçası; Michelin Rehberi'ndeki restoranı 350 yıllık çınarın altında. 900 m rakımdaki bağlardan gelen '900' serisi ve Centum, Plato, Nativus gibi serilerle geniş bir yelpaze sunuyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/isabey",
+    "https://www.wine-searcher.com/merchant/51187-sevilen-sarap-sanayi",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+   ],
+   "tesisler": [
+    {
+     "firma": "Sevilen Şarap Sanayi A.Ş.",
+     "il": "Aydın",
+     "ilce": "Germencik",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.87,
+      27.6
+     ]
+    }
+   ],
+   "sarap": 13
+  },
+  {
+   "ad": "Lucien Arkas Bağları (LA Wines)",
+   "kurulus": "2006",
+   "baglar": "Torbalı Kuşçuburun, yaklaşık 117 ha tek parsel, Ecocert organik",
+   "uzumler": [
+    "Bornova Misketi",
+    "Narince",
+    "Öküzgözü",
+    "Boğazkere",
+    "Cabernet Sauvignon",
+    "Marselan",
+    "Montepulciano",
+    "Tempranillo",
+    "Viognier",
+    "Chardonnay",
+    "Chenin Blanc"
+   ],
+   "web": "https://www.lawines.com.tr",
+   "instagram": "",
+   "hikaye": "Lucien Arkas'ın 2006'da Kuşçuburun'da kurduğu bağ, Türkiye'nin tek parça en büyük organik bağı olarak biliniyor. Yirmiden fazla çeşit yetişiyor, üzümler serin rüzgârda gece hasat ediliyor. Michelin Rehberi'ndeki restoran şarapları mevsim mutfağıyla eşleştiriyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/lucien-arkas",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas"
+   ],
+   "tesisler": [
+    {
+     "firma": "La Organik Bağcılık Şarapçılık Hayvancılık İnşaat Turizm Gıda San. ve Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Torbalı",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      38.155,
+      27.36
+     ]
+    }
+   ],
+   "sarap": 8
+  },
+  {
+   "ad": "Yedi Bilgeler (7Bilgeler Vineyards)",
+   "kurulus": "",
+   "baglar": "Selçuk Gökçealan (Burgaz) köyü, ekolojik tarım",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Bornova Misketi",
+    "Chardonnay"
+   ],
+   "web": "https://www.yedibilgeler.com",
+   "instagram": "",
+   "hikaye": "Türkiye'nin ilk 'bağ – şaraphane – otel – restoran' butik adresi olarak anılıyor. Şaraplar Thales, Anaksagoras, Pythagoras, Solon, Bias, Khilon gibi bu coğrafyanın antik bilgelerinin adlarını taşıyor. Bağların içinde Vinifera Otel ve Mayadan Restoran bulunuyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/yedi-bilgeler",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+   ],
+   "tesisler": [
+    {
+     "firma": "Yedi Bilgeler Şarapçılık Tur. Tar. Hay. Sağ. Hiz. San. ve Tic. Ltd. Şti.",
+     "il": "İzmir",
+     "ilce": "Selçuk",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.95,
+      27.37
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+   "kurulus": "1997",
+   "baglar": "Şirince köyü ve çevresinden üzüm ve meyve",
+   "uzumler": [
+    "Boğazkere",
+    "Öküzgözü",
+    "Narince",
+    "Papazkarası",
+    "Erciş Karası",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz"
+   ],
+   "web": "https://akberg.wine",
+   "instagram": "",
+   "hikaye": "Köyün eski zeytinyağı fabrikası ve tarihi okul binasının 1997'de şaraphaneye dönüştürülmesiyle kuruldu; Şirince'nin şarap köyü ününü yerleştiren üretici olarak anılıyor. Şirince'nin meyve şarabı geleneğini sürdürürken Büyükbağ ve Lethe serileriyle Anadolu üzümlerinden madalyalı şaraplar üretiyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/akberg",
+    "https://akberg.wine/oduller-ve-analizler/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Akberg Şirince Şarapçılık Hayv. Tarım Ürünleri Gıda Tur. San. Tic. A.Ş.",
+     "il": "İzmir",
+     "ilce": "Selçuk (Şirince)",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.944,
+      27.43
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Pamukkale Şarapları",
+   "kurulus": "1962",
+   "baglar": "Denizli Güney ve Çal platosu",
+   "uzumler": [
+    "Çalkarası",
+    "Sultaniye",
+    "Bornova Misketi",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Boğazkere",
+    "Öküzgözü",
+    "Kalecik Karası"
+   ],
+   "web": "https://pamukkalewinery.com",
+   "instagram": "",
+   "hikaye": "Fevzi Tokat ve dört kardeşinin 1962'de Güney'de 100 bin litre kapasiteyle kurduğu şaraphane, 1972'de en küçük kardeş gıda mühendisi Yasin Tokat'ın yönetiminde Pamukkale markasını yarattı. Güney'i Türkiye'nin önemli bağ bölgelerinden biri hâline getiren firma bugün milyonlarca litre üretiyor. Anfora Trio Kırmızı, Marks & Spencer'da satılan tek Türk kırmızısı oldu.",
+   "kaynak": [
+    "https://www.hurriyet.com.tr/kelebek/imam-babanin-izniyle-ogullar-sarapci-oldu-6330128",
+    "https://www.vitikultur.com/en/wineries/pamukkale",
+    "https://pamukkalewinery.com/mainPage"
+   ],
+   "tesisler": [
+    {
+     "firma": "Pamukkale Şarapçılık San. ve Tic. A.Ş.",
+     "il": "Denizli",
+     "ilce": "Güney",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.15,
+      29.07
+     ]
+    }
+   ],
+   "sarap": 9
+  },
+  {
+   "ad": "Kuzubağ",
+   "kurulus": "2007 (bağ), şaraphane 2021",
+   "baglar": "Çal Hançalar, 550 ha arazinin 350 ha'ı bağ",
+   "uzumler": [
+    "Çal Karası",
+    "Kalecik Karası",
+    "Acıkara",
+    "Narince",
+    "Sultaniye",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Sauvignon Blanc",
+    "Chardonnay"
+   ],
+   "web": "https://www.kuzubag.com",
+   "instagram": "",
+   "hikaye": "Salih ve Aslı Kuzu'nun önderliğindeki aile, 2007'den itibaren diktiği bağların 15 yıl kök salmasını bekledikten sonra 2021'de sekiz ayda şaraphanesini tamamladı. Yılda yaklaşık 169 bin şişe üretiyor. İlk rekoltelerinden itibaren Decanter, IWC ve Mundus Vini'de çok sayıda madalya aldı.",
+   "kaynak": [
+    "https://www.kuzubag.com/",
+    "https://www.kuzubag.com/oduller/",
+    "https://www.vitikultur.com/en/wineries/kuzubag"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kuzubağ Tar. San. ve Tic. A. Ş.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.08,
+      29.4
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Küp Şarapları (Epic, Artemis, Thia)",
+   "kurulus": "1972",
+   "baglar": "Çal Mahmutgazi",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Chardonnay",
+    "Narince",
+    "Mazrona",
+    "Öküzgözü",
+    "Kalecik Karası",
+    "Boğazkere"
+   ],
+   "web": "https://kupsarap.com",
+   "instagram": "",
+   "hikaye": "700 litrelik tek bir küple başlayan aile işletmesi 1972'de 200 bin litre kapasiteye ulaştı. Aynı yıl tesadüfen keşfedilen vişne şarabı markanın simgesi oldu. Epic, Artemis ve Thia serileri son on yılda Decanter ve IWC'de düzenli madalya aldı.",
+   "kaynak": [
+    "https://www.kupsarap.com/",
+    "https://kupsarap.com/odullerimiz/",
+    "https://www.vitikultur.com/en/wineries/kup"
+   ],
+   "tesisler": [
+    {
+     "firma": "Küp Şarapçılık Fermantasyon Gıda İnş. Taah. Nak. San. ve Tic. Ltd. Şti.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.115,
+      29.45
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Lermonos",
+   "kurulus": "Bağlar ~2005, şaraphane 2021",
+   "baglar": "Çal Hançalar ve Selcen, ~30 ha, 840-880 m kalkerli toprak",
+   "uzumler": [
+    "Çal Karası",
+    "Öküzgözü",
+    "Kalecik Karası",
+    "Boğazkere",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Syrah",
+    "Chardonnay"
+   ],
+   "web": "https://www.lermonos.com",
+   "instagram": "",
+   "hikaye": "Hekimliği bırakıp çocukluğunun aile bağlarına dönen Hürriyet Yılmaz'ın projesi. 2021'de açılan Selcen'deki şaraphane restoranıyla, Hançalar'daki bağ evi ise konaklamasıyla Çal Bağ Yolu'nun duraklarından. Lykos Valley, Carovino, Rindera ve Alice etiketleriyle tanınıyor.",
+   "kaynak": [
+    "https://www.lermonos.com/",
+    "https://www.vitikultur.com/en/wineries/lermonos"
+   ],
+   "tesisler": [
+    {
+     "firma": "Lermonos Gıda Tarım Hayvancılık Turizm Enerji San. ve Tic. A.Ş.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.15,
+      29.5
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Kayıbağ – Paşa Dedem",
+   "kurulus": "",
+   "baglar": "Çal İsmailler",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://www.kayibag.com",
+   "instagram": "",
+   "hikaye": "Çal'ın İsmailler köyünde, Çal Bağ Yolu üzerindeki yaklaşık on şaraphaneden biri olan aile işletmesi. Şaraplarını Paşa Dedem markasıyla satıyor. Apollon Lairbenos tapınağı ve Kaklık Mağarası gibi duraklara yakın konumda.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/kayibag",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/kayibag"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kayıbağ Şarapçılık Gıda ve Alkollü Ürünler Toprak Mahsülleri  İnş. Malz. Otomotiv Tem. Hizm. Nak. San. ve Tic. Ltd. Şti.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.185,
+      29.55
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Kavaklıdere – Pendore",
+   "kurulus": "1929 (Kavaklıdere); Pendore yatırımları 2000'ler",
+   "baglar": "Alaşehir Kemaliye Pendore bağları, 223 ha, 190-475 m, 15 çeşit; Türkiye'nin tek parça en büyük bağ alanı",
+   "uzumler": [
+    "Öküzgözü",
+    "Boğazkere",
+    "Syrah",
+    "Malbec",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Cabernet Franc",
+    "Petit Verdot",
+    "Alicante",
+    "Carignan"
+   ],
+   "web": "https://kavaklidere.com",
+   "instagram": "",
+   "hikaye": "Türkiye'nin en köklü şarap üreticisi Kavaklıdere'nin Ege'deki château'su. Adını Yunanca 'beş köy' anlamındaki Pence Horyos'tan alan Pendore, Ege ve karasal iklimin kesiştiği, Bozdağlar'ın serin havasını alan bir geçit ikliminde. 79 ana parselde Öküzgözü ve Boğazkere'den Malbec ve Syrah'a uzanan teruar şarapları üretiliyor.",
+   "kaynak": [
+    "https://kavaklidere.com/pendore-baglari/",
+    "https://lidyaantikbagrotasi.com/pendore/",
+    "https://kavaklidere.com/baglarimiz-ve-uretim/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kavaklıdere Şarapları A.Ş.",
+     "il": "Manisa",
+     "ilce": "Alaşehir",
+     "bolge": "ic-ege",
+     "konum": [
+      38.35,
+      28.517
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Heraki",
+   "kurulus": "2019",
+   "baglar": "Kendi bağı yok; Denizli, Manisa ve Ege'de sözleşmeli yaşlı bağlar (etiketlerde köy adları)",
+   "uzumler": [
+    "Boğazkere",
+    "Sultaniye",
+    "Çal Karası",
+    "Karasakız",
+    "Gök",
+    "Patkara"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Fransa'da önoloji kürsüsünde tanışan Fulya Akıncı-Hernandez ile İspanyol José Hernandez'in garaj şaraphanesi; adı iki soyadının birleşimi. 2019'da sökülmek üzere olan Denizli'deki en yaşlı Boğazkere bağının üzümünü alarak Novakula ile başladılar. Sofralık sanılan Sultaniye ve Çal Karası'ndan ciddi şaraplar yaparak yerli üzümlere bakışı değiştiriyorlar.",
+   "kaynak": [
+    "https://lidyaantikbagrotasi.com/en/heraki-vineyards/",
+    "https://thequirkycork.com/visit-heraki/",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/heraki"
+   ],
+   "tesisler": [
+    {
+     "firma": "Heraki Şarapçılık San. Tic. Ltd. Şti.",
+     "il": "Manisa",
+     "ilce": "Alaşehir",
+     "bolge": "ic-ege",
+     "konum": [
+      38.385,
+      28.567
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Selendi",
+   "kurulus": "2000 (ilk arazi), ilk rekolte 2004",
+   "baglar": "Akhisar Sarnıç Yaylası ve Moralı, 250 dönüm; Türkiye'nin ilk organik bağlarından",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Shiraz",
+    "Chardonnay",
+    "Viognier",
+    "Narince"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Akın Öngör'ün 90'ların sonunda Akhisar'da aldığı küçük tütün tarlasıyla başlayan bağcılık tutkusu 250 dönümlük organik bağa dönüştü. Bernard Grandchamp ve Avi Şamir gibi uzmanlarla çalışılarak Sarnıç Yaylası seçildi; château tarzı üretim 4 bin şişeden 80 bin şişeye çıktı. Etiketlerde Sarnıç ve Moralı gibi köy adları kullanılıyor.",
+   "kaynak": [
+    "https://lidyaantikbagrotasi.com/selendi/",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+   ],
+   "tesisler": [
+    {
+     "firma": "Selendi Tarım Ürünleri San. ve Tic. A.Ş.",
+     "il": "Manisa",
+     "ilce": "Akhisar",
+     "bolge": "ic-ege",
+     "konum": [
+      38.918,
+      27.84
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Kastro Tireli",
+   "kurulus": "2004 (deneme bağı), ilk rekolte 2010",
+   "baglar": "Akhisar Pınarcık köyü, eski Tireli Çiftliği, 200-280 m, kızıl taşlı toprak",
+   "uzumler": [
+    "Syrah",
+    "Mourvèdre",
+    "Viognier",
+    "Kalecik Karası",
+    "Narince",
+    "Cabernet Sauvignon"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Yunus Mermerci'nin Akhisar'daki unutulmuş aile arazisinde kurduğu bağlar; adı 'Tireli Kalesi' anlamına geliyor. Côte-Rotie'li bağcıların yönlendirmesiyle Ornellaia danışmanı İtalyan önolog Dr. Andrea Paoletti ile çalışıldı, Rhône ve Toskana incelemelerinden sonra 2006'da dikimler yapıldı. Çiftlik Cumhuriyet'in ilk yıllarından beri Akhisar'ın ilk belediye başkanı Tirelizade İsmail Bahri Bey'in ailesine ait.",
+   "kaynak": [
+    "https://lidyaantikbagrotasi.com/kastro-tireli/",
+    "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+   ],
+   "tesisler": [
+    {
+     "firma": "Tireli Çiftliği Tarım İşletmeleri San. Tic. A.Ş.",
+     "il": "Manisa",
+     "ilce": "Akhisar",
+     "bolge": "ic-ege",
+     "konum": [
+      38.953,
+      27.89
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Sobran Bağları – Alaşehir-Philadelphia",
+   "kurulus": "2012 (hobi üretimi), lisans 2017",
+   "baglar": "Alaşehir Sobran köyü, 60 dönüm şaraplık bağ (200 dönüm toplam, 50 çeşit üzüm)",
+   "uzumler": [
+    "Nebbiolo"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "1982'den beri Avrupa'ya meyve-sebze ihraç eden Gülşen ve Ercan Boztepe çiftinin 2005'te sofralık üzümle kurduğu Sobran Bağları, 2012'de hobi olarak şaraba yöneldi. Ahr bölgesinden önolog Hermann-Josef Kreuzberg ile ilk üretimleri yapıldı; 2017'de Alaşehir'in ilk lisanslı şarap firması oldu. Nebbiolo'dan kırmızı, roze ve beyaz şarap üretmeleriyle biliniyorlar.",
+   "kaynak": [
+    "https://lidyaantikbagrotasi.com/sobran/",
+    "https://atb.org.tr/basaridetay.asp?newID=107"
+   ],
+   "tesisler": [
+    {
+     "firma": "Antalya Dış Tic. Enerji İçecek ve San. Tic. Ltd. Şti.",
+     "il": "Manisa",
+     "ilce": "Alaşehir",
+     "bolge": "ic-ege",
+     "konum": [
+      38.42,
+      28.617
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Öküzgözü Şarapçılık – Phokaia",
+   "kurulus": "1954 (ilk tesis; aile şarapçılığı 1932'ye uzanıyor)",
+   "baglar": "Foça (Phokaia) ve Kula (Katakekaumene), toplam ~250 dekar",
+   "uzumler": [
+    "Foça Karası",
+    "Öküzgözü",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Chardonnay"
+   ],
+   "web": "https://okuzgozusarapcilik.com",
+   "instagram": "https://www.instagram.com/okuzgozusarapcilik/",
+   "hikaye": "250 yıllık İzmirli Şekerdil ailesinin hikâyesi, emekli başkomiser A. Rıfat Şekerdil'in Bornova'daki bağından yaptığı şarapları Kordon'daki gazinosunda satmasıyla başladı. Aziz Şekerdil 1954'te ilk tesisi kurdu, üçüncü kuşak Rıfat Şekerdil şaraphaneyi modernleştirdi. Firma, mübadeleyle kaybolan Foça Karası'nı canlandırma projesine katılarak 2008'de 85 yıl sonra ilk tek çeşit Foça Karası şarabını üretti.",
+   "kaynak": [
+    "https://okuzgozusarapcilik.com/Tarihce.aspx",
+    "https://okuzgozusarapcilik.com/Hakkimizda.aspx",
+    "https://salihliosb.org.tr/en/firmalar-arsivi/okuzgozu-sarapcilik-sanayi-ve-ticaret-a-s/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Öküzgözü Şarapçılık San. ve Tic. Ltd. Şti.",
+     "il": "Manisa",
+     "ilce": "Salihli",
+     "bolge": "ic-ege",
+     "konum": [
+      38.483,
+      28.139
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Deva Şarapçılık",
+   "kurulus": "2012-2014",
+   "baglar": "",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "2012'de başlayıp 2014'te tamamlanan Salihli OSB'deki tesiste şarap, rakı ve etil alkol üretiliyor. Firma, yüksek teknolojiyi geleneksel şarap üretimiyle birleştirmeyi hedeflediğini belirtiyor. Tüketiciye yönelik şarap etiketleri hakkında doğrulanabilir bilgi bulunamadı.",
+   "kaynak": [
+    "https://salihliosb.org.tr/en/firmalar-arsivi/deva-icecek-sanayi-ve-ticaret-a-s/",
+    "https://salihliosb.org.tr/en/salihli-organize-sanayi-bolgemizde-deva-icecek-san-ve-tic-a-s-uretime-gecti/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Deva İçecek San. ve Tic. A.Ş.",
+     "il": "Manisa",
+     "ilce": "Salihli",
+     "bolge": "ic-ege",
+     "konum": [
+      38.518,
+      28.189
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Sezar Şarap (Sezer Holding)",
+   "kurulus": "2012",
+   "baglar": "Sözleşmeli Ege üzümleri",
+   "uzumler": [
+    "Sultaniye",
+    "Cabernet Sauvignon",
+    "Sauvignon Blanc",
+    "Öküzgözü",
+    "Boğazkere",
+    "Misket"
+   ],
+   "web": "https://www.sezerholding.com.tr/markalar/sarap",
+   "instagram": "",
+   "hikaye": "Sâki Rakı ve Diamond Vodka'nın sahibi Sezer Holding'in Salihli OSB'deki 5.000 m²'lik tesisi, İtalyan ve Türk mühendislerin ortak çalışmasıyla 2012'de tamamlandı. Sezar, Monet ve Chateau Mona şarapları ile Şirinceli meyve şarapları burada üretiliyor.",
+   "kaynak": [
+    "https://www.sezerholding.com.tr/markalar/sarap",
+    "http://turkosb.com/alcosan.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Alcosan İçecek San. ve Tic. Ltd. Şti.",
+     "il": "Manisa",
+     "ilce": "Salihli",
+     "bolge": "ic-ege",
+     "konum": [
+      38.553,
+      28.239
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Yanık Ülke",
+   "kurulus": "2004 (bağ), ilk şarap 2009",
+   "baglar": "Kula volkanik bölgesi 924 m; Gürle bağları 120 m; 2.000 dönümde 16 çeşit",
+   "uzumler": [
+    "Syrah",
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Muscat"
+   ],
+   "web": "https://www.yanikulke.com",
+   "instagram": "",
+   "hikaye": "Antik çağda 'Katakekaumene' (Yanık Ülke) denen Kula'nın volkanik topraklarında 2004'te kurulan bağlardan ilk şarap 2009'da yapıldı. Yılda yaklaşık 900 bin şişe kapasiteli tesis; şaraphane, Villa Estet bağ oteli, restoran ve şarap dükkânıyla bir yaşam alanı olarak tasarlandı.",
+   "kaynak": [
+    "https://www.yanikulke.com/hakkimizda/",
+    "https://yalcinalganer.com/yasayan-muze-olarak-adlandirilan-kula-yanik-ulke-bolgesi-gezisi-devami-aciklamalarim-ve-intibalarim-ucuncu-bolum-kula-yanikbag-saraphanesi-yanik-ulke-saraplari-ve-villa-estet-bag-otel/"
+   ],
+   "tesisler": [
+    {
+     "firma": "KOZMİK İNŞAAT TUR. VE GIDA SAN. TİC. A.Ş.",
+     "il": "Manisa",
+     "ilce": "Kula",
+     "bolge": "ic-ege",
+     "konum": [
+      38.547,
+      28.65
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Kavaklıdere",
+   "kurulus": "1929 (Kavaklıdere)",
+   "baglar": "Eşme Güllü beldesi Kocaalan mevkii tesisi (Kavaklıdere'nin 2025 bağ listesinde Uşak bağı ayrıca yer almıyor)",
+   "uzumler": [
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Boğazkere",
+    "Narince",
+    "Emir",
+    "Chardonnay",
+    "Syrah"
+   ],
+   "web": "https://kavaklidere.com",
+   "instagram": "https://www.instagram.com/kavakliderewines/",
+   "hikaye": "Kavaklıdere'nin Uşak Eşme'deki lisanslı üretim noktası. Şirketin kamuya açık bağ listesinde Ege'de yalnızca Kemaliye-Pendore ve Denizli Güney Plato bağları yer alıyor; Eşme tesisinden çıkan ayrı bir etiket tespit edilemedi.",
+   "kaynak": [
+    "https://kavaklidere.com/baglarimiz-ve-uretim/",
+    "https://kavaklidere.com/tarihce/",
+    "https://kavaklidere.com/ankara-kalecik-uyurca-baglari/",
+    "https://kavaklidere.com/urunler/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kavaklıdere Şarapları A.Ş.",
+     "il": "Uşak",
+     "ilce": "Eşme",
+     "bolge": "ic-ege",
+     "konum": [
+      38.4,
+      28.97
+     ]
+    },
+    {
+     "firma": "Kavaklıdere Şarapları A.Ş.",
+     "il": "Ankara",
+     "ilce": "Akyurt",
+     "bolge": "kalecik",
+     "konum": [
+      40.13,
+      33.08
+     ]
+    }
+   ],
+   "sarap": 59
+  },
+  {
+   "ad": "Likya Şarapları",
+   "kurulus": "1998",
+   "baglar": "Elmalı platosu, 1.100 m, 420 ha; 35 ha Acıkara bloğu",
+   "uzumler": [
+    "Acıkara",
+    "Cabernet Sauvignon",
+    "Cabernet Franc",
+    "Merlot",
+    "Syrah",
+    "Pinot Noir",
+    "Malbec",
+    "Kalecik Karası",
+    "Chardonnay",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://likyasarap.com",
+   "instagram": "https://www.instagram.com/likyawines/",
+   "hikaye": "Burak ve Doruk Özkan kardeşlerin 1998'de Elmalı'da fidan dikerek başlattığı şaraphane, adını antik Likya bölgesinden alıyor. Bölge çobanlarının yardımıyla unutulmuş Acıkara üzümünü yeniden buldular ve 16 yıllık Ar-Ge sonunda ticari üretime kazandırdılar. AWC Vienna'da 2012, 2015 ve 2016'da 'En İyi Türk Şarap Üreticisi' seçildiler.",
+   "kaynak": [
+    "https://likyasarap.com/",
+    "https://www.vitikultur.com/en/wineries/likya",
+    "https://www.sommgastro.com/sarap/likya-saraplari-yerel-uzumler"
+   ],
+   "tesisler": [
+    {
+     "firma": "Özkan Petrol Ürünleri Paz. Nak. ve Tic. Ltd. Şti. Kızılbel Bağcılık ve Şarapçılık Şubesi",
+     "il": "Antalya",
+     "ilce": "Elmalı",
+     "bolge": "akdeniz",
+     "konum": [
+      36.736,
+      29.92
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Sagavin",
+   "kurulus": "2020 (ilk bağ 2017, Denizli)",
+   "baglar": "Tek bağ tek çeşit: Nevşehir (Emir), Denizli, Diyarbakır ve Antalya bağları",
+   "uzumler": [
+    "Emir",
+    "Öküzgözü",
+    "Syrah",
+    "Boğazkere",
+    "Sultaniye",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://sagavin.com",
+   "instagram": "https://www.instagram.com/sagavin_winery/",
+   "hikaye": "Finans ve bankacılıktan gelen kurucu Uğur Aslan'ın şaraba tutkusuyla doğan mikro şaraphane; adı İzlandaca 'destan' anlamındaki saga ile Hititçe şarap anlamındaki 'vin'in birleşimi. Anadolu'nun farklı teruarlarından tek bağ, tek çeşit şaraplar üretiyor. Kepez Varsak'taki yeni tesis 1 milyon litre kapasiteyle kuruldu.",
+   "kaynak": [
+    "https://sagavin.com/",
+    "https://haberaktif07.com/haber/kepezde_dev_sarap_uretim_tesisi_yillik_1_milyon_litre_uretim_kapasitesi-51192.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Sagavin Bağcılık ve Şarapçılık San. Tic. Ltd. Şti.",
+     "il": "Antalya",
+     "ilce": "Kepez",
+     "bolge": "akdeniz",
+     "konum": [
+      36.94,
+      30.71
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Antioche Vineyards",
+   "kurulus": "2007",
+   "baglar": "Belen Topboğazı (İpek Yolu üzerinde), ~200 ha",
+   "uzumler": [
+    "Barburi",
+    "Sangiovese",
+    "Syrah",
+    "Merlot",
+    "Cabernet Sauvignon",
+    "Sauvignon Blanc",
+    "Misket"
+   ],
+   "web": "https://www.antioche.com.tr",
+   "instagram": "",
+   "hikaye": "Tekstilci bir Hatay ailesinin 2007'de Topboğazı'nda kurduğu, Hatay'ın ilk modern şaraphanesi. 2009'dan itibaren Samandağ ve Yayladağ'ın ıssız dağlarında kalan son asmalardan Roma döneminden beri bilinen endemik Barburi üzümünü çoğalttı ve 2016'da ilk Barburi şarabını üretti. Barburi şarabını üreten tek şaraphane.",
+   "kaynak": [
+    "https://www.antioche.com.tr/vineyard.html",
+    "https://www.antioche.com.tr/barburi.html",
+    "https://hatay.csb.gov.tr/ilimiz-belen-ilcesi-bakras-senbuk-mahallesi-304-nolu-parsel-uzerinde-universal-tekstil-a.-s.-tarafindan-yapilmasi-planlanan-sarap-uretim-tesisinde-kapasite-arttirimi-projesine-duyuru-453850"
+   ],
+   "tesisler": [
+    {
+     "firma": "Universal Tekstil A.Ş.",
+     "il": "Hatay",
+     "ilce": "Belen",
+     "bolge": "akdeniz",
+     "konum": [
+      36.49,
+      36.19
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Tasheli",
+   "kurulus": "2005",
+   "baglar": "Mut Çömelek köyü, Toros yamaçları, 1.200 m",
+   "uzumler": [
+    "Patkara",
+    "Göküzüm",
+    "Aküzüm",
+    "Cabernet Sauvignon",
+    "Shiraz",
+    "Boğazkere",
+    "Öküzgözü"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Ali ve Fatma Ay çiftinin Çömelek köyünün endemik Patkara, Göküzüm ve Aküzüm üzümleriyle 2005'te başlattığı, beş yıllık zorlu bir süreçten sonra şişeye ulaşan marka. Urla Şarapçılık'la yapılan Patkara denemesinin Çin'de altın madalya alması yol gösterici oldu. 2021'den bu yana 2 altın, 8 gümüş ve 2 bronz madalya kazandılar. (Lisans adresi Çömelek köyü olduğundan Tasheli ile eşleştirildi.)",
+   "kaynak": [
+    "https://epochtimestr.com/index.php/mutun-comelek-koyunden-cikan-bir-dunya-markasi-tasheli-saraplari",
+    "https://degustasyon.net/tasheli-patkara-2019-mersin/"
+   ],
+   "tesisler": [
+    {
+     "firma": "5 D Bağcılık Şarapçılık Gıda Sanayi Ticaret Ltd.Şti.",
+     "il": "Mersin",
+     "ilce": "Mut",
+     "bolge": "akdeniz",
+     "konum": [
+      36.645,
+      33.437
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Çerçiler Şarap – Selefkia Wine",
+   "kurulus": "2008",
+   "baglar": "",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Silifke Organize Sanayi Bölgesi'nde 2008'de açılan üzüm mamulleri fabrikası, şaraplarını antik Seleukeia'ya gönderme yapan Selefkia Wine adıyla tanıtıyor. Doğal ve organik üzümlerden üretim yaptığını belirtiyor; etiket ayrıntıları doğrulanamadı.",
+   "kaynak": [
+    "https://www.aratsana.com/firma/cerciler-sarap-selefkia-wine-2xz3",
+    "http://www.silifkeosb.org.tr/firma/cerciler-uzum-mamulleri-fabrikasi/82/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Çerçiler Mimarlık Mühendislik İnşaat ve Tic. Ltd. Şti.",
+     "il": "Mersin",
+     "ilce": "Silifke",
+     "bolge": "akdeniz",
+     "konum": [
+      36.377,
+      33.93
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Nif Bağları",
+   "kurulus": "2004",
+   "baglar": "Kemalpaşa Bağyurdu; Bozdağ, Çal Dağı ve Nif Dağı arasında kalkerli yamaçlar",
+   "uzumler": [
+    "Bornova Misketi",
+    "Solaris",
+    "Viognier",
+    "Chardonnay",
+    "Montepulciano",
+    "Sangiovese",
+    "Grenache",
+    "Shiraz"
+   ],
+   "web": "https://www.nifbaglari.com",
+   "instagram": "",
+   "hikaye": "Özcan ailesinin üç kuşaklık bağcılık birikimi üzerine, cam sanayisinden gelen Hamit Özcan'ın 2004'te kurduğu şaraphane. Adını Kemalpaşa'nın Orta Çağ'daki adı Nymphaion'dan ('su perisi') alıyor. Türkiye'de Solaris yetiştiren ve Montepulciano rozesi şişeleyen tek üretici.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/nif-baglari",
+    "https://www.nifbaglari.com/saraplar.html"
+   ],
+   "tesisler": [
+    {
+     "firma": "Nif Bağları Tarım Gıda İçecek San. Tic. Ltd. Şti.",
+     "il": "İzmir",
+     "ilce": "Kemalpaşa",
+     "bolge": "urla",
+     "konum": [
+      38.43,
+      27.42
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Ayda Bağları (Vinaida)",
+   "kurulus": "2015",
+   "baglar": "Seferihisar Gödence, 400 m; 2016'dan beri organik",
+   "uzumler": [
+    "Foça Karası",
+    "Cabernet Sauvignon",
+    "Petit Verdot",
+    "Merlot",
+    "Syrah"
+   ],
+   "web": "https://www.aydawines.com.tr",
+   "instagram": "",
+   "hikaye": "Ayda ve Uğur Kalelioğlu'nun 2015'te Gödence'de kurduğu, bölgenin ilk butik üreticilerinden aile şaraphanesi. Vinification Intégrale yöntemiyle fıçıda fermantasyon yapılıyor, tüm şaraplar vegan sertifikalı. Bağların içinde altı odalı konukevi ve restoran var.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/ayda-baglari",
+    "https://www.aydawines.com.tr/sarapcilik/"
+   ],
+   "tesisler": [
+    {
+     "firma": "AYDA ŞARAPÇILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+     "il": "İzmir",
+     "ilce": "Seferihisar",
+     "bolge": "urla",
+     "konum": [
+      38.2,
+      26.84
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "D-Vin Urla",
+   "kurulus": "2019 (bağ), ilk deneme üretimi 2022",
+   "baglar": "Urla Kuşçular Camiatik, Cabernet Franc ağırlıklı",
+   "uzumler": [
+    "Cabernet Franc",
+    "Cabernet Sauvignon",
+    "Shiraz",
+    "Öküzgözü",
+    "Bornova Misketi",
+    "Viognier"
+   ],
+   "web": "https://dvinurlawines.com",
+   "instagram": "",
+   "hikaye": "Kuşçular'da ovaya bakan yamaçlarda 2019'da dikilen bağlarla başlayan butik şaraphane. Şaraphane 2019-2022 arasında inşa edildi, ilk deneme üretiminde Cabernet Franc-Cabernet Sauvignon ve Shiraz-Öküzgözü kupajları yapıldı. 2024'te üretim ve satış izinleri tamamlandı.",
+   "kaynak": [
+    "https://dvinurlawines.com/",
+    "https://www.vitikultur.com/en/wineries/dvin-urla"
+   ],
+   "tesisler": [
+    {
+     "firma": "D VİN Danışmanlık İnşaat Turizm Şarapçılık Sanayi ve Ticaret Limited Şirketi",
+     "il": "İzmir",
+     "ilce": "Urla",
+     "bolge": "urla",
+     "konum": [
+      38.292,
+      26.865
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Buradan",
+   "kurulus": "2010 (ilk ticari hasat 2016)",
+   "baglar": "Çeşme Ovacık, organik sertifikalı",
+   "uzumler": [
+    "Grenache",
+    "Tempranillo"
+   ],
+   "web": "https://buradan.org",
+   "instagram": "",
+   "hikaye": "Turgay Gümüş'ün 2010'da Çeşme'nin 6 km güneyinde, tuzlu Ege meltemine açık Ovacık'ta kurduğu aile bağı. Yalnızca Grenache ve Tempranillo dikili; iki etiketle yılda yaklaşık 6 bin şişe üretiliyor. Bağ girişindeki tadım odasında ücretsiz tadım, akşamları teras restoran var.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/buradan-winery"
+   ],
+   "tesisler": [
+    {
+     "firma": "Buradan Çeşme Ovacık Şarapları Şarapçılık Sanayi ve Ticaret Anonim Şirketi",
+     "il": "İzmir",
+     "ilce": "Çeşme",
+     "bolge": "urla",
+     "konum": [
+      38.323,
+      26.303
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Claros",
+   "kurulus": "",
+   "baglar": "Menderes Çile köyü, antik Klaros kehanet merkezine yakın",
+   "uzumler": [
+    "Merlot"
+   ],
+   "web": "https://www.facebook.com/claroswines",
+   "instagram": "",
+   "hikaye": "Yavaş ailesinin antik Klaros tapınağının yakınındaki küçük bağı ve şaraphanesi. Elle hasat edilen üzümler kabuktaki yerli mayalarla kendiliğinden fermente ediliyor; katkı ve kimyasal kullanılmıyor. Yazın halka açık bağ gezisi ve tadım günleri düzenleniyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/claros"
+   ],
+   "tesisler": [
+    {
+     "firma": "Bahtiyar YAVAŞ - Claros Bağcılık ve Şarapçılık",
+     "il": "İzmir",
+     "ilce": "Menderes",
+     "bolge": "urla",
+     "konum": [
+      38.253,
+      27.134
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Koztepe Winery",
+   "kurulus": "2004",
+   "baglar": "Karabağlar Kavacık köyü, 20 ha, organik sertifikalı",
+   "uzumler": [
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Öküzgözü",
+    "Alphonse Lavallée",
+    "Chardonnay",
+    "Narince"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Dağ tutkusuyla 2004'te Kavacık'ta 20 hektarlık arazi alan ailenin organik bağı ve butik şaraphanesi; İzmir merkezine yarım saat uzaklıkta. Kırmızılar en az iki yıl Fransız meşesinde, ardından en az 18 ay şişede bekletiliyor. Bölgenin ünlü Kavacık üzümü Alphonse Lavallée'den kırmızı şarap yapmasıyla dikkat çekiyor. (Lisanstaki Kavacık adresi ve bölgedeki tek şaraphane olması nedeniyle eşleştirildi.)",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/koztepe",
+    "https://www.focagazete.com/kavacikta-muhtesem-bir-mekan-koztepe-winery-esat-ercetingoz/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Hasan Ali Çamtepe Kavacık Şarapçılık",
+     "il": "İzmir",
+     "ilce": "Karabağlar",
+     "bolge": "diger",
+     "konum": [
+      38.423,
+      27.143
+     ]
+    }
+   ],
+   "sarap": 4
+  },
+  {
+   "ad": "Bella Şarapları",
+   "kurulus": "2009",
+   "baglar": "Aliağa'da yaklaşık 300 dönüm bağ",
+   "uzumler": [],
+   "web": "https://www.bellasarap.com.tr",
+   "instagram": "",
+   "hikaye": "Numan Özkan'ın 2009'da Kemalpaşa Bağyurdu'nda kurduğu şarap üreticisi; Aliağa'daki yaklaşık 300 dönümlük bağlardan kırmızı, beyaz ve köpüklü şarap üretiyor. Lisansında aromatize ve yarı köpüren şarap da var. Etiket isimleri doğrulanamadı.",
+   "kaynak": [
+    "https://www.bulurum.com/details/7hbd16b53512db3fc0aa2gbg6k632f7_",
+    "https://tr.foursquare.com/v/bella-%C5%9Farap%C3%A7%C4%B1l%C4%B1k/52dfb983498e3f309a5767e1"
+   ],
+   "tesisler": [
+    {
+     "firma": "BELLA ŞARAPÇILIK ANONİM ŞİRKETİ",
+     "il": "İzmir",
+     "ilce": "Kemalpaşa",
+     "bolge": "urla",
+     "konum": [
+      38.465,
+      27.47
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Taşköy",
+   "kurulus": "",
+   "baglar": "Foça Ilıpınar köyü, organik bağ ve zeytinlikler",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Ilıpınar köyünde mimarisiyle dikkat çeken zeytinyağı fabrikası, şaraphane ve restoran Taşköy, Foça'nın antik bağcılık, şarap ve zeytin geleneğini canlandırıyor. Organik bağlardan tek bağ, küçük ölçekli, soğuk fermantasyon ve meşe fıçı olgunlaştırmasıyla şarap üretiliyor. (Lisanstaki Ilıpınar adresine göre eşleştirildi.)",
+   "kaynak": [
+    "https://www.yolculukterapisi.com/foca/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Foça Organik Tar. Ürt. Gıda Ürün. İnş. Tur. San. Tic. Ltd. Şti.",
+     "il": "İzmir",
+     "ilce": "Foça",
+     "bolge": "diger",
+     "konum": [
+      38.458,
+      27.193
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Antik Bağcılık",
+   "kurulus": "2019",
+   "baglar": "Büyük Menderes ovası, antik Magnesia çevresi",
+   "uzumler": [
+    "Bornova Misketi",
+    "Cabernet Sauvignon",
+    "Merlot",
+    "Shiraz",
+    "Chardonnay",
+    "Sauvignon Blanc",
+    "Malbec",
+    "Dornfelder"
+   ],
+   "web": "https://www.antikbagcilik.com.tr",
+   "instagram": "",
+   "hikaye": "2019'da tescil edilen, ancak ailenin Türk şarapçılığındaki uzun deneyimine dayanan Germencik firması. Fabrika antik Magnesia kentinin topraklarında; 'Magnesia'nın mirası' vurgusuyla şarap, meyve şarabı ve likör üretiyor. Ürünler bayi ağı üzerinden satılıyor.",
+   "kaynak": [
+    "https://www.antikbagcilik.com.tr/",
+    "https://www.vitikultur.com/en/wineries/antik-bagcilik"
+   ],
+   "tesisler": [
+    {
+     "firma": "ANTİK Bağcılık San. ve Tic. A.Ş.",
+     "il": "Aydın",
+     "ilce": "Germencik",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.905,
+      27.65
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Prodom",
+   "kurulus": "2006",
+   "baglar": "Aydın; Tellus bağları",
+   "uzumler": [
+    "Syrah",
+    "Petit Verdot",
+    "Cabernet Franc",
+    "Cabernet Sauvignon",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Narince",
+    "Viognier"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "2006'da Umurlu OSB'de 14 bin m² alanda zeytinyağı ve şarap üretimi için kurulan tesis; yılda 50 bin litre şarap kapasitesi var. Şaraplarını Latince 'üzüm ezme suyu' anlamına gelen Prodom markasıyla satıyor. Zeytinyağı ve şaraplarıyla ulusal ve uluslararası ödüller aldı.",
+   "kaynak": [
+    "https://tr.linkedin.com/company/g%C4%B1datay",
+    "https://eksisozluk.com/prodom--2673461"
+   ],
+   "tesisler": [
+    {
+     "firma": "Gıdatay Gıda ve Tarım San. Tic. A.Ş.",
+     "il": "Aydın",
+     "ilce": "Umurlu",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.845,
+      27.84
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Mar-Ada",
+   "kurulus": "2005 (şaraphane); bağ 1995",
+   "baglar": "Kuşadası Kirazlı köyü yolu, ~40 ha bağ (92 ha arazi)",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Eski Başbakan Tansu Çiller'in ailesine ait Kuşadası çiftliğindeki bağlar 1995'te kuruldu, ilk şarap 1999'da yapıldı. Özer Uçuran Çiller'in şirketi Mar-Ada 2005'te şarap üretim tesisi olarak kuruldu. Piyasada satılan bir etiket tespit edilemedi.",
+   "kaynak": [
+    "https://www.patronlardunyasi.com/tansu-cillerin-saraphanesini-devletin-bekcisi-koruyor",
+    "https://www.yeniasir.com.tr/yasam/2012/12/14/cillerden-ucuz-sarap"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mar Ada Zirai Ürünler Seracılık Gıda Turizm San. Tic. A.Ş.",
+     "il": "Aydın",
+     "ilce": "Kuşadası",
+     "bolge": "sirince-selcuk",
+     "konum": [
+      37.88,
+      27.89
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Ezel Şarapları",
+   "kurulus": "2006",
+   "baglar": "Çal Selcen, Çökelez Dağı eteklerinde kireçli-killi toprak",
+   "uzumler": [
+    "Çalkarası",
+    "Sultaniye",
+    "Öküzgözü",
+    "Boğazkere",
+    "Syrah",
+    "Cabernet Sauvignon",
+    "Merlot"
+   ],
+   "web": "https://www.ezelwines.com",
+   "instagram": "",
+   "hikaye": "Mehmet Atılsın'ın 2006'da kurduğu ve adını ailenin kızlarından alan aile şaraphanesi. Çal Bağ Yolu üzerinde, Pamukkale ve Hierapolis'e kısa bir sapma mesafesinde. Yerli Çalkarası ve Sultaniye'yi uluslararası çeşitlerle birlikte işliyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/ezel-saraplari"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ezel Şarapçılık Tarım Ürünleri Gıda ve Alkollü Ürünler San. ve Tic. Ltd. Şti.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.03,
+      29.4
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Hanchalar (Erdel Şarapçılık)",
+   "kurulus": "",
+   "baglar": "Çal Hançalar",
+   "uzumler": [
+    "Öküzgözü",
+    "Syrah",
+    "Sauvignon Blanc"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Hüseyin Kuzu ve oğullarının yönettiği, yılda yaklaşık 1.000 ton üzüm işleyen, Çal Bağ Yolu'nun büyük üreticilerinden aile şaraphanesi. Şaraplar Hanchalar etiketiyle çıkıyor; Öküzgözü-Syrah kupajı İngiltere'deki uluslararası bir yarışmada ikincilik aldı.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/erdel"
+   ],
+   "tesisler": [
+    {
+     "firma": "Erdel Gıda Anonim Şirketi",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.065,
+      29.45
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Datça Şarapçılık (Datça Vineyard & Winery)",
+   "kurulus": "2010",
+   "baglar": "Datça Kızlan köyü, ~40 ha",
+   "uzumler": [
+    "Öküzgözü",
+    "Boğazkere",
+    "Merlot",
+    "Syrah",
+    "Chardonnay",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://datcasarap.com",
+   "instagram": "",
+   "hikaye": "Ege ile Akdeniz'in buluştuğu Datça Yarımadası'nda, Kızlan köyünde 2010'da kurulan aile bağı ve şaraphanesi. Tadım salonu ve mahzen, yarımadanın ünlü yel değirmenlerinin bir replikasının içinde. Az müdahaleli bağcılıkla yerli ve uluslararası çeşitler elle hasat ediliyor.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/datca-sarap",
+    "https://datcasarap.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Datça Bağcılık ve Şarapçılık Limited.Şirketi.",
+     "il": "Muğla",
+     "ilce": "Datça",
+     "bolge": "akdeniz",
+     "konum": [
+      37.215,
+      28.364
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Knidos",
+   "kurulus": "1994",
+   "baglar": "Datça (üretimin %60'ı), Kuşadası ve Kapadokya-Gülşehir dahil yedi alt bölgede 571 ha",
+   "uzumler": [
+    "Knidos Karası"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Datça'nın 4.000 yıllık şarap geleneğini canlandırmak amacıyla 1994'te kuruldu; antik Knidos kentinin amforalarından ilham alıyor. Reşadiye'deki tesis ile Kuşadası ve Gülşehir'deki şaraphanelerde üretim yapılıyor. Kendi bağlarında yerel Knidos Karası'nı yetiştiriyor.",
+   "kaynak": [
+    "https://datcahavadis.com/antik-amforalarin-fisildadigi-sir-knidos-saraplari-ve-sifali-otlar/",
+    "https://eksisozluk.com/knidos-sarapcilik--5413519"
+   ],
+   "tesisler": [
+    {
+     "firma": "Knidos Şarapçılık Gıda Tur. Tic. Ltd. Şti.",
+     "il": "Muğla",
+     "ilce": "Datça",
+     "bolge": "akdeniz",
+     "konum": [
+      37.25,
+      28.414
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Karnas Vineyards",
+   "kurulus": "2005",
+   "baglar": "Bodrum Çömlekçi (Karaova), 20,5 ha",
+   "uzumler": [
+    "Zinfandel",
+    "Syrah",
+    "Cabernet Franc",
+    "Vermentino"
+   ],
+   "web": "https://karnasvineyards.com",
+   "instagram": "",
+   "hikaye": "ABD'de yaşarken Kaliforniya'da Zinfandel'i keşfeden İşmen ailesinin, bu üzümü kökenine yakın topraklara döndürme arayışıyla 2005'te kurduğu butik şaraphane ve çiftlik. Mandalya ve Gökova körfezleri arasındaki rüzgâr koridorunda; çiftlikten sofraya restoranı var. (Lisans adresi Çömlekçi Sok. No:400 Karnas'ın adresiyle aynı.)",
+   "kaynak": [
+    "https://karnasvineyards.com/",
+    "https://www.vitikultur.com/en/wineries/karnas",
+    "https://www.turkish-wine.com/karnas-vineyard-bodrum"
+   ],
+   "tesisler": [
+    {
+     "firma": "Menser Dış Tic. ve Gıda San. Ltd. Şti.",
+     "il": "Muğla",
+     "ilce": "Bodrum",
+     "bolge": "akdeniz",
+     "konum": [
+      37.285,
+      28.464
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Mor Salkım Bağları",
+   "kurulus": "2013",
+   "baglar": "Bodrum Çömlekçi",
+   "uzumler": [],
+   "web": "https://www.morsalkimbagcilik.com.tr",
+   "instagram": "",
+   "hikaye": "Ankaralı bir ailenin ikiz kardeşlerinin aynı anda şaraba ilgi duymasıyla başlayan hikâye; 2000'lerin başında Ankara'da şarap yapan Hasan Tahsin Erdemir, 2013'te Bodrum'da bağ kurarak hayalini gerçekleştirdi. Şaraphanede Cafe Mor ve canlı müzik günleri var; zeytinyağı da üretiliyor.",
+   "kaynak": [
+    "https://www.morsalkimbagcilik.com.tr/en",
+    "https://www.turkish-wine.com/mor-salkim-vineyard-bodrum"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mor Salkım Bağcılık Tarım Gıda Tur. San. ve Tic. A.Ş.",
+     "il": "Muğla",
+     "ilce": "Bodrum",
+     "bolge": "akdeniz",
+     "konum": [
+      37.32,
+      28.514
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Neferiye",
+   "kurulus": "2014",
+   "baglar": "Bodrum'un yüksek dağ köylerinde çam ve meşeye sarılmış, budanmamış, sulanmayan, aşısız yaşlı asmalar",
+   "uzumler": [
+    "Kanlıkara",
+    "Ak Üzüm",
+    "Panık"
+   ],
+   "web": "https://neferiye.com",
+   "instagram": "",
+   "hikaye": "Çağlar Bozçağa'nın 2014'te Bodrum dağ köylerindeki ağaçlara tırmanmış yüz yıllık aşısız asmalarla başlattığı doğal şarap projesi. Adı hasat sonunda kalan en dirençli üzümleri simgeliyor. Yerel Kanlıkara, Ak Üzüm ve Panık üzümleri yalnızca yabani mayayla fermente ediliyor.",
+   "kaynak": [
+    "https://neferiye.com/",
+    "https://gazeteoksijen.com/yazarlar/devrim-devecioglu/bodrum-bag-rotasi-geliyor-26832"
+   ],
+   "tesisler": [
+    {
+     "firma": "Neferiye Bağcılık Şarapçılık Ticaret Limited Şirketi",
+     "il": "Muğla",
+     "ilce": "Bodrum",
+     "bolge": "akdeniz",
+     "konum": [
+      37.165,
+      28.364
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+   "kurulus": "",
+   "baglar": "Bozburun ile Selimiye arasındaki vadide 120 dönüm; kireçli-killi, düşük pH'lı toprak, sulamasız",
+   "uzumler": [
+    "Roussanne",
+    "Marsanne",
+    "Öküzgözü",
+    "Boğazkere",
+    "Cabernet Sauvignon",
+    "Merlot"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Mimar Orhan Şakir Kayraklı'nın Bozburun ile Selimiye arasındaki vadide kurduğu bağ. Sulama ve kimyasal ilaç kullanılmıyor, üzümler elle hasat edilip soğuk maserasyon görüyor ve 8-10 ay Fransız meşesinde olgunlaşıyor. Türkiye'de nadir görülen Roussanne-Marsanne kupajıyla tanınıyor.",
+   "kaynak": [
+    "https://www.turkish-wine.com/kayrakl%C4%B1-asarc%C4%B1k-vineyards-asarcik-vineyards",
+    "https://thequirkycork.com/kayrakli-sarapcilik-asarcik-roussanne-marsanne/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Orhan Şakir Kayraklı – Kayraklı Bağcılık ve Şarap İşletmeleri",
+     "il": "Muğla",
+     "ilce": "Marmaris (Bozburun)",
+     "bolge": "akdeniz",
+     "konum": [
+      37.2,
+      28.414
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Garova Vineyards",
+   "kurulus": "2017",
+   "baglar": "Bodrum Pınarlıbelen (Karaova), organik",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Mehmet Vuran'ın bir motosiklet kazasından sonra ailesinin toprağında şarap yapmaya karar vermesiyle doğdu; Garova adını tescil ettirip şaraphaneyi 2017'de resmen kurdu. Organik tarım ve küçük partilerde karakterli şaraplar üretiyor. Neferiye'nin kurucusu Çağlar Bozçağa ile birlikte Bodrum'da yerel şarapçılığı canlandırma çabasının parçası.",
+   "kaynak": [
+    "https://gazeteoksijen.com/yazarlar/devrim-devecioglu/bodrum-bag-rotasi-geliyor-26832",
+    "https://www.gobodrum.com.tr/tr/yemek-icecek/baglar-sarap-evleri/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mehmet Vuran - Garova Şarapçılık",
+     "il": "Muğla",
+     "ilce": "Bodrum",
+     "bolge": "akdeniz",
+     "konum": [
+      37.235,
+      28.464
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Karmylassos",
+   "kurulus": "",
+   "baglar": "Fethiye Kayaköy (antik Karmylassos), Teke Yarımadası",
+   "uzumler": [],
+   "web": "http://www.karmylassos.com",
+   "instagram": "",
+   "hikaye": "Antik adı Karmylassos olan Kayaköy'de biyodinamik yöntemle işlenen bir bağ. Teke Yarımadası'nın coğrafyasında nadir Anadolu üzüm çeşitlerini organik ve biyodinamik disiplinle yetiştiriyor.",
+   "kaynak": [
+    "http://www.karmylassos.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Serpil Düzyol - Karmylassos Biyodinamik Bağcılık ve Şarapçılık",
+     "il": "Muğla",
+     "ilce": "Fethiye",
+     "bolge": "akdeniz",
+     "konum": [
+      37.27,
+      28.514
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Aykut Özkan Şarapçılık (Colossae, Yalı, İsabey, Cümbüş, Lunda)",
+   "kurulus": "2012",
+   "baglar": "Çal İsabey kasabası ve çevresi",
+   "uzumler": [
+    "Çal Karası",
+    "Sultaniye",
+    "Syrah"
+   ],
+   "web": "https://www.aykutozkansarapcilik.com",
+   "instagram": "",
+   "hikaye": "Uzun yıllardır Çal'ın İsabey kasabasında yaşayan ve bölgenin Çal Karası ile Sultaniye üzümlerini Türk şarap üreticilerine ulaştıran Özkan ailesinden Aykut ve Osman Özkan kardeşlerin 2012'de kurduğu şaraphane. Colossae, Yalı, İsabey, Cümbüş ve Lunda markalarıyla ülke genelinde geniş bir tüketici kitlesine ulaştı. Lisansında köpüren ve yarı köpüren şarap da bulunuyor.",
+   "kaynak": [
+    "https://www.aykutozkansarapcilik.com/anasayfa/",
+    "https://tr.linkedin.com/company/aykut-ozkan-sarapcilik"
+   ],
+   "tesisler": [
+    {
+     "firma": "Aykut Özkan Şarp. Fer. Gıda Tar. Nak. Ak. Turz. Teks. San. ve Tic. Ltd. Şti.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.1,
+      29.5
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Efmeyra",
+   "kurulus": "",
+   "baglar": "Çal Sazak köyü",
+   "uzumler": [],
+   "web": "https://www.efmeyra.com",
+   "instagram": "",
+   "hikaye": "Çal'ın Sazak köyünde, gelişmekte olan Çal Bağ Yolu üzerindeki aile şarap işletmesi. Sakin şarapların yanında köpüren ve şampanya yöntemiyle üretilen şaraplar da yapıyor. Ezel, Selcen, Vehbibey, Mete, Kayıbağ ve Bergüzar ile birlikte bölgenin yeni kuşak üreticilerinden.",
+   "kaynak": [
+    "https://www.vitikultur.com/en/wineries/efmeyra"
+   ],
+   "tesisler": [
+    {
+     "firma": "Efmeyra Şarap ve Alkollü Ürünler Tarım Mahsülleri San. ve Tic. Ltd. Şti.",
+     "il": "Denizli",
+     "ilce": "Çal",
+     "bolge": "denizli-cal",
+     "konum": [
+      38.135,
+      29.55
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "İllegüp",
+   "kurulus": "İlk fabrika Hüseyin Elbiz tarafından; 2021'den beri AR Grup bünyesinde",
+   "baglar": "Senirkent ve Uluğbey; fabrika arazisinde 37.000 m² bağ",
+   "uzumler": [
+    "Öküzgözü",
+    "Kalecik Karası"
+   ],
+   "web": "https://www.illegupsarapcilik.com.tr",
+   "instagram": "",
+   "hikaye": "Hüseyin Elbiz'in Senirkent ve Uluğbey'in Öküzgözü ve Kalecik Karası üzümlerini işlemek için kurduğu fabrika, ilk yılında 100 bin şişe üretti ve bunun yarısını Fransa'ya ihraç ederek ses getirdi. 2021'de Göklin İçecek'in sahibi AR Grup bünyesine katıldı; yıllık kapasitesi 874 bin litre.",
+   "kaynak": [
+    "https://www.argrup.org/tr/illegup-sarapcilik",
+    "https://www.hurriyet.com.tr/ekonomi/fransaya-senirkent-sarabi-15829871"
+   ],
+   "tesisler": [
+    {
+     "firma": "İllegüp Şarapçılık Meyve Suyu Gıda Tarım İth. İhr. San. ve Tic. Ltd.Şti.",
+     "il": "Isparta",
+     "ilce": "Senirkent",
+     "bolge": "diger",
+     "konum": [
+      37.764,
+      30.556
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Mistia Wines",
+   "kurulus": "2019",
+   "baglar": "Konya Hüyük, 1.150-1.600 m, kırmızı killi-tınlı toprak",
+   "uzumler": [
+    "Aküzüm",
+    "Ten Göynek",
+    "Sıkkara",
+    "Kızıl Üzüm"
+   ],
+   "web": "https://mistiawines.com",
+   "instagram": "",
+   "hikaye": "Konya'nın Hüyük ilçesinde, Hitit'ten miras kalan 1.250 m rakımlı topraklarda kurulan şaraphane; ruhsatını Hüyük Belediyesi verdi ve Konya'da şarap üretimini yeniden başlattı. Yerel Aküzüm, Ten Göynek, Sıkkara ve Kızıl Üzüm çeşitleriyle çalışıyor; etiketlerde Hitit kraliçesi Puduhepa gibi isimler kullanılıyor.",
+   "kaynak": [
+    "https://mistiawines.com/anadolunun-bagirindan-bir-hikaye-mistia-wines/",
+    "https://www.yenikonya.com.tr/guncel/konya_da_sarap_uretilecek_ruhsati_huyuk_belediyesi_verdi-1927713"
+   ],
+   "tesisler": [
+    {
+     "firma": "Mistia Wines Tarım Hayvancılık Turizm Üretim Pazarlama  Ltd. Şti.",
+     "il": "Konya",
+     "ilce": "Hüyük",
+     "bolge": "diger",
+     "konum": [
+      37.871,
+      32.485
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Kavaklıdere Côtes d'Avanos",
+   "kurulus": "1993 (Kapadokya bağ çalışmaları)",
+   "baglar": "Côtes d'Avanos Bağları, Gülşehir (Nevşehir), 900-1070 m rakım, volkanik ve kalkerli topraklar; bağ içinde Côtes d'Avanos Château'su",
+   "uzumler": [
+    "Narince",
+    "Emir",
+    "Kalecik Karası",
+    "Tempranillo",
+    "Öküzgözü",
+    "Chardonnay",
+    "Sauvignon Blanc"
+   ],
+   "web": "https://kavaklidere.com/kapadokya-cotes-davanos-baglari/",
+   "instagram": "https://www.instagram.com/kavakliderewines/",
+   "hikaye": "Kavaklıdere 1993'ten bu yana Kızılırmak havzasında, Gülşehir'deki Côtes d'Avanos bağlarını geliştiriyor. Yüksek rakım ve volkanik toprak, özellikle Narince, Emir ve Chardonnay'de canlı asitli şaraplar veriyor. Bağdaki château'da Kapadokya serisinin yanı sıra Méthode Traditionnelle köpüklüler de üretiliyor.",
+   "kaynak": [
+    "https://kavaklidere.com/kapadokya-cotes-davanos-baglari/",
+    "https://kavaklidere.com/cotes-davanos-chateausu/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kavaklıdere Şarapları A.Ş.",
+     "il": "Nevşehir",
+     "ilce": "Gülşehir",
+     "bolge": "kapadokya",
+     "konum": [
+      38.745,
+      34.62
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Turasan",
+   "kurulus": "1943",
+   "baglar": "Kapadokya (Ürgüp çevresi, Zeynep Bağları); Narince için Tokat, Öküzgözü/Boğazkere için Elazığ-Diyarbakır, uluslararası çeşitler için Denizli üzümleri",
+   "uzumler": [
+    "Emir",
+    "Narince",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Boğazkere",
+    "Cabernet Sauvignon",
+    "Riesling"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Turasan, Hasan Turasan'ın 1943'te Ürgüp'te yıllık 3 bin litreyle başlattığı, Kapadokya'nın en köklü şaraphanesidir. Rüştü Turasan döneminde kapasite milyonlarca litreye çıktı; Ürgüp'teki satış mağazası ve tadım alanı bölgenin bilinen duraklarından. Emir beyazı ve Fransız danışmanlıkla üretilen Seneler serisi markanın öne çıkan şaraplarıdır.",
+   "kaynak": [
+    "https://www.gazetevatan.com/yazarlar/engin-akin/urgup-un-odullu-turasan-i-729140",
+    "https://www.milliyet.com.tr/yazarlar/mehmet-yalcin/kapadokya-sarabi-yukseliyor-1095587",
+    "https://iyisarap.plus/collections/turasan"
+   ],
+   "tesisler": [
+    {
+     "firma": "Turasan Bağcılık ve Şarapçılık Ltd. Şti.",
+     "il": "Nevşehir",
+     "ilce": "Ürgüp",
+     "bolge": "kapadokya",
+     "konum": [
+      38.63,
+      34.91
+     ]
+    }
+   ],
+   "sarap": 24
+  },
+  {
+   "ad": "Vinolus",
+   "kurulus": "2009 (organik bağcılık 2007)",
+   "baglar": "Boğazköprü/Kayseri'deki Molu Çiftliği; yüksek rakımlı, volkanik topraklarda organik bağlar",
+   "uzumler": [
+    "Narince",
+    "Emir",
+    "Chardonnay",
+    "Roussanne",
+    "Kalecik Karası",
+    "Tempranillo",
+    "Syrah"
+   ],
+   "web": "https://www.vinolus.com.tr",
+   "instagram": "https://www.instagram.com/vinolusorganikbaglar/",
+   "hikaye": "Kayseri'nin köklü Molu ailesinin üçüncü kuşağından Oluş Molu, 2007'de çiftlikte organik bağcılığa başladı ve 2009'da Vinolus markasını kurdu. Ad, Latince 'vin' ile kurucunun adının birleşiminden gelir. Vinolus Chardonnay, Chardonnay du Monde'da gümüş madalya alarak Kayseri şarabını tanıttı.",
+   "kaynak": [
+    "https://www.vinolus.com.tr/oykumuz/",
+    "https://www.haber3.com/guncel/kayseride-uretilen-saraba-chardonnay-du-mondeodulu-fransada-haberi-697133"
+   ],
+   "tesisler": [
+    {
+     "firma": "Molu Tarım Hayvancılık Gıda Tic. ve San. A.Ş.",
+     "il": "Kayseri",
+     "ilce": "Kocasinan",
+     "bolge": "kapadokya",
+     "konum": [
+      38.75,
+      35.48
+     ]
+    }
+   ],
+   "sarap": 7
+  },
+  {
+   "ad": "Diren",
+   "kurulus": "1958",
+   "baglar": "Tokat (Narince, Erbaa; Gewürztraminer, Cabernet Sauvignon); ayrıca Elazığ Öküzgözü, Diyarbakır Boğazkere, Malatya-Arapgir Karaoğlan ve Denizli'den üzüm",
+   "uzumler": [
+    "Narince",
+    "Öküzgözü",
+    "Boğazkere",
+    "Karaoğlan",
+    "Kalecik Karası",
+    "Cabernet Sauvignon"
+   ],
+   "web": "https://direnwines.com",
+   "instagram": "https://www.instagram.com/direnwines/",
+   "hikaye": "Diren, 1958'de Tokat'ta kurulan ve Karmen Şarapçılık çatısı altında üretim yapan bir aile şaraphanesidir. 1963'te Türkiye'nin ilk şarap yarışmasında ödül aldı. Tokat'ın Narince'si ve Arapgir'in Karaoğlan'ı gibi yerel üzümler, Collection, Selection, Karmen, Les Muses ve Mahla serilerinin merkezindedir.",
+   "kaynak": [
+    "https://direnwines.com/",
+    "https://iwsc.net/company/profile/2438/karmen-sarapcilik-san-ve-tic-diren-winery"
+   ],
+   "tesisler": [
+    {
+     "firma": "Karmen Şarapçılık San. ve Tic. A.Ş.",
+     "il": "Tokat",
+     "ilce": "Merkez",
+     "bolge": "karadeniz",
+     "konum": [
+      40.314,
+      36.554
+     ]
+    }
+   ],
+   "sarap": 17
+  },
+  {
+   "ad": "502 Vineyards",
+   "kurulus": "2021",
+   "baglar": "Merzifon Sarıköy (Merzifon Karası), Gümüşhacıköy; Narince için Tokat Üzümlü köyü, Kalecik'te Kalecik Karası bağı",
+   "uzumler": [
+    "Merzifon Karası",
+    "Dişi Mercan",
+    "Narince",
+    "Kalecik Karası"
+   ],
+   "web": "https://www.502vineyards.com",
+   "instagram": "https://www.instagram.com/502_vineyards/",
+   "hikaye": "502 Vineyards, Mert Atay ve Rifaa Wais'in 2021'de Gümüşhacıköy'de kurduğu butik bir şaraphanedir; adını kurucuların Barselona'da tanıştığı binanın kapı numarasından alır. Yılda yaklaşık 20 bin şişe üretir. Yerel Merzifon Karası ve ilk kez şaraplık işlenen Dişi Mercan'ı koruma amacı taşır, yabani mayalı ve düşük müdahaleli üretimi benimser.",
+   "kaynak": [
+    "https://www.502vineyards.com/ourstory",
+    "https://www.502vineyards.com/wines",
+    "https://www.winesofturkiye.com.tr/502-2/"
+   ],
+   "tesisler": [
+    {
+     "firma": "SAM Hayvancılık Tarım Gıda ve İnş. San. ve Tic. Ltd. Şti.",
+     "il": "Amasya",
+     "ilce": "Gümüşhacıköy",
+     "bolge": "karadeniz",
+     "konum": [
+      40.87,
+      35.23
+     ]
+    }
+   ],
+   "sarap": 6
+  },
+  {
+   "ad": "Vinkara",
+   "kurulus": "2003",
+   "baglar": "Kalecik, Kızılırmak kıyısında şaraphaneyi çevreleyen yaklaşık 540 dönümlük bağ (Çengeller Yazısı / Kibrit Deresi mevkii)",
+   "uzumler": [
+    "Kalecik Karası",
+    "Hasandede",
+    "Narince",
+    "Öküzgözü",
+    "Boğazkere"
+   ],
+   "web": "https://vinkarawines.com",
+   "instagram": "https://www.instagram.com/vinkarawines/",
+   "hikaye": "Vinkara'nın ilk bağları 2003'te Oğuz Gürsel'in Kalecik'te satın aldığı arazilere dikildi; şaraphane Kızılırmak kıyısındaki bağın ortasında yer alır. Kalecik Karası'nın yanında unutulmaya yüz tutmuş Hasandede'yi de şişeleyen firma, Kalecik Karası'ndan geleneksel yöntemle yapılan Yaşasın köpüklüsüyle tanınır. Reserve ve Grand Reserve serileri IWSC ve Decanter gibi yarışmalardan madalyalı.",
+   "kaynak": [
+    "https://vinkarawines.com/iletisim/",
+    "https://www.winesofturkiye.com.tr/vinkara/",
+    "https://vinkarawines.com/odullerimiz/"
+   ],
+   "tesisler": [
+    {
+     "firma": "B-Bak Gıda Tarım ve Tic. A.Ş.",
+     "il": "Ankara",
+     "ilce": "Kalecik",
+     "bolge": "kalecik",
+     "konum": [
+      40.1,
+      33.41
+     ]
+    }
+   ],
+   "sarap": 17
+  },
+  {
+   "ad": "Kocabağ",
+   "kurulus": "1972",
+   "baglar": "Yeşilyurt köyü (Gülşehir/Uçhisar arası) çevresinde yaklaşık 64 dekar kendi bağı; anlaşmalı bağlardan Boğazkere ve Cabernet Sauvignon",
+   "uzumler": [
+    "Emir",
+    "Narince",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Boğazkere"
+   ],
+   "web": "https://kavaklidere.com/kocabag/",
+   "instagram": "",
+   "hikaye": "Kocabağ, 1972'de Yeşilyurt köyünde iki katlı bir evin bahçesinde başlayan, üç kuşaktır süren bir Kapadokya aile şaraphanesidir. Üzümler gravite yöntemiyle işlenir, şaraplar köyün altına kazılmış, yıl boyu 14-15 derecede kalan tünel kavlarda dinlenir. Jancis Robinson'ın övdüğü Emir'i bilinir; bugün markanın serileri Kavaklıdere grubunun sitesinde listeleniyor.",
+   "kaynak": [
+    "https://voyelo.com/tr/kocabag-saraplari/",
+    "https://kavaklidere.com/kocabag/",
+    "https://kapadokyatanitim.com/sehir-rehberi/yer/turkiye/nevsehir/uchisar/kocabag-saraplari/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kocabağ Bağcılık ve Şarapçılık Ltd. Şti.",
+     "il": "Nevşehir",
+     "ilce": "Gülşehir",
+     "bolge": "kapadokya",
+     "konum": [
+      38.78,
+      34.67
+     ]
+    }
+   ],
+   "sarap": 8
+  },
+  {
+   "ad": "Kalvi",
+   "kurulus": "",
+   "baglar": "Kalecik, Ahikemal Şenyurt Mah. Emenağaç mevkii; 15 dönümlük arazide şaraphane",
+   "uzumler": [
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Boğazkere",
+    "Cabernet Sauvignon"
+   ],
+   "web": "http://kalvisarap.com",
+   "instagram": "https://www.instagram.com/kalecik_sarap/",
+   "hikaye": "Kalvi (Chateau Kalecik), Kalecik Şarap San. ve Tic. A.Ş.'nin markasıdır; Kalecik'te eski tren istasyonu çevresindeki 15 hektarlık arazide, 2.500 m² kapalı tesiste üretim yapar. Kalecik Karası, Öküzgözü ve Boğazkere'nin yanında Cabernet Sauvignon, Shiraz ve Merlot da işler. Şaraphane tadım ve bağ turu için ziyaretçi kabul eder.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/kalvi",
+    "https://www.instagram.com/kalecik_sarap/",
+    "http://kalvisarap.com/hakkimizda/",
+    "https://eksisozluk.com/kalvi--1041842"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kalecik Şarap San. ve Tic. A.Ş.",
+     "il": "Ankara",
+     "ilce": "Kalecik",
+     "bolge": "kalecik",
+     "konum": [
+      40.135,
+      33.46
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Tafali's",
+   "kurulus": "2019 (bağ 2003)",
+   "baglar": "Kalecik, Ahikemal Şenyurt Mah. Bağcılar mevkii; yaklaşık 40 dönümlük, yalnız Kalecik Karası dikili kendi bağı",
+   "uzumler": [
+    "Kalecik Karası"
+   ],
+   "web": "https://www.tafalis.com.tr",
+   "instagram": "https://www.instagram.com/tafali_bagcilik/",
+   "hikaye": "Tafali, iki ziraat yüksek mühendisi Fatma Yiğit ve Alime Cicerali'nin 2003'te Kalecik'te diktiği bağdan doğdu. Önce aile ve dostlar için yapılan şarap, 2019'da kurulan butik şaraphanede Tafali's markasıyla satışa çıktı. Yalnız kendi bağlarının Kalecik Karası'ndan, yabani mayayla ve sınırlı filtrasyonla kırmızı ve roze üretiyorlar.",
+   "kaynak": [
+    "https://www.tafalis.com.tr/",
+    "https://www.themagger.com/tafali-baglari-ankara-kalecik/"
+   ],
+   "tesisler": [
+    {
+     "firma": "TAFALİ Gıda İçecek İnşaat Üretim İhracat İthalat Sanayi ve Ticaret Limited Şirketi",
+     "il": "Ankara",
+     "ilce": "Kalecik",
+     "bolge": "kalecik",
+     "konum": [
+      40.17,
+      33.51
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "Tomurcukbağ",
+   "kurulus": "",
+   "baglar": "Kalecik, Şenyurt Mah. Dolapboğazı mevkii; mineralce zengin topraklarda Kalecik Karası bağı",
+   "uzumler": [
+    "Kalecik Karası",
+    "Sauvignon Blanc"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Tomurcukbağ, Kalecik Karası'nı yok olmaktan kurtaran çalışmalarıyla bilinen, Ankara Ziraat Fakültesi eski dekanı Prof. Dr. Y. Sabit Ağaoğlu'nun Kalecik'teki bağıdır. Şaraplar üzüm kabuğundaki doğal mayalarla yapılıp çelik tanklarda dinlendirilir. Trajan Rezerv Kalecik Karası, üzümün zarif ve 'Burgonya tarzı' yüzünü gösteren şarabıdır.",
+   "kaynak": [
+    "https://degustasyon.net/tomurcukbag-trajan-kalecik-karasi-rezerv-2020-ankara/",
+    "https://keyifnotlari.net/2016/02/kalecik-sarap-yolunda-tomurcukbag/",
+    "https://evrenkalkan.com.tr/tomurcukbag-rezerv-kalecik-karasi/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Tomurcukbağ Bağcılık ve Şarapçılık Ltd. Şti.",
+     "il": "Ankara",
+     "ilce": "Kalecik",
+     "bolge": "kalecik",
+     "konum": [
+      40.205,
+      33.56
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Shiluh",
+   "kurulus": "2009 (ilk hasat 2010)",
+   "baglar": "Midyat çevresinde yaklaşık 2.000 dönüm: yarısında 55-100 yaşında yerel Kerkuş ve Mazrona, yarısında 35-80 yaşında Öküzgözü ve Boğazkere",
+   "uzumler": [
+    "Boğazkere",
+    "Öküzgözü",
+    "Mazrona",
+    "Kerküş"
+   ],
+   "web": "https://www.shiluh.com.tr",
+   "instagram": "",
+   "hikaye": "Shiluh, Turabdin bölgesinin asırlık üzüm çeşitlerinden modern tekniklerle şarap yapmak için 2009'da Midyat'ta kuruldu, ilk hasadını 2010'da aldı; markanın üretici şirketi Ninve Gıda'dır. Tesis geleneksel Midyat taş işçiliğiyle inşa edildi. Kırmızıları Boğazkere ve Öküzgözü'nden, beyazı Kustan ise yalnız Midyat'ta yetişen Mazrona ve Kerkuş'tan yapılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/shiluh",
+    "https://firmadan.com/firma/121608/ninve-gida-shiluh-suryani-saraplari/",
+    "https://www.hurriyet.com.tr/kelebek/organik-suryani-sarabi-shiluh-9569097",
+    "https://iyisarap.plus/collections/shiluh",
+    "https://www.shiluh.com.tr/tr/iletisim/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ninve Gıda Meşr. Tar. Tur. Medikal San. ve Tic. Ltd. Şti.",
+     "il": "Mardin",
+     "ilce": "Midyat",
+     "bolge": "guneydogu",
+     "konum": [
+      37.42,
+      41.37
+     ]
+    },
+    {
+     "firma": "Şiluh Gıda Pazarlama Tarım Turizm Sanayi ve Ticaret Limited Şirketi",
+     "il": "Mardin",
+     "ilce": "Midyat",
+     "bolge": "guneydogu",
+     "konum": [
+      37.455,
+      41.42
+     ]
+    }
+   ],
+   "sarap": 8
+  },
+  {
+   "ad": "Midin",
+   "kurulus": "",
+   "baglar": "Öğündük (Midin) köyü, İdil; köyde 1.100 dönümü aşan bağ, asmaların çoğu 80-150 yaşında, gübre ve ilaç kullanılmadan doğal bağcılık",
+   "uzumler": [
+    "Karkuş",
+    "Bılbızeki",
+    "Gavdoni",
+    "Raşe Gurnık",
+    "Kıttıl Nafs",
+    "Mazrona",
+    "Boğazkere",
+    "Öküzgözü"
+   ],
+   "web": "https://www.midinwine.com",
+   "instagram": "https://www.instagram.com/midinwines/",
+   "hikaye": "Midin Şarapçılık, Şırnak'ın İdil ilçesindeki Öğündük (eski adıyla Midin) köyünde, yüzyıllık asmalardan yerel üzümlerle şarap yapar. Karkuş, Bılbızeki, Gavdoni ve Raşe Gurnık gibi neredeyse kaybolmuş çeşitleri yabani mayalarla şişeliyor; Cehennem Deresi, Baluto, Miras ve Tamnath etiketleri öne çıkıyor. Kayra ile ortak Karkuş Old Vine projesi de bu bağlardan.",
+   "kaynak": [
+    "https://www.midinwine.com/saraphane",
+    "https://www.teruarintadi.com/post/midin-sarapcilik",
+    "https://www.find.com.tr/Company/salibadanismanlikturizmgidatarimithalatihracatsanayiveticaretlimitedsirketiidilsubesi",
+    "https://www.capital.com.tr/ceo-life/ceo-life-haberleri/kayra-mezopotamyada-yerel-uretici-midinle-is-birligi-yapti"
+   ],
+   "tesisler": [
+    {
+     "firma": "Saliba Dan. Tur. Gıda Tar. İth. İhr. San. ve Tic. Ltd. Şti.",
+     "il": "Şırnak",
+     "ilce": "İdil",
+     "bolge": "guneydogu",
+     "konum": [
+      37.34,
+      41.89
+     ]
+    }
+   ],
+   "sarap": 5
+  },
+  {
+   "ad": "Ninova",
+   "kurulus": "",
+   "baglar": "Eğil, Oyalı OSB'de tesis; Boğazkere'nin anavatanı sayılan Eğil, Çermik, Çüngüş ve Ergani bağlarından üzüm",
+   "uzumler": [
+    "Boğazkere",
+    "Öküzgözü"
+   ],
+   "web": "http://www.ninovasarap.com",
+   "instagram": "",
+   "hikaye": "Ninova Şarapçılık, Diyarbakır'ın Eğil ilçesindeki organize sanayi bölgesinde kurulu butik bir üreticidir. 'Mezopotamya'nın binlerce yıllık tatları' sloganıyla, coğrafi işaretli Boğazkere ve Öküzgözü üzümlerini kendi topraklarında şaraba dönüştürür.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/ninova/",
+    "https://yandex.com.tr/maps/org/ninova_sarapcilik_sanayi/232075556282/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Ninova Şarapçılık San. Ve Tic. Ltd. Şti",
+     "il": "Diyarbakır",
+     "ilce": "Eğil",
+     "bolge": "guneydogu",
+     "konum": [
+      38.26,
+      40.08
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Eskibağlar",
+   "kurulus": "2009",
+   "baglar": "Kürkköy, Sivrice; Hazar Gölü'ne bakan tepelerde yaklaşık 50 hektarlık arazi",
+   "uzumler": [
+    "Öküzgözü",
+    "Boğazkere"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Eskibağlar, Elazığ'ın Sivrice ilçesinde Hazar Gölü'ne bakan tepelerde kurulu bir bağ ve butik otel kompleksidir; şaraphane 2009'da yöre üzümlerini işlemek için açıldı. 'Mezopotamya'nın ilk şarap oteli' olarak tanıtılır. Üretim Öküzgözü, Boğazkere ve ikisinin kupajı üzerine kurulu.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/eskibaglar",
+    "https://www.biletara.com/blog/sayfa/eskibaglar-sarap-mahzeni-rehberi",
+    "https://degustasyon.net/eskibaglar-okuzgozu-2012-elazig/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Hilal Aral",
+     "il": "Elazığ",
+     "ilce": "Sivrice",
+     "bolge": "elazig",
+     "konum": [
+      38.45,
+      39.31
+     ]
+    }
+   ],
+   "sarap": 2
+  },
+  {
+   "ad": "S'narin",
+   "kurulus": "2022",
+   "baglar": "Sarıhıdır (Avanos), Kızılırmak kıyısında alüvyal topraklar, volkanik tüf arazilere komşu",
+   "uzumler": [
+    "Emir",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Boğazkere"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "S'narin Riverside Wine House, Senar Sümer Çalışkan'ın 2022'de Avanos'a bağlı Sarıhıdır'da Kızılırmak kıyısında kurduğu butik şaraphanedir. Yılda yaklaşık 7 bin şişe üretir; şarap yapımını 2002'den beri bağcılıkla uğraşan Gülçin Akçay yürütür. Emir, Kalecik Karası, Öküzgözü ve Öküzgözü-Boğazkere kupajı yapar.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/snarin"
+   ],
+   "tesisler": [
+    {
+     "firma": "Senarin Gıda Sanayi ve Ticaret Ltd.Şti",
+     "il": "Nevşehir",
+     "ilce": "Avanos",
+     "bolge": "kapadokya",
+     "konum": [
+      38.715,
+      34.847
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Aryatus / Laurasia",
+   "kurulus": "",
+   "baglar": "Karaburna (Hacıbektaş), Kapadokya'nın kuzey eteklerinde volkanik tüflü topraklar",
+   "uzumler": [
+    "Emir",
+    "Kalecik Karası",
+    "Öküzgözü"
+   ],
+   "web": "https://www.denizsarapcilik.com",
+   "instagram": "",
+   "hikaye": "Deniz Şarapçılık, Hacıbektaş'a bağlı, bağcılığıyla bilinen Karaburna kasabasında Nazmiye Turgut'un işlettiği bir aile şirketidir. Aryatus ve Laurasia markalarıyla Emir, Kalecik Karası ve Öküzgözü'nden şarap yapar; şaraplarını Avanos'taki Aryatus Şarap Evi'nde sunar. 'Hacıbektaş şarabı' geleneğini sürdüren üreticilerden biri olarak anılır.",
+   "kaynak": [
+    "https://www.vitikultur.com/tr/baglar/deniz-sarapcilik",
+    "https://www.denizsarapcilik.com"
+   ],
+   "tesisler": [
+    {
+     "firma": "Nazmiye Turgut Deniz Şarapçılık",
+     "il": "Nevşehir",
+     "ilce": "Hacıbektaş",
+     "bolge": "kapadokya",
+     "konum": [
+      38.94,
+      34.56
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Evenez / Sonava",
+   "kurulus": "2002 (fabrika 2005)",
+   "baglar": "Avanos çevresi (Aktepe, Özkonak); tüm üzümler Kapadokya bölgesinden",
+   "uzumler": [
+    "Emir",
+    "Kalecik Karası",
+    "Öküzgözü",
+    "Dimrit"
+   ],
+   "web": "https://evenez.com",
+   "instagram": "",
+   "hikaye": "Kapadokya Sedef Şarapçılık, Evenez ve Sonava markalarıyla Avanos'ta üretim yapan butik bir şaraphanedir. Kimya mühendisi Ahmet Sarıkaya'nın 2002'de başlattığı üretim, 2005'te resmî fabrikaya dönüştü. Tüm üzümler Kapadokya'dan gelir; Emir, Kalecik Karası, Öküzgözü ve yerel Dimrit öne çıkar.",
+   "kaynak": [
+    "https://evenez.com/",
+    "https://www.vitikultur.com/tr/baglar/evenez"
+   ],
+   "tesisler": [
+    {
+     "firma": "Kapadokya Sedef Tar. Hayv. Şarapçılık San. Tic. Ltd.Şti.",
+     "il": "Nevşehir",
+     "ilce": "Avanos",
+     "bolge": "kapadokya",
+     "konum": [
+      38.75,
+      34.897
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Gelveri",
+   "kurulus": "",
+   "baglar": "Hasan Dağı eteklerinde, yaklaşık 1.550 m rakımda, telsiz yetişen yaklaşık 300 yaşındaki yerel asmalar; volkanik ve gevşek topraklar",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Gelveri, Udo Hirsch ve Hacer Özkaya'nın Güzelyurt'un (eski adı Gelveri) 250 yıllık bir taş evinin mahzeninde, Bizans döneminden kalma küplerde yaptığı doğal şaraplardır. Hasan Dağı eteklerindeki yaşlı, telsiz asmalardan gelen yerel üzümler ilaçsız yetiştirilir. Türkiye'de şaraplarını tümüyle küpte (amforada) yapan ilk üretici olarak Avrupa'daki doğal şarap fuarlarında tanınır.",
+   "kaynak": [
+    "https://gastereamag.com/kapadokya-teruari-gelveri/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Gelveri Tur. El Sanatları Gıda Tar. Paz. San. Tic. Ltd. Şti.",
+     "il": "Aksaray",
+     "ilce": "Güzelyurt",
+     "bolge": "kapadokya",
+     "konum": [
+      38.28,
+      34.37
+     ]
+    }
+   ],
+   "sarap": 0
+  },
+  {
+   "ad": "Kuzeybağ",
+   "kurulus": "2010",
+   "baglar": "Koruk köyü (Kuzova), Elazığ'ın kuzeyinde yaklaşık 1.000 m rakım; killi-kireçli taşlı topraklarda 35 yaşı aşkın asmalar",
+   "uzumler": [
+    "Öküzgözü",
+    "Kösetevek"
+   ],
+   "web": "https://kuzeybag.com",
+   "instagram": "https://www.instagram.com/kuzeybagwine/",
+   "hikaye": "Kuzeybağ, Arnika şirketinin Elazığ'ın Koruk köyünde üç kuşaktır bağcılık yapan bir aileden doğan markasıdır. Öküzgözü'nü anavatanında, bağın yanı başındaki şaraphanede minimum müdahaleyle işler. Tentürye (eti renkli) bir üzüm olan Kösetevek'i ilk kez ticari olarak ayrı şişeleyen üretici olarak bilinir.",
+   "kaynak": [
+    "https://kuzeybag.com/hakkimizda/",
+    "https://kuzeybag.com/urunler/",
+    "http://www.arnikasarap.com/"
+   ],
+   "tesisler": [
+    {
+     "firma": "Arnika Tarım Ür. Gıda İnş.Mal.Mad.Mah.İth. İhr. San. Tic. Ltd. Şti.",
+     "il": "Elazığ",
+     "ilce": "Merkez",
+     "bolge": "elazig",
+     "konum": [
+      38.675,
+      39.223
+     ]
+    }
+   ],
+   "sarap": 3
+  },
+  {
+   "ad": "Hastek Ağın",
+   "kurulus": "",
+   "baglar": "Ağın, Kuzgece mahallesi Enerli mevkii; aileden kalan bağlar (yaklaşık 50 hektar bağ alanı bildiriliyor)",
+   "uzumler": [
+    "Horoz Karası"
+   ],
+   "web": "",
+   "instagram": "",
+   "hikaye": "İki kardeşin aileden kalan bağları geliştirerek Ağın'da kurduğu şaraphane, ürününe Yenipayam köyünün eski adı Hastek ile ilçenin adını birleştirerek 'Hastek Ağın' adını verdi. İlk şarap bağlarında yetişen Horoz Karası'ndan yapıldı ve bu az bilinen üzümü tanıtmayı amaçlıyor.",
+   "kaynak": [
+    "https://www.gunisigigazetesi.net/haber/13454982/aginda-yeni-sarap-markasi",
+    "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+   ],
+   "tesisler": [
+    {
+     "firma": "Aşır Şimşek Bağcılık Şarapçılık Balıkçılık Üretim Tic. ve San. Ltd.Şti.",
+     "il": "Elazığ",
+     "ilce": "Ağın",
+     "bolge": "elazig",
+     "konum": [
+      38.94,
+      38.71
+     ]
+    }
+   ],
+   "sarap": 1
+  },
+  {
+   "ad": "Mesaşuna",
+   "kurulus": "",
+   "baglar": "Taraklı (eski adı Trapen) köyü, Borçka; yaklaşık 20 dönüm arazi, kimyasal kullanılmadan hayvan gübresi ve bordo bulamacıyla",
+   "uzumler": [],
+   "web": "",
+   "instagram": "",
+   "hikaye": "Yusuf Arifağaoğlu, 2002 civarında Borçka'nın Taraklı köyünde aldığı araziye komşu Gürcistan'ın bağcılık yöntemleriyle asma dikti; 2,5 yıllık lisans sürecinden sonra ticari üretime geçti. Yılda yaklaşık 3 bin şişe, su ve katkı maddesi kullanılmadan yapılan şaraplar Mesaşuna markasıyla seçkin restoran ve otellere gidiyor, Hollanda ve İspanya'ya da ihraç ediliyor. Karadeniz'in az sayıdaki lisanslı şarap üreticilerinden biri.",
+   "kaynak": [
+    "https://gundemartvin.com/20-donumde-dogal-uretimle-dunya-pazarina-acilan-sarap",
+    "https://www.olay53.com/haber/artvinli-ureticiden-dunya-markasina-yusuf-arifagaogluna-onur-plaketi-1518460.htm"
+   ],
+   "tesisler": [
+    {
+     "firma": "Yusuf Arifağaoğlu Turizm Ve Seyahat Acentalığı Tic. Ltd. Şti.",
+     "il": "Artvin",
+     "ilce": "Borçka",
+     "bolge": "karadeniz",
+     "konum": [
+      41.36,
+      41.67
+     ]
+    }
+   ],
+   "sarap": 0
+  }
+ ]
+}

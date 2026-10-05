@@ -1,0 +1,560 @@
+{
+ "yarismalar": [
+  {
+   "id": "dwwa",
+   "ad": "Decanter World Wine Awards (DWWA)",
+   "ulke": "Birleşik Krallık",
+   "ne": "Decanter dergisinin her yıl Londra'da düzenlediği, dünyanın en büyük şarap yarışmalarından biri; 2026'da 58 ülkeden yaklaşık 17.000 şarap kör tadıldı, 245 uzman (63 Master of Wine, 24 Master Sommelier) jüride yer aldı.",
+   "kademeler": [
+    {
+     "ad": "Best in Show",
+     "puan": "97+ (Platinum'lardan seçilen 50 şarap; tüm şarapların yaklaşık %0,3'ü)"
+    },
+    {
+     "ad": "Platinum",
+     "puan": "97-100 (2026'da 196 madalya, şarapların %1,18'i)"
+    },
+    {
+     "ad": "Gold",
+     "puan": "95-96"
+    },
+    {
+     "ad": "Silver",
+     "puan": "90-94"
+    },
+    {
+     "ad": "Bronze",
+     "puan": "86-89"
+    },
+    {
+     "ad": "Commended",
+     "puan": "83-85"
+    }
+   ],
+   "prestij": "Çok yüksek; tüketici açısından en görünür madalyalardan. Best in Show üç aşamalı yargılamayla (bölge panelleri, Platinum yargılama, Co-Chair'ların son tadımı) belirlenir.",
+   "url": "https://www.decanter.com/decanter-awards/dwwa-judges/decanter-world-wine-awards-2026-best-in-show-top-50-wines/",
+   "kaynak_not": "Kademe ve sayılar Decanter 2026 makalesinden; puan aralıkları Decanter'ın yayımladığı ölçeğe göre editoryal özet."
+  },
+  {
+   "id": "iwsc",
+   "ad": "International Wine & Spirit Competition (IWSC)",
+   "ulke": "Birleşik Krallık",
+   "ne": "1969'da kurulan, şarap ve alkollü içkileri bölgesel ve küresel yargılamalarla değerlendiren Londra merkezli yarışma. Türkiye için ayrı bir yerel yargılama ve 'Turkish Wine Producer Trophy' ödülü vardır.",
+   "kademeler": [
+    {
+     "ad": "Trophy (kategori/ülke/üretici)",
+     "puan": "En üst; Gold alan şaraplar arasından seçilir"
+    },
+    {
+     "ad": "Gold Outstanding",
+     "puan": "95-100"
+    },
+    {
+     "ad": "Gold",
+     "puan": "90-94"
+    },
+    {
+     "ad": "Silver",
+     "puan": "85-89"
+    },
+    {
+     "ad": "Bronze",
+     "puan": "80-84"
+    }
+   ],
+   "prestij": "Yüksek; uzun geçmişi nedeniyle saygın.",
+   "url": "https://www.iwsc.net/",
+   "kaynak_not": "Kademe puanları IWSC'nin genel ölçeğine dair editoryal özet; sitesine bu ortamdan erişilemediği için güncel ölçek doğrulanmalıdır."
+  },
+  {
+   "id": "iwc",
+   "ad": "International Wine Challenge (IWC)",
+   "ulke": "Birleşik Krallık",
+   "ne": "1984'te kurulan, Londra'da yapılan, genellikle dünyanın en titiz yarışmalarından biri sayılan kör tadım yarışması.",
+   "kademeler": [
+    {
+     "ad": "Trophy / Champion",
+     "puan": "Kategori ve ülke birincileri"
+    },
+    {
+     "ad": "Gold",
+     "puan": "95-100"
+    },
+    {
+     "ad": "Silver",
+     "puan": "90-94"
+    },
+    {
+     "ad": "Bronze",
+     "puan": "85-89"
+    },
+    {
+     "ad": "Commended",
+     "puan": "80-84"
+    }
+   ],
+   "prestij": "Çok yüksek.",
+   "url": "https://www.internationalwinechallenge.com/",
+   "kaynak_not": "Başlangıç yılı Wikipedia'dan; puan aralıkları editoryal özet, siteden doğrulanmalı."
+  },
+  {
+   "id": "concours-mondial",
+   "ad": "Concours Mondial de Bruxelles",
+   "ulke": "Belçika (gezici)",
+   "ne": "1994'ten beri yıllık düzenlenen, her yıl farklı bir ülkede yapılan uluslararası kör tadım yarışması.",
+   "kademeler": [
+    {
+     "ad": "Grand Gold",
+     "puan": "Yüksek puanlı Gold'lar arasından"
+    },
+    {
+     "ad": "Gold",
+     "puan": "85+ (jüri puan ortalaması)"
+    },
+    {
+     "ad": "Silver",
+     "puan": "Daha düşük bant"
+    }
+   ],
+   "prestij": "Orta-yüksek; madalya sayısı görece geniştir.",
+   "url": "https://concoursmondial.com/en/results",
+   "kaynak_not": "Kuruluş yılı Wikipedia/arama sonuçlarından; sonuçlar sitesinde yayımlanır, 2026 sonuçlarının 20.10.2026'da yayımlanacağı belirtilmiştir."
+  },
+  {
+   "id": "mundus-vini",
+   "ad": "Mundus Vini",
+   "ulke": "Almanya",
+   "ne": "Alman Meininger Verlag tarafından düzenlenen, Neustadt an der Weinstraße'de yapılan büyük uluslararası şarap ödülü.",
+   "kademeler": [
+    {
+     "ad": "Grand Gold",
+     "puan": "Üst kademe"
+    },
+    {
+     "ad": "Gold",
+     "puan": ""
+    },
+    {
+     "ad": "Silver",
+     "puan": ""
+    }
+   ],
+   "prestij": "Orta-yüksek.",
+   "url": "https://www.mundusvini.com/",
+   "kaynak_not": "Madalya puan aralıkları doğrulanamadığı için boş bırakıldı."
+  },
+  {
+   "id": "ws-top100",
+   "ad": "Wine Spectator Top 100",
+   "ulke": "ABD",
+   "ne": "1988'den beri Wine Spectator editörlerinin yıl boyu tattığı yeni çıkan şaraplardan seçtiği en heyecan verici 100 şarap. Kriterler: kalite (90+ puan), değer, bulunabilirlik (ABD'de yaygın) ve 'X faktörü'. 2025: 10.200+ şarap tadıldı; 2024 listesinde ortalama puan 93, ortalama fiyat 68 dolar.",
+   "kademeler": [
+    {
+     "ad": "Wine of the Year (#1)",
+     "puan": ""
+    },
+    {
+     "ad": "Top 10",
+     "puan": ""
+    },
+    {
+     "ad": "Top 100",
+     "puan": "Tümü 90+ puan"
+    }
+   ],
+   "prestij": "Çok yüksek, özellikle ABD pazarında satışları doğrudan etkiler.",
+   "url": "https://top100.winespectator.com/",
+   "kaynak_not": "Kriterler resmî Top 100 sayfasından."
+  },
+  {
+   "id": "suckling-top100",
+   "ad": "James Suckling Top 100",
+   "ulke": "ABD/İtalya (bağımsız)",
+   "ne": "Eski Wine Spectator editörü James Suckling'in yıl sonunda yayımladığı en iyi şaraplar listesi (Dünya Top 100 ile bölgesel listeler).",
+   "kademeler": [
+    {
+     "ad": "Wine of the Year (#1)",
+     "puan": ""
+    },
+    {
+     "ad": "Top 100",
+     "puan": ""
+    }
+   ],
+   "prestij": "Yüksek; Suckling puanları ticarette yaygın kullanılır.",
+   "url": "https://www.jamessuckling.com/",
+   "kaynak_not": "Site ücretli içerik barındırdığından liste ayrıntıları çekilmedi; yalnızca genel bilgi."
+  }
+ ],
+ "birinciler": [
+  {
+   "yil": 2010,
+   "sarap": "Saxum James Berry Vineyard Paso Robles 2007",
+   "ulke": "ABD",
+   "not": "98 puan, $67. Rhône tarzı Grenache-Mourvèdre-Syrah harmanı; Paso Robles'ın dünya haritasına girişi olarak yorumlandı.",
+   "url": "https://www.winespectator.com/articles/saxum-james-berry-vineyard-named-wine-of-the-year-44061"
+  },
+  {
+   "yil": 2011,
+   "sarap": "Kosta Browne Pinot Noir Sonoma Coast 2009",
+   "ulke": "ABD",
+   "not": "95 puan, $52. Wine of the Year seçilen ilk Pinot Noir; 1999'dan beri ilk Sonoma County birincisi.",
+   "url": "https://www.winespectator.com/articles/2012-new-world-wine-experience-tasting-wine-spectators-top-10-wines-of-2011-47503"
+  },
+  {
+   "yil": 2012,
+   "sarap": "Shafer Relentless Napa Valley 2008",
+   "ulke": "ABD",
+   "not": "96 puan, $60. %75 Syrah, %25 Petite Sirah.",
+   "url": "https://www.winespectator.com/articles/tasting-wine-spectators-top-10-wines-of-2012-49128"
+  },
+  {
+   "yil": 2013,
+   "sarap": "Cune Rioja Imperial Gran Reserva 2004",
+   "ulke": "İspanya",
+   "not": "94 puan, $63. Wine Spectator'ın 2013 #1'i; Rioja Gran Reserva fiyatına göre değeriyle öne çıktı.",
+   "url": "https://top100.winespectator.com/2013/wine/1-cune/"
+  },
+  {
+   "yil": 2014,
+   "sarap": "Dow’s Vintage Port 2011",
+   "ulke": "Portekiz",
+   "not": "99 puan, $82. 99 puanla bu dönemin en yüksek puanlı birincisi; vintage port.",
+   "url": "https://top100.winespectator.com/2014/wine/1-dows/"
+  },
+  {
+   "yil": 2015,
+   "sarap": "Peter Michael Cabernet Sauvignon Oakville Au Paradis 2012",
+   "ulke": "ABD",
+   "not": "96 puan, $195. Oakville Au Paradis, Peter Michael'in yeni bağı.",
+   "url": "https://top100.winespectator.com/2015/wine/1-peter-michael/"
+  },
+  {
+   "yil": 2016,
+   "sarap": "Lewis Cabernet Sauvignon Napa Valley 2013",
+   "ulke": "ABD",
+   "not": "95 puan, $90.",
+   "url": "https://top100.winespectator.com/2016/wine/1-lewis/"
+  },
+  {
+   "yil": 2017,
+   "sarap": "Duckhorn Merlot Napa Valley Three Palms Vineyard 2014",
+   "ulke": "ABD",
+   "not": "95 puan, $98.",
+   "url": "https://top100.winespectator.com/2017/wine/wine-no-1/"
+  },
+  {
+   "yil": 2018,
+   "sarap": "Tenuta San Guido Bolgheri-Sassicaia Sassicaia 2015",
+   "ulke": "İtalya",
+   "not": "97 puan, $245. Bolgheri Sassicaia, ilk Süper Toskan; İtalya birincisi.",
+   "url": "https://top100.winespectator.com/2018/wine/1-tenuta-san-guido/"
+  },
+  {
+   "yil": 2019,
+   "sarap": "Château Léoville Barton St.-Julien 2016",
+   "ulke": "Fransa",
+   "not": "97 puan, $98. Saint-Julien ikinci cru; $98 ile fiyatına göre değer vurgusu.",
+   "url": "https://top100.winespectator.com/2019/wine/1-leoville-barton/"
+  },
+  {
+   "yil": 2020,
+   "sarap": "Bodegas Marqués de Murrieta Rioja Castillo Ygay Gran Reserva Especial 2010",
+   "ulke": "İspanya",
+   "not": "96 puan, $139.",
+   "url": "https://top100.winespectator.com/2020/wine/1-marques-de-murrieta/"
+  },
+  {
+   "yil": 2021,
+   "sarap": "Dominus Estate Napa Valley 2018",
+   "ulke": "ABD",
+   "not": "97 puan, $269.",
+   "url": "https://top100.winespectator.com/2021/wine/1-dominus/"
+  },
+  {
+   "yil": 2022,
+   "sarap": "Schrader Cellars Cabernet Sauvignon Oakville Double Diamond 2019",
+   "ulke": "ABD",
+   "not": "94 puan, $80.",
+   "url": "https://top100.winespectator.com/2022/wine/no-1-schrader/"
+  },
+  {
+   "yil": 2023,
+   "sarap": "Argiano Brunello di Montalcino 2018",
+   "ulke": "İtalya",
+   "not": "95 puan, $90. Brunello di Montalcino; sahip değişimi ve geleneksel stile dönüş.",
+   "url": "https://top100.winespectator.com/2023/wine/wine-no-1-argiano/"
+  },
+  {
+   "yil": 2024,
+   "sarap": "Viña Don Melchor Cabernet Sauvignon Puente Alto Puente Alto Vineyard 2021",
+   "ulke": "Şili",
+   "not": "96 puan, $175. Şili'nin ilk Wine of the Year'ı (Don Melchor).",
+   "url": "https://top100.winespectator.com/2024/wine/wine-no-1-2/"
+  },
+  {
+   "yil": 2025,
+   "sarap": "Château Giscours Margaux 2022",
+   "ulke": "Fransa",
+   "not": "95 puan, $68. Margaux 2022, $68; Bordeaux için zor yılda 'hâlâ harika şarap yapılır' mesajı.",
+   "url": "https://top100.winespectator.com/2025/wine/wine-no-1-bordeaux/"
+  }
+ ],
+ "turk_basarilari": [
+  {
+   "yil": 2024,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum",
+   "uretici": "Kayra",
+   "sarap": "Vintage Öküzgözü 2021",
+   "bolge": "Orta-Doğu Anadolu",
+   "not": "Türkiye 2024'te 3 Platinum ve 5 Gold aldı; Gold'ların üçü Öküzgözü.",
+   "url": "https://www.decanter.com/decanter-world-wine-awards/decanter-world-wine-awards-2024-platinum-winners-97-point-wines-532909/"
+  },
+  {
+   "yil": 2024,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum",
+   "uretici": "Urla Şarapçılık",
+   "sarap": "Boğazkere 2022",
+   "bolge": "Urla, Ege",
+   "not": "Decanter yargıçları: yerli üzümlere dayalı Türk kırmızıları.",
+   "url": "https://www.decanter.com/decanter-world-wine-awards/decanter-world-wine-awards-2024-platinum-winners-97-point-wines-532909/"
+  },
+  {
+   "yil": 2024,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum",
+   "uretici": "Urla Şarapçılık",
+   "sarap": "Suss 2022",
+   "bolge": "Urla, Ege",
+   "not": "Aynı üreticinin ikinci Platinum'u.",
+   "url": "https://www.decanter.com/decanter-world-wine-awards/decanter-world-wine-awards-2024-platinum-winners-97-point-wines-532909/"
+  },
+  {
+   "yil": 2025,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum",
+   "uretici": "Mahsarto d'Midin",
+   "sarap": "The 8 2023",
+   "bolge": "Güneydoğu Anadolu",
+   "not": "%80 Boğazkere'li kırmızı.",
+   "url": "https://www.decanter.com/decanter-world-wine-awards/dwwa-2025-palatinum-medal-winners-97-point-wines-558187/"
+  },
+  {
+   "yil": 2016,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum",
+   "uretici": "Urla Şarapçılık",
+   "sarap": "Nero d'Avola-Urla Karası 2014",
+   "bolge": "Urla, Ege",
+   "not": "Decanter ayrıca bu şarabı 93 puanla önerdi.",
+   "url": "https://www.decanter.com/wine-reviews-tastings/turkish-wines-to-try-329265/"
+  },
+  {
+   "yil": 2019,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Platinum (1 adet)",
+   "uretici": "",
+   "sarap": "",
+   "bolge": "",
+   "not": "Decanter 2024 haberine göre Türkiye 2019'da bir Platinum kazandı; şarap adı doğrulanamadığı için boş bırakıldı.",
+   "url": "https://www.decanter.com/decanter-world-wine-awards/decanter-world-wine-awards-2024-platinum-winners-97-point-wines-532909/"
+  },
+  {
+   "yil": 2025,
+   "yarisma": "IWSC",
+   "odul": "Turkish Wine Producer Trophy",
+   "uretici": "Akberg Şirince Şarapçılık",
+   "sarap": "",
+   "bolge": "Şirince, Ege",
+   "not": "İki Gold ve bir Bronz madalya. (iwsc.net bu ortamdan erişilemedi; bilgi arama sonucu özetine dayanır, kontrol edilmeli.)",
+   "url": "https://www.iwsc.net/news/wine/akberg-rince-arapilik-awarded-turkish-wine-producer-trophy-at-2025-iwsc"
+  },
+  {
+   "yil": 2026,
+   "yarisma": "IWSC",
+   "odul": "Turkish Wine Producer Trophy",
+   "uretici": "V'Asbos Estate",
+   "sarap": "",
+   "bolge": "",
+   "not": "2 Gold ve 2 Silver madalya. (Arama sonucu özetine dayanır; kontrol edilmeli.)",
+   "url": "https://iwsc.net/news/wine/vasbos-winner-of-iwsc-turkish-wine-producer-trophy"
+  },
+  {
+   "yil": 2023,
+   "yarisma": "Turkish Wine Challenge",
+   "odul": "Grand Gold; 'Best Wine for Turkey and the Balkans'",
+   "uretici": "Doluca",
+   "sarap": "Tuğra Öküzgözü",
+   "bolge": "",
+   "not": "Not: Turkish Wine Challenge uluslararası bir yarışma olsa da Decanter/IWSC düzeyinde değil.",
+   "url": "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+  },
+  {
+   "yil": 2018,
+   "yarisma": "Decanter World Wine Awards",
+   "odul": "Toplam madalya: 3 Gold, 24 Silver, 34 Bronze",
+   "uretici": "Türk üreticiler (toplu)",
+   "sarap": "",
+   "bolge": "",
+   "not": "Wines of Turkey'in LinkedIn paylaşımına göre; birincil kaynak değil.",
+   "url": "https://www.linkedin.com/pulse/wines-turkey-companies-received-61-medals-from-dwwa-ceyda-y%C3%BCcekal"
+  }
+ ],
+ "elestirmenler": {
+  "olcek_karsilastirma": [
+   {
+    "puan_100": "98-100",
+    "parker_wa": "Mükemmel/olağanüstü",
+    "jr_20": "19-20",
+    "ws": "Klasik (95-100)",
+    "suckling": "98-100 (kusursuz)",
+    "decanter": "Outstanding (96-100)"
+   },
+   {
+    "puan_100": "95-97",
+    "parker_wa": "Olağanüstü",
+    "jr_20": "18-18,5",
+    "ws": "Klasik",
+    "suckling": "95-97 (olağanüstü)",
+    "decanter": "Outstanding"
+   },
+   {
+    "puan_100": "90-94",
+    "parker_wa": "Çok iyi-olağanüstü",
+    "jr_20": "16,5-17,5",
+    "ws": "Mükemmel (90-94)",
+    "suckling": "90-94",
+    "decanter": "Highly recommended (90-94)"
+   },
+   {
+    "puan_100": "85-89",
+    "parker_wa": "İyi-çok iyi",
+    "jr_20": "15-16",
+    "ws": "Çok iyi (85-89)",
+    "suckling": "85-89",
+    "decanter": "Recommended (86-89)"
+   }
+  ],
+  "olcek_notu": "Tablo editoryal yaklaşık eşleştirmedir; Jancis Robinson 20 puan ölçeğinin 100'e kesin dönüşümü yoktur, ölçekler birebir karşılık gelmez.",
+  "liste": [
+   {
+    "ad": "Robert Parker / The Wine Advocate",
+    "ulke": "ABD",
+    "olcek": "50-100",
+    "aciklama": "100 puanlık ölçeği yaygınlaştıran Robert Parker Wine Advocate'ı 1978'de kurdu; Bordeaux ve Rhône'da etkisi büyük oldu. Parker 2019'da emekli oldu, Wine Advocate artık çok kritikli bir yapıdadır.",
+    "url": "https://www.robertparker.com/"
+   },
+   {
+    "ad": "Jancis Robinson",
+    "ulke": "Birleşik Krallık",
+    "olcek": "20 puan (16-20 arası kullanılır)",
+    "aciklama": "Master of Wine; The Oxford Companion to Wine ve World Atlas of Wine'ın yazarı/ortak yazarı; zarafet ve terroir odaklı, ölçülü stiliyle bilinir.",
+    "url": "https://www.jancisrobinson.com/"
+   },
+   {
+    "ad": "Wine Spectator",
+    "ulke": "ABD",
+    "olcek": "50-100 (Klasik 95-100, Olağanüstü 90-94, Çok iyi 85-89, İyi 80-84)",
+    "aciklama": "1976'dan beri yayımlanan ABD merkezli dergi; yıllık Top 100'ü ve Restaurant Awards'ı ile bilinir.",
+    "url": "https://www.winespectator.com/articles/scoring-scale"
+   },
+   {
+    "ad": "James Suckling",
+    "ulke": "ABD/İtalya",
+    "olcek": "100 puan",
+    "aciklama": "Eski Wine Spectator editörü; bağımsız James Suckling.com'da puanlar, yıl sonu Top 100 listesi yayımlar.",
+    "url": "https://www.jamessuckling.com/"
+   },
+   {
+    "ad": "Decanter",
+    "ulke": "Birleşik Krallık",
+    "olcek": "100 puan; DWWA'da madalya (Bronze-Platinum)",
+    "aciklama": "1975'te kurulan İngiliz dergisi; DWWA yarışmasını düzenler, panel tadımları ve Premium incelemeleri yayımlar.",
+    "url": "https://www.decanter.com/"
+   }
+  ]
+ },
+ "birinciler_not": "Wine Spectator Wine of the Year (#1). 2010-2012 Wine Spectator makalelerinden, 2013-2025 top100.winespectator.com #1 sayfalarından doğrudan alınmıştır. 2022: Schrader Double Diamond Cabernet 2019 (94 puan, $80).",
+ "dwwa_best_in_show": {
+  "2026": {
+   "kaynak": "https://www.decanter.com/decanter-awards/dwwa-judges/decanter-world-wine-awards-2026-best-in-show-top-50-wines/",
+   "aciklama": "50 Best in Show şarap, 16 ülke; Fransa 16 ile lider, Burgonya en başarılı bölge. İlk kez: İsviçre kırmızı, Macaristan Tokaji Aszú, Franciacorta, Piemonte Barbera, Hırvatistan ikinci kez. En yüksek iki puan 98: Santorini Vinsanto 2005 ve Bodegas Tradicion VORS 30 Years Amontillado.",
+   "ornekler": [
+    {
+     "uretici": "Estate Argyros",
+     "sarap": "Vinsanto Late Release, Santorini 2005",
+     "ulke": "Yunanistan",
+     "puan": 98
+    },
+    {
+     "uretici": "Bodegas Tradicion",
+     "sarap": "VORS 30 Years Amontillado, Sherry NV",
+     "ulke": "İspanya",
+     "puan": 98
+    },
+    {
+     "uretici": "Oremus",
+     "sarap": "Aszú 6 Puttonyos, Tokaj 2016",
+     "ulke": "Macaristan",
+     "puan": 97
+    },
+    {
+     "uretici": "G.D. Vajra",
+     "sarap": "Luigi Baudana Baudana Barolo 2022",
+     "ulke": "İtalya",
+     "puan": 97
+    },
+    {
+     "uretici": "Domaine Evenstad",
+     "sarap": "Clos de Vougeot Grand Cru 2023",
+     "ulke": "Fransa",
+     "puan": 97
+    },
+    {
+     "uretici": "Delas Frères",
+     "sarap": "Les Bessards Hermitage 2023",
+     "ulke": "Fransa",
+     "puan": 97
+    },
+    {
+     "uretici": "Domaine Serene",
+     "sarap": "Aspect, Dundee Hills 2023",
+     "ulke": "ABD",
+     "puan": 97
+    },
+    {
+     "uretici": "Rutini",
+     "sarap": "Single Vineyard Malbec, Gualtallary 2023",
+     "ulke": "Arjantin",
+     "puan": 97
+    },
+    {
+     "uretici": "Villa Maria",
+     "sarap": "Ngakirikiri, Gimblett Gravels 2021",
+     "ulke": "Yeni Zelanda",
+     "puan": 97
+    },
+    {
+     "uretici": "Kopke",
+     "sarap": "Colheita Port 1957",
+     "ulke": "Portekiz",
+     "puan": 97
+    },
+    {
+     "uretici": "Balfour",
+     "sarap": "Blanc de Blancs 2018 (magnum), Kent",
+     "ulke": "Birleşik Krallık",
+     "puan": 97
+    }
+   ]
+  },
+  "2025": {
+   "kaynak": "https://www.decanter.com/wine-news/decanter-world-wine-awards-2025-results-revealed-558898/",
+   "aciklama": "50 Best in Show (tüm şarapların %0,30'u): Fransa 14, İtalya 6, İspanya 5, Portekiz 5, Yunanistan 4, ABD 2; Çin ilk kez iki kırmızıyla Best in Show aldı. İngiliz Sugrue South Downs 2025 Best in Show kazananı olarak anıldı.",
+   "ornekler": []
+  }
+ },
+ "turk_basarilari_not": "Concours Mondial de Bruxelles ve Mundus Vini için doğrulanmış Türk sonucu bulunamadı; uydurma kayıt eklenmedi. Decanter'a göre Türkiye'nin Best in Show'u yoktur (2024-2025 itibarıyla en yüksek kademe Platinum)."
+}

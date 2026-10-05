@@ -1,0 +1,77 @@
+{
+ "yasal_not": "Türkiye'de alkollü içkinin internet üzerinden tüketiciye satışı mevzuatla yasaktır: 4250 sayılı Kanun'un 2013'te 6487 sayılı Kanun'la değişen 6. maddesi ve buna dayanan yönetmelikler; ayrıca 22:00–06:00 arası perakende satış yapılamaz. Bu yüzden yalnızca fiziksel mağaza ve duty-free adresleri veriyoruz. Kaynak: resmigazete.gov.tr (11.06.2013).",
+ "yerler": [
+  {
+   "ad": "Unifree Duty Free – İstanbul Havalimanı",
+   "tur": "duty-free",
+   "sehir": "İstanbul (İstanbul Havalimanı)",
+   "web": "https://www.unifree.com.tr/",
+   "instagram": "https://www.instagram.com/unifreetr/",
+   "not": "Click & Collect: uçuştan 6 saat öncesine kadar ön sipariş, gidiş/geliş katındaki mağazadan teslim",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "Avolta Duty Free – Sabiha Gökçen (Reserve & Collect)",
+   "tur": "duty-free",
+   "sehir": "İstanbul (Sabiha Gökçen Havalimanı)",
+   "web": "https://istanbul-sabiha.shopdutyfree.com/en/how-does-it-work",
+   "instagram": "",
+   "not": "Havalimanının resmî duty-free bağlantısı; Reserve & Collect ile önceden ayırıp terminalde teslim alma",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "ATU Duty Free – Antalya Havalimanı",
+   "tur": "duty-free",
+   "sehir": "Antalya (Antalya Havalimanı)",
+   "web": "https://atu.com.tr/locations/turkey/antalya/",
+   "instagram": "https://instagram.com/atudutyfree",
+   "not": "40 satış noktası; alkollü içki dahil uluslararası markalar",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "ATU Duty Free – İzmir Adnan Menderes Havalimanı",
+   "tur": "duty-free",
+   "sehir": "İzmir (Adnan Menderes Havalimanı)",
+   "web": "https://atu.com.tr/locations/turkey/izmir/",
+   "instagram": "https://instagram.com/atudutyfree",
+   "not": "5 satış noktası; içki, tütün, çikolata",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "Setur Duty Free (liman, sınır kapısı ve bölge havalimanları)",
+   "tur": "duty-free",
+   "sehir": "Türkiye geneli (Bodrum, Çeşme, Kuşadası limanları; Gaziantep, Samsun, Eskişehir havalimanları; Kapıkule vb.)",
+   "web": "https://www.seturdutyfree.com/magazalarimiz.html",
+   "instagram": "https://www.instagram.com/seturdutyfree/",
+   "not": "Mağaza listesi sayfası; ön sipariş bilgisi bulunamadı",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "Macrocenter",
+   "tur": "zincir",
+   "sehir": "Türkiye geneli (ağırlıkla İstanbul, Ankara, İzmir, Bodrum)",
+   "web": "https://www.macrocenter.com.tr/magazalarimiz",
+   "instagram": "",
+   "not": "Gurme market; mağazalardaki tekel reyonunda geniş içki seçkisi. Alkol yalnızca mağazadan alınır.",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "Migros / MJet / 5M (mağaza bulucu)",
+   "tur": "zincir",
+   "sehir": "Türkiye geneli",
+   "web": "https://www.migroskurumsal.com/magazalarimiz",
+   "instagram": "",
+   "not": "İl/ilçe seçmeli mağaza bulucu; Migros, 5M, MJet ve Macrocenter mağazalarını listeler. Tekel reyonu her mağazada yok.",
+   "dogrulama": "curl"
+  },
+  {
+   "ad": "CarrefourSA",
+   "tur": "zincir",
+   "sehir": "Türkiye geneli",
+   "web": "",
+   "instagram": "https://www.instagram.com/carrefoursa/",
+   "not": "Büyük hipermarketlerde tekel reyonu; yaygın içki markaları. Resmî site bot koruması nedeniyle doğrulanamadı.",
+   "dogrulama": "curl"
+  }
+ ]
+}
