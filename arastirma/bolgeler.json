@@ -1,0 +1,427 @@
+[
+ {
+  "id": "trakya",
+  "ad": "Trakya ve Gelibolu Yarımadası",
+  "iller": [
+   "Tekirdağ",
+   "Kırklareli",
+   "Edirne",
+   "Çanakkale (Gelibolu, Eceabat)"
+  ],
+  "iklim": "Karadeniz ve Marmara etkisiyle yumuşayan geçiş tipi (karasal-Akdeniz) iklim; ılık yazlar. Bağlar çoğunlukla 50-350 m rakımda.",
+  "toprak": "Kumlu tın, kireçtaşı ve killi tın.",
+  "uzumler": [
+   "Papazkarası",
+   "Karasakız",
+   "Karalahna",
+   "Yapıncak",
+   "Kolorko",
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Sauvignon Blanc",
+   "Chardonnay"
+  ],
+  "sarapaneler": [
+   "Kutman (Mürefte)",
+   "Chamlija (Lüleburgaz)",
+   "Arcadia (Vize)",
+   "Prius",
+   "Chateau Kalpak (Şarköy)",
+   "Barel",
+   "Barbare",
+   "Chateau Nuzun",
+   "Uçmakdere Winery",
+   "Dessera Bağ Evi (Kırklareli)",
+   "Edrine",
+   "Suvla (Eceabat)",
+   "Chateau Gali",
+   "Asmadan",
+   "Etruscan"
+  ],
+  "rota": "Trakya Bağ Rotası, Trakya Kalkınma Ajansı desteğiyle Trakya Turizm İşletmecileri Derneği'nin hayata geçirdiği, Türkiye'nin ilk bağ rotası projesidir (2013, 12 üretici) (Tekirdağ, Şarköy, Gelibolu, Kırklareli). İstanbul'dan çıkışla 2 günlük bir rota Eceabat (Suvla) ile Kırklareli arasındaki bağları birleştirebilir; en iyi dönem sonbahardır. Mürefte'deki Kutman Şarap Müzesi ziyarete değer. Şarköy-Mürefte'de bağ bozumu eylül-ekim aylarında yaşanır.",
+  "hasat": "Genellikle ağustos sonu–eylül; Şarköy'de Chardonnay gibi erkenci üzümlerle başlar. Normal yıllarda hasat İzmir ve Denizli'den sonra Trakya'da ilerler.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/thrace",
+   "https://www.vitikultur.com/tr/rotalar/trakya-bag-yolu",
+   "https://turkiyeturizmansiklopedisi.com/trakya-bag-rotasi",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+   "https://www.iwsa.com.tr/fermente-distile/turkiyede-bag-bozumu-2024.html",
+   "https://vegadergi.com.tr/bagciligin-ve-sarabin-anadolu-ve-trakyali-tarihi/",
+   "https://www.hurriyet.com.tr/seyahat/sarkoy-de-bagbozumu-senligi-eylulde-baslar-30048561"
+  ]
+ },
+ {
+  "id": "bozcaada-gokceada",
+  "ad": "Kuzey Ege Adaları: Bozcaada, Gökçeada ve Avşa",
+  "iller": [
+   "Çanakkale (Bozcaada, Gökçeada)",
+   "Balıkesir (Avşa)"
+  ],
+  "iklim": "Güçlü rüzgârlı, denizel etkili Akdeniz iklimi; sıcak kuru yazlar, ılık yağışlı kışlar.",
+  "toprak": "Bozcaada'da kumlu, rüzgâra açık topraklar; kalkerli parseller (Vasilaki için).",
+  "uzumler": [
+   "Karalahna",
+   "Karasakız (Kuntra)",
+   "Çavuş",
+   "Vasilaki",
+   "Adakarası"
+  ],
+  "sarapaneler": [
+   "Corvus",
+   "Talay",
+   "Çamlıbağ",
+   "Ataol",
+   "Amadeus",
+   "Adayel Bağevi",
+   "Büyülübağ (Avşa)",
+   "Barba Yorgo (Gökçeada, Tepeköy)"
+  ],
+  "rota": "Bozcaada'ya Geyikli'den feribotla ulaşılır; adadaki üreticilerin çoğu nisan–ekim arasında tadım programı sunar ve 2 günlük bir program bağ ziyaretlerini deniz ve ada gastronomisiyle birleştirir. Gökçeada'da Tepeköy'deki Barba Yorgo şarap evi adanın taverna kültürünün simgelerindendir. Bozcaada Kültür Sanat ve Bağbozumu Festivali ağustos sonu–eylül başında yapılır.",
+  "hasat": "Çavuş ve Vasilaki erken; Karalahna geç olgunlaşır, eylül ortasından sonra hasat edilir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/rotalar/bozcaada-bag-adasi",
+   "https://www.vitikultur.com/tr/uzumler/karalahna",
+   "https://www.vitikultur.com/tr/uzumler/cavus",
+   "https://www.vitikultur.com/tr/uzumler/adakarasi",
+   "https://barbayorgo.com.tr/barba-yorgo/",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+   "https://www.bozcaada.bel.tr/etkinlikler/2025/bozcaada-kultur-sanat-bagbozumu-festivali/"
+  ]
+ },
+ {
+  "id": "urla",
+  "ad": "Ege Kıyısı: Urla Yarımadası",
+  "iller": [
+   "İzmir (Urla, Seferihisar, Çeşme, Menderes, Kemalpaşa)"
+  ],
+  "iklim": "Denizel etkisi güçlü Akdeniz iklimi; sıcak kuru yazlar, ılık yağışlı kışlar, serinleten meltemler. Bağlar 0-450 m.",
+  "toprak": "Volkanik tüf, kalkerli kil ve şist.",
+  "uzumler": [
+   "Bornova Misketi",
+   "Urla Karası",
+   "Foça Karası",
+   "Syrah",
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Chardonnay",
+   "Carignan"
+  ],
+  "sarapaneler": [
+   "Urla Şarapçılık",
+   "Urlice",
+   "USCA",
+   "İkidenizarası",
+   "Perdix",
+   "MMG",
+   "Mozaik",
+   "HUS",
+   "Çakır",
+   "Statera",
+   "Dvin Urla",
+   "Buradan (Çeşme)",
+   "Ayda (Seferihisar)",
+   "Nif Bağları (Kemalpaşa)"
+  ],
+  "rota": "Urla Bağ Yolu, yerel üreticilerin girişimiyle 2015-2016'da kurulmuş bir dernek ve rotadır; bugünkü durakları arasında Urla Şarapçılık, Urlice, USCA, İkidenizarası, Perdix, MMG, Mozaik, HUS, Çakır ve Statera bulunur. İzmir'den çıkışla tek günde üç bağ evi gezilebilir (yaklaşık 35 km); tadım ve restoran için rezervasyon önerilir. Urla'nın geleneksel Bağ Bozumu Şenlikleri ağustos ortasında (14 Ağustos civarı) Cumhuriyet Meydanı'nda yapılır.",
+  "hasat": "Türkiye'nin en erken hasatlarından; İzmir'de Misket hasadı ağustos ortası–sonunda başlar, kırmızılar eylülde.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/aegean",
+   "https://www.vitikultur.com/tr/rotalar/urla-bag-rotasi",
+   "https://turkiyeturizmansiklopedisi.com/urla-bag-yolu",
+   "https://www.iwsa.com.tr/fermente-distile/turkiyede-bag-bozumu-2024.html",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+   "https://urlabagyolu.com/",
+   "https://vegadergi.com.tr/bagciligin-ve-sarabin-anadolu-ve-trakyali-tarihi/",
+   "https://www.izmir.art/tr/urla-geleneksel-bag-bozumu-senlikleri?seans=66ba11414ecd6e58fa5d0eb3"
+  ]
+ },
+ {
+  "id": "sirince-selcuk",
+  "ad": "Ege: Şirince, Selçuk ve Torbalı",
+  "iller": [
+   "İzmir (Selçuk, Torbalı, Tire)",
+   "Aydın (Germencik)"
+  ],
+  "iklim": "Akdeniz iklimi; sıcak yazlar, ılık kışlar.",
+  "toprak": "Kalkerli kil ve şist.",
+  "uzumler": [
+   "Öküzgözü",
+   "Boğazkere",
+   "Narince",
+   "Bornova Misketi",
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Syrah"
+  ],
+  "sarapaneler": [
+   "Akberg Şirince Şarapçılık",
+   "Yedi Bilgeler Bağları (Selçuk)",
+   "Lucien Arkas Bağları (Torbalı)",
+   "Paşaeli (Tire)",
+   "Antik Bağcılık (Germencik)"
+  ],
+  "rota": "Şirince köyü meyve ve üzüm şaraplarıyla tanınır; Akberg 1997'de köyün eski zeytinyağı fabrikası ve tarihî okul binasını satın alarak bu ünü pekiştirmiştir. Efes antik kenti ziyaretiyle birleştirilebilir.",
+  "hasat": "Ağustos sonu–eylül.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/aegean",
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "ic-ege",
+  "ad": "İç Ege: Manisa ve Uşak",
+  "iller": [
+   "Manisa (Alaşehir-Kemaliye, Sarıgöl)",
+   "Uşak"
+  ],
+  "iklim": "Akdeniz ile karasal arasında geçiş; sıcak yazlar, rakımla serinleyen geceler.",
+  "toprak": "Kalkerli ve alüvyal topraklar.",
+  "uzumler": [
+   "Sultaniye",
+   "Bornova Misketi",
+   "Öküzgözü",
+   "Boğazkere",
+   "Syrah",
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Grenache",
+   "Mourvèdre"
+  ],
+  "sarapaneler": [
+   "Kavaklıdere Pendore (Kemaliye)"
+  ],
+  "rota": "Kavaklıdere'nin Pendore bağları Alaşehir'in Kemaliye kasabasında, 190-475 m rakımda yaklaşık 194 hektarlık tek parça bağdır; Sultaniye bağlarının yoğun olduğu Gediz havzası, sofralık ve kuru üzüm bağlarıyla da gezilebilir.",
+  "hasat": "Ağustos sonu–eylül.",
+  "kaynak": [
+   "https://kavaklidere.com/pendore-baglari/",
+   "https://kavaklidere.com/baglarimiz-ve-uretim/",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "denizli-cal",
+  "ad": "Denizli: Çal ve Güney Platoları",
+  "iller": [
+   "Denizli (Çal, Güney)"
+  ],
+  "iklim": "Karasal-Akdeniz geçiş iklimi; sıcak yazlar, rakımda serin geceler. Bağlar 700-1.000 m (Çal Karası bağlarında 1.200 m'ye kadar).",
+  "toprak": "Kırmızı kil, kalkerli ve kumlu topraklar.",
+  "uzumler": [
+   "Çalkarası",
+   "Sultaniye",
+   "Bornova Misketi",
+   "Öküzgözü",
+   "Kalecik Karası",
+   "Syrah",
+   "Cabernet Sauvignon",
+   "Pinot Noir"
+  ],
+  "sarapaneler": [
+   "Pamukkale Şarapçılık",
+   "Kuzubağ",
+   "Lermonos",
+   "Küp",
+   "Erdel (Hanchalar)",
+   "Ezel",
+   "Efmeyra",
+   "Mete",
+   "Kayıbağ",
+   "Kavaklıdere Güney Plato bağları"
+  ],
+  "rota": "Çal Bağ Yolu; Küp, Kuzubağ, Lermonos ve Erdel gibi durakları olan, ilçenin bağcılık ve şarap geleneğini öne çıkaran bir rotadır. Kuzubağ ve Lermonos'ta tadım eşliğinde restoran hizmeti vardır. Pamukkale travertenleri yakındadır. Çal Bağ Yolu 2023'te 4 üreticiyle kurulmuştur; Çal Bağ Bozumu Kültür ve Sanat Festivali eylül başında yapılır.",
+  "hasat": "Eylül; yüksek platolarda eylül sonu–ekime uzanabilir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/denizli",
+   "http://turkiyeturizmansiklopedisi.com/cal-bag-yolu",
+   "https://kavaklidere.com/denizli-guney-plato-baglari/",
+   "https://www.iwsa.com.tr/fermente-distile/turkiyede-bag-bozumu-2024.html",
+   "https://vegadergi.com.tr/bagciligin-ve-sarabin-anadolu-ve-trakyali-tarihi/",
+   "https://festivall.com.tr/festival/14661/cal-bag-bozumu-kultur-ve-sanat-festivali/"
+  ]
+ },
+ {
+  "id": "akdeniz",
+  "ad": "Akdeniz ve Güney Ege: Elmalı, Datça, Bodrum, Mersin",
+  "iller": [
+   "Antalya (Elmalı)",
+   "Muğla (Datça, Bodrum)",
+   "Mersin (Silifke, Çömelek)"
+  ],
+  "iklim": "Uzun sıcak yazlı, ılık kışlı Akdeniz iklimi; Elmalı yaylası ve Toros eteklerinde 900-1.400 m rakım serinlik getirir.",
+  "toprak": "Kalkerli, alüvyal ve karstik kireçtaşı.",
+  "uzumler": [
+   "Acıkara",
+   "Fersun",
+   "Patkara",
+   "Göküzüm",
+   "Aküzüm",
+   "Knidos Karası",
+   "Cabernet Sauvignon",
+   "Syrah",
+   "Merlot"
+  ],
+  "sarapaneler": [
+   "Likya (Elmalı)",
+   "Datça Şarapçılık",
+   "Knidos (Datça)",
+   "Karnas (Bodrum)",
+   "Tasheli (Mersin)",
+   "Selefkia (Silifke)"
+  ],
+  "rota": "Toros eteklerindeki yüksek bağlar ve endemik üzümler (Acıkara, Fersun, Patkara) bu rotanın ana temasıdır; Datça'da bağ ziyareti antik Knidos ile birleştirilebilir.",
+  "hasat": "Kıyıda ağustos; yüksek rakımlı Elmalı ve Toros bağlarında eylül–ekim.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/mediterranean",
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "kapadokya",
+  "ad": "İç Anadolu: Kapadokya",
+  "iller": [
+   "Nevşehir (Ürgüp, Avanos, Gülşehir, Hacıbektaş)",
+   "Kırşehir"
+  ],
+  "iklim": "Karasal iklim: soğuk kışlar, sıcak kuru yazlar ve büyük gece-gündüz sıcaklık farkı. Bağlar 900-1.300 m.",
+  "toprak": "Volkanik tüf, bazalt ve kumlu tın.",
+  "uzumler": [
+   "Emir",
+   "Narince",
+   "Kalecik Karası",
+   "Boğazkere",
+   "Öküzgözü",
+   "Dimrit"
+  ],
+  "sarapaneler": [
+   "Turasan (Ürgüp)",
+   "Kocabağ (Ürgüp)",
+   "Kavaklıdere Côtes d'Avanos (Gülşehir)",
+   "Evenez (Avanos)",
+   "S'narin (Avanos)",
+   "Deniz Şarapçılık / Aryatus (Hacıbektaş)"
+  ],
+  "rota": "Ürgüp çevresinde tüf kayalara oyulmuş mahzenler tek günlük bir rotayla gezilebilir (Kocabağ'da yer altı mahzen turu). Ankara-Kalecik ile birleştirilen 3 günlük \"Anadolu Bağ Rotası\" yaklaşık 380 km'dir. Ürgüp Uluslararası Bağ Bozumu Festivali eylül başında düzenlenir (2025'te 5-6 Eylül, 54. kez).",
+  "hasat": "Bazı çeşitler ağustos-eylülde, diğerleri eylül-ekim hatta kasıma kadar; sonbahar en uygun ziyaret dönemidir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/cappadocia",
+   "https://www.vitikultur.com/tr/rotalar/kapadokya-bag-mahzenleri",
+   "https://www.vitikultur.com/tr/rotalar/anadolu-bag-rotasi",
+   "https://www.oggusto.com/gastronomi/bag-bozumu-nedir-ne-zaman-yapilir",
+   "https://festivall.com.tr/festival/13405/urgup-uluslararasi-bag-bozumu-festivali/"
+  ]
+ },
+ {
+  "id": "kalecik",
+  "ad": "İç Anadolu: Ankara-Kalecik",
+  "iller": [
+   "Ankara (Kalecik, Akyurt)",
+   "Kırıkkale (Hasandede)"
+  ],
+  "iklim": "Karasal iklim; sert mevsim geçişleri, sıcak kuru yazlar, soğuk kışlar. Kızılırmak vadisi kendine özgü bir mikroklima yaratır. Bağlar 600-900 m.",
+  "toprak": "Kalkerli kil, şist ve alüvyon; deniz fosilleri bakımından zengin topraklar.",
+  "uzumler": [
+   "Kalecik Karası",
+   "Hasandede",
+   "Narince",
+   "Emir"
+  ],
+  "sarapaneler": [
+   "Vinkara",
+   "Kalvi (Chateau Kalecik)",
+   "Tomurcukbağ",
+   "Tafali",
+   "Kavaklıdere (Akyurt)"
+  ],
+  "rota": "Kalecik ilçesi Kalecik Karası'nın anavatanıdır; Vinkara'nın tadım salonu ve Kalecik Kalesi bir gezide birleştirilebilir. Belediyenin düzenlediği Kalecik Karası Üzüm Festivali eylül ortasında yapılır (2024'te 13-15 Eylül).",
+  "hasat": "Eylül.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/central_anatolia",
+   "https://www.vitikultur.com/tr/rotalar/anadolu-bag-rotasi",
+   "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1",
+   "https://www.kalecik.bel.tr/haberler/14-kalecik-karasi-uzum-festivaline-davetlisiniz"
+  ]
+ },
+ {
+  "id": "elazig",
+  "ad": "Doğu Anadolu: Elazığ",
+  "iller": [
+   "Elazığ (Sivrice, Maden, Aydıncık)",
+   "Malatya"
+  ],
+  "iklim": "Sert karasal iklim; kışlar -20°C'nin altına inebilir, yazlar sıcak ve gece-gündüz farkı yüksek. Fırat kolları ve Hazar Gölü yumuşatıcı etki yapar. Bağlar 1.000-1.200 m.",
+  "toprak": "Volkanik, alüvyal ve killi tın.",
+  "uzumler": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "sarapaneler": [
+   "Eskibağlar (Sivrice-Kürkköy)",
+   "Kavaklıdere Aydıncık bağları"
+  ],
+  "rota": "Eskibağlar, Sivrice-Kürkköy'de 50 hektarlık arazide \"Mezopotamya'nın ilk şarap oteli\" olarak tanıtılan bağ-otel kompleksidir; Hazar Gölü kıyısıyla birleştirilebilir.",
+  "hasat": "Eylül sonu–ekim; Elazığ'da bağ bozumu şenlikleri genellikle eylül sonunda düzenlenir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/southeast",
+   "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC",
+   "https://kavaklidere.com/baglarimiz-ve-uretim/",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+   "https://www.elazigfirat.com/video/19409353/elazigda-17-bag-bozumu-ve-uzum-festivali-duzenlendi"
+  ]
+ },
+ {
+  "id": "guneydogu",
+  "ad": "Güneydoğu Anadolu: Diyarbakır ve Mardin",
+  "iller": [
+   "Diyarbakır (Eğil, Çermik)",
+   "Mardin (Midyat)"
+  ],
+  "iklim": "Sıcak karasal iklim; uzun kuru yazlar, soğuk kışlar. Dicle havzası. Bağlar 800-1.300 m.",
+  "toprak": "Volkanik, alüvyal ve killi tın; kalkerli parseller.",
+  "uzumler": [
+   "Boğazkere",
+   "Öküzgözü",
+   "Kerküş",
+   "Mazrona"
+  ],
+  "sarapaneler": [
+   "Ninova (Diyarbakır-Eğil)",
+   "Midyat Shiluh Süryani Şarapçılık",
+   "Dewo Süryani Şarap Evi (Midyat)",
+   "Ömür Süryani Şarap Evi (Midyat)"
+  ],
+  "rota": "Midyat'ta Tur Abdin Süryani şarap geleneğini sürdüren aile şarap evleri tarihi taş sokaklarda ziyaret edilebilir; Shiluh 2009'da kurulmuş, ilk hasadını 2010'da yapmıştır.",
+  "hasat": "Eylül–ekim; Boğazkere geç olgunlaşır, Mazrona çoğunlukla ekime sarkar.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/bolgeler/southeast",
+   "https://www.vitikultur.com/tr/uzumler/kerkus",
+   "https://www.vitikultur.com/tr/uzumler/mazrona",
+   "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+  ]
+ },
+ {
+  "id": "karadeniz",
+  "ad": "Karadeniz İç Kesimi: Tokat ve Amasya",
+  "iller": [
+   "Tokat (Niksar, Erbaa, Turhal)",
+   "Amasya (Merkez, Taşova)"
+  ],
+  "iklim": "Karadeniz'in nemli kıyı ikliminden içeride, Yeşilırmak ve Kelkit vadilerinde ılıman-karasal geçiş iklimi. (Orta ve Doğu Karadeniz kıyısı aşırı yağış nedeniyle bağcılığa elverişsizdir.)",
+  "toprak": "Vadi tabanlarında alüvyal, yamaçlarda kalkerli killi topraklar.",
+  "uzumler": [
+   "Narince"
+  ],
+  "sarapaneler": [
+   "Diren (Tokat, 1958)"
+  ],
+  "rota": "Narince'nin anavatanı Tokat'tır; Niksar ve Erbaa'da en aromatik sonuçlar alınır. Tokat'ta Narince yaprağı salamura sarma yaprağı olarak da ünlüdür; bağ gezisi yerel mutfakla birleştirilebilir.",
+  "hasat": "Eylül ortası (Narince, Tokat koşullarında).",
+  "kaynak": [
+   "https://direnwines.com/",
+   "https://en.wikipedia.org/wiki/Narince_(grape)",
+   "https://degustasyon.net/diren-collection-narince-2022-tokat/",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
+   "https://turkiyeturizmansiklopedisi.com/tokat-narince-salamura-asma-yapragi"
+  ]
+ }
+]

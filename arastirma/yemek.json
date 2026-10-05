@@ -1,0 +1,266 @@
+[
+ {
+  "id": "kuzu-tandir",
+  "ad": "Kuzu tandır",
+  "tur": "et",
+  "oneri": "Yapılı kırmızı: Boğazkere, Öküzgözü-Boğazkere kupajı veya Cabernet Sauvignon.",
+  "neden": "Saatlerce pişmiş yağlı kuzu, Boğazkere'nin güçlü taneniyle dengelenir ve ağız ferahlar.",
+  "kacin": "Hafif, aromatik beyazlar (Misket) ve tatlı şaraplar; etin yağı altında kaybolur."
+ },
+ {
+  "id": "iskender",
+  "ad": "İskender kebap",
+  "tur": "et",
+  "oneri": "Orta-tam gövdeli kırmızı: Öküzgözü veya Syrah; meşeli Kalecik Karası da olur.",
+  "neden": "Tereyağı, domates sosu ve yoğurt; meyvesi bol, asidi canlı bir kırmızı sosla uyum sağlarken tereyağını keser.",
+  "kacin": "Çok tanenli genç Boğazkere; yoğurtla tanen buruk ve metalik hissettirebilir."
+ },
+ {
+  "id": "manti",
+  "ad": "Kayseri mantısı",
+  "tur": "et",
+  "oneri": "Hafif-orta kırmızı (Kalecik Karası, Papazkarası) ya da dolgun bir roze (Çalkarası).",
+  "neden": "Sarımsaklı yoğurt ve pul biberli tereyağına parlak asitli, düşük tanenli şaraplar yakışır.",
+  "kacin": "Ağır meşeli, yüksek tanenli kırmızılar; yoğurtla çatışır."
+ },
+ {
+  "id": "karniyarik",
+  "ad": "Karnıyarık",
+  "tur": "et",
+  "oneri": "Orta gövdeli kırmızı: Öküzgözü, Merlot veya Karasakız.",
+  "neden": "Kızarmış patlıcan ve kıymalı domates sosu, Öküzgözü'nün sulu meyvesi ve asidiyle uyumlanır.",
+  "kacin": "Narin, meşesiz hafif beyazlar; yemeğin yağı ve domatesi baskın gelir."
+ },
+ {
+  "id": "hunkar-begendi",
+  "ad": "Hünkâr beğendi",
+  "tur": "et",
+  "oneri": "Öküzgözü veya meşeli Chardonnay/Narince.",
+  "neden": "Közlenmiş patlıcanlı beşamel ve kuzu yahnisine hem yumuşak kırmızı hem kremamsı beyaz eşlik edebilir.",
+  "kacin": "Çok asidik, ince gövdeli beyazlar ve sert tanenli genç kırmızılar."
+ },
+ {
+  "id": "adana-kebap",
+  "ad": "Adana kebap",
+  "tur": "et",
+  "oneri": "Baharatlı kırmızı: Syrah, Boğazkere veya Urla Karası.",
+  "neden": "Pul biber ve kuyruk yağının yoğunluğunu Syrah'ın karabiberli meyvesi ve Boğazkere'nin yapısı karşılar.",
+  "kacin": "Yüksek alkollü, ağır meşeli kırmızılar acıyı artırır; hafif beyazlar ise kaybolur."
+ },
+ {
+  "id": "urfa-kebap",
+  "ad": "Urfa kebap",
+  "tur": "et",
+  "oneri": "Öküzgözü, Kalecik Karası veya Grenache.",
+  "neden": "Acısız ama baharatlı kıymaya meyvesi bol, tanenleri yumuşak kırmızılar uyar.",
+  "kacin": "Çok tanenli genç kırmızılar ve tatlı şaraplar."
+ },
+ {
+  "id": "kuzu-pirzola",
+  "ad": "Kuzu pirzola",
+  "tur": "et",
+  "oneri": "Cabernet Sauvignon, Bordeaux kupajı veya Öküzgözü-Boğazkere.",
+  "neden": "Izgara kuzunun yağı ve kömür aroması tanenli, yapılı kırmızılarla dengelenir.",
+  "kacin": "Aromatik tatlı beyazlar, ince Misketler."
+ },
+ {
+  "id": "kofte",
+  "ad": "Izgara köfte",
+  "tur": "et",
+  "oneri": "Papazkarası, Merlot veya Kalecik Karası.",
+  "neden": "Orta yoğunluktaki ızgara kıymaya meyveli, orta gövdeli kırmızılar uygundur.",
+  "kacin": "Ağır, uzun yıllanmış ve çok tanenli şaraplar; yemeği ezer."
+ },
+ {
+  "id": "kuru-fasulye",
+  "ad": "Kuru fasulye",
+  "tur": "et",
+  "oneri": "Orta gövdeli kırmızı: Öküzgözü, Merlot, Tempranillo.",
+  "neden": "Domatesli, tereyağlı, pastırmalı ya da etli tencere yemeğine yumuşak tanenli kırmızı iyi gider.",
+  "kacin": "İnce, çok asidik beyazlar; yemeğin gövdesi yanında sulu kalır."
+ },
+ {
+  "id": "etli-pide",
+  "ad": "Kıymalı / kuşbaşılı pide",
+  "tur": "et",
+  "oneri": "Kalecik Karası, Sangiovese ya da Montepulciano.",
+  "neden": "Hamur, domates ve et üçlüsüne parlak asitli ve orta gövdeli kırmızı uyar.",
+  "kacin": "Tatlı ve yarı tatlı şaraplar."
+ },
+ {
+  "id": "lahmacun",
+  "ad": "Lahmacun",
+  "tur": "sokak",
+  "oneri": "Hafif ve meyveli kırmızı (Karasakız, Papazkarası) ya da kuru roze (Çalkarası).",
+  "neden": "İnce hamur ve baharatlı kıymaya serinletilmiş, düşük tanenli şaraplar hafiflik katar.",
+  "kacin": "Yüksek alkollü ve ağır meşeli kırmızılar."
+ },
+ {
+  "id": "kokorec",
+  "ad": "Kokoreç",
+  "tur": "sokak",
+  "oneri": "Baharatlı kırmızı (Syrah, Boğazkere) ya da canlı asitli beyaz (Emir).",
+  "neden": "Yağlı ve kekikli-pul biberli kokoreçte tanen ya da yüksek asit yağı temizler.",
+  "kacin": "Hafif, aromatik yarı tatlı beyazlar."
+ },
+ {
+  "id": "tantuni",
+  "ad": "Tantuni",
+  "tur": "sokak",
+  "oneri": "Karasakız, Grenache veya meyveli bir roze.",
+  "neden": "Pamuk yağında sotelenen baharatlı ete düşük tanenli, meyveli şaraplar uyar.",
+  "kacin": "Ağır tanenli, uzun meşede kalmış kırmızılar."
+ },
+ {
+  "id": "midye-dolma",
+  "ad": "Midye dolma",
+  "tur": "sokak",
+  "oneri": "Ferah, mineral beyaz: Emir, Vasilaki veya Sıdalan.",
+  "neden": "Limonlu baharatlı pilavlı midyeye yüksek asitli, tuzumsu bitişli beyazlar yakışır.",
+  "kacin": "Tanenli kırmızılar; deniz ürünüyle metalik tat verir."
+ },
+ {
+  "id": "zeytinyagli-enginar",
+  "ad": "Zeytinyağlı enginar",
+  "tur": "zeytinyagli",
+  "oneri": "Sauvignon Blanc, Emir veya Narince.",
+  "neden": "Enginarın acımsı-tatlı karakteri ve dereotu-limon, yüksek asitli otsu beyazlarla dengelenir.",
+  "kacin": "Tanenli kırmızılar ve meşeli beyazlar; enginar onları acı ve metalik gösterir."
+ },
+ {
+  "id": "zeytinyagli-fasulye",
+  "ad": "Zeytinyağlı taze fasulye",
+  "tur": "zeytinyagli",
+  "oneri": "Kuru roze (Çalkarası, Karasakız) veya Narince.",
+  "neden": "Domatesli, zeytinyağlı sebzeye ferah asitli roze ya da beyaz uyar.",
+  "kacin": "Yüksek tanenli ve ağır kırmızılar."
+ },
+ {
+  "id": "yaprak-sarma",
+  "ad": "Zeytinyağlı yaprak sarma",
+  "tur": "zeytinyagli",
+  "oneri": "Narince veya Sultaniye.",
+  "neden": "Asma yaprağının ekşimsi-otsu tadı Narince'nin narenciyeli asidiyle uyumludur; Tokat'ta Narince yaprağıyla da sarılır.",
+  "kacin": "Meşeli, tanenli kırmızılar."
+ },
+ {
+  "id": "imambayildi",
+  "ad": "İmambayıldı",
+  "tur": "zeytinyagli",
+  "oneri": "Kuru roze (Çalkarası) veya hafif kırmızı (Kalecik Karası).",
+  "neden": "Bol zeytinyağlı, soğanlı patlıcana serin servis edilen meyveli şaraplar uyar.",
+  "kacin": "Ağır, tanenli kırmızılar."
+ },
+ {
+  "id": "levrek-bugulama",
+  "ad": "Levrek buğulama",
+  "tur": "balik",
+  "oneri": "Emir, Narince veya Chardonnay (meşesiz).",
+  "neden": "Narin beyaz etli balık, sebzeli buğusu ve limonuyla ince yapılı, asitli beyazlarla öne çıkar.",
+  "kacin": "Tanenli kırmızılar ve yoğun aromatik tatlı şaraplar."
+ },
+ {
+  "id": "lufer-izgara",
+  "ad": "Lüfer ızgara",
+  "tur": "balik",
+  "oneri": "Yapıncak, Narince veya hafif bir kırmızı (Karasakız).",
+  "neden": "Yağlı mevsim balığına gövdeli beyaz ya da düşük tanenli hafif kırmızı uyar.",
+  "kacin": "Yüksek tanenli kırmızılar."
+ },
+ {
+  "id": "hamsi-tava",
+  "ad": "Hamsi tava",
+  "tur": "balik",
+  "oneri": "Narince, Emir veya köpüklü şarap.",
+  "neden": "Kızarmış yağlı balığa yüksek asit ve köpük ferahlık getirir.",
+  "kacin": "Ağır meşeli beyazlar ve tanenli kırmızılar."
+ },
+ {
+  "id": "sardalya",
+  "ad": "Sardalya ızgara",
+  "tur": "balik",
+  "oneri": "Vasilaki, Yapıncak veya kuru roze.",
+  "neden": "Yağlı ve iyotlu sardalyaya tuzumsu-asitli beyaz ya da roze uyar.",
+  "kacin": "Tanenli kırmızılar; balıkla metalik his yaratır."
+ },
+ {
+  "id": "kalamar-ahtapot",
+  "ad": "Kalamar tava / ızgara ahtapot",
+  "tur": "balik",
+  "oneri": "Vermentino, Sauvignon Blanc veya Çavuş.",
+  "neden": "Deniz ürünlerine ferah, mineral ve narenciyeli beyazlar en iyi eşlik eder.",
+  "kacin": "Tanenli kırmızılar."
+ },
+ {
+  "id": "ezine-peyniri",
+  "ad": "Ezine peyniri (tam yağlı beyaz peynir)",
+  "tur": "peynir",
+  "oneri": "Ferah beyaz (Emir, Narince) veya kuru roze.",
+  "neden": "Tuzlu ve yağlı beyaz peynire yüksek asitli şaraplar dengeli bir meze eşleşmesi sunar.",
+  "kacin": "Ağır tanenli kırmızılar; peyniri acılaştırır."
+ },
+ {
+  "id": "kars-gravyeri",
+  "ad": "Kars gravyeri",
+  "tur": "peynir",
+  "oneri": "Meşeli Narince, Chardonnay ya da orta gövdeli kırmızı (Öküzgözü, Kalecik Karası).",
+  "neden": "Fındıksı ve olgun sert peynir hem gövdeli beyazlarla hem orta tanenli kırmızılarla uyumludur.",
+  "kacin": "Çok hafif, düşük gövdeli beyazlar."
+ },
+ {
+  "id": "tulum-peyniri",
+  "ad": "Erzincan tulum peyniri",
+  "tur": "peynir",
+  "oneri": "Yapılı kırmızı (Boğazkere, Karalahna) veya Bornova Misketi'nden tatlı şarap.",
+  "neden": "Keskin, tuzlu ve yağlı tulum; güçlü kırmızı ya da tuz-tatlı kontrastı veren tatlı şarapla dengelenir.",
+  "kacin": "Narin, nötr beyazlar."
+ },
+ {
+  "id": "kasar",
+  "ad": "Eski kaşar",
+  "tur": "peynir",
+  "oneri": "Öküzgözü, Merlot veya Cabernet Sauvignon.",
+  "neden": "Olgun, yoğun kaşar orta-yüksek tanenli kırmızılarla iyi eşleşir.",
+  "kacin": "Hafif aromatik beyazlar."
+ },
+ {
+  "id": "otlu-peynir",
+  "ad": "Van otlu peyniri",
+  "tur": "peynir",
+  "oneri": "Narince, Sauvignon Blanc veya Hasandede.",
+  "neden": "Otsu ve tuzlu peynir otsu, asitli beyazlarla uyumlanır.",
+  "kacin": "Ağır meşeli kırmızılar."
+ },
+ {
+  "id": "baklava",
+  "ad": "Baklava",
+  "tur": "tatli",
+  "oneri": "Tatlı Bornova Misketi veya geç hasat tatlı beyaz.",
+  "neden": "Tatlı şarabın şekeri tatlıdan en az onun kadar yüksek olmalı; misketin çiçeksi aroması fıstıkla uyumludur.",
+  "kacin": "Kuru şaraplar; tatlının yanında ekşi ve ince kalır."
+ },
+ {
+  "id": "kunefe",
+  "ad": "Künefe",
+  "tur": "tatli",
+  "oneri": "Tatlı Bornova Misketi ya da geç hasat tatlı şarap.",
+  "neden": "Erimiş peynir ve şerbetin tuz-tatlı dengesine aromatik tatlı şarap yakışır.",
+  "kacin": "Kuru ve tanenli kırmızılar."
+ },
+ {
+  "id": "ayva-tatlisi",
+  "ad": "Ayva tatlısı",
+  "tur": "tatli",
+  "oneri": "Tatlı Bornova Misketi veya tatlı Yapıncak.",
+  "neden": "Karamelize ayvaya misketin çiçeksi-meyvemsi tatlı yapısı uyar.",
+  "kacin": "Kuru beyaz ve kırmızılar."
+ },
+ {
+  "id": "sutlac",
+  "ad": "Fırın sütlaç",
+  "tur": "tatli",
+  "oneri": "Tatlı misket ya da hafif tatlı köpüklü.",
+  "neden": "Kremamsı, vanilyalı tatlıya hafif, aromatik tatlı şaraplar eşlik eder.",
+  "kacin": "Tanenli kırmızılar."
+ }
+]

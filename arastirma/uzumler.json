@@ -1,0 +1,961 @@
+[
+ {
+  "id": "okuzgozu",
+  "ad": "Öküzgözü",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Elazığ (Maden, Sivrice), Malatya; bugün Kapadokya, Denizli-Çal, Ege ve Trakya bağlarında da",
+  "karakter": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar.",
+  "eslesme": "Güveçler, kebaplar, isli yemekler, hünkâr beğendi, ızgara kırmızı et.",
+  "ornek_ureticiler": [
+   "Kavaklıdere",
+   "Eskibağlar",
+   "Ninova",
+   "Vinkara",
+   "Turasan",
+   "Lucien Arkas Bağları",
+   "Kutman"
+  ],
+  "not": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+  ]
+ },
+ {
+  "id": "bogazkere",
+  "ad": "Boğazkere",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Diyarbakır (Dicle havzası); Elazığ ve diğer sıcak iç bölgeler; Kapadokya, Ege ve Denizli'de de dikili",
+  "karakter": "Geç olgunlaşan, kalın kabuklu, küçük taneli bir üzüm. Yoğun renk, yüksek ve kurutan tanen, sağlam yapı ve orta asit verir; vişne, kiraz ve baharat notaları taşır. Meşe olgunlaştırması tanenini yumuşatır, yıllanma potansiyeli yüksektir.",
+  "eslesme": "Soslu baharatlı etler, kebaplar, mangal, kuzu tandır, olgun ve sert peynirler.",
+  "ornek_ureticiler": [
+   "Kavaklıdere",
+   "Vinkara",
+   "Turasan",
+   "Ninova",
+   "Eskibağlar",
+   "Midyat Shiluh",
+   "Kalvi (Chateau Kalecik)"
+  ],
+  "not": "Adı \"boğazı yakan\" anlamına gelir; ağızda bıraktığı belirgin tanen hissini anlatır. En klasik kupaj eşi Öküzgözü'dür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/bogazkere",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+  ]
+ },
+ {
+  "id": "kalecik-karasi",
+  "ad": "Kalecik Karası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Ankara-Kalecik ve Kızılırmak vadisi; Kapadokya, Denizli, Trakya",
+  "karakter": "Düşük-orta tanen, parlak asit ve kiraz-ahududu gibi kırmızı meyve aromalarıyla zarif, orta gövdeli şaraplar verir. Meşede dinlendirilmiş daha gövdeli yorumları ve rozeleri de yaygındır.",
+  "eslesme": "Pide, domates soslu etler, ızgara pirzola, hafif kırmızı et yemekleri.",
+  "ornek_ureticiler": [
+   "Kavaklıdere",
+   "Vinkara",
+   "Kalvi (Chateau Kalecik)",
+   "Tomurcukbağ",
+   "Tafali",
+   "Kuzubağ",
+   "Turasan"
+  ],
+  "not": "Filoksera ve uzun süreli ihmal nedeniyle yok olmanın eşiğine gelmiş; 1970'lerde Ankara Üniversitesi'nden Prof. Dr. Y. Sabit Ağaoğlu'nun klon seleksiyonu çalışmalarıyla yeniden canlandırılmıştır. Sık sık Pinot Noir'a benzetilir ama botanik olarak akraba değildir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/kalecik-karasi",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1"
+  ]
+ },
+ {
+  "id": "papazkarasi",
+  "ad": "Papazkarası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Trakya: Tekirdağ, Edirne, Kırklareli (Lüleburgaz)",
+  "karakter": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+  "eslesme": "Izgara köfte, Trakya mutfağının etli sebze yemekleri, hafif kırmızı etler.",
+  "ornek_ureticiler": [
+   "Chamlija",
+   "Prius",
+   "Edrine",
+   "Ellez Bağcılık",
+   "Paşaeli"
+  ],
+  "not": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "karasakiz",
+  "ad": "Karasakız (Kuntra)",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Bozcaada (Kuntra adıyla), Gelibolu Yarımadası, Avşa Adası",
+  "karakter": "Erken olgunlaşan, ince kabuklu bir çeşittir. Düşük tanen, orta-düşük asit ve görece yüksek alkol; kiraz, çilek ve baharat notalarıyla hafif-orta gövdeli şaraplar verir, tarzı sıkça Gamay'a benzetilir.",
+  "eslesme": "Mezeler, ızgara balık, hafif et yemekleri; rozeleri yaz sofralarına.",
+  "ornek_ureticiler": [
+   "Corvus",
+   "Çamlıbağ",
+   "Talay",
+   "Ataol",
+   "Suvla",
+   "Kutman",
+   "Paşaeli"
+  ],
+  "not": "Kuntra, Bozcaada'daki yerel adıdır. Roze ve köpüklü şarap yapımına da çok uygundur; Bozcaada'da sıkça Karalahna ile harmanlanır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/karasakiz",
+   "https://www.vitikultur.com/tr/uzumler/karalahna"
+  ]
+ },
+ {
+  "id": "karalahna",
+  "ad": "Karalahna",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Bozcaada; Gelibolu ve Mürefte'de sınırlı",
+  "karakter": "Koyu renk, yüksek asit ve belirgin tanen yapısıyla orta-tam gövdeli şaraplar verir. Siyah erik, kara kiraz ve ahududu aromaları taşır; meşeye iyi yanıt verir.",
+  "eslesme": "Izgara kırmızı et, kuzu, güveç yemekleri, sert peynirler.",
+  "ornek_ureticiler": [
+   "Corvus",
+   "Talay",
+   "Çamlıbağ",
+   "Ataol",
+   "Suvla",
+   "Kutman"
+  ],
+  "not": "Adı \"kara lahana\" anlamına gelir. Slow Food'un Lezzet Gemisi (Ark of Taste) kataloğunda yer alır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/karalahna",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "calkarasi",
+  "ad": "Çalkarası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Denizli-Çal; yaklaşık 1.200 m'ye varan yüksek kalkerli platolar",
+  "karakter": "Düşük pigmentli bir siyah üzümdür; açık renkli şaraplar ve özellikle kaliteli rozeler verir. Orta-yüksek asit, düşük tanen; çilek, ahududu, vişne ve hafif çiçeksi notalar taşır.",
+  "eslesme": "Deniz ürünleri, hafif baharatlı yemekler, mezeler.",
+  "ornek_ureticiler": [
+   "Pamukkale Şarapçılık",
+   "Kuzubağ",
+   "Lermonos",
+   "Ezel",
+   "Paşaeli"
+  ],
+  "not": "Çalkarası ve \"Çal Karası\" aynı üzümün iki yazımıdır. Hafif kırmızı ve köpüklü roze de yapılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/calkarasi",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "adakarasi",
+  "ad": "Adakarası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Avşa Adası (Marmara); Marmara kıyısı ve Doğu Trakya",
+  "karakter": "Kalın kabuklu, mor taneli bir üzümdür. Yaklaşık %12 alkol ve parlak asitle ferah, baharatlı, orta gövdeli kırmızı ve rozeler verir; kırmızı meyve, tatlı baharat ve karabiber belirgindir.",
+  "eslesme": "Izgara balık, midye dolma, mezeler, hafif etler.",
+  "ornek_ureticiler": [
+   "Büyülübağ"
+  ],
+  "not": "Adı \"adanın karası\" demektir. Vitikultur'a göre 2025'te Avşa Adakarası, coğrafi işaret tescili alan ilk Türk şarabı olmuştur.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/adakarasi"
+  ]
+ },
+ {
+  "id": "urla-karasi",
+  "ad": "Urla Karası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Urla Yarımadası (İzmir)",
+  "karakter": "Orta-yüksek tanen, koyu meyve karakteri ve belirgin baharatlı notalarla orta-tam gövdeli kırmızılar verir. Volkanik tüf ve kireçli kayalık topraklara iyi uyum sağlar.",
+  "eslesme": "Izgara etler, Ege usulü kuzu yemekleri, baharatlı köfteler.",
+  "ornek_ureticiler": [
+   "Urla Şarapçılık",
+   "Urlice Bağı",
+   "USCA"
+  ],
+  "not": "Türkiye'nin en az ekilen yerli kırmızılarından biridir; Urla bağ rotası üreticilerinin eski bahçelerden aldığı çeliklerle yeniden yaygınlaşmıştır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/urla-karasi"
+  ]
+ },
+ {
+  "id": "foca-karasi",
+  "ad": "Foça Karası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Foça (İzmir); Urla",
+  "karakter": "Geç olgunlaşan, koyu ve kalın kabuklu taneli bir üzümdür. Kırmızı, roze ve blanc de noir tarzlarında ve harmanlarda kullanılır; geleneksel pekmez yapımında da değerlendirilir.",
+  "eslesme": "Ege mezeleri, ızgara etler; rozeleri deniz ürünleriyle.",
+  "ornek_ureticiler": [
+   "USCA"
+  ],
+  "not": "Yaklaşık 2.600 yıllık geçmişe sahip olduğu ve antik Phokaia ile ilişkilendirildiği belirtilir; Slow Food Lezzet Gemisi kataloğundadır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/foca-karasi",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "acikara",
+  "ad": "Acıkara",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Antalya-Elmalı (antik Likya), yüksek rakımlı kalkerli topraklar",
+  "karakter": "Kalın kabuklu, yüksek tanenli, fenolik açıdan zengin bir çeşit. Yoğun mor-siyah renkte, orta gövdeli şaraplar; karabiber, kara kiraz, erik ve böğürtlen aromaları.",
+  "eslesme": "Yağlı peynirler, ızgara kırmızı et, av etleri.",
+  "ornek_ureticiler": [
+   "Likya Şarapları",
+   "Kuzubağ"
+  ],
+  "not": "Neredeyse kaybolmuşken Likya Bağları tarafından tek bir yaban asmadan yeniden keşfedilmiştir (2002-2003). Adı \"acı, kara\" anlamına gelir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/acikara",
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "dimrit",
+  "ad": "Dimrit",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Isparta-Senirkent, Burdur; Kapadokya",
+  "karakter": "Yüksek şeker içeriğiyle bilinir. Senirkent siyah Dimrit'inin nitelikli kırmızı şarap verebildiği belirtilir; ayrıntılı tanen-asit profili kaynaklarda az belgelenmiştir.",
+  "eslesme": "Etli sebze yemekleri, hafif kırmızı etler.",
+  "ornek_ureticiler": [
+   "Evenez Şarap Evi"
+  ],
+  "not": "Bulgaristan'ın Dimyat üzümüyle aynı değildir. Sofralık, sirke, şıra ve pekmez için de kullanılır; genetik çalışmalara göre Narince'nin ebeveynlerinden biridir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/dimrit",
+   "https://en.wikipedia.org/wiki/Narince_(grape)"
+  ]
+ },
+ {
+  "id": "cakal",
+  "ad": "Çakal",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Ege (Paşaeli tarafından işleniyor)",
+  "karakter": "İnce kabuklu, erken olgunlaşan, pembemsi kabuklu \"gri\" bir üzümdür; roze yapımına uygundur. Düşük tanen, orta asit; çilek reçeli, tropik meyve ve mango notaları.",
+  "eslesme": "Yaz mezeleri, salatalar, hafif deniz ürünleri.",
+  "ornek_ureticiler": [
+   "Paşaeli"
+  ],
+  "not": "Erken olgunlaşan tanelerini tepelerden inen çakallar yediği için bu adı aldığı aktarılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/cakal"
+  ]
+ },
+ {
+  "id": "patkara",
+  "ad": "Patkara",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Mersin (Silifke, Çömelek), Toros eteklerinde 900-1.400 m",
+  "karakter": "Koyu yakut renkli, aromatik bir kırmızı; mürdüm eriği, böğürtlen ve baharat notaları, diri asit ve yumuşak tanenle orta gövdeli şaraplar verir.",
+  "eslesme": "Izgara etler, Akdeniz usulü baharatlı yemekler.",
+  "ornek_ureticiler": [
+   "Tasheli",
+   "Selefkia"
+  ],
+  "not": "Toros Dağları'nın endemik üzümlerinden biri; Tasheli ve Selefkia bağları tarafından şaraba kazandırılmıştır.",
+  "kaynak": [
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "fersun",
+  "ad": "Fersun",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Antalya-Elmalı",
+  "karakter": "Açık yakut renkli, aroması yoğun; çilek, vişne ve gül notalarıyla orta gövdeli, yumuşak tanenli bir şarap verir.",
+  "eslesme": "Hafif etler, sebze yemekleri, mezeler.",
+  "ornek_ureticiler": [
+   "Likya Şarapları (Arkeo serisi)"
+  ],
+  "not": "Likya'nın Arkeo serisi altında şişelenen endemik üzümlerdendir.",
+  "kaynak": [
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "knidos-karasi",
+  "ad": "Knidos Karası",
+  "renk": "kirmizi",
+  "yerli": true,
+  "bolge": "Datça Yarımadası (Muğla)",
+  "karakter": "Koyu yakut renkli; nar ve orman meyvesi gibi ekşimsi notalar, canlı asit ve yumuşak tanenle orta gövdeli, meyvemsi bir şarap verir.",
+  "eslesme": "Ege otlarıyla pişen etler, ızgara balık, mezeler.",
+  "ornek_ureticiler": [
+   "Knidos"
+  ],
+  "not": "Datça Yarımadası'nın lokal üzümü olarak Knidos bağevi tarafından şişelenir.",
+  "kaynak": [
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "narince",
+  "ad": "Narince",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Tokat (Niksar, Yeşilırmak havzası); Kapadokya, Trakya, Ege",
+  "karakter": "Orta-yüksek asit, narenciye, taş meyvesi ve hafif bal nüanslı, dengeli kuru beyazlar verir. Meşeye uygundur ve on yıla kadar yıllanabilir.",
+  "eslesme": "Yağlı ızgara balık, baharatlı tavuk, patlıcan salatası, Karadeniz zeytinyağlıları, hamsi tava, otlu peynir.",
+  "ornek_ureticiler": [
+   "Kavaklıdere",
+   "Vinkara",
+   "Turasan",
+   "Kocabağ",
+   "Lucien Arkas Bağları",
+   "Chamlija",
+   "Kuzubağ"
+  ],
+  "not": "Adı \"narin\" sözcüğünden gelir; ince kabuğuna gönderme yapar. Genetik çalışmalar Kalecik Karası ile Dimrit'in doğal melezi olduğunu gösterir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/narince",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://en.wikipedia.org/wiki/Narince_(grape)"
+  ]
+ },
+ {
+  "id": "emir",
+  "ad": "Emir",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Kapadokya: Nevşehir, Ürgüp, Avanos, Gülşehir",
+  "karakter": "Yüksek asit, ince yapı ve mineral karakterle öne çıkar; çok açık renkli, yeşil elma ve narenciye aromalı kuru beyazlar verir. Köpüklü şarap için de kullanılır.",
+  "eslesme": "Yağlı balıklar, domates soslu tavuk, sirkesiz salatalar, kuşkonmaz, kabuklu deniz ürünleri, kremalı beyaz soslar.",
+  "ornek_ureticiler": [
+   "Turasan",
+   "Kocabağ",
+   "Kavaklıdere (Côtes d'Avanos)",
+   "Evenez",
+   "S'narin",
+   "Deniz Şarapçılık"
+  ],
+  "not": "Adının bölgedeki beylerin sofralarında tercih edilmesinden geldiği anlatılır. Volkanik tüf toprak ve yüksek rakımın gece-gündüz farkı asidini korur.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/emir",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://en.wikipedia.org/wiki/Emir_(grape)"
+  ]
+ },
+ {
+  "id": "hasandede",
+  "ad": "Hasandede",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Kırıkkale (Hasandede köyü), Keskin; Ankara çevresi",
+  "karakter": "İnce kabuklu, orta taneli beyaz bir üzüm. Çiçeksi ve narenciye parfümlü, portakal kabuğu, yeşil elma, armut ve şeftali notalı, yumuşak dokulu ve görece dolgun beyazlar verir.",
+  "eslesme": "Tavuk yemekleri, hafif mezeler, beyaz peynirler.",
+  "ornek_ureticiler": [
+   "Vinkara"
+  ],
+  "not": "Yapılaşma nedeniyle dikim alanı ciddi biçimde azalmıştır; Vinkara bu üzümü şişeleyen az sayıdaki üreticiden biridir.",
+  "kaynak": [
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+   "https://degustasyon.net/vinkara-atelier-hasandede-2023-ankara/"
+  ]
+ },
+ {
+  "id": "sultaniye",
+  "ad": "Sultaniye",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Manisa, Denizli, İzmir",
+  "karakter": "Çekirdeksiz, ince kabuklu, düşük asitli bir üzümdür. Kuru ya da yarı kuru, hafif gövdeli, yeşil elma ve narenciye notalı yalın ve ferah beyazlar verir.",
+  "eslesme": "Izgara veya buğulama balık, kabuklu deniz ürünleri, tavuk.",
+  "ornek_ureticiler": [
+   "Pamukkale Şarapçılık",
+   "Ezel",
+   "Kuzubağ",
+   "Paşaeli"
+  ],
+  "not": "Dünyada Sultana / Thompson Seedless olarak bilinir. Asıl kullanımı sofralık ve kuru üzümdür; ayrıca rakının ana üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/sultaniye",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "bornova-misketi",
+  "ad": "Bornova Misketi",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "İzmir (Bornova, Urla), Manisa, Denizli platoları",
+  "karakter": "Muscat ailesinden; düşük asitli, yoğun çiçeksi ve aromatik bir üzüm. Kurudan yarı tatlıya ve geç hasat tatlılara uzanan beyaz şaraplar verir.",
+  "eslesme": "Kuru tarzları aperatif, deniz mezeleri ve salatalarla; tatlıları ayva tatlısı, karamelli tatlılar ve küflü peynirlerle.",
+  "ornek_ureticiler": [
+   "Urla Şarapçılık",
+   "USCA",
+   "Perdix",
+   "Lucien Arkas Bağları",
+   "Nif Bağları",
+   "Pamukkale Şarapçılık"
+  ],
+  "not": "Anadolu koşullarında yüzyıllar içinde ayrışmış bir Muscat (Muscat Blanc à Petits Grains) koludur; sofralık olarak da tüketilir. Hasat zamanlaması kritiktir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/bornova-misketi",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "cavus",
+  "ad": "Çavuş",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Bozcaada; sınırlı Çanakkale anakarası",
+  "karakter": "Orta asit, hafif aromatik ve taze meyve karakterli, ferah beyaz şaraplar verir. Aşırı olgunlaşınca asidi düşer.",
+  "eslesme": "Ada mezeleri, ızgara balık, otlu salatalar.",
+  "ornek_ureticiler": [
+   "Corvus",
+   "Talay",
+   "Çamlıbağ",
+   "Ataol"
+  ],
+  "not": "Bozcaada'da sofralık üzüm olarak da tüketilir; sıkça Vasilaki ile kupaj yapılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/cavus"
+  ]
+ },
+ {
+  "id": "vasilaki",
+  "ad": "Vasilaki",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Bozcaada",
+  "karakter": "İnce kabuklu, küçük taneli bir üzüm. Kuru, açık renkli, canlı asitli; narenciye, portakal kabuğu ve karanfil aromalı ince beyazlar verir. Uzun yıllanmaya uygun değildir.",
+  "eslesme": "Deniz ürünleri, ızgara balık, zeytinyağlılar.",
+  "ornek_ureticiler": [
+   "Corvus",
+   "Talay",
+   "Çamlıbağ",
+   "Ataol"
+  ],
+  "not": "1900'lerin başında Dedeağaç'tan adaya getirildiği aktarılır. Slow Food Lezzet Gemisi kataloğunda yer alır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/vasilaki",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "kolorko",
+  "ad": "Kolorko",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Trakya: Şarköy ve Uçmakdere çevresi",
+  "karakter": "Geç olgunlaşan, düşük verimli bir çeşit. Oldukça aromatik, hafif gövdeli, düşük alkollü ve belirgin yüksek asitli şaraplar verir; kimi zaman misket üzümlerine benzetilir.",
+  "eslesme": "Hafif mezeler, balık, otlu yemekler.",
+  "ornek_ureticiler": [
+   "Paşaeli"
+  ],
+  "not": "1960'lardan sonra dikim alanı hızla daraldı; 2000'lere gelindiğinde birkaç üreticide birkaç asma kalmıştı.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/kolorko"
+  ]
+ },
+ {
+  "id": "yapincak",
+  "ad": "Yapıncak",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Trakya: Şarköy, Mürefte (Tekirdağ)",
+  "karakter": "İnce kabuklu, geç olgunlaşan bir üzüm. Elma, armut ve ayva aromalı, orta-düşük asitli beyazlar; ferah kuru, meşede dinlendirilmiş ve geleneksel yöntemle köpüklü tarzlar yapılır.",
+  "eslesme": "Lüfer, sardalya, yumuşak peynirler.",
+  "ornek_ureticiler": [
+   "Paşaeli"
+  ],
+  "not": "Yetiştirilmesi zor ve düşük verimlidir; tatlı şarap üretimine de uygundur.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/yapincak",
+   "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+  ]
+ },
+ {
+  "id": "sidalan",
+  "ad": "Sıdalan",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Kaz Dağları çevresi (Çanakkale, Balıkesir)",
+  "karakter": "Canlı, yüksek asitli; hafif-orta gövdeli, narenciye, armut ve tropik meyve notalı, ıslak taş mineralliği ve tuzumsu bitişli beyazlar verir. Köpüklüye de uygundur.",
+  "eslesme": "İstiridye, midye, çiğ deniz ürünleri, ızgara balık.",
+  "ornek_ureticiler": [
+   "Paşaeli"
+  ],
+  "not": "Geçmişte Çanakkale Şarap Fabrikası'nda kanyak için yetiştirilirdi; damıtımevi kapanınca neredeyse yok olmuştu.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/sidalan"
+  ]
+ },
+ {
+  "id": "kerkus",
+  "ad": "Kerküş",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Mardin-Midyat (Güneydoğu Anadolu)",
+  "karakter": "Beyaz sayılsa da kabukları yoğun pigmentlidir; tek başına yapıldığında amber renkli, bir miktar tanenli, dokulu şaraplar verir. Yüksek şeker içerir.",
+  "eslesme": "Baharatlı Mezopotamya mezeleri, içli köfte, kaburga dolması.",
+  "ornek_ureticiler": [
+   "Midyat Shiluh Süryani Şarapçılık"
+  ],
+  "not": "Bölgenin Süryani şarapçılık geleneğinin parçasıdır; Shiluh tarafından Mazrona ile harmanlanır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/kerkus"
+  ]
+ },
+ {
+  "id": "mazrona",
+  "ad": "Mazrona",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Mardin-Midyat",
+  "karakter": "İnce kabuklu, terroire duyarlı, geç (çoğunlukla ekimde) olgunlaşan bir çeşit. Harmanlarda ferah, kuru ve mineral karakterli beyazlara katkı verir.",
+  "eslesme": "Mezeler, tavuk ve sebze yemekleri.",
+  "ornek_ureticiler": [
+   "Midyat Shiluh Süryani Şarapçılık"
+  ],
+  "not": "Tek başına şişelenen örnekleri azdır; Süryani şarapçılık mirasına bağlıdır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/uzumler/mazrona"
+  ]
+ },
+ {
+  "id": "gokuzum",
+  "ad": "Göküzüm",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Mersin (Toros etekleri)",
+  "karakter": "Kabuk temaslı (turuncu/amber) tarzda yapıldığında olgun kayısı, ıhlamur ve çiçeksi notalar, orta tanen ve orta asitle hafif buruk bir şarap verir.",
+  "eslesme": "Baharatlı mezeler, sebze yemekleri, olgun peynirler.",
+  "ornek_ureticiler": [
+   "Tasheli"
+  ],
+  "not": "Tasheli'nin \"Kehribar\" şarabında yaklaşık 15 gün kabuk temasıyla işlenmiştir.",
+  "kaynak": [
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "akuzum",
+  "ad": "Aküzüm",
+  "renk": "beyaz",
+  "yerli": true,
+  "bolge": "Mersin (Silifke, Toros etekleri)",
+  "karakter": "Açık limon sarısı; otsu, altın elma ve ayva notalı, düşük asitli, hafif-orta gövdeli beyazlar verir.",
+  "eslesme": "Zeytinyağlılar, hafif balık ve tavuk.",
+  "ornek_ureticiler": [
+   "Selefkia",
+   "Tasheli"
+  ],
+  "not": "Toros'ta goble usulü yaşlı bağlarda yetiştirilir.",
+  "kaynak": [
+   "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+  ]
+ },
+ {
+  "id": "cabernet-sauvignon",
+  "ad": "Cabernet Sauvignon",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli, Elmalı",
+  "karakter": "Kalın kabuklu Bordeaux üzümü; yüksek tanen, orta-yüksek asit ve tam gövde. Kuşüzümü, kara kiraz, sedir ve meşeden gelen vanilya-tütün notaları; yıllanmaya çok uygundur.",
+  "eslesme": "Kuzu tandır, biftek, ızgara pirzola, sert peynirler.",
+  "ornek_ureticiler": [
+   "Likya",
+   "Suvla",
+   "Kutman",
+   "Urla Şarapçılık",
+   "Chateau Kalpak",
+   "Barel"
+  ],
+  "not": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; çoğunlukla Merlot ve yerli üzümlerle kupaj yapılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "merlot",
+  "ad": "Merlot",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Trakya, Gelibolu, Ege, Elmalı",
+  "karakter": "Yumuşak-orta tanen, orta asit ve dolgun meyve; erik, böğürtlen ve çikolata notaları. Cabernet Sauvignon'dan daha yuvarlak ve erken içime hazırdır.",
+  "eslesme": "Kebaplar, köfte, mantar yemekleri, kırmızı soslu makarnalar.",
+  "ornek_ureticiler": [
+   "Suvla",
+   "Ayda",
+   "Claros",
+   "Arcadia",
+   "Badur"
+  ],
+  "not": "Bordeaux kupajlarında Cabernet ile birlikte sıkça kullanılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "syrah",
+  "ad": "Syrah / Shiraz",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Ege (Urla, Selçuk, Bodrum), Trakya, Denizli, Datça",
+  "karakter": "Koyu renkli, orta-yüksek tanenli, tam gövdeli; karabiber, böğürtlen, menekşe ve dumanlı notalar. Sıcak bölgelerde daha olgun ve yumuşak, serin bölgelerde daha baharatlı olur.",
+  "eslesme": "Adana kebap, baharatlı ızgaralar, kokoreç, isli etler.",
+  "ornek_ureticiler": [
+   "Çakır",
+   "Urlice",
+   "Mozaik",
+   "Karnas",
+   "Barbare",
+   "Erdel"
+  ],
+  "not": "Ege'de iyi uyum sağlamış, hem tek başına hem GSM tarzı kupajlarda kullanılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "cabernet-franc",
+  "ad": "Cabernet Franc",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Gelibolu, Trakya, Urla, Bodrum, Elmalı",
+  "karakter": "Orta gövde, orta-yüksek asit, ince tanen; kırmızı meyve, kırmızı biber ve otsu notalar. Cabernet Sauvignon'dan daha zarif ve aromatiktir.",
+  "eslesme": "Izgara sebze, kuzu şiş, domatesli etler.",
+  "ornek_ureticiler": [
+   "USCA",
+   "Dvin Urla",
+   "Chateau Gali",
+   "Caeli",
+   "Likya"
+  ],
+  "not": "Bordeaux kupajlarının aromatik bileşenidir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "petit-verdot",
+  "ad": "Petit Verdot",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Trakya, Gelibolu, Menderes",
+  "karakter": "Çok koyu renkli, yüksek tanenli ve baharatlı; menekşe, mürekkep ve kara meyve notaları. Genellikle kupajda az oranda kullanılır.",
+  "eslesme": "Kızarmış kırmızı et, av etleri.",
+  "ornek_ureticiler": [
+   "Chateau Gali",
+   "Chateau Kalpak",
+   "Dessera",
+   "Asmadan"
+  ],
+  "not": "Türkiye'de bazı üreticiler tek çeşit olarak da şişeler.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "pinot-noir",
+  "ad": "Pinot Noir",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Ege (Urla, Gömeç), Denizli-Çal",
+  "karakter": "İnce kabuklu; açık renk, düşük-orta tanen, yüksek asit; çilek, kiraz ve toprak notalı zarif kırmızılar. Serin mikroklima ister.",
+  "eslesme": "Levrek, somon, ördek, mantarlı yemekler.",
+  "ornek_ureticiler": [
+   "Perdix",
+   "Ma'adra",
+   "Küp Şarapçılık"
+  ],
+  "not": "Sıcak iklimde zor yetişir; Türkiye'de yüksek rakım ve rüzgârlı parsellerde denenir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "grenache",
+  "ad": "Grenache",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Ege (Çeşme, Gömeç), Tekirdağ",
+  "karakter": "Açık-orta renk, düşük-orta tanen, yüksek alkol; çilek, ahududu ve beyaz biber notaları. Roze yapımında da çok kullanılır.",
+  "eslesme": "Izgara etler, mezeler, rozeleri yaz yemekleriyle.",
+  "ornek_ureticiler": [
+   "Buradan",
+   "Barbare",
+   "Aura"
+  ],
+  "not": "Syrah ve Mourvèdre ile GSM kupajlarının parçasıdır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "carignan",
+  "ad": "Carignan",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Urla",
+  "karakter": "Yüksek asit, yüksek tanen ve koyu renk; kırmızı meyve ve baharat notaları. Yaşlı asmalardan daha yoğun şaraplar verir.",
+  "eslesme": "Güveç, baharatlı etler.",
+  "ornek_ureticiler": [
+   "HUS Şarapçılık"
+  ],
+  "not": "Akdeniz'e özgü sıcak iklim üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "alicante-bouschet",
+  "ad": "Alicante Bouschet",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Urla; Ege",
+  "karakter": "Hem kabuğu hem eti kırmızı olan (teinturier) nadir bir çeşit; çok koyu renk, orta tanen, kara meyve notaları verir.",
+  "eslesme": "Kırmızı et, kebaplar.",
+  "ornek_ureticiler": [
+   "HUS Şarapçılık"
+  ],
+  "not": "19. yüzyılda Fransa'da Grenache ile Petit Bouschet melezlenerek elde edilmiştir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "mourvedre",
+  "ad": "Mourvèdre",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Tekirdağ",
+  "karakter": "Tanenli, tam gövdeli; böğürtlen, et suyu ve toprak notaları. Sıcak ve güneşli iklim ister.",
+  "eslesme": "Kuzu, av etleri, tandır.",
+  "ornek_ureticiler": [
+   "Barbare"
+  ],
+  "not": "GSM kupajlarına yapı katar.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "sangiovese",
+  "ad": "Sangiovese",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Urla",
+  "karakter": "Yüksek asit, orta-yüksek tanen; vişne, domates yaprağı ve kuru ot notaları.",
+  "eslesme": "Domates soslu yemekler, pide, ızgara etler.",
+  "ornek_ureticiler": [
+   "Mozaik"
+  ],
+  "not": "Chianti'nin ana üzümüdür; Türkiye'de az sayıda üretici işler.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "montepulciano",
+  "ad": "Montepulciano",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Urla",
+  "karakter": "Koyu renkli, yumuşak tanenli, orta-yüksek gövdeli; erik ve kara meyve notaları.",
+  "eslesme": "Etli pide, köfte, mangal.",
+  "ornek_ureticiler": [
+   "Mozaik"
+  ],
+  "not": "Orta İtalya kökenli üzüm; Urla'da kupajlarda kullanılır.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "tempranillo",
+  "ad": "Tempranillo",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Çeşme",
+  "karakter": "Orta gövde, orta tanen; kiraz, erik, deri ve tütün notaları. Meşede iyi gelişir.",
+  "eslesme": "Kuzu pirzola, sucuk, kuru fasulye.",
+  "ornek_ureticiler": [
+   "Buradan"
+  ],
+  "not": "İspanya'nın Rioja bölgesinin ana üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "zinfandel",
+  "ad": "Zinfandel",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Bodrum",
+  "karakter": "Yüksek alkol, olgun böğürtlen, reçel ve baharat notaları. Taneleri düzensiz olgunlaşır.",
+  "eslesme": "Barbekü, baharatlı etler; rozesi mezelerle.",
+  "ornek_ureticiler": [
+   "Karnas"
+  ],
+  "not": "İtalya'daki adı Primitivo, Hırvatistan'daki adı Crljenak Kaštelanski'dir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "nebbiolo",
+  "ad": "Nebbiolo",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Denizli-Çal",
+  "karakter": "Açık renkli ama yüksek tanen ve yüksek asitli; gül, katran, kiraz notaları. Uzun yıllanır.",
+  "eslesme": "Trüflü yemekler, kırmızı et, mantar.",
+  "ornek_ureticiler": [
+   "Küp Şarapçılık"
+  ],
+  "not": "Barolo ve Barbaresco'nun üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "chardonnay",
+  "ad": "Chardonnay",
+  "renk": "beyaz",
+  "yerli": false,
+  "bolge": "Urla, Kemalpaşa, Tekirdağ, Denizli",
+  "karakter": "Nötr ve çok yönlü; serin iklimde elma-narenciye, sıcak iklimde tropik meyve. Meşe ve malolaktik fermantasyonla tereyağı-vanilya notaları kazanır.",
+  "eslesme": "Fırın tavuk, kremalı soslar, levrek, hünkâr beğendi.",
+  "ornek_ureticiler": [
+   "Çakır",
+   "Barel",
+   "Nif Bağları",
+   "İki Deniz Arası",
+   "Küp"
+  ],
+  "not": "Dünyanın en çok dikilen beyaz üzümlerindendir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "sauvignon-blanc",
+  "ad": "Sauvignon Blanc",
+  "renk": "beyaz",
+  "yerli": false,
+  "bolge": "Trakya, Ege (Urla, Menderes), Denizli",
+  "karakter": "Yüksek asitli, aromatik; greyfurt, yeşil biber, kesilmiş ot ve bektaşi üzümü notaları. Genellikle meşesiz yapılır.",
+  "eslesme": "Zeytinyağlı enginar, keçi peyniri, çiğ sebzeler, deniz mezeleri.",
+  "ornek_ureticiler": [
+   "Chamlija",
+   "Arcadia",
+   "Perdix",
+   "İsabey",
+   "Erdel"
+  ],
+  "not": "Loire ve Bordeaux kökenlidir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "viognier",
+  "ad": "Viognier",
+  "renk": "beyaz",
+  "yerli": false,
+  "bolge": "Kemalpaşa (İzmir)",
+  "karakter": "Düşük-orta asit, dolgun gövde; şeftali, kayısı ve beyaz çiçek aromaları.",
+  "eslesme": "Baharatlı tavuk, kayısılı yemekler, zeytinyağlılar.",
+  "ornek_ureticiler": [
+   "Nif Bağları"
+  ],
+  "not": "Rhône vadisi kökenli aromatik üzümdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "riesling",
+  "ad": "Riesling",
+  "renk": "beyaz",
+  "yerli": false,
+  "bolge": "Trakya (Lüleburgaz)",
+  "karakter": "Çok yüksek asit, düşük-orta alkol; yeşil elma, limon, beyaz çiçek ve yaşlandıkça petrol notaları. Kurudan tatlıya her tarz yapılır.",
+  "eslesme": "Baharatlı yemekler, balık, tatlı tarzları tatlılarla.",
+  "ornek_ureticiler": [
+   "Chamlija"
+  ],
+  "not": "Almanya'nın simge üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "vermentino",
+  "ad": "Vermentino",
+  "renk": "beyaz",
+  "yerli": false,
+  "bolge": "Bodrum",
+  "karakter": "Ferah asit, narenciye, yeşil elma ve tuzlu mineral notalarıyla hafif-orta gövdeli beyazlar.",
+  "eslesme": "Deniz ürünleri, ızgara ahtapot, otlu mezeler.",
+  "ornek_ureticiler": [
+   "Karnas"
+  ],
+  "not": "Sardinya ve Liguria'nın Akdeniz üzümüdür.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ },
+ {
+  "id": "muscat-noir",
+  "ad": "Siyah Misket (Black Muscat)",
+  "renk": "kirmizi",
+  "yerli": false,
+  "bolge": "Urla",
+  "karakter": "Gül, liçi ve kırmızı meyve aromalı, aromatik; genellikle roze veya tatlı şarap yapımında kullanılır.",
+  "eslesme": "Meyveli tatlılar, peynirler.",
+  "ornek_ureticiler": [
+   "MMG Şarapçılık"
+  ],
+  "not": "Muscat ailesinin koyu kabuklu bir üyesidir.",
+  "kaynak": [
+   "https://www.vitikultur.com/tr/baglar",
+   "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
+  ]
+ }
+]

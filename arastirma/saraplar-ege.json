@@ -1,0 +1,4441 @@
+[
+ {
+  "id": "urla-nero-davola-urla-karasi",
+  "ad": "Urla Nero d'Avola & Urla Karası",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Nero d'Avola",
+   "Urla Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sicilya'nın Nero d'Avola'sı ile yeniden canlandırılan Urla Karası'nın kupajı; koyu meyve ve baharatlı, canlı asiditeli bir Ege kırmızısı.",
+  "puan": 97,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Platin – Decanter World Wine Awards 2016 (2014 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines",
+   "https://www.decanter.com/wine-reviews/turkey/all/urla-sarapcilik-nero-d-avola-urla-karasi-turkey-2014-7123/"
+  ]
+ },
+ {
+  "id": "urla-tempus",
+  "ad": "Urla Tempus",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Syrah",
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Şaraphanenin Bordeaux-Rhône harmanlı amiral gemisi; yoğun, fıçılı ve uzun ömürlü bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "urla-vourla",
+  "ad": "Urla Vourla",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Syrah",
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Urla'nın eski Rumca adını taşıyan, uluslararası çeşitlere Boğazkere'nin tanenini ekleyen dolgun kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "urla-nexus",
+  "ad": "Urla Nexus",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Nero d'Avola",
+   "Cabernet Franc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Merlot'nun yumuşaklığını Nero d'Avola ve Cabernet Franc'ın canlılığıyla buluşturan, içimi kolay bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "urla-serendias-roze",
+  "ad": "Urla Serendias Roze",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Pinot Noir",
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Pinot Noir ve Kalecik Karası'ndan narin, kırmızı meyveli bir roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "urla-symposium-domisek-bornova-misketi",
+  "ad": "Urla Symposium Dömisek",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bornova Misketi'nden hafif tatlımsı (dömisek) bir beyaz; misket, gül ve beyaz çiçek aromalı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "urla-hypnose",
+  "ad": "Urla Hypnose",
+  "uretici": "Urla Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince",
+   "Beyazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Anadolu'nun Narince'si ile Urla'ya özgü Beyazkere'den yerli bir beyaz kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.urlasarapcilik.com.tr/our-wines"
+  ]
+ },
+ {
+  "id": "usca-sonnet-5-bornova-misketi",
+  "ad": "USCA Sonnet 5 Bornova Misketi",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yoğun gül ve bal, ardından hanımeli; damakta lime ve turunçgil dokunuşlu dengeli bir misket.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "usca-sonnet-99-viognier",
+  "ad": "USCA Sonnet 99 Viognier",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Viognier"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yasemin ve lilyum çiçekleri, damakta ananas, mango ve muz; canlı asiditeli.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "usca-sonnet-8-okuzgozu-blush",
+  "ad": "USCA Sonnet 8 Öküzgözü Blush",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yavruağzı renkte; kızılcık, kuşburnu ve dağ çileği aromalı canlı bir roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "usca-sonnet-23-syrah-foca-karasi",
+  "ad": "USCA Sonnet 23 Syrah & Foça Karası",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Foça Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Menekşe, baharat ve hafif füme notalar; kırmızı ve siyah orman meyveli, 12 ay Fransız meşesinde dinlenmiş dolgun bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "usca-sonnet-76-rezerv",
+  "ad": "USCA Sonnet 76 Cabernet Sauvignon & Merlot Rezerv",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Menekşe, vanilya ve füme notalar; siyah meyve, kahve ve çikolata dokunuşlu, 18 ay fıçıda dinlenmiş zarif bir rezerv.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "usca-sonnet-35-tatli-kirmizi",
+  "ad": "USCA Sonnet 35 Tatlı Kırmızı",
+  "uretici": "USCA",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "tatli",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Koyu bordo; siyah meyve, kavrulmuş fındık, kahve ve karadut reçeli notalı tatlı bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.usca.com.tr/saraplar/"
+  ]
+ },
+ {
+  "id": "hus-la-zona",
+  "ad": "HUS La Zona",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Carignan",
+   "Alicante"
+  ],
+  "yil": "2022",
+  "abv": 11.8,
+  "tat": "Seferihisar'ın sulanmayan Carignan bağlarından düşük alkollü, canlı ve meyvemsi bir kırmızı; kısmen 500 litrelik fıçıda olgunlaşmış.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-carinena-el-pueblo",
+  "ad": "HUS Cariñena El Pueblo",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Carignan"
+  ],
+  "yil": "2022",
+  "abv": 14.6,
+  "tat": "Beyler köyünün 20-35 yaşlı üç bağından, 15 ay Fransız meşesinde olgunlaşmış yoğun bir Carignan.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-carinena-pie-franco",
+  "ad": "HUS Cariñena Pie Franco",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Carignan"
+  ],
+  "yil": "2021",
+  "abv": 11.9,
+  "tat": "400 metrede aşısız, goble asmalardan; 18 ay 500 litrelik fıçıda olgunlaşmış zarif, nadir bir Carignan.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-kara-sulu",
+  "ad": "HUS Kara Sulu",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Alicante"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Köyde etli kısmı kırmızı olduğu için 'Kara Sulu' denen Alicante'den; kısmen salkım bütün maserasyonlu, yumurta tankta olgunlaşmış.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-an-roze",
+  "ad": "HUS \"An\" Roze",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Syrah",
+   "Grenache"
+  ],
+  "yil": "2024",
+  "abv": 12.8,
+  "tat": "Taze kırmızı meyveli, ağız sulandıran asiditeye sahip Syrah-Grenache rozesi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-bornova-misketi",
+  "ad": "HUS Bornova Misketi",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "2025",
+  "abv": 13,
+  "tat": "Menderes Yeniköy bağlarından; çiçeksi burun, canlı bitişli kuru misket.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "hus-bogazkere",
+  "ad": "HUS Boğazkere",
+  "uretici": "HUS Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere",
+   "Urla Karası"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Urla Limantepe bağlarından, %7 Urla Karası katkılı; fıçı ve yumurta tankta olgunlaşmış bir Boğazkere.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.huswines.com/urunlerimiz"
+  ]
+ },
+ {
+  "id": "perdix-bornova-misketi",
+  "ad": "Perdix Bornova Misketi",
+  "uretici": "Perdix",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Organik Dağovacık bağlarından aromatik, çiçeksi bir misket.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.perdixwines.com/"
+  ]
+ },
+ {
+  "id": "perdix-sauvignon-blanc",
+  "ad": "Perdix Sauvignon Blanc",
+  "uretici": "Perdix",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Urla rüzgârlarında yetişmiş ferah, narenciyeli bir Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.perdixwines.com/"
+  ]
+ },
+ {
+  "id": "perdix-pinot-noir",
+  "ad": "Perdix Pinot Noir",
+  "uretici": "Perdix",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Pinot Noir"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hafif gövdeli, kırmızı meyveli bir Urla Pinot Noir'ı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.perdixwines.com/"
+  ]
+ },
+ {
+  "id": "perdix-bogazkere",
+  "ad": "Perdix Boğazkere",
+  "uretici": "Perdix",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Güçlü tanenli Anadolu üzümünün Urla yorumu.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.perdixwines.com/"
+  ]
+ },
+ {
+  "id": "perdix-cabernet-franc-petit-verdot",
+  "ad": "Perdix Cabernet Franc & Petit Verdot",
+  "uretici": "Perdix",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Cabernet Franc'ın otsu zarafeti ile Petit Verdot'nun koyu rengini birleştiren kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.perdixwines.com/"
+  ]
+ },
+ {
+  "id": "statera-viognier",
+  "ad": "Statera Viognier",
+  "uretici": "Statera",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Viognier"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "Derin altın renkli, 10 ay Fransız meşesinde olgunlaşmış; şeftali, kayısı ve çiçek notalı dolgun bir Viognier.",
+  "puan": 93,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – IWSC 2025 İstanbul; Altın – AWC Vienna 2026 Spring Tasting",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://staterasarapcilik.com/"
+  ]
+ },
+ {
+  "id": "statera-gsm",
+  "ad": "Statera Grenache · Syrah · Mourvèdre",
+  "uretici": "Statera",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Grenache",
+   "Syrah",
+   "Mourvèdre"
+  ],
+  "yil": "2023",
+  "abv": 15,
+  "tat": "Koyu yakut; Grenache'ın tatlı baharatı, Syrah'ın koyu meyvesi ve Mourvèdre'nin nar-menekşe tonları; 14 ay fıçılı, güçlü ama dengeli.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – AWC Vienna 2026 Spring Tasting",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://staterasarapcilik.com/"
+  ]
+ },
+ {
+  "id": "statera-fume-blanc",
+  "ad": "Statera Vineyards Fumé Blanc",
+  "uretici": "Statera",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2025",
+  "abv": 13.5,
+  "tat": "Denizli Güney'den Sauvignon Blanc; 3 ay Fransız meşesiyle hafif füme dokulu.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – AWC Vienna 2026 Spring Tasting",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://staterasarapcilik.com/"
+  ]
+ },
+ {
+  "id": "statera-cabernet-sauvignon-syrah",
+  "ad": "Statera Cabernet Sauvignon · Syrah",
+  "uretici": "Statera",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "2022",
+  "abv": 14.5,
+  "tat": "12 ay Fransız meşesinde olgunlaşmış yapılı bir kupaj.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – AWC Vienna 2025 Summer Tasting",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://staterasarapcilik.com/"
+  ]
+ },
+ {
+  "id": "statera-vineyards-rose",
+  "ad": "Statera Vineyards Rosé",
+  "uretici": "Statera",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Grenache"
+  ],
+  "yil": "2025",
+  "abv": 12.5,
+  "tat": "Çilek ve taze çilek reçeli aromaları, zarif gül notaları; fıçısız ve ferah.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://staterasarapcilik.com/"
+  ]
+ },
+ {
+  "id": "urlice-cabernet-sauvignon-reserve",
+  "ad": "Urlice Cabernet Sauvignon Reserve",
+  "uretici": "Urlice Vineyards",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "En az iki yıl Fransız meşesinde, 18 ay şişede bekletilmiş yoğun gövdeli organik bir Cabernet.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/"
+  ]
+ },
+ {
+  "id": "urlice-cabernet-sauvignon-syrah-reserve",
+  "ad": "Urlice Cabernet Sauvignon & Syrah Reserve",
+  "uretici": "Urlice Vineyards",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Uzun fıçı ve şişe olgunlaştırmalı, polifenolce zengin, dolgun bir kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/"
+  ]
+ },
+ {
+  "id": "urlice-cabernet-sauvignon-merlot",
+  "ad": "Urlice Cabernet Sauvignon & Merlot",
+  "uretici": "Urlice Vineyards",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Klasik Bordeaux tarzı, yuvarlak tanenli bir Urla kırmızısı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/"
+  ]
+ },
+ {
+  "id": "urlice-chardonnay",
+  "ad": "Urlice Chardonnay",
+  "uretici": "Urlice Vineyards",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Meyvemsi, dolgun ve mineral yapılı organik bir Chardonnay.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/",
+   "https://urlabagyolu.com/urlice/"
+  ]
+ },
+ {
+  "id": "urlice-syrah",
+  "ad": "Urlice Syrah",
+  "uretici": "Urlice Vineyards",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Baharatlı ve koyu meyveli, uzun olgunlaştırılmış bir Syrah.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dergiurla.com/tadina-doyamayacaginiz-urla-baglarinda-uretilen-saraplar/"
+  ]
+ },
+ {
+  "id": "mahrem-ekigaina",
+  "ad": "Mahrem Ekigaïna",
+  "uretici": "Mozaik Şarapçılık – Mahrem",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Ekigaïna"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Cabernet Sauvignon x Tannat melezi Ekigaïna'dan; taze meyve notaları ve güzel tanenlerle dengeli, zengin bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+  ]
+ },
+ {
+  "id": "mahrem-tannat",
+  "ad": "Mahrem Tannat",
+  "uretici": "Mozaik Şarapçılık – Mahrem",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Tannat"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Çok az üretilen, tek başına şişelenmiş güçlü tanenli bir Tannat; av etleriyle önerilir.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+  ]
+ },
+ {
+  "id": "mahrem-syrah",
+  "ad": "Mahrem Syrah",
+  "uretici": "Mozaik Şarapçılık – Mahrem",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yoğun lezzetli, yıllanmaya uygun karakterli bir Urla Syrah'ı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+  ]
+ },
+ {
+  "id": "mahrem-petit-verdot-rebo",
+  "ad": "Mahrem Petit Verdot + Rebo",
+  "uretici": "Mozaik Şarapçılık – Mahrem",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Petit Verdot",
+   "Rebo"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Merlot x Teroldego melezi Rebo ile Petit Verdot'nun cesur, lezzetli kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+  ]
+ },
+ {
+  "id": "mahrem-ruya-roze",
+  "ad": "Mahrem Rüya",
+  "uretici": "Mozaik Şarapçılık – Mahrem",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Corinto"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Corinto üzümünden taze, kırmızı meyveli ve rahatlatıcı bir roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mozaiksarapcilik.com/wp/index.php/tr/saraplar"
+  ]
+ },
+ {
+  "id": "satomet-bornova-misketi",
+  "ad": "Şatomet Bornova Misketi",
+  "uretici": "MMG Şarapçılık – Şatomet",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Gece hasat edilmiş Bornova Misketi'nden aromatik, kuru bir beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "İsa Bal değerlendirmesinde kategorisinde 1. (2011 ve 2012 rekolteleri)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.mmgsarapcilik.com/"
+  ]
+ },
+ {
+  "id": "cakir-somnium-premium-cabernet-merlot",
+  "ad": "Çakır Somnium Premium Cabernet Sauvignon & Merlot",
+  "uretici": "Çakır Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2018",
+  "abv": 0,
+  "tat": "Fransız meşesinde olgunlaşmış, Kuşçular bağlarından yapılı bir Bordeaux kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Turkish Wine Challenge 2021 (2018 rekoltesi)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.turkish-wine.com/%C3%A7akir-%C5%9Farap%C3%A7%C4%B1l%C4%B1k-ba%C4%9Fc%C4%B1l%C4%B1k-cakir-winery-vineyards"
+  ]
+ },
+ {
+  "id": "cakir-somnium-bornova-misketi",
+  "ad": "Çakır Somnium Bornova Misketi",
+  "uretici": "Çakır Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Narenciye ve çiçek notalı aromatik bir Bornova Misketi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.turkish-wine.com/%C3%A7akir-%C5%9Farap%C3%A7%C4%B1l%C4%B1k-ba%C4%9Fc%C4%B1l%C4%B1k-cakir-winery-vineyards",
+   "https://urlabagyolu.com/cakir-sarapcilik/"
+  ]
+ },
+ {
+  "id": "cakir-adventum-syrah",
+  "ad": "Çakır Adventum Syrah",
+  "uretici": "Çakır Şarapçılık",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Syrah odaklı, cesur ve yıllanmaya uygun bir seri.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.turkish-wine.com/%C3%A7akir-%C5%9Farap%C3%A7%C4%B1l%C4%B1k-ba%C4%9Fc%C4%B1l%C4%B1k-cakir-winery-vineyards"
+  ]
+ },
+ {
+  "id": "ikidenizarasi-zoza",
+  "ad": "İkidenizarası Zoza Cabernet Sauvignon & Syrah",
+  "uretici": "İkidenizarası",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "2020",
+  "abv": 0,
+  "tat": "20 yaşındaki asmalardan %60 Cabernet, %40 Syrah; koyu meyveli ve baharatlı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.teruarintadi.com/post/ikidenizarasi"
+  ]
+ },
+ {
+  "id": "ikidenizarasi-caracal",
+  "ad": "İkidenizarası Caracal",
+  "uretici": "İkidenizarası",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yağcılar'ın 20 yaşındaki asmalarından tek çeşit Cabernet Sauvignon.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.teruarintadi.com/post/ikidenizarasi"
+  ]
+ },
+ {
+  "id": "ikidenizarasi-roze",
+  "ad": "İkidenizarası Roze",
+  "uretici": "İkidenizarası",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "2020",
+  "abv": 0,
+  "tat": "Yağcılar bağlarının Cabernet ve Syrah'ından taze bir roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.teruarintadi.com/post/ikidenizarasi"
+  ]
+ },
+ {
+  "id": "pasaeli-yapincak",
+  "ad": "Paşaeli Yapıncak",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Yapıncak"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Trakya kökenli unutulmuş Yapıncak'tan; çiçeksi, hafif tuzlu mineralli, canlı asiditeli bir beyaz.",
+  "puan": 91,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın + Best of Nation – San Francisco International Wine Competition (2011 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/pasaeli",
+   "https://vintnerproject.com/wine/seyit-karagozoglu-and-pasaeli-wines-rescuing-the-lost-turkish-grapes/"
+  ]
+ },
+ {
+  "id": "pasaeli-6n-karasakiz",
+  "ad": "Paşaeli 6N Old Vines Karasakız (Wild Fermented)",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Karasakız"
+  ],
+  "yil": "2024",
+  "abv": 0,
+  "tat": "Kaz Dağları'na bakan 500 m'deki 40 yaşın üzerindeki goble asmalardan, yabani mayayla fermente edilmiş hafif gövdeli, kırmızı meyveli ve baharatlı bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/pasaeli",
+   "https://mitchellrabinowitz.substack.com/p/pasaeli-6n-karasakz-2024-an-old-grape"
+  ]
+ },
+ {
+  "id": "pasaeli-calkarasi-merman",
+  "ad": "Paşaeli Çal Karası Merman Wild Ferment",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Çalkarası"
+  ],
+  "yil": "2023",
+  "abv": 0,
+  "tat": "Genelde roze ve kupajda kullanılan Çal Karası'nı tek başına kırmızı olarak şişeleyen, ferah ve meyvemsi bir yorum.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – Balkan International Wine Competition 2025 (2023 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/pasaeli",
+   "https://thequirkycork.com/pasaeli-merman-calkarasi/"
+  ]
+ },
+ {
+  "id": "pasaeli-morso-sole-sultaniye",
+  "ad": "Paşaeli Morso Sole Sultaniye",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "turuncu",
+  "uzum": [
+   "Sultaniye"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Sofralık bilinen Sultaniye'den kabuk temaslı (turuncu) bir şarap; kuru kayısı ve çay notalı, dokulu.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://thecellardor.com/pasaeli-sultaniye-morso-sole-2021-750ml/"
+  ]
+ },
+ {
+  "id": "pasaeli-sidalan",
+  "ad": "Paşaeli Sıdalan",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sıdalan"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kurtarılan yaşlı bağlardan nadir Sıdalan; narenciye ve beyaz çiçekli, zarif bir beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/pasaeli",
+   "https://vintnerproject.com/wine/seyit-karagozoglu-and-pasaeli-wines-rescuing-the-lost-turkish-grapes/"
+  ]
+ },
+ {
+  "id": "pasaeli-k2",
+  "ad": "Paşaeli K2",
+  "uretici": "Paşaeli",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Karagözoğlu'nun ilk şaraplarından, Bordeaux tarzı yapılı kırmızı kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://vintnerproject.com/wine/seyit-karagozoglu-and-pasaeli-wines-rescuing-the-lost-turkish-grapes/"
+  ]
+ },
+ {
+  "id": "sevilen-isabey-sauvignon-blanc",
+  "ad": "Sevilen İsabey Sauvignon Blanc",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "İsabey bağlarının imza beyazı; tropik meyve ve taze ot notalı, canlı asiditeli.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Jancis Robinson MW – Financial Times 'Yılın en iyi 100 beyaz şarabı' listesi (2012)",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/isabey",
+   "https://www.wine-searcher.com/merchant/51187-sevilen-sarap-sanayi",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-900-fume-blanc",
+  "ad": "Sevilen 900 Fumé Blanc",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "900 metre rakımdaki bağlardan, fıçıda olgunlaşmış serin iklimli, füme dokulu Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/isabey"
+  ]
+ },
+ {
+  "id": "sevilen-900-cabernet-sauvignon",
+  "ad": "Sevilen 900 Cabernet Sauvignon",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yüksek rakım bağlarından yapılı, siyah meyveli ve tanenli bir Cabernet.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-900-petit-verdot",
+  "ad": "Sevilen 900 Petit Verdot",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Petit Verdot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Nadiren tek çeşit şişelenen Petit Verdot'nun koyu renkli, menekşe ve baharat notalı yorumu.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/isabey",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-centum-syrah",
+  "ad": "Sevilen Centum Syrah",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Serinin üst segment Syrah'ı; yoğun koyu meyve, karabiber ve meşe.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/isabey",
+   "https://www.wine-searcher.com/merchant/51187-sevilen-sarap-sanayi"
+  ]
+ },
+ {
+  "id": "sevilen-centum-cabernet-franc",
+  "ad": "Sevilen Centum Cabernet Franc",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kırmızı meyve, otsu ve grafit notalı, fıçılı üst segment Cabernet Franc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/isabey"
+  ]
+ },
+ {
+  "id": "sevilen-plato-okuzgozu",
+  "ad": "Sevilen Plato Öküzgözü",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Plato serisinden, vişne ve kırmızı meyveli, yumuşak tanenli Öküzgözü.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-plato-narince",
+  "ad": "Sevilen Plato Narince",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Tokat kökenli Narince'den, beyaz çiçek ve armut notalı yuvarlak bir beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-plato-kalecik-karasi",
+  "ad": "Sevilen Plato Kalecik Karası",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Çilek ve kiraz aromalı, hafif-orta gövdeli Kalecik Karası.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-nativus-okuzgozu-bogazkere",
+  "ad": "Sevilen Nativus Öküzgözü & Boğazkere",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yerli üzümlerin klasik Anadolu kupajı; meyveli ve tanenli, günlük içim.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-isabey-bornova-misket",
+  "ad": "Sevilen İsabey Bornova Misket",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Gül ve misket aromalı, aromatik kuru bir Ege beyazı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-isabey-cabernet-merlot",
+  "ad": "Sevilen İsabey Cabernet Sauvignon & Merlot",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "İsabey serisinin dengeli Bordeaux kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "sevilen-ix-parsel-cabernet",
+  "ad": "Sevilen IX Parsel Cabernet Sauvignon",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Tek parsel etiketi; siyah frenk üzümü ve sedir notalı Cabernet.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/sevilen"
+  ]
+ },
+ {
+  "id": "lucien-arkas-meandros",
+  "ad": "Lucien Arkas Meandros",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Şaraphanenin amiral kırmızısı; organik Kuşçuburun bağlarından yoğun, fıçılı kupaj.",
+  "puan": 0,
+  "tl": 2325,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.vitikultur.com/en/wineries/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "la-consensus-blend",
+  "ad": "LA Consensus Blend",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Consensus serisinin kırmızı kupajı; olgun meyve ve meşe.",
+  "puan": 0,
+  "tl": 1700,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "la-consensus-chardonnay",
+  "ad": "LA Consensus Chardonnay",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçı dokunuşlu, tereyağımsı ve tropik meyveli bir Chardonnay.",
+  "puan": 0,
+  "tl": 1575,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "la-mon-reve-montepulciano",
+  "ad": "LA Mon Rêve Montepulciano",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Montepulciano"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Türkiye'de nadir görülen Montepulciano'dan, vişne ve baharatlı yumuşak bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas"
+  ]
+ },
+ {
+  "id": "la-mon-reve-marselan",
+  "ad": "LA Mon Rêve Marselan",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Marselan"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Cabernet x Grenache melezi Marselan'dan meyveli, kadifemsi bir kırmızı.",
+  "puan": 0,
+  "tl": 1250,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "la-mon-reve-chardonnay-chenin",
+  "ad": "LA Mon Rêve Chardonnay & Chenin Blanc",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Chenin Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Elma, ayva ve çiçek notalı, ferah bir beyaz kupaj.",
+  "puan": 0,
+  "tl": 1030,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "la-passito",
+  "ad": "LA Passito",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "tatli",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bornova Misketi'nden kurutulmuş üzüm yöntemiyle yapılan tatlı şarap (50 cl).",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "smyrna-blush",
+  "ad": "Smyrna Blush",
+  "uretici": "Lucien Arkas Bağları (LA Wines)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "LA'nın uygun fiyatlı, hafif ve meyvemsi blush'ı.",
+  "puan": 0,
+  "tl": 528,
+  "tl_kaynak": "habergazetesi.com.tr – 'Arkas Şarap Fiyatları 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/lucien-arkas",
+   "https://www.habergazetesi.com.tr/arkas-sarap-fiyatlari-ne-kadar-2026-guncel-lucien-arkas-listesi"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-pythagoras",
+  "ad": "Yedi Bilgeler Pythagoras",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Şaraphanenin bilinen kırmızı kupajlarından; olgun meyve ve meşe notalı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-anaxagoras-chardonnay",
+  "ad": "Yedi Bilgeler Anaxagoras Chardonnay",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Selçuk bağlarından dolgun, yuvarlak bir Chardonnay.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-thales-miletos",
+  "ad": "Yedi Bilgeler Thales Miletos Öküzgözü & Petit Verdot",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Petit Verdot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Öküzgözü'nün meyvesini Petit Verdot'nun rengi ve yapısıyla birleştiren kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-bias-priene-merlot",
+  "ad": "Yedi Bilgeler Bias Priene Merlot",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Serinin üst segment Merlot'su; erik ve çikolata notalı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-polemos",
+  "ad": "Yedi Bilgeler Polemos",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin en üst fiyat segmentindeki kırmızısı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-khilon-fume-blanc",
+  "ad": "Yedi Bilgeler Khilon Fumé Blanc",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçıda olgunlaşmış, füme ve narenciye notalı Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "yedi-bilgeler-vindemia-ruzgar-karasakiz",
+  "ad": "Yedi Bilgeler Vindemia Rüzgar Karasakız",
+  "uretici": "Yedi Bilgeler (7Bilgeler Vineyards)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Karasakız"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Vindemia serisinden, hafif gövdeli ve kırmızı meyveli bir Karasakız.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yedi-bilgeler"
+  ]
+ },
+ {
+  "id": "lethe-ercis-karasi",
+  "ad": "Lethe Erciş Karası",
+  "uretici": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+  "il": "İzmir",
+  "bolge": "Şirince",
+  "renk": "kirmizi",
+  "uzum": [
+   "Erciş Karası"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Van Gölü havzasının nadir Erciş Karası'ndan; kırmızı meyveli, canlı asiditeli zarif bir kırmızı.",
+  "puan": 95,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – IWSC 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://akberg.wine/oduller-ve-analizler/"
+  ]
+ },
+ {
+  "id": "lethe-papazkarasi",
+  "ad": "Lethe Papazkarası",
+  "uretici": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+  "il": "İzmir",
+  "bolge": "Şirince",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papazkarası"
+  ],
+  "yil": "2020",
+  "abv": 0,
+  "tat": "Trakya'nın Papazkarası'ndan, kırmızı meyve ve baharat notalı orta gövdeli bir kırmızı.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – IWSC 2023 (2020 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://akberg.wine/oduller-ve-analizler/"
+  ]
+ },
+ {
+  "id": "buyukbag-papazkarasi",
+  "ad": "Büyükbağ Papazkarası",
+  "uretici": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+  "il": "İzmir",
+  "bolge": "Şirince",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papazkarası"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Büyükbağ serisinin madalyalı Papazkarası'sı.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Mundus Vini 2023; Altın – Turkish Wine Challenge 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://akberg.wine/oduller-ve-analizler/"
+  ]
+ },
+ {
+  "id": "buyukbag-bogazkere",
+  "ad": "Büyükbağ Boğazkere",
+  "uretici": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+  "il": "İzmir",
+  "bolge": "Şirince",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Sert tanenli, koyu meyveli bir Boğazkere.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – IWSC 2023 (2022 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://akberg.wine/oduller-ve-analizler/"
+  ]
+ },
+ {
+  "id": "buyukbag-ahenk-narince-chardonnay",
+  "ad": "Büyükbağ Ahenk Narince & Chardonnay",
+  "uretici": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
+  "il": "İzmir",
+  "bolge": "Şirince",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince",
+   "Chardonnay"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Narince ile Chardonnay'nin uyumlu beyaz kupajı.",
+  "puan": 85,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Bronz – IWC (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://akberg.wine/oduller-ve-analizler/"
+  ]
+ },
+ {
+  "id": "pamukkale-anfora-trio-kirmizi",
+  "ad": "Pamukkale Anfora Trio Kırmızı",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Uygun fiyatlı, meyvemsi ve içimi kolay bir kırmızı kupaj; Marks & Spencer'da satılan tek Türk kırmızısı olarak bilinir.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/kelebek/imam-babanin-izniyle-ogullar-sarapci-oldu-6330128"
+  ]
+ },
+ {
+  "id": "pamukkale-anfora-grand-reserve-bogazkere",
+  "ad": "Pamukkale Anfora Grand Reserve Boğazkere",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçılı, güçlü tanenli ve koyu meyveli bir Boğazkere.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-anfora-grand-reserve-shiraz",
+  "ad": "Pamukkale Anfora Grand Reserve Shiraz",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Baharatlı ve dolgun, fıçıda olgunlaşmış bir Shiraz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-nodus-fume-blanc",
+  "ad": "Pamukkale Nodus Fumé Blanc",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Nodus serisinden fıçı dokunuşlu Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-nodus-cabernet-sauvignon",
+  "ad": "Pamukkale Nodus Cabernet Sauvignon",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Serinin yapılı, siyah meyveli Cabernet'si.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-kizil-alan-okuzgozu",
+  "ad": "Pamukkale Kızıl Alan Öküzgözü",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Vişne ve nar notalı, sulu bir Öküzgözü.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-arti-kalecik-shiraz",
+  "ad": "Pamukkale Artı Kalecik Karası & Shiraz",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası",
+   "Shiraz"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Artı serisinden kırmızı meyveli, baharatlı orta gövdeli kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-mulier-misket",
+  "ad": "Pamukkale Mulier Misket",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Aromatik, çiçeksi bir misket beyazı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "pamukkale-l-kirmizi",
+  "ad": "Pamukkale 'L' Kırmızı",
+  "uretici": "Pamukkale Şarapları",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin üst segment kırmızısı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/pamukkale"
+  ]
+ },
+ {
+  "id": "kuzubag-okuzgozu-shiraz",
+  "ad": "Kuzubağ Öküzgözü – Shiraz",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Shiraz"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Öküzgözü'nün meyvesi ile Shiraz'ın baharatını birleştiren dengeli kupaj.",
+  "puan": 95,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Decanter World Wine Awards 2023; Altın – AWC Vienna 2023; Gümüş – IWSC 2023 Turkey; Altın – TWC 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-kalecik-karasi",
+  "ad": "Kuzubağ Kalecik Karası",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Çilek ve kiraz notalı, zarif tanenli Kalecik Karası.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın + Trophy – International Wine Challenge 2023; Bronz – DWWA 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-chardonnay",
+  "ad": "Kuzubağ Chardonnay",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Yüksek rakım Çal bağlarından taze ve yuvarlak bir Chardonnay.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Berliner Wine Trophy 2023; Altın – Mundus Vini 2023 (2021); Altın – AWC Vienna 2023 (2022)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-sauvignon-blanc",
+  "ad": "Kuzubağ Sauvignon Blanc",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Narenciye ve yeşil ot notalı, canlı bir Sauvignon Blanc.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Berliner Wine Trophy 2023; Gümüş – AWC Vienna 2023; Bronz – DWWA 2023 (2022 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-cal-karasi",
+  "ad": "Kuzubağ Çal Karası",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Çal Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bölgenin yerli üzümünden hafif gövdeli, kırmızı meyveli bir kırmızı.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – CWSA Best Value 2023; Gümüş – IWC 2023 (2021); Gümüş – IWSC 2023 Turkey (2022)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-cal-karasi-kalecik-roze",
+  "ad": "Kuzubağ Çal Karası – Kalecik Karası Roze",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "roze",
+  "uzum": [
+   "Çal Karası",
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "İki yerli üzümden taze, çilekli bir roze.",
+  "puan": 86,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – TWC 2023; Gümüş – Mundus Vini 2023; Bronz – DWWA 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kuzubag-haziran",
+  "ad": "Kuzubağ Haziran",
+  "uretici": "Kuzubağ",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Serinin madalyalı kupajlarından, meyvemsi ve yumuşak.",
+  "puan": 86,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – CWSA Best Value 2023; Gümüş – Mundus Vini 2023; Bronz – DWWA 2023 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.kuzubag.com/oduller/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kuzubag"
+  ]
+ },
+ {
+  "id": "kup-epic-cabernet-merlot-shiraz",
+  "ad": "Küp Epic'O Cabernet Sauvignon – Merlot – Shiraz",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Shiraz"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Epic serisinin üç üzümlü amiral kupajı; olgun siyah meyve ve meşe.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – DWWA 2021 (2017); Altın – Turkish Wine Challenge 2022 (2018); Commended – IWC 2024 (2021)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://kupsarap.com/odullerimiz/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kup"
+  ]
+ },
+ {
+  "id": "kup-epic-merlot",
+  "ad": "Küp Epic'O Merlot",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Erik ve çikolata notalı yuvarlak bir Merlot.",
+  "puan": 86,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Bronz (86 puan) – International Wine Challenge 2024 (2021 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://kupsarap.com/odullerimiz/",
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kup"
+  ]
+ },
+ {
+  "id": "kup-artemis-mazrona-narince",
+  "ad": "Küp Artemis Mazrona – Narince",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Mazrona",
+   "Narince"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Nadir yerli Mazrona ile Narince'nin ferah beyaz kupajı.",
+  "puan": 89,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Bronz (89 puan) – Decanter World Wine Awards 2024 (2022 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://kupsarap.com/odullerimiz/"
+  ]
+ },
+ {
+  "id": "kup-artemis-okuzgozu-shiraz",
+  "ad": "Küp Artemis Öküzgözü – Shiraz",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Meyvemsi ve baharatlı, orta gövdeli kupaj.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Bronz (88 puan) – Decanter World Wine Awards 2024 (2022 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://kupsarap.com/odullerimiz/"
+  ]
+ },
+ {
+  "id": "kup-artemis-chardonnay-narince",
+  "ad": "Küp Artemis Chardonnay – Narince",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Narince"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Yuvarlak, beyaz meyveli bir beyaz kupaj.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Bronz (88 puan) – Decanter World Wine Awards 2024 (2022 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://kupsarap.com/odullerimiz/"
+  ]
+ },
+ {
+  "id": "kup-visne-likor-sarabi",
+  "ad": "Küp Vişne Likör Şarabı",
+  "uretici": "Küp Şarapları (Epic, Artemis, Thia)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "tatli",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "1972'den beri üretilen markanın simgesi; yoğun vişneli tatlı meyve şarabı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kup",
+   "https://www.kupsarap.com/"
+  ]
+ },
+ {
+  "id": "lermonos-lykos-valley",
+  "ad": "Lermonos Lykos Valley",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Lykos (Çürüksu) vadisine adını veren seri; yüksek rakım Çal bağlarından.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.lermonos.com/",
+   "https://www.vitikultur.com/en/wineries/lermonos"
+  ]
+ },
+ {
+  "id": "lermonos-merlot",
+  "ad": "Lermonos Merlot",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "840-880 m'deki kalkerli bağlardan meyvemsi bir Merlot.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.lermonos.com/",
+   "https://www.vitikultur.com/en/wineries/lermonos"
+  ]
+ },
+ {
+  "id": "lermonos-rindera",
+  "ad": "Lermonos Rindera",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Şaraphanenin Rindera etiketli serisi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.lermonos.com/"
+  ]
+ },
+ {
+  "id": "pasa-dedem-cabernet-sauvignon",
+  "ad": "Paşa Dedem Cabernet Sauvignon",
+  "uretici": "Kayıbağ – Paşa Dedem",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Çal platosundan meyvemsi, günlük içim bir Cabernet.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kayibag"
+  ]
+ },
+ {
+  "id": "pasa-dedem-sauvignon-blanc",
+  "ad": "Paşa Dedem Sauvignon Blanc",
+  "uretici": "Kayıbağ – Paşa Dedem",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Ferah, narenciyeli bir Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kayibag"
+  ]
+ },
+ {
+  "id": "pasa-dedem-blush",
+  "ad": "Paşa Dedem Blush",
+  "uretici": "Kayıbağ – Paşa Dedem",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hafif ve meyvemsi bir blush.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kayibag"
+  ]
+ },
+ {
+  "id": "kavaklidere-pendore-okuzgozu",
+  "ad": "Kavaklıdere Pendore Öküzgözü",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Pendore château'sundan, vişne ve nar notalı, fıçıda olgunlaşmış bir teruar Öküzgözü'sü.",
+  "puan": 0,
+  "tl": 1850,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://kavaklidere.com/pendore-baglari/",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "kavaklidere-pendore-syrah",
+  "ad": "Kavaklıdere Pendore Syrah",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Koyu meyve, karabiber ve meşe notalı yoğun bir Ege Syrah'ı.",
+  "puan": 0,
+  "tl": 1850,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://degustasyon.net/kavaklidere-pendore-syrah-2014-manisa/",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "kavaklidere-pendore-harmonie",
+  "ad": "Kavaklıdere Pendore Harmonie",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Pendore bağlarının seçkin parsellerinden yapılan üst segment kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.denizdemirdoven.com/kavaklidere-pendore-harmonie-2018/"
+  ]
+ },
+ {
+  "id": "kavaklidere-egeo-syrah",
+  "ad": "Kavaklıdere Egeo Syrah",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Ege bağlarından meyvemsi, baharatlı ve içimi kolay Syrah.",
+  "puan": 0,
+  "tl": 1391,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "kavaklidere-egeo-malbec",
+  "ad": "Kavaklıdere Egeo Malbec",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Mürdüm eriği ve menekşe notalı, yumuşak tanenli Malbec.",
+  "puan": 0,
+  "tl": 1572,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "kavaklidere-egeo-fume-blanc",
+  "ad": "Kavaklıdere Egeo Fumé Blanc",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçı dokunuşlu, füme ve narenciye notalı Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 1615,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "kavaklidere-egeo-rose",
+  "ad": "Kavaklıdere Egeo Rosé",
+  "uretici": "Kavaklıdere – Pendore",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Ege serisinin taze, kırmızı meyveli rozesi.",
+  "puan": 0,
+  "tl": 1490,
+  "tl_kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eylül 2026, 75 cl)",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kavaklidere",
+   "https://www.habergazetesi.com.tr/sarap-fiyatlari"
+  ]
+ },
+ {
+  "id": "heraki-novakula-bogazkere",
+  "ad": "Heraki Novakula Boğazkere",
+  "uretici": "Heraki",
+  "il": "Manisa",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Denizli'nin en yaşlı Boğazkere bağından; Heraki'nin ilk şarabı, yoğun ama dengeli tanenli.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/heraki",
+   "https://thequirkycork.com/visit-heraki/"
+  ]
+ },
+ {
+  "id": "heraki-akuarela-sultaniye",
+  "ad": "Heraki Akuarela Sultaniye",
+  "uretici": "Heraki",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sultaniye"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sofralık sanılan Sultaniye'den canlı, çiçeksi ve tuzlu bitişli bir beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/heraki",
+   "https://thequirkycork.com/heraki-changing-the-face-of-sultaniye/"
+  ]
+ },
+ {
+  "id": "heraki-akuarela-cal-karasi",
+  "ad": "Heraki Akuarela Çal Karası",
+  "uretici": "Heraki",
+  "il": "Manisa",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [
+   "Çal Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hafif gövdeli, kırmızı meyveli ve ferah bir Çal Karası.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/heraki"
+  ]
+ },
+ {
+  "id": "heraki-delta-v-sultaniye",
+  "ad": "Heraki Delta V Sultaniye",
+  "uretici": "Heraki",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sultaniye"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sultaniye'nin farklı bir yorumu.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/heraki"
+  ]
+ },
+ {
+  "id": "selendi-sarnic-cabernet-franc",
+  "ad": "Selendi Sarnıç Cabernet Franc",
+  "uretici": "Selendi",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sarnıç yaylasının organik bağlarından, kırmızı meyve ve otsu notalı zarif Cabernet Franc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+  ]
+ },
+ {
+  "id": "selendi-sarnic-shiraz",
+  "ad": "Selendi Sarnıç Shiraz",
+  "uretici": "Selendi",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Koyu meyveli, baharatlı château tarzı bir Shiraz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+  ]
+ },
+ {
+  "id": "selendi-sarnic-beyaz",
+  "ad": "Selendi Sarnıç Chardonnay, Viognier, Narince",
+  "uretici": "Selendi",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Viognier",
+   "Narince"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üç üzümün aromatik ve dolgun beyaz kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+  ]
+ },
+ {
+  "id": "selendi-akhisar-blend",
+  "ad": "Selendi Akhisar Blend",
+  "uretici": "Selendi",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Akhisar bağlarından dengeli kırmızı kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+  ]
+ },
+ {
+  "id": "selendi-gulpembe",
+  "ad": "Selendi Gülpembe",
+  "uretici": "Selendi",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Taze, hafif bir organik roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/selendi"
+  ]
+ },
+ {
+  "id": "kastro-tireli-reserve-syrah",
+  "ad": "Kastro Tireli Reserve Syrah",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin amiral Syrah'ı; Côte-Rôtie esinli, yoğun ve baharatlı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "kastro-tireli-syrah-mourvedre",
+  "ad": "Kastro Tireli Syrah & Mourvèdre",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Mourvèdre"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Rhône tarzı, koyu meyve ve garrig notalı kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "kastro-tireli-viognier-reserve",
+  "ad": "Kastro Tireli Viognier Reserve",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "beyaz",
+  "uzum": [
+   "Viognier"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Şeftali, kayısı ve çiçek notalı, dolgun bir Viognier.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "kastro-tireli-narince-reserve",
+  "ad": "Kastro Tireli Narince Reserve",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçılı, yuvarlak dokulu bir Narince.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "kastro-tireli-kalecik-vahsi-maya",
+  "ad": "Kastro Tireli Kalecik Karası \"Vahşi Maya\"",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Yabani mayayla fermente edilmiş, kırmızı meyveli Kalecik Karası.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "kastro-tireli-peri-roze",
+  "ad": "Kastro Tireli Peri Rosé",
+  "uretici": "Kastro Tireli",
+  "il": "Manisa",
+  "bolge": "Akhisar",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Peri serisinin taze, hafif rozesi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/kastro-tireli"
+  ]
+ },
+ {
+  "id": "sobran-nebbiolo",
+  "ad": "Sobran Bağları Nebbiolo",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "Alaşehir",
+  "renk": "kirmizi",
+  "uzum": [
+   "Nebbiolo"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Alaşehir'de yetişen Nebbiolo'dan; gül, kiraz ve katran notalı, belirgin tanenli nadir bir Türk Nebbiolo'su.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://atb.org.tr/basaridetay.asp?newID=107",
+   "https://lidyaantikbagrotasi.com/sobran/"
+  ]
+ },
+ {
+  "id": "phokaia-foca-karasi",
+  "ad": "Phokaia Foça Karası",
+  "uretici": "Öküzgözü Şarapçılık – Phokaia",
+  "il": "Manisa",
+  "bolge": "Foça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Foça Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Mübadeleyle kaybolan, yeniden canlandırılan Foça Karası'ndan tek çeşit kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://okuzgozusarapcilik.com/Urunler.aspx",
+   "https://okuzgozusarapcilik.com/Tarihce.aspx"
+  ]
+ },
+ {
+  "id": "phokaia-foca-karasi-blanc-de-noirs",
+  "ad": "Phokaia Foça Karası Blanc de Noirs",
+  "uretici": "Öküzgözü Şarapçılık – Phokaia",
+  "il": "Manisa",
+  "bolge": "Foça",
+  "renk": "beyaz",
+  "uzum": [
+   "Foça Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Siyah Foça Karası'ndan kabuksuz fermente edilmiş beyaz şarap.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://okuzgozusarapcilik.com/Urunler.aspx"
+  ]
+ },
+ {
+  "id": "okuzgozu-1970",
+  "ad": "Öküzgözü 1970",
+  "uretici": "Öküzgözü Şarapçılık – Phokaia",
+  "il": "Manisa",
+  "bolge": "Foça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2021",
+  "abv": 14,
+  "tat": "Koyu yakut; yaban mersini, kurutulmuş kızılcık ve vişne, otsu-baharatlı bitiş.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://okuzgozusarapcilik.com/Urunler.aspx",
+   "https://tadim-notlari.com/2023/05/22/okuzgozu-sarapcilik-1970-2021/"
+  ]
+ },
+ {
+  "id": "phokaia-foca-karasi-roze",
+  "ad": "Phokaia Foça Karası Rosé",
+  "uretici": "Öküzgözü Şarapçılık – Phokaia",
+  "il": "Manisa",
+  "bolge": "Foça",
+  "renk": "roze",
+  "uzum": [
+   "Foça Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Foça Karası'ndan kuru bir roze.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://okuzgozusarapcilik.com/Urunler.aspx"
+  ]
+ },
+ {
+  "id": "yanik-ulke-mahzen-cabernet-franc",
+  "ad": "Yanık Ülke 'Mahzen' Cabernet Franc",
+  "uretici": "Yanık Ülke",
+  "il": "Manisa",
+  "bolge": "Kula",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Volkanik Kula bağlarından, fıçıda olgunlaşmış seçkin Cabernet Franc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yanik-ulke"
+  ]
+ },
+ {
+  "id": "yanik-ulke-grand-reserve",
+  "ad": "Yanık Ülke Grand Reserve",
+  "uretici": "Yanık Ülke",
+  "il": "Manisa",
+  "bolge": "Kula",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin uzun fıçı olgunlaştırmalı üst segment kırmızısı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yanik-ulke"
+  ]
+ },
+ {
+  "id": "yanik-ulke-serendipity",
+  "ad": "Yanık Ülke Serendipity",
+  "uretici": "Yanık Ülke",
+  "il": "Manisa",
+  "bolge": "Kula",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Serendipity etiketli kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yanik-ulke"
+  ]
+ },
+ {
+  "id": "yanik-ulke-strabon",
+  "ad": "Yanık Ülke Strabon",
+  "uretici": "Yanık Ülke",
+  "il": "Manisa",
+  "bolge": "Kula",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kula'yı 'Yanık Ülke' olarak anlatan coğrafyacı Strabon'un adını taşıyan seri.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yanik-ulke"
+  ]
+ },
+ {
+  "id": "yanik-ulke-muscat",
+  "ad": "Yanık Ülke Muscat",
+  "uretici": "Yanık Ülke",
+  "il": "Manisa",
+  "bolge": "Kula",
+  "renk": "beyaz",
+  "uzum": [
+   "Muscat"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Aromatik, çiçeksi bir misket.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/yanik-ulke"
+  ]
+ },
+ {
+  "id": "chateau-mona-reserve-okuzgozu-bogazkere",
+  "ad": "Chateau Mona Reserve Öküzgözü – Boğazkere",
+  "uretici": "Sezar Şarap (Sezer Holding)",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sezer Holding'in üst serisinden klasik Anadolu kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.sezerholding.com.tr/markalar/sarap"
+  ]
+ },
+ {
+  "id": "chateau-mona-reserve-sauvignon-blanc",
+  "ad": "Chateau Mona Reserve Sauvignon Blanc",
+  "uretici": "Sezar Şarap (Sezer Holding)",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Ferah, narenciyeli bir Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.sezerholding.com.tr/markalar/sarap"
+  ]
+ },
+ {
+  "id": "sirinceli-nar",
+  "ad": "Şirinceli Nar",
+  "uretici": "Sezar Şarap (Sezer Holding)",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "tatli",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Nar meyvesinden tatlı meyve şarabı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.sezerholding.com.tr/markalar/sarap"
+  ]
+ },
+ {
+  "id": "likya-acikara",
+  "ad": "Likya Vineyards Acıkara",
+  "uretici": "Likya Şarapları",
+  "il": "Antalya",
+  "bolge": "Elmalı",
+  "renk": "kirmizi",
+  "uzum": [
+   "Acıkara"
+  ],
+  "yil": "2012",
+  "abv": 0,
+  "tat": "Yeniden keşfedilen yerli Acıkara'dan; kırmızı meyve, baharat ve yüksek rakımın verdiği canlı asidite.",
+  "puan": 94,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Sarah Abbott MW 94, Christy Canterbury MW 89 (2012 rekoltesi)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/likya",
+   "https://www.sommgastro.com/sarap/likya-saraplari-yerel-uzumler"
+  ]
+ },
+ {
+  "id": "likya-arykanda-chardonnay",
+  "ad": "Likya Arykanda Chardonnay",
+  "uretici": "Likya Şarapları",
+  "il": "Antalya",
+  "bolge": "Elmalı",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Elmalı'nın serin yaylasından aperatif tarzı, ferah bir Chardonnay.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.sommgastro.com/sarap/likya-saraplari-yerel-uzumler"
+  ]
+ },
+ {
+  "id": "likya-podalia",
+  "ad": "Likya Podalia",
+  "uretici": "Likya Şarapları",
+  "il": "Antalya",
+  "bolge": "Elmalı",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası",
+   "Malbec"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kalecik Karası ile Malbec'in alışılmadık, meyvemsi kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "http://www.keyifnotlari.com/likya_saraplari"
+  ]
+ },
+ {
+  "id": "likya-kybele",
+  "ad": "Likya Kybele",
+  "uretici": "Likya Şarapları",
+  "il": "Antalya",
+  "bolge": "Elmalı",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Likya'nın Kybele etiketli serisi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://eksisozluk.com/likya-saraplari--4138303"
+  ]
+ },
+ {
+  "id": "sagavin-emir",
+  "ad": "Sagavin Emir",
+  "uretici": "Sagavin",
+  "il": "Antalya",
+  "bolge": "Akdeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Emir"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Nevşehir'in goble Emir bağlarından; narenciye, yeşil elma ve volkanik mineralite, belirgin asidite.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://sagavin.com/",
+   "https://degustasyon.net/sagavin-emir-2022-kapadokya/"
+  ]
+ },
+ {
+  "id": "sagavin-okuzgozu",
+  "ad": "Sagavin Öküzgözü",
+  "uretici": "Sagavin",
+  "il": "Antalya",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Tek bağ, tek çeşit Öküzgözü.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://sagavin.com/"
+  ]
+ },
+ {
+  "id": "sagavin-bogazkere",
+  "ad": "Sagavin Boğazkere",
+  "uretici": "Sagavin",
+  "il": "Antalya",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Diyarbakır bağlarından tek çeşit Boğazkere.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://sagavin.com/"
+  ]
+ },
+ {
+  "id": "antioche-barburi",
+  "ad": "Antioche Barburi",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Barburi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hatay'ın endemik Barburi üzümünden, dünyada yalnızca Antioche'un şişelediği kırmızı.",
+  "puan": 0,
+  "tl": 1200,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.antioche.com.tr/barburi.html",
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar"
+  ]
+ },
+ {
+  "id": "antioche-barburi-premium",
+  "ad": "Antioche Barburi Premium",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Barburi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fransız meşe fıçıda olgunlaştırılmış üst seri Barburi.",
+  "puan": 0,
+  "tl": 1600,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar"
+  ]
+ },
+ {
+  "id": "antioche-ozel-seri-cabernet-barburi",
+  "ad": "Antioche Özel Seri Cabernet Sauvignon & Barburi",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Barburi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "12 ay Fransız meşesinde olgunlaşmış, Cabernet'in yapısına Barburi'nin yerel karakterini katan kupaj.",
+  "puan": 0,
+  "tl": 1085,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar"
+  ]
+ },
+ {
+  "id": "antioche-sauvignon-blanc-barburi",
+  "ad": "Antioche Sauvignon Blanc & Barburi",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc",
+   "Barburi"
+  ],
+  "yil": "2024",
+  "abv": 12.5,
+  "tat": "Sauvignon Blanc ile siyah Barburi'nin beyaz vinifikasyonu; %12,5, ferah ve narenciyeli.",
+  "puan": 0,
+  "tl": 1085,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar",
+   "https://degustasyon.net/antioche-sauvignon-blanc-barburi-2024-antakya/"
+  ]
+ },
+ {
+  "id": "antioche-summer-vibes-rose",
+  "ad": "Antioche Summer Vibes Rosé",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "roze",
+  "uzum": [
+   "Sangiovese",
+   "Misket"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sangiovese ve Misket'ten aromatik, yazlık bir roze.",
+  "puan": 0,
+  "tl": 1055,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar"
+  ]
+ },
+ {
+  "id": "antioche-classic-sangiovese-syrah",
+  "ad": "Antioche Classic Sangiovese & Syrah",
+  "uretici": "Antioche Vineyards",
+  "il": "Hatay",
+  "bolge": "Akdeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Sangiovese",
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kırmızı meyve ağırlıklı, orta gövdeli kupaj.",
+  "puan": 0,
+  "tl": 1008,
+  "tl_kaynak": "habergazetesi.com.tr – 'Antioche Şarap Fiyat 2026' (Ağustos 2026, 75 cl)",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.habergazetesi.com.tr/antioche-sarap-ne-kadar"
+  ]
+ },
+ {
+  "id": "tasheli-patkara",
+  "ad": "Tasheli Patkara",
+  "uretici": "Tasheli",
+  "il": "Mersin",
+  "bolge": "Mut",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara"
+  ],
+  "yil": "2019",
+  "abv": 14,
+  "tat": "1.200 m'deki Çömelek bağlarının endemik Patkara'sından; %14, nar renginde, mürdüm eriği, böğürtlen ve yaban mersini, baharatlı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/tasheli-patkara-2019-mersin/"
+  ]
+ },
+ {
+  "id": "tasheli-patkara-cabernet-shiraz",
+  "ad": "Tasheli Patkara – Cabernet Sauvignon – Shiraz",
+  "uretici": "Tasheli",
+  "il": "Mersin",
+  "bolge": "Mut",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara",
+   "Cabernet Sauvignon",
+   "Shiraz"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Patkara'yı uluslararası çeşitlerle buluşturan madalyalı kupaj.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – Challenging Master Classes 2022",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/tasheli-patkara-cabernet-sauvignon-shiraz-2019-mersin/",
+   "https://epochtimestr.com/index.php/mutun-comelek-koyunden-cikan-bir-dunya-markasi-tasheli-saraplari"
+  ]
+ },
+ {
+  "id": "tasheli-goksuzum-akuzum",
+  "ad": "Tasheli Göküzüm – Aküzüm",
+  "uretici": "Tasheli",
+  "il": "Mersin",
+  "bolge": "Mut",
+  "renk": "beyaz",
+  "uzum": [
+   "Göküzüm",
+   "Aküzüm"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Çömelek'in iki endemik beyaz üzümünden ferah bir beyaz.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – Challenging Master Classes 2022",
+  "bul": "zor",
+  "kaynak": [
+   "https://epochtimestr.com/index.php/mutun-comelek-koyunden-cikan-bir-dunya-markasi-tasheli-saraplari"
+  ]
+ },
+ {
+  "id": "tasheli-patkara-bogazkere-okuzgozu",
+  "ad": "Tasheli Patkara – Boğazkere – Öküzgözü",
+  "uretici": "Tasheli",
+  "il": "Mersin",
+  "bolge": "Mut",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara",
+   "Boğazkere",
+   "Öküzgözü"
+  ],
+  "yil": "2020",
+  "abv": 0,
+  "tat": "Markanın ilk madalyasını getiren Anadolu kupajı.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Gümüş – AWC Vienna 2021 (2020 rekoltesi)",
+  "bul": "zor",
+  "kaynak": [
+   "https://epochtimestr.com/index.php/mutun-comelek-koyunden-cikan-bir-dunya-markasi-tasheli-saraplari"
+  ]
+ },
+ {
+  "id": "nif-solaris",
+  "ad": "Nif Bağları Solaris",
+  "uretici": "Nif Bağları",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Solaris"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Türkiye'de yalnızca Nif'in yetiştirdiği mantara dayanıklı Solaris'ten aromatik, canlı bir beyaz.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Altın – Berliner Wein Trophy 2025 (2024); Gümüş – AWC Vienna 2021 (2020)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.nifbaglari.com/nif-solaris.html",
+   "https://www.nifbaglari.com/saraplar.html"
+  ]
+ },
+ {
+  "id": "nif-montepulciano-sangiovese-grenache-roze",
+  "ad": "Nif Bağları Rosé (Montepulciano, Sangiovese, Grenache)",
+  "uretici": "Nif Bağları",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "roze",
+  "uzum": [
+   "Montepulciano",
+   "Sangiovese",
+   "Grenache"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Türkiye'nin tek Montepulciano rozesi; kiraz, çilek ve gül, mineral ve çiçeksi yumuşak bitiş.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.nifbaglari.com/saraplar.html"
+  ]
+ },
+ {
+  "id": "nif-reserve-montepulciano",
+  "ad": "Nif Reserve Montepulciano",
+  "uretici": "Nif Bağları",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Montepulciano"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kemalpaşa'nın kalkerli yamaçlarından fıçılı, yoğun bir Montepulciano.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.nifbaglari.com/saraplar.html"
+  ]
+ },
+ {
+  "id": "nif-bornova-misketi",
+  "ad": "Nif Bağları Bornova Misketi",
+  "uretici": "Nif Bağları",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bornova Misketi'nin anavatanına yakın bağlardan aromatik kuru beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.nifbaglari.com/saraplar.html"
+  ]
+ },
+ {
+  "id": "nif-reserve-viognier",
+  "ad": "Nif Reserve Viognier",
+  "uretici": "Nif Bağları",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Viognier"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Dolgun, şeftali ve çiçek notalı rezerv Viognier.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.nifbaglari.com/saraplar.html"
+  ]
+ },
+ {
+  "id": "ayda-vinaida-5",
+  "ad": "Ayda Vinaida 5",
+  "uretici": "Ayda Bağları (Vinaida)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Foça Karası",
+   "Petit Verdot",
+   "Cabernet Sauvignon",
+   "Syrah",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Beş üzümün kompleks kupajı; Fransız meşesinde fermente edilip 24 ay olgunlaştırılmış, vegan.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.aydawines.com.tr/sarapcilik/"
+  ]
+ },
+ {
+  "id": "ayda-vinaida-merlot",
+  "ad": "Ayda Vinaida Merlot",
+  "uretici": "Ayda Bağları (Vinaida)",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kırmızı meyve, baharat ve çikolata notalı, 12 ay fıçılı orta gövdeli Merlot.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.aydawines.com.tr/sarapcilik/"
+  ]
+ },
+ {
+  "id": "dvin-cabernet-franc-cabernet-sauvignon",
+  "ad": "D-Vin Urla Cabernet Franc – Cabernet Sauvignon",
+  "uretici": "D-Vin Urla",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Şaraphanenin ilk (2022) rekoltesinden Cabernet Franc ağırlıklı kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dvinurlawines.com/"
+  ]
+ },
+ {
+  "id": "dvin-shiraz-okuzgozu",
+  "ad": "D-Vin Urla Shiraz – Öküzgözü",
+  "uretici": "D-Vin Urla",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz",
+   "Öküzgözü"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Baharatlı Shiraz ile meyvemsi Öküzgözü'nün kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://dvinurlawines.com/"
+  ]
+ },
+ {
+  "id": "buradan-sirin",
+  "ad": "Buradan Şirin",
+  "uretici": "Buradan",
+  "il": "İzmir",
+  "bolge": "Çeşme",
+  "renk": "roze",
+  "uzum": [
+   "Grenache"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Organik Ovacık bağlarından Grenache rozesi; tuzlu meltem karakterli, hafif ve meyvemsi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/buradan-winery"
+  ]
+ },
+ {
+  "id": "buradan-fidan",
+  "ad": "Buradan Fidan",
+  "uretici": "Buradan",
+  "il": "İzmir",
+  "bolge": "Çeşme",
+  "renk": "kirmizi",
+  "uzum": [
+   "Tempranillo"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Tempranillo'dan hafif içimli bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/buradan-winery"
+  ]
+ },
+ {
+  "id": "koztepe-alphonse-lavallee",
+  "ad": "Koztepe Alphonse Lavallée",
+  "uretici": "Koztepe Winery",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Alphonse Lavallée"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kavacık'ın ünlü sofralık üzümü Alphonse Lavallée'den (Kavacık Karası) nadir bir kırmızı şarap.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.focagazete.com/kavacikta-muhtesem-bir-mekan-koztepe-winery-esat-ercetingoz/",
+   "https://www.vitikultur.com/en/wineries/koztepe"
+  ]
+ },
+ {
+  "id": "koztepe-cabernet-merlot",
+  "ad": "Koztepe Cabernet & Merlot",
+  "uretici": "Koztepe Winery",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "En az iki yıl Fransız meşesi ve 18 ay şişe olgunlaştırmalı organik kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.focagazete.com/kavacikta-muhtesem-bir-mekan-koztepe-winery-esat-ercetingoz/",
+   "https://www.vitikultur.com/en/wineries/koztepe"
+  ]
+ },
+ {
+  "id": "koztepe-okuzgozu",
+  "ad": "Koztepe Öküzgözü",
+  "uretici": "Koztepe Winery",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Organik Kavacık bağlarından meyvemsi bir Öküzgözü.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.focagazete.com/kavacikta-muhtesem-bir-mekan-koztepe-winery-esat-ercetingoz/",
+   "https://www.vitikultur.com/en/wineries/koztepe"
+  ]
+ },
+ {
+  "id": "koztepe-chardonnay-narince",
+  "ad": "Koztepe Chardonnay & Narince",
+  "uretici": "Koztepe Winery",
+  "il": "İzmir",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Narince"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Chardonnay ile Narince'nin yuvarlak beyaz kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.focagazete.com/kavacikta-muhtesem-bir-mekan-koztepe-winery-esat-ercetingoz/",
+   "https://www.vitikultur.com/en/wineries/koztepe"
+  ]
+ },
+ {
+  "id": "prodom-petit-verdot",
+  "ad": "Prodom Petit Verdot",
+  "uretici": "Prodom",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Petit Verdot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Koyu renkli, menekşe ve siyah meyve notalı tek çeşit Petit Verdot.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/prodom"
+  ]
+ },
+ {
+  "id": "prodom-blend",
+  "ad": "Prodom Blend",
+  "uretici": "Prodom",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Petit Verdot",
+   "Cabernet Franc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin Syrah, Petit Verdot ve Cabernet Franc'tan oluşan imza kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/prodom",
+   "https://eksisozluk.com/prodom--2673461"
+  ]
+ },
+ {
+  "id": "prodom-syrah-kalecik",
+  "ad": "Prodom Syrah & Kalecik Karası",
+  "uretici": "Prodom",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Baharatlı Syrah ile zarif Kalecik Karası'nın kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/prodom"
+  ]
+ },
+ {
+  "id": "prodom-fume-blanc",
+  "ad": "Prodom Fumé Blanc",
+  "uretici": "Prodom",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fıçı dokunuşlu Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/prodom"
+  ]
+ },
+ {
+  "id": "prodom-gec-hasat",
+  "ad": "Prodom 'Geç Hasat' Tatlı",
+  "uretici": "Prodom",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "tatli",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Geç hasat üzümlerden tatlı şarap (37,5 cl).",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.anlikalkolfiyatlari.com/kategori/sarap/prodom"
+  ]
+ },
+ {
+  "id": "hanchalar-okuzgozu-syrah",
+  "ad": "Hanchalar Öküzgözü – Syrah",
+  "uretici": "Hanchalar (Erdel Şarapçılık)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "İngiltere'deki uluslararası bir yarışmada ikincilik alan meyvemsi, baharatlı kupaj.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/erdel"
+  ]
+ },
+ {
+  "id": "hanchalar-sauvignon-blanc",
+  "ad": "Hanchalar Sauvignon Blanc",
+  "uretici": "Hanchalar (Erdel Şarapçılık)",
+  "il": "Denizli",
+  "bolge": "Çal",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Çal platosunun serin gecelerinden ferah bir Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/erdel"
+  ]
+ },
+ {
+  "id": "karnas-zinfandel",
+  "ad": "Karnas Zinfandel",
+  "uretici": "Karnas Vineyards",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "kirmizi",
+  "uzum": [
+   "Zinfandel"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Zinfandel'in olası anavatanına dönüşü; olgun böğürtlen ve baharat notalı, Bodrum rüzgârlarında yetişmiş bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/karnas",
+   "https://karnasvineyards.com/"
+  ]
+ },
+ {
+  "id": "karnas-syrah",
+  "ad": "Karnas Syrah",
+  "uretici": "Karnas Vineyards",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sürdürülebilir yöntemlerle üretilmiş, koyu meyveli Syrah.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/karnas"
+  ]
+ },
+ {
+  "id": "karnas-white-zinfandel",
+  "ad": "Karnas White Zinfandel",
+  "uretici": "Karnas Vineyards",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "roze",
+  "uzum": [
+   "Zinfandel"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Zinfandel'den hafif, meyvemsi blush tarzı şarap.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.vitikultur.com/en/wineries/karnas"
+  ]
+ },
+ {
+  "id": "neferiye-kanlikara",
+  "ad": "Neferiye Kanlıkara",
+  "uretici": "Neferiye",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kanlıkara"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Ağaçlara sarılmış aşısız asmalardan, yabani mayayla yapılan doğal bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://neferiye.com/"
+  ]
+ },
+ {
+  "id": "neferiye-ak-uzum",
+  "ad": "Neferiye Ak Üzüm",
+  "uretici": "Neferiye",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "beyaz",
+  "uzum": [
+   "Ak Üzüm"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bodrum dağ köylerinin yerel beyaz üzümünden katkısız doğal şarap.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://neferiye.com/"
+  ]
+ },
+ {
+  "id": "neferiye-panik",
+  "ad": "Neferiye Panık",
+  "uretici": "Neferiye",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "kirmizi",
+  "uzum": [
+   "Panık"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Neredeyse unutulmuş yerel Panık üzümünden doğal şarap.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://neferiye.com/"
+  ]
+ },
+ {
+  "id": "knidos-blush",
+  "ad": "Knidos Blush",
+  "uretici": "Knidos",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Datça bağlarından hafif, meyvemsi blush.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://eksisozluk.com/knidos-sarapcilik--5413519"
+  ]
+ },
+ {
+  "id": "asarcik-roussanne-marsanne-reserve",
+  "ad": "Asarcık Roussanne – Marsanne Reserve",
+  "uretici": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+  "il": "Muğla",
+  "bolge": "Bozburun",
+  "renk": "beyaz",
+  "uzum": [
+   "Roussanne",
+   "Marsanne"
+  ],
+  "yil": "2019",
+  "abv": 0,
+  "tat": "Türkiye'de nadir Rhône beyaz kupajı; Fransız meşesinde olgunlaşmış dolgun, çiçeksi ve fındıksı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.turkish-wine.com/kayrakl%C4%B1-asarc%C4%B1k-vineyards-asarcik-vineyards",
+   "https://thequirkycork.com/kayrakli-sarapcilik-asarcik-roussanne-marsanne/",
+   "https://www.wine-surgeon.com/asarcik-roussanne-marsanne-reserve-2019/"
+  ]
+ },
+ {
+  "id": "asarcik-okuzgozu-bogazkere-reserve",
+  "ad": "Asarcık Öküzgözü – Boğazkere Reserve",
+  "uretici": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+  "il": "Muğla",
+  "bolge": "Bozburun",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Sulamasız organik bağlardan fıçılı Anadolu kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.turkish-wine.com/kayrakl%C4%B1-asarc%C4%B1k-vineyards-asarcik-vineyards"
+  ]
+ },
+ {
+  "id": "asarcik-cabernet-merlot-reserve",
+  "ad": "Asarcık Cabernet Sauvignon – Merlot Reserve",
+  "uretici": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+  "il": "Muğla",
+  "bolge": "Bozburun",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Fransız meşesinde olgunlaşmış Bordeaux kupajı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.turkish-wine.com/kayrakl%C4%B1-asarc%C4%B1k-vineyards-asarcik-vineyards"
+  ]
+ }
+]

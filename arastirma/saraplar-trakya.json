@@ -1,0 +1,2757 @@
+[
+ {
+  "id": "doluca-sarafin-fume-blanc",
+  "ad": "Sarafin Fumé Blanc",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Saroz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Olgun elma, narenciye ve egzotik meyve; fıçıda tortu üzerinde dinlenmiş, yağlı ama çeliksi diriliğe sahip canlı bir beyaz.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/sarafin-fume-blanc-2024-canakkale/"
+  ]
+ },
+ {
+  "id": "doluca-sarafin-shiraz",
+  "ad": "Sarafin Shiraz",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Saroz)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Mentol, siyah meyve ve toprak notaları; çok yoğun, etli dokulu, olgun ve yuvarlak tanenli güçlü bir Shiraz.",
+  "puan": 90,
+  "tl": 2070,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/sarafin-shiraz-2022-canakkale/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "doluca-alcitepe-kirte",
+  "ad": "Alçıtepe Kirte Cabernet Sauvignon",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Gelibolu Yarımadası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Alçıtepe'deki tek parselden, düşük verimli Cabernet; toprak, katran ve karanfil ardından siyah meyve, gövdeli ve sağlam yapılı.",
+  "puan": 93,
+  "tl": 2250,
+  "tl_kaynak": "degustasyon.net, Aralık 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/doluca-alcitepe-kirte-2022-canakkale/"
+  ]
+ },
+ {
+  "id": "doluca-alcitepe-cabernet-shiraz",
+  "ad": "Alçıtepe Cabernet Sauvignon – Shiraz",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Gelibolu Yarımadası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Shiraz"
+  ],
+  "yil": "2021",
+  "abv": 15,
+  "tat": "Deri, tütün ve olgun siyah meyveye topraksı tonlar eşlik ediyor; yoğun ama esnek tanenli, canlı asiditeli dengeli bir kırmızı.",
+  "puan": 90,
+  "tl": 2145,
+  "tl_kaynak": "degustasyon.net, Aralık 2025",
+  "odul": "Altın – Concours Mondial de Bruxelles (yıl belirtilmemiş, degustasyon.net)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/doluca-alcitepe-c-sauvignon-shiraz-2021-canakkale/"
+  ]
+ },
+ {
+  "id": "doluca-kizilcaterzi-merlot",
+  "ad": "Kızılcaterzi Merlot",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2021",
+  "abv": 15,
+  "tat": "Tek bağdan geç hasat Merlot; olgun kırmızı meyve, çikolata ve vanilya, yumuşak tanenli kadifemsi bir içim.",
+  "puan": 88,
+  "tl": 1585,
+  "tl_kaynak": "degustasyon.net, Mayıs 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/doluca-kizilcaterzi-merlot-2021-tekirdag/"
+  ]
+ },
+ {
+  "id": "doluca-signium-beyaz",
+  "ad": "Signium Beyaz",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Saroz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Viognier",
+   "Chardonnay",
+   "Fiano"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "Beyaz şeftali, armut ve narenciye ile çiçeksi nüanslar; diri asiditeli, dolgun gövdeli ve dengeli bir harman.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/doluca-signium-beyaz-2023-canakkale/"
+  ]
+ },
+ {
+  "id": "doluca-signium-kirmizi",
+  "ad": "Signium Kırmızı",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Shiraz",
+   "Petit Verdot"
+  ],
+  "yil": "2021",
+  "abv": 14.5,
+  "tat": "Katransı açılışın ardından reçelsi siyah meyve, böğürtlen, vanilya ve karabiber; dolgun ve henüz köşeli tanenli.",
+  "puan": 88,
+  "tl": 2760,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/doluca-signium-kirmizi-2021-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "kutman-papaskarasi",
+  "ad": "Kutman Papaskarası",
+  "uretici": "Kutman",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Trakya'nın yerel Papaskarası üzümünden; kiraz ve közlenmiş kırmızı biber notalı, yüksek asiditeli, orta gövdeli bir kırmızı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://kucuksomolye.wordpress.com/2022/12/14/trakyanin-9-8lik-uzumu-papaskarasi/"
+  ]
+ },
+ {
+  "id": "melen-papazkarasi-rezerve",
+  "ad": "Melen Papazkarası Rezerve",
+  "uretici": "Melen",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Hoşköy bağlarından küçük partili Papazkarası rezervi; tanen, asit ve meyvesi yuvarlanmış dengeli bir kırmızı olarak anılır.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "http://kadehtekilezzetinpesinde.com/?p=1036"
+  ]
+ },
+ {
+  "id": "kayra-versus-chardonnay-viognier",
+  "ad": "Kayra Versus Chardonnay – Viognier",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Viognier"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Hamzapınar bağlarından; kayısı ve misket limonu, dolgun ve yağlı dokulu, canlı asiditesiyle tazeleyici.",
+  "puan": 90,
+  "tl": 1300,
+  "tl_kaynak": "degustasyon.net, Aralık 2025",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-versus-chardonnay-viognier-2022-tekirdag/"
+  ]
+ },
+ {
+  "id": "kayra-vintage-barrel-fermented-chardonnay",
+  "ad": "Kayra Vintage Barrel Fermented Chardonnay",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2024",
+  "abv": 14,
+  "tat": "Fıçıda mayalanmış; armut, golden elma, nektarin ve vanilya, dolgun ve güçlü bir beyaz.",
+  "puan": 88,
+  "tl": 1250,
+  "tl_kaynak": "degustasyon.net, Mart 2026",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/kayra-vintage-barrel-fermented-chardonnay-2024-trakya/"
+  ]
+ },
+ {
+  "id": "kayra-vintage-sauvignon-blanc",
+  "ad": "Kayra Vintage Sauvignon Blanc",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Misket limonu, pasyon meyvesi ve nektarin; kaygan dokulu, diri asiditeli canlı bir beyaz.",
+  "puan": 88,
+  "tl": 1300,
+  "tl_kaynak": "degustasyon.net, Aralık 2025",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/kayra-vintage-sauvignon-blanc-2024-trakya/"
+  ]
+ },
+ {
+  "id": "kayra-imperial-merlot-cabernet-franc",
+  "ad": "Kayra Imperial Merlot – Cabernet Franc",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Cabernet Franc"
+  ],
+  "yil": "2014",
+  "abv": 14,
+  "tat": "Olgun kırmızı meyve, kuru meyve ve tatlı baharat; ipeksi tanenli, zarif ve kalıcı, olgunluğunun zirvesinde.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kayra-imperial-merlot-cabernet-franc-2014-trakya/"
+  ]
+ },
+ {
+  "id": "kayra-buzbag-rezerv-emir-narince",
+  "ad": "Kayra Buzbağ Rezerv Emir – Narince",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy üretimi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Emir",
+   "Narince"
+  ],
+  "yil": "2024",
+  "abv": 12,
+  "tat": "600 litrelik fıçılarda 8 ay; hafif isli ağaçsı tonların ardından nektarin, beyaz şeftali ve yeşil elma, ferah ve enerjik.",
+  "puan": 88,
+  "tl": 750,
+  "tl_kaynak": "degustasyon.net, Mart 2026",
+  "odul": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/kayra-buzbag-rezerv-emir-narince-2024-tekirdag/"
+  ]
+ },
+ {
+  "id": "barbare-elegance",
+  "ad": "Barbare Elegance",
+  "uretici": "Barbare",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Grenache",
+   "Mourvèdre"
+  ],
+  "yil": "2020",
+  "abv": 14.6,
+  "tat": "Organik Rhône harmanı; böğürtlen ve yaban mersini ile baharat, orta gövdeli, akıcı ve dengeli.",
+  "puan": 83,
+  "tl": 860,
+  "tl_kaynak": "degustasyon.net, Mayıs 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barbare-elegance-2020-tekirdag/"
+  ]
+ },
+ {
+  "id": "barbare-pinot-noir",
+  "ad": "Barbare Pinot Noir",
+  "uretici": "Barbare",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Pinot Noir"
+  ],
+  "yil": "2022",
+  "abv": 14.8,
+  "tat": "Siyah kiraz ve çilek; orta gövdeli, yumuşak tanenli, zarif ve rahat içimli bir Pinot.",
+  "puan": 83,
+  "tl": 800,
+  "tl_kaynak": "degustasyon.net, Ocak 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barbare-pinot-noir-2022-tekirdag/"
+  ]
+ },
+ {
+  "id": "umurbey-sauvignon-blanc",
+  "ad": "Umurbey Sauvignon Blanc",
+  "uretici": "Umurbey",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2024",
+  "abv": 14.5,
+  "tat": "Greyfurt, pasyon meyvesi ve misket limonu; dolgun, yağlı dokulu ve mineral bitişli aromatik bir beyaz.",
+  "puan": 90,
+  "tl": 1379,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/umurbey-sauvignon-blanc-2022-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "umurbey-reserve-cabernet-merlot",
+  "ad": "Umurbey Reserve Cabernet Sauvignon – Merlot",
+  "uretici": "Umurbey",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2021",
+  "abv": 14,
+  "tat": "Karadut ve yaban mersini, toprak, meşe ve mentol; gövdeli, yoğun tanenli ve yıllanmaya aday.",
+  "puan": 88,
+  "tl": 1778,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/umurbey-reserve-cabernet-sauvignon-merlot-2021-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "umurbey-fume-blanc",
+  "ad": "Umurbey Füme Blanc",
+  "uretici": "Umurbey",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2023",
+  "abv": 13,
+  "tat": "6 ay meşede olgunlaşan Sauvignon Blanc; olgun elma notalı, keskin ve sıkı yapılı bir beyaz.",
+  "puan": 83,
+  "tl": 1778,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/umurbey-fume-blanc-2022-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "barel-reserve",
+  "ad": "Barel Vineyards Reserve",
+  "uretici": "Barel Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Derince bağından Cabernet; yanık, katransı tonlar, reçelsi siyah meyve ve baharat, gövdeli ve fıçısı belirgin.",
+  "puan": 85,
+  "tl": 1574,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "Altın – Concours Mondial de Bruxelles 2023 (2020 rekoltesi)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barel-vineyards-reserve-2022-tekirdag/",
+   "https://www.turkish-wine.com/barel-winery",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "barel-cabernet-franc",
+  "ad": "Barel Vineyards Cabernet Franc",
+  "uretici": "Barel Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2023",
+  "abv": 12.5,
+  "tat": "Macar meşesinde 12 ay; kırmızı ve siyah meyve, deri, tütün ve mineral izler, tok içimli.",
+  "puan": 88,
+  "tl": 1614,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barel-vineyards-cabernet-franc-2023-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "barel-cabernet-sauvignon-syrah",
+  "ad": "Barel Vineyards Cabernet Sauvignon – Syrah",
+  "uretici": "Barel Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "2021",
+  "abv": 14,
+  "tat": "Siyah meyve ve kara zeytin, baharat; gövdeli, yoğun ve biraz köşeli tanenli.",
+  "puan": 88,
+  "tl": 1198,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barel-vineyards-cabernet-sauvignon-syrah-2021-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "barel-old-vine-semillon",
+  "ad": "Barel Vineyards Old Vine Semillon",
+  "uretici": "Barel Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Semillon"
+  ],
+  "yil": "2024",
+  "abv": 12.7,
+  "tat": "35 yaşındaki asmalardan; olgun beyaz meyve ve mineral, yağlı dokulu, canlı asiditeli ve kalıcı.",
+  "puan": 85,
+  "tl": 1316,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/barel-vineyards-old-vine-semillon-2024-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "chateau-kalpak-bbk",
+  "ad": "Château Kalpak BBK",
+  "uretici": "Château Kalpak",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2021",
+  "abv": 14.8,
+  "tat": "Filtresiz Bordeaux harmanı; olgun kırmızı meyve, meşe, tatlı baharat, deri ve tütün, kompleks ve kalıcı.",
+  "puan": 90,
+  "tl": 2336,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "Altın – AWC Vienna (2017 rekoltesi, degustasyon.net)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chateau-kalpak-bbk-2017-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "chateau-kalpak",
+  "ad": "Château Kalpak",
+  "uretici": "Château Kalpak",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2021",
+  "abv": 14.8,
+  "tat": "Uzun fıçı yıllandırmalı grand vin; siyah ve kırmızı meyve, tatlı baharat ve kararında meşe, zengin ve yıllanmaya uygun.",
+  "puan": 90,
+  "tl": 2336,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chateau-kalpak-2016-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "chateau-kalpak-v18-cabernet-franc",
+  "ad": "Château Kalpak V18 Cabernet Franc",
+  "uretici": "Château Kalpak",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2018",
+  "abv": 14.3,
+  "tat": "2018 hasadından tek çeşit Cabernet Franc; şato bağlarının yıllanmış serisi.",
+  "puan": 0,
+  "tl": 2048,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "chateau-nuzun-cabernet-sauvignon",
+  "ad": "Château Nuzun Cabernet Sauvignon",
+  "uretici": "Château Nuzun",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Marmaraereğlisi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2019",
+  "abv": 15,
+  "tat": "Organik bağdan; deri, tütün ve meşe ardından olgun siyah meyve, etli dokulu ve güçlü bir mahzen şarabı.",
+  "puan": 93,
+  "tl": 900,
+  "tl_kaynak": "degustasyon.net, Aralık 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/chateau-nuzun-cabernet-sauvignon-2019-tekirdag/"
+  ]
+ },
+ {
+  "id": "chateau-nuzun-pinot-noir",
+  "ad": "Château Nuzun Pinot Noir",
+  "uretici": "Château Nuzun",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Marmaraereğlisi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Pinot Noir"
+  ],
+  "yil": "2019",
+  "abv": 12.8,
+  "tat": "Deri, tütün, kahve ve kuru meyve gibi üçüncül bukeler; yuvarlak tanenli, yıllanmış Burgonya'yı andıran.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/chateau-nuzun-pinot-noir-2019-tekirdag/"
+  ]
+ },
+ {
+  "id": "gurbuz-hieron-oros",
+  "ad": "Gürbüz Winemaker's Selection Hieron Oros",
+  "uretici": "Gürbüz Winery",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Merlot",
+   "Petit Verdot"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Vişne, böğürtlen ve Napolyon kirazı ile vanilya ve bitter çikolata; olgun tanenli, modern ve enerjik.",
+  "puan": 90,
+  "tl": 2546,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gurbuz-winery-winemakers-selection-hieron-oros-2022-trakya/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "gurbuz-blend-1",
+  "ad": "Gürbüz Blend #1",
+  "uretici": "Gürbüz Winery",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 15,
+  "tat": "Karnar Shiraz'ı ile Gaziköy Cabernet'si; siyah meyve, vanilya ve bitter çikolata, yoğun ama olgun tanenli.",
+  "puan": 88,
+  "tl": 1822,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gurbuz-winery-blend-1-2023-trakya/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "gurbuz-sauvignon-blanc",
+  "ad": "Gürbüz Sauvignon Blanc",
+  "uretici": "Gürbüz Winery",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2024",
+  "abv": 12.7,
+  "tat": "Misket limonu, nektarin, beyaz şeftali ve çimen; diri asiditeli ve sağlam yapılı.",
+  "puan": 85,
+  "tl": 1536,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gurbuz-winery-sauvignon-blanc-2024-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "gurbuz-sauvignon-blanc-misket-natural",
+  "ad": "Gürbüz Sauvignon Blanc – Misket Natural Wine",
+  "uretici": "Gürbüz Winery",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "turuncu",
+  "uzum": [
+   "Sauvignon Blanc",
+   "Misket"
+  ],
+  "yil": "2024",
+  "abv": 11.5,
+  "tat": "13 gün kabuk teması, kükürtsüz; mayhoş kayısı, fındık ve ceviz, tuzlu-mineral bitişli Jura tarzı amber.",
+  "puan": 85,
+  "tl": 1293,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gurbuz-winery-sauvignon-blanc-misket-natural-wine-2024-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "gurbuz-eurasia-essence",
+  "ad": "Gürbüz Eurasia Essence",
+  "uretici": "Gürbüz Winery",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Karalahna",
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 14.9,
+  "tat": "Trakya Karalahnası ile Kalecik Karası'nın 13 ay meşede buluştuğu yerel üzüm harmanı.",
+  "puan": 0,
+  "tl": 1998,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "arcadia-a-cabernet-franc",
+  "ad": "Arcadia \"A\" Cabernet Franc",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Deri, tütün, mentol ve siyah meyve; yaban mersini ve karadut ile çiçeksi nüanslar, güçlü ama esnek tanenli.",
+  "puan": 90,
+  "tl": 1965,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/arcadia-a-cabernet-franc-2021-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "arcadia-dogal-fermantasyon-papaskarasi-okuzgozu",
+  "ad": "Arcadia Doğal Fermantasyon Papaskarası – Öküzgözü",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası",
+   "Öküzgözü"
+  ],
+  "yil": "2024",
+  "abv": 14,
+  "tat": "Yabani maya, bütün salkım; siyah kiraz ağırlıklı kırmızı meyve, kadifemsi tanenli, zarif ve kişilikli.",
+  "puan": 90,
+  "tl": 950,
+  "tl_kaynak": "degustasyon.net, Kasım 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/arcadia-dogal-fermantasyon-papaskarasi-okuzgozu-2024-kirklareli/"
+  ]
+ },
+ {
+  "id": "arcadia-mahiada-brut",
+  "ad": "Arcadia Mahiada Méthode Traditionnelle Brut",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "kopuren",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2021",
+  "abv": 12,
+  "tat": "Papaskarası'ndan blanc de noir köpüren, 36 ay tortu üzerinde; elma, armut ve kayısı, yağlı ve gastronomik.",
+  "puan": 88,
+  "tl": 3936,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/arcadia-mahiada-papaskarasi-blanc-de-noir-2021-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "arcadia-odrysia-narince",
+  "ad": "Arcadia Odrysia Narince",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2023",
+  "abv": 12,
+  "tat": "Trakya'da yetişen Narince, 8 ay Fransız meşesinde; olgun beyaz meyve ve bitkisel nüans, yağlı ama ferah.",
+  "puan": 88,
+  "tl": 1360,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/arcadia-odrysia-narince-2022-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "arcadia-odrysia-pinot-gris",
+  "ad": "Arcadia Odrysia Pinot Gris",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Pinot Gris"
+  ],
+  "yil": "2024",
+  "abv": 14,
+  "tat": "Elma ve nektarin, vanilyamsı ve bitkisel nüanslar; kaygan dokulu, canlı ve çok temiz yapılmış.",
+  "puan": 88,
+  "tl": 1475,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/arcadia-odrysia-pinot-gris-2024-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "arcadia-pet-nat",
+  "ad": "Arcadia Pet-Nat (Méthode Ancestrale)",
+  "uretici": "Arcadia Vineyards",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "kopuren",
+  "uzum": [
+   "Sauvignon Gris"
+  ],
+  "yil": "2023",
+  "abv": 11.5,
+  "tat": "Sauvignon Gris'ten tek fermantasyonlu doğal yarı köpüren; Arcadia'nın 2021'de başlattığı pet-nat serisi.",
+  "puan": 0,
+  "tl": 2122,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json",
+   "https://arcadiavineyards.com/tarihce/"
+  ]
+ },
+ {
+  "id": "chamlija-asticus-mons-cabernet-franc",
+  "ad": "Chamlija Asticus Mons Cabernet Franc",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2019",
+  "abv": 15,
+  "tat": "24 ay yeni meşe, filtresiz; tütün, deri ve yaban mersini, koyu ve yıllanmaya dayanıklı.",
+  "puan": 93,
+  "tl": 3300,
+  "tl_kaynak": "degustasyon.net, Ekim 2025",
+  "odul": "AWC Vienna kategori finalisti (ilk 5); Andreas Larsson 93/100",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-asticus-mons-cabernet-franc-2019-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-magnus",
+  "ad": "Chamlija Magnus",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Cabernet Franc"
+  ],
+  "yil": "2020",
+  "abv": 15,
+  "tat": "Seçme parsellerden, iki kez yeni fıçıda 24 ay; meşe, karabiber, mentol ve Napolyon kirazı, mürekkep koyuluğunda.",
+  "puan": 95,
+  "tl": 8000,
+  "tl_kaynak": "degustasyon.net, Mayıs 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-magnus-2020-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-django",
+  "ad": "Chamlija Django",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2020",
+  "abv": 15,
+  "tat": "Sütlüce bağlarından ~3 bin şişe; böğürtlen ve karadut reçeli yoğunluğunda siyah meyve, tatlı baharat.",
+  "puan": 93,
+  "tl": 8000,
+  "tl_kaynak": "degustasyon.net, Haziran 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-django-2020-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-kara-sevda",
+  "ad": "Chamlija Kara Sevda Papaskarası",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2023",
+  "abv": 14.5,
+  "tat": "Mürdüm eriği, Napolyon kirazı ve karadut, baharat dokunuşu; kadifemsi tanenli, asiditesi belirgin ve dengeli.",
+  "puan": 90,
+  "tl": 1250,
+  "tl_kaynak": "degustasyon.net, Mayıs 2026",
+  "odul": "Altın – AWC Vienna (degustasyon.net)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-kara-sevda-2023-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-cuvee-marcel-biron",
+  "ad": "Chamlija Cuvée Marcel Biron Papaskarası",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Çok düşük verimli Papaskarası, 16 ay fıçı; Napolyon kirazı, vişne ve menekşe, kaygan dokulu ve diri.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-cuvee-marcel-biron-papaskarasi-2022-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-felix-culpa-beyaz",
+  "ad": "Chamlija Felix Culpa Chardonnay",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2023",
+  "abv": 14.2,
+  "tat": "Kireçli bağdan Chardonnay, 15 ay fıçıda tortu üzerinde; olgun beyaz meyve, vanilya ve bal peteği, Burgonya tarzı.",
+  "puan": 90,
+  "tl": 1795,
+  "tl_kaynak": "degustasyon.net, Mart 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-felix-culpa-beyaz-2023-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-riesling",
+  "ad": "Chamlija Riesling",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "beyaz",
+  "uzum": [
+   "Riesling"
+  ],
+  "yil": "2025",
+  "abv": 14.2,
+  "tat": "Dondan etkilenen düşük verimli yıl; olgun elma, ıhlamur, narenciye ve armut ile mineral-topraksı tonlar.",
+  "puan": 90,
+  "tl": 2150,
+  "tl_kaynak": "degustasyon.net, Ağustos 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-riesling-2025-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-istranca-gelini",
+  "ad": "Chamlija Istranca Gelini",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Merlot",
+   "Petit Verdot"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Bordeaux harmanı, 24 ay yarı yeni fıçı; kırmızı ve siyah meyve, tatlı baharat, fıçı izleri önceki yıla göre daha dengeli.",
+  "puan": 90,
+  "tl": 1650,
+  "tl_kaynak": "degustasyon.net, Nisan 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-istranca-gelini-2022-kirklareli/"
+  ]
+ },
+ {
+  "id": "chamlija-thracian-beyaz",
+  "ad": "Chamlija Thracian Chardonnay",
+  "uretici": "Chamlija",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2022",
+  "abv": 14,
+  "tat": "Düşük verimli tek bağ, 14 ay fıçı, filtresiz; elma, ayva ve bal peteği, gövdeli ve yıllanmaya aday.",
+  "puan": 90,
+  "tl": 2110,
+  "tl_kaynak": "degustasyon.net, Ocak 2025",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/thracian-beyaz-2022-kirklareli/"
+  ]
+ },
+ {
+  "id": "ellez-papaskarasi-blanc-de-noir",
+  "ad": "Ellez Papaskarası Blanc de Noir",
+  "uretici": "Ellez",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2023",
+  "abv": 13.4,
+  "tat": "Siyah üzümden beyaz; baharlı burun, olgun elma ve armut, ince yapılı ve asiditesi belirgin bir yaz beyazı.",
+  "puan": 80,
+  "tl": 930,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/ellez-papaskarasi-2023-luleburgaz/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "ellez-shiraz-rose",
+  "ad": "Ellez Shiraz Rosé",
+  "uretici": "Ellez",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "roze",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 14.8,
+  "tat": "Frenk üzümü notalı, hafif tanenli ve canlı asiditeli, rahat içimli bir roze.",
+  "puan": 83,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/ellez-shiraz-roze-2023-luleburgaz/"
+  ]
+ },
+ {
+  "id": "ellez-reserve-cabernet-franc",
+  "ad": "Ellez Reserve Cabernet Franc",
+  "uretici": "Ellez",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Lüleburgaz)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2023",
+  "abv": 13.8,
+  "tat": "Çeşmekolu bağlarından üst seri tek çeşit Cabernet Franc.",
+  "puan": 0,
+  "tl": 1300,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "prius-distinction-malbec",
+  "ad": "Prius Distinction Malbec",
+  "uretici": "Prius Wines",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "13 ay meşe; siyah meyve, baharat, toprak ve meyankökü burukluğu, gövdeli ve sağlam yapılı.",
+  "puan": 90,
+  "tl": 1320,
+  "tl_kaynak": "degustasyon.net, Ağustos 2025",
+  "odul": "Altın – Balkan Şarap Yarışması (degustasyon.net)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/prius-distinction-malbec-2023-kirklareli/"
+  ]
+ },
+ {
+  "id": "prius-distinction-fume-blanc",
+  "ad": "Prius Distinction Fumé Blanc",
+  "uretici": "Prius Wines",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2025",
+  "abv": 13.8,
+  "tat": "Sütlüce bağlarından tek 500 litrelik fıçı; greyfurt, ananas, mango ve pasyon meyvesi, yağlı ve uzun.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/prius-distinction-fume-blanc-2025-kirklareli/"
+  ]
+ },
+ {
+  "id": "prius-distinction-cabernet-sauvignon",
+  "ad": "Prius Distinction Cabernet Sauvignon",
+  "uretici": "Prius Wines",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 15,
+  "tat": "18 ay meşe; reçelsi siyah meyve, yaban mersini, karanfil ve vanilya, modern ve enerjik.",
+  "puan": 88,
+  "tl": 1584,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/prius-distinction-cabernet-sauvignon-2023-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "prius-papas-noir",
+  "ad": "Prius Papas Noir Papaskarası",
+  "uretici": "Prius Wines",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Edirne-Uzunköprü üzümü)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2025",
+  "abv": 13.8,
+  "tat": "Kiraz, vişne, çilek ve menekşe; orta gövdeli, çok yumuşak tanenli, Beaujolais'yi andıran canlı bir kırmızı.",
+  "puan": 88,
+  "tl": 1224,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/prius-papas-noir-papaskarasi-2025-edirne/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "prius-vino-sapiens",
+  "ad": "Prius Vino Sapiens",
+  "uretici": "Prius Wines",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Istranca)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc",
+   "Merlot",
+   "Malbec",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 14.6,
+  "tat": "Kısmen 19 ay yeni Fransız meşesi; yaban mersini, böğürtlen, Napolyon kirazı, mentol ve tatlı baharat.",
+  "puan": 88,
+  "tl": 1380,
+  "tl_kaynak": "degustasyon.net, Temmuz 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/prius-vino-sapiens-2023-kirklareli/"
+  ]
+ },
+ {
+  "id": "saranta-chateau-murou-rezerv-papaskarasi",
+  "ad": "Chateau Murou Rezerv Papaskarası",
+  "uretici": "Saranta",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2020",
+  "abv": 15,
+  "tat": "Mürdüm eriği, toprak ve hafif baharat; orta gövdeli, yumuşak tanenli ve içim olgunluğunda.",
+  "puan": 83,
+  "tl": 1256,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/chateau-murou-rezerv-papaskarasi-2020-kirklareli/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "saranta-chateau-murou-rezerv-montepulciano-cabernet",
+  "ad": "Chateau Murou Rezerv Montepulciano & Cabernet Sauvignon",
+  "uretici": "Saranta",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Montepulciano",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2021",
+  "abv": 13.5,
+  "tat": "Trakya'da nadir görülen Montepulciano'nun Cabernet ile %55-%45 harmanı, rezerv seri.",
+  "puan": 0,
+  "tl": 1700,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "saranta-chateau-murou-rezerv-merlot-ozel-seri",
+  "ad": "Chateau Murou Rezerv Merlot Özel Seri",
+  "uretici": "Saranta",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2018",
+  "abv": 14,
+  "tat": "Karakoç bağlarından yıllandırılmış özel seri Merlot.",
+  "puan": 0,
+  "tl": 2008,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "ka-winery-syrah",
+  "ad": "KA Winery Syrah",
+  "uretici": "KA Winery",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Tekirdağ üzümü)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2022",
+  "abv": 15,
+  "tat": "Tek bağ, 14 ay Fransız ve Amerikan meşesi, 1.500 şişe; reçelsi siyah meyve ve taze karabiber.",
+  "puan": 85,
+  "tl": 1140,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/ka-winery-syrah-2022-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "ka-winery-cabernet-sauvignon",
+  "ad": "KA Winery Cabernet Sauvignon",
+  "uretici": "KA Winery",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Tekirdağ üzümü)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2022",
+  "abv": 14.2,
+  "tat": "%85 Cabernet, %15 Merlot; reçelsi kırmızı-siyah meyve, mentol ve vanilya, çok temiz yapılmış.",
+  "puan": 85,
+  "tl": 1088,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/ka-winery-cabernet-sauvignon-2022-tekirdag/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "ka-winery-blend-211",
+  "ad": "KA Winery Blend 211",
+  "uretici": "KA Winery",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Shiraz",
+   "Cabernet Franc"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "Tekirdağ Cabernet, Merlot ve Shiraz'ı ile Edirne Cabernet Franc'ının harmanı.",
+  "puan": 0,
+  "tl": 1140,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "vino-dessera-vd-cabernet-sauvignon",
+  "ad": "Vino Dessera VD Cabernet Sauvignon",
+  "uretici": "Vino Dessera",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 14,
+  "tat": "8 ay meşe; kuru meyve, karanfil, toprak ve meşe, gövdeli ve baharlı bitişli.",
+  "puan": 88,
+  "tl": 800,
+  "tl_kaynak": "degustasyon.net, Mart 2026",
+  "odul": "Altın – Mundus Vini (degustasyon.net)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/vino-dessera-vd-cabernet-sauvignon-2022-kirklareli/"
+  ]
+ },
+ {
+  "id": "vino-dessera-vd-190",
+  "ad": "Vino Dessera VD 190",
+  "uretici": "Vino Dessera",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Reçelsi kırmızı-siyah meyve, toprak ve baharat; yoğun, enerjik ve biraz ham tanenli.",
+  "puan": 85,
+  "tl": 950,
+  "tl_kaynak": "degustasyon.net, Mart 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/vino-dessera-vd-190-2022-kirklareli/"
+  ]
+ },
+ {
+  "id": "vino-dessera-arc-virtus-cabernet-sauvignon",
+  "ad": "Vino Dessera Arc Virtus Cabernet Sauvignon",
+  "uretici": "Vino Dessera",
+  "il": "Kırklareli",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2021",
+  "abv": 13.5,
+  "tat": "Kuru erik, iğde ve kızılcık; orta gövdeli, tanenleri yuvarlanmış ve tam olgunlukta.",
+  "puan": 85,
+  "tl": 950,
+  "tl_kaynak": "degustasyon.net, Mart 2026",
+  "odul": "Altın – Balkan Şarap Yarışması; Gümüş – Mundus Vini (degustasyon.net)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/vino-dessera-arc-virtus-cabernet-sauvignon-2021-kirklareli/"
+  ]
+ },
+ {
+  "id": "gulor-xxx",
+  "ad": "Gülor XXX (30. Yıl)",
+  "uretici": "Gülor",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec",
+   "Cabernet Sauvignon",
+   "Petit Verdot"
+  ],
+  "yil": "2023",
+  "abv": 13.8,
+  "tat": "30 yaşındaki bağlardan sınırlı üretim; siyah meyve, meyankökü, toprak ve deri, damakta vişneli çikolata.",
+  "puan": 90,
+  "tl": 3000,
+  "tl_kaynak": "degustasyon.net, Ağustos 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gulor-xxx-2023-tekirdag/"
+  ]
+ },
+ {
+  "id": "gulor-cotn",
+  "ad": "Gülor Cot'N",
+  "uretici": "Gülor",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec",
+   "Petit Verdot",
+   "Merlot"
+  ],
+  "yil": "2020",
+  "abv": 13.7,
+  "tat": "%70 Malbec; deri, tütün, toprak ve baharat ile orman meyveleri, sağlam gövdeli ve tok içimli.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gulor-cotn-2020-tekirdag/"
+  ]
+ },
+ {
+  "id": "gulor-signature-malbec",
+  "ad": "Gülor Signature Malbec",
+  "uretici": "Gülor",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec"
+  ],
+  "yil": "2022",
+  "abv": 13.6,
+  "tat": "25 yaşındaki asmalardan; olgun vişne, siyah kiraz ve böğürtlen, çiğnenecek denli dolgun ve dengeli.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gulor-signature-malbec-2022-tekirdag/"
+  ]
+ },
+ {
+  "id": "gulor-signature-sauvignon-blanc",
+  "ad": "Gülor Signature Sauvignon Blanc",
+  "uretici": "Gülor",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2023",
+  "abv": 11.7,
+  "tat": "Misket limonu, greyfurt ve egzotik meyve; körpe, diri asiditeli ve ferahlatıcı.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gulor-signature-sauvignon-blanc-2023-tekirdag/"
+  ]
+ },
+ {
+  "id": "arda-rezerv-semillon",
+  "ad": "Arda Rezerv Semillon",
+  "uretici": "Arda",
+  "il": "Edirne",
+  "bolge": "Trakya (Ganos üzümü)",
+  "renk": "beyaz",
+  "uzum": [
+   "Semillon"
+  ],
+  "yil": "2020",
+  "abv": 13,
+  "tat": "Gaziköy'ün en eski bağlarından 550 şişelik rezerv; yeşil bitki, can eriği ve elma, yağlı ama kristal gibi diri.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/arda-rezerv-semillon-2020-tekirdag/"
+  ]
+ },
+ {
+  "id": "arda-kuslu-seri-roze",
+  "ad": "Arda Kuşlu Seri Roze",
+  "uretici": "Arda",
+  "il": "Edirne",
+  "bolge": "Trakya",
+  "renk": "roze",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "2020",
+  "abv": 13,
+  "tat": "İyi tarım bağlarından Shiraz; baharlı, topraksı ve olgun kırmızı meyveli, hafif buruk bir yemek rozesi.",
+  "puan": 80,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/arda-kuslu-seri-roze-2020-edirne/"
+  ]
+ },
+ {
+  "id": "edrine-single-papaskarasi",
+  "ad": "Edrine Single Papaskarası",
+  "uretici": "Edrine",
+  "il": "Edirne",
+  "bolge": "Trakya (Uzunköprü)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Papaskarası"
+  ],
+  "yil": "2018",
+  "abv": 14.5,
+  "tat": "Uzunköprü bağlarından tek çeşit Papaskarası, Edrine'nin Single serisi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json",
+   "http://edrine.com/edrine/index.php/baglarimiz/"
+  ]
+ },
+ {
+  "id": "edrine-odris",
+  "ad": "Edrine Odris",
+  "uretici": "Edrine",
+  "il": "Edirne",
+  "bolge": "Trakya (Uzunköprü)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2017",
+  "abv": 14.5,
+  "tat": "Adını Trakya'nın antik Odrys krallığından alan Merlot.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "aura-vin-aura-blend",
+  "ad": "Vin Aura Blend",
+  "uretici": "Aura Winery (Vin Aura)",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Grenache",
+   "Syrah"
+  ],
+  "yil": "2024",
+  "abv": 14.5,
+  "tat": "Vişne, mahlep, karanfil ve böğürtlen reçeli; orta gövdeli, çok yoğun ve henüz ham tanenli genç bir kırmızı.",
+  "puan": 80,
+  "tl": 1500,
+  "tl_kaynak": "degustasyon.net, Kasım 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vin-aura-blend-2024-balikesir/"
+  ]
+ },
+ {
+  "id": "buyulubag-hedone",
+  "ad": "Büyülübağ Hedone",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2021",
+  "abv": 13.8,
+  "tat": "En iyi 2,5 dönümlük parselden doğal mayalı özel rezerv; olgun kırmızı ve kuru meyve, tatlı baharat ve kayısı kurusu.",
+  "puan": 90,
+  "tl": 3000,
+  "tl_kaynak": "degustasyon.net, Aralık 2024",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/buyulubag-hedone-2021-avsa-adasi/"
+  ]
+ },
+ {
+  "id": "buyulubag-adakarasi-blanc-de-noir",
+  "ad": "Büyülübağ Adakarası Blanc de Noir",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "beyaz",
+  "uzum": [
+   "Adakarası"
+  ],
+  "yil": "2025",
+  "abv": 13,
+  "tat": "Türkiye'nin ilk beyaz Adakarası; olgun elma ve kekik, yağlı dokulu, hafif tanenli ve asiditesi belirgin.",
+  "puan": 88,
+  "tl": 1296,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/buyulubag-adakarasi-blanc-de-noir-2025-avsa-adasi/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "buyulubag-reserve-cabernet-sauvignon",
+  "ad": "Büyülübağ Reserve Cabernet Sauvignon",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "Ada bağlarından, 12 ay Fransız meşesi; kırmızı-siyah meyve ve baharat, etli ve baskın tanenli.",
+  "puan": 90,
+  "tl": 1426,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/buyulubag-reserve-cabernet-sauvignon-2022-avsa-adasi/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "buyulubag-cabernet-sauvignon-merlot",
+  "ad": "Büyülübağ Cabernet Sauvignon – Merlot",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2022",
+  "abv": 14,
+  "tat": "Deri, tütün, toprak ve kuru mantar; gövdeli, rüstik ve uzun bitişli bir et şarabı.",
+  "puan": 90,
+  "tl": 1210,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/buyulubag-cabernet-sauvignon-merlot-2022-avsa/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "buyulubag-wild-fermented-cabernet",
+  "ad": "Büyülübağ Wild Fermented Cabernet Sauvignon",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 14.5,
+  "tat": "Yabani mayalarla fermente ada Cabernet'si.",
+  "puan": 88,
+  "tl": 1140,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "buyulubag-chardonnay",
+  "ad": "Büyülübağ Chardonnay",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2024",
+  "abv": 13.3,
+  "tat": "Fıçısız; taze üzüm, golden elma ve mineral, akıcı ve diri asiditeli hafif bir Chardonnay.",
+  "puan": 88,
+  "tl": 1070,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/buyulubag-chardonnay-2024-avsa-adasi/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "buyulubag-adakarasi-rose",
+  "ad": "Büyülübağ Meltemi Adakarası Rosé",
+  "uretici": "Büyülübağ",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Avşa Adası)",
+  "renk": "roze",
+  "uzum": [
+   "Adakarası"
+  ],
+  "yil": "2023",
+  "abv": 13.1,
+  "tat": "Avşa'nın yerel Adakarası üzümünden günlük roze.",
+  "puan": 0,
+  "tl": 979,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "maadra-syrah-reserve",
+  "ad": "Ma'adra Syrah Reserve",
+  "uretici": "Ma'adra Vineyards",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç – Madra dağı)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2020",
+  "abv": 14.8,
+  "tat": "Tek parsel, 24 ay Fransız meşesi; vişne, bitter çikolata, kara zeytin, karabiber ve mentol, etli dokulu.",
+  "puan": 90,
+  "tl": 1500,
+  "tl_kaynak": "degustasyon.net, Temmuz 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/maadra-syrah-reserve-2020-balikesir/"
+  ]
+ },
+ {
+  "id": "maadra-chardonnay",
+  "ad": "Ma'adra Chardonnay",
+  "uretici": "Ma'adra Vineyards",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç – Madra dağı)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2024",
+  "abv": 13.6,
+  "tat": "Poyraza açık teraslardan; şeftali, nektarin ve olgun elma, mineral, yağlı dokulu bir yemek şarabı.",
+  "puan": 88,
+  "tl": 1000,
+  "tl_kaynak": "degustasyon.net, Eylül 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/maadra-chardonnay-2024-balikesir/"
+  ]
+ },
+ {
+  "id": "maadra-mono-cabernet-sauvignon",
+  "ad": "Ma'adra Mono Cabernet Sauvignon",
+  "uretici": "Ma'adra Vineyards",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç – Madra dağı)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Düşük verimli tek parselden, kısmen 12 ay Fransız meşesi; kısıtlı filtrasyon.",
+  "puan": 88,
+  "tl": 900,
+  "tl_kaynak": "degustasyon.net, Temmuz 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/"
+  ]
+ },
+ {
+  "id": "yusta-cabernet-sauvignon",
+  "ad": "Yusta Cabernet Sauvignon",
+  "uretici": "Yusta",
+  "il": "Bursa",
+  "bolge": "Marmara (Mudanya)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 14.7,
+  "tat": "22 ay Fransız meşesi; vişne, Napolyon kirazı ve bitter çikolata, vişne likörlü çikolatayı andıran damak.",
+  "puan": 90,
+  "tl": 3000,
+  "tl_kaynak": "degustasyon.net, Eylül 2026",
+  "odul": "İki uluslararası yarışmadan gümüş (degustasyon.net)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yusta-cabernet-sauvignon-2023-bursa/"
+  ]
+ },
+ {
+  "id": "yusta-malbec",
+  "ad": "Yusta Malbec",
+  "uretici": "Yusta",
+  "il": "Bursa",
+  "bolge": "Marmara (Mudanya)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec"
+  ],
+  "yil": "2022",
+  "abv": 14.8,
+  "tat": "16 ay meşe; kuru incir, vişne, mahlep ve karanfil, güçlü gövdeli, yoğun ama olgun tanenli.",
+  "puan": 90,
+  "tl": 1500,
+  "tl_kaynak": "degustasyon.net, Ekim 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yusta-malbec-2022-bursa/"
+  ]
+ },
+ {
+  "id": "yusta-shiraz",
+  "ad": "Yusta Shiraz",
+  "uretici": "Yusta",
+  "il": "Bursa",
+  "bolge": "Marmara (Mudanya)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 14.3,
+  "tat": "20 ay meşe; hafif yanık-katransı açılış, karanfil ve olgun siyah meyve, vanilya.",
+  "puan": 90,
+  "tl": 1250,
+  "tl_kaynak": "degustasyon.net, Kasım 2025",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yusta-shiraz-2022-bursa/"
+  ]
+ },
+ {
+  "id": "suvla-grand-reserve-roussanne-marsanne",
+  "ad": "Suvla Grand Reserve Roussanne – Marsanne",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "beyaz",
+  "uzum": [
+   "Roussanne",
+   "Marsanne"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Bozokbağ'da şafakta hasat; fıçıda mayalanıp 10 ay tortu üzerinde, olgun elma, armut, vanilya ve tereyağı.",
+  "puan": 90,
+  "tl": 4980,
+  "tl_kaynak": "degustasyon.net, Ağustos 2026",
+  "odul": "Gümüş – Decanter World Wine Awards (degustasyon.net); önceki rekoltelerde Decanter bölgesel kupa",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/suvla-grand-reserve-roussanne-marsanne-2024-eceabat/",
+   "https://www.themagger.com/suvla-saraphanesi/"
+  ]
+ },
+ {
+  "id": "suvla-reserve-semillon",
+  "ad": "Suvla Reserve Semillon",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Tekirdağ'ın yaşlı bağları)",
+  "renk": "beyaz",
+  "uzum": [
+   "Semillon"
+  ],
+  "yil": "2024",
+  "abv": 14,
+  "tat": "80 yaşın üzerindeki asmalardan, 10 ay fıçıda tortu üzerinde; tütsü-vanilya ardından egzotik meyve ve turunçgil.",
+  "puan": 90,
+  "tl": 2250,
+  "tl_kaynak": "degustasyon.net, Ocak 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/suvla-reserve-semillon-2024-tekirdag/"
+  ]
+ },
+ {
+  "id": "suvla-reserve-merlot",
+  "ad": "Suvla Reserve Merlot",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Cabernet Franc"
+  ],
+  "yil": "2021",
+  "abv": 14.5,
+  "tat": "14 ay Fransız meşesi; olgun kırmızı ve kuru meyve, tatlı baharat, deri ve tütün, mineral-tuzlu bitiş.",
+  "puan": 90,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/suvla-reserve-merlot-2021-eceabat/"
+  ]
+ },
+ {
+  "id": "suvla-bozokbag-chardonnay",
+  "ad": "Suvla Single Vineyard Bozokbağ Chardonnay",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2025",
+  "abv": 12.5,
+  "tat": "Organik tek bağ, fıçıda fermantasyon; nektarin, beyaz şeftali, vanilya ve tereyağı, yağlı ve dolgun.",
+  "puan": 88,
+  "tl": 980,
+  "tl_kaynak": "degustasyon.net, Ağustos 2026",
+  "odul": "Gümüş – International Wine Challenge (degustasyon.net)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/suvla-single-vineyard-bozokbag-chardonnay-2025-eceabat/"
+  ]
+ },
+ {
+  "id": "suvla-kinali-yapincak",
+  "ad": "Suvla Kınalı Yapıncak",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Tekirdağ)",
+  "renk": "beyaz",
+  "uzum": [
+   "Kınalı Yapıncak"
+  ],
+  "yil": "2023",
+  "abv": 13,
+  "tat": "Trakya'nın al benekli yerel üzümü, kısmen fıçıda mayalı; olgun elma ve bitkisel tonlar, yağlı ve dolgun.",
+  "puan": 85,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/suvla-kinali-yapincak-2023-tekirdag/"
+  ]
+ },
+ {
+  "id": "suvla-grenache-noir",
+  "ad": "Suvla Grenache Noir",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Grenache"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Bütün salkım; olgun çilek ve mürdüm eriği, toprak ve siyah çay, orta gövdeli ve çok yumuşak tanenli.",
+  "puan": 85,
+  "tl": 1500,
+  "tl_kaynak": "degustasyon.net, Ocak 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/suvla-grenache-noir-2022-eceabat/"
+  ]
+ },
+ {
+  "id": "suvla-iyi-ki-karasakiz-brut",
+  "ad": "Suvla \"İyi ki\" Karasakız Brut",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kopuren",
+  "uzum": [
+   "Karasakız"
+  ],
+  "yil": "",
+  "abv": 12.5,
+  "tat": "Yerel Karasakız'dan doğal köpüren brut; Suvla'nın köpüren serisi.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-caeli",
+  "ad": "Porta Caeli",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2022",
+  "abv": 14,
+  "tat": "Amiral şarap, fıçıda mayalanıp 18 ay meşede; nane, meşe, bitter çikolata ve siyah meyve, güçlü gövdeli.",
+  "puan": 90,
+  "tl": 6655,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/porta-caeli-2022-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-caeli-ament-merlot",
+  "ad": "Porta Caeli Ament Merlot",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2022",
+  "abv": 14,
+  "tat": "Meşe tanklarda mayalanıp 18 ay fıçı, filtresiz; vişne ve kiraz, meşe, çok yoğun tanenli ve yıllanmaya aday.",
+  "puan": 88,
+  "tl": 2916,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/porta-caeli-ament-merlot-2022-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-caeli-pacem-sauvignon-blanc",
+  "ad": "Porta Caeli Pacem Sauvignon Blanc",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2025",
+  "abv": 12.8,
+  "tat": "Kısmen bütün salkım presleme, tortu üzerinde; greyfurt ve misket limonu, çok canlı ve aromatik.",
+  "puan": 88,
+  "tl": 1785,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/porta-caeli-pacem-sauvignon-blanc-2024-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-caeli-pacem-blend",
+  "ad": "Porta Caeli Pacem Blend",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc",
+   "Chardonnay",
+   "Viognier"
+  ],
+  "yil": "2024",
+  "abv": 13.5,
+  "tat": "Çelikte tortu üzerinde; narenciye ve beyaz meyve, taze, aromatik ve ferahlatıcı.",
+  "puan": 88,
+  "tl": 1916,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/pacem-blend-2023-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-caeli-sestos",
+  "ad": "Porta Caeli Sestos",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere",
+   "Kalecik Karası"
+  ],
+  "yil": "2024",
+  "abv": 13,
+  "tat": "Yerli üzümlerden karbonik maserasyonlu field blend, bin şişe; canlı, meyveli ve hafif içimli.",
+  "puan": 88,
+  "tl": 4085,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/porta-caeli-sestos-2024-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "porta-diverti-kirmizi",
+  "ad": "Porta Diverti Kırmızı",
+  "uretici": "Porta Caeli",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2023",
+  "abv": 14,
+  "tat": "Vinero'nun giriş serisi Bordeaux harmanı.",
+  "puan": 80,
+  "tl": 1142,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json",
+   "https://degustasyon.net/"
+  ]
+ },
+ {
+  "id": "asmadan-ikon",
+  "ad": "Asmadan İkon",
+  "uretici": "Asmadan",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2020",
+  "abv": 14.5,
+  "tat": "Vişne, karabiber, vanilya ve bitter çikolata; yoğun tanenli ama diri asiditeyle dengeli, enerjik.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/asmadan-ikon-2020-eceabat/"
+  ]
+ },
+ {
+  "id": "asmadan-kor-reserve-syrah",
+  "ad": "Asmadan Kor Reserve Syrah",
+  "uretici": "Asmadan",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2020",
+  "abv": 14.2,
+  "tat": "11 ay Fransız meşesi; vişne, mahlep, karanfil ve kuru et, topraksı ve baharlı.",
+  "puan": 85,
+  "tl": 1390,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "Altın – AWC Vienna (degustasyon.net)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/asmadan-kor-reserve-syrah-2020-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "asmadan-kor-reserve-cabernet-sauvignon",
+  "ad": "Asmadan Kor Reserve Cabernet Sauvignon",
+  "uretici": "Asmadan",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Eceabat)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2021",
+  "abv": 14.9,
+  "tat": "15 ay Fransız meşesi; olgun siyah ve kuru meyve, tatlı baharat, esnek tanenli ve rahat içimli.",
+  "puan": 85,
+  "tl": 1308,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "Gümüş – AWC Vienna (2020 rekoltesi, degustasyon.net)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/asmadan-kor-reserve-cabernet-sauvignon-2020-eceabat/",
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-passito",
+  "ad": "Corvus Passito",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "tatli",
+  "uzum": [
+   "Vasilaki",
+   "Muscat of Alexandria"
+  ],
+  "yil": "2015",
+  "abv": 13.9,
+  "tat": "Kurutulmuş üzümden, akasya fıçısında 24 ay (37,5 cl); sandal ağacı, kuru üzüm, kuru kayısı, pestil ve karamel.",
+  "puan": 93,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/corvus-passito-2015-bozcaada/"
+  ]
+ },
+ {
+  "id": "corvus-corpus",
+  "ad": "Corvus Corpus",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Petit Verdot",
+   "Merlot",
+   "Cabernet Franc"
+  ],
+  "yil": "2018",
+  "abv": 15,
+  "tat": "Corvus'un ikon Bordeaux harmanı.",
+  "puan": 0,
+  "tl": 3479,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-cruturk",
+  "ad": "Corvus Cruturk",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Cabernet Franc",
+   "Petit Verdot"
+  ],
+  "yil": "2017",
+  "abv": 14.9,
+  "tat": "%51 Cabernet Sauvignon, %30 Cabernet Franc, %19 Petit Verdot'luk üst seri.",
+  "puan": 0,
+  "tl": 3956,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-rarum",
+  "ad": "Corvus Rarum",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kuntra",
+   "Karalahna"
+  ],
+  "yil": "2020",
+  "abv": 14,
+  "tat": "Bozcaada'nın iki yerel kırmızısı Kuntra ve Karalahna'nın harmanı.",
+  "puan": 0,
+  "tl": 1556,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-zeleia-vasilaki",
+  "ad": "Corvus Zeleia Vasilaki",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "beyaz",
+  "uzum": [
+   "Vasilaki"
+  ],
+  "yil": "2021",
+  "abv": 13.1,
+  "tat": "Adanın yerel beyazı Vasilaki'den tek çeşit.",
+  "puan": 0,
+  "tl": 1556,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-teneia-cavus",
+  "ad": "Corvus Teneia Çavuş",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "beyaz",
+  "uzum": [
+   "Çavuş"
+  ],
+  "yil": "2022",
+  "abv": 12.9,
+  "tat": "Bozcaada'nın sofralık-şaraplık Çavuş üzümünden sek beyaz.",
+  "puan": 0,
+  "tl": 1556,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "corvus-novum-blush",
+  "ad": "Corvus Novum Blush",
+  "uretici": "Corvus",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "roze",
+  "uzum": [
+   "Çavuş",
+   "Kuntra"
+  ],
+  "yil": "2021",
+  "abv": 13.4,
+  "tat": "Çavuş ve Kuntra'dan ada rozesi.",
+  "puan": 0,
+  "tl": 1436,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "camlibag-ozel-rezerv-kuntra",
+  "ad": "Çamlıbağ Özel Rezerv Kuntra",
+  "uretici": "Çamlıbağ",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kuntra"
+  ],
+  "yil": "2022",
+  "abv": 13,
+  "tat": "Bozcaada'nın yerel Kuntra (Karasakız) üzümünden rezerv.",
+  "puan": 0,
+  "tl": 1080,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "camlibag-ayapetro-vasilaki",
+  "ad": "Çamlıbağ Ayapetro Vasilaki",
+  "uretici": "Çamlıbağ",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "beyaz",
+  "uzum": [
+   "Vasilaki"
+  ],
+  "yil": "2025",
+  "abv": 12,
+  "tat": "Numaralı Ayapetro serisinden yerel Vasilaki beyazı.",
+  "puan": 0,
+  "tl": 1000,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "camlibag-karalahna",
+  "ad": "Çamlıbağ Karalahna",
+  "uretici": "Çamlıbağ",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "kirmizi",
+  "uzum": [
+   "Karalahna"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Adaya özgü Karalahna'dan tek çeşit kırmızı.",
+  "puan": 0,
+  "tl": 880,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json",
+   "https://degustasyon.net/camlibag-ayapetro-karalahna-2012-bozcaada/"
+  ]
+ },
+ {
+  "id": "camlibag-ayapetro-kirmizidan-beyaz",
+  "ad": "Çamlıbağ Ayapetro Kırmızı'dan Beyaz",
+  "uretici": "Çamlıbağ",
+  "il": "Çanakkale",
+  "bolge": "Bozcaada",
+  "renk": "roze",
+  "uzum": [
+   "Kuntra"
+  ],
+  "yil": "2025",
+  "abv": 12,
+  "tat": "Kuntra'dan blanc de noir tarzı açık renkli şarap.",
+  "puan": 0,
+  "tl": 1000,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json"
+  ]
+ },
+ {
+  "id": "yukseltan-3k-reserve",
+  "ad": "Yükseltan 3K Reserve",
+  "uretici": "Yükseltan",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Saroz)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Syrah"
+  ],
+  "yil": "2019",
+  "abv": 15,
+  "tat": "Saroz bağlarından; meşe ve vanilya ön planda, zamanla çikolata ve kırmızı meyve açılıyor.",
+  "puan": 85,
+  "tl": 1250,
+  "tl_kaynak": "degustasyon.net, Ekim 2024",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yukseltan-3k-reserve-2019-canakkale/"
+  ]
+ },
+ {
+  "id": "yukseltan-chardonnay",
+  "ad": "Yükseltan Chardonnay",
+  "uretici": "Yükseltan",
+  "il": "Çanakkale",
+  "bolge": "Gelibolu Yarımadası (Saroz)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2023",
+  "abv": 12.5,
+  "tat": "Saroz'a bakan bağlardan iyi tarım Chardonnay.",
+  "puan": 83,
+  "tl": 1040,
+  "tl_kaynak": "iyisarap.com, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.iyisarap.com/products.json",
+   "https://degustasyon.net/"
+  ]
+ },
+ {
+  "id": "vasbos-expression-cabernet-franc",
+  "ad": "V'Asbos Expression Cabernet Franc Edition 1",
+  "uretici": "V'Asbos",
+  "il": "Çanakkale",
+  "bolge": "Kuzey Ege (Assos)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2018-2019",
+  "abv": 14.5,
+  "tat": "Organik üzüm, 2018'e 2019 eklenmiş 2.700 şişe; olgun kırmızı meyve, tatlı baharat ve mineral, yuvarlanmış tanenler.",
+  "puan": 95,
+  "tl": 3000,
+  "tl_kaynak": "degustasyon.net, Ocak 2026",
+  "odul": "IWSC 95 puan; IWSC 2024 altın (V'Asbos)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vasbos-expression-cabernet-franc-edition-1-canakkale/",
+   "https://vasboskitchen.com/"
+  ]
+ },
+ {
+  "id": "vasbos-iconic-grenache",
+  "ad": "V'Asbos Iconic Grenache Edition 2",
+  "uretici": "V'Asbos",
+  "il": "Çanakkale",
+  "bolge": "Kuzey Ege (Assos)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Grenache"
+  ],
+  "yil": "2019-2021",
+  "abv": 14,
+  "tat": "Amfora ve cam kürelerde olgunlaşmış çok rekolteli harman; gül, çilek, ahududu, kiraz ve tebeşirimsi mineral, ipeksi.",
+  "puan": 88,
+  "tl": 3000,
+  "tl_kaynak": "degustasyon.net, Ocak 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vasbos-iconic-grenache-edition-2-canakkale/"
+  ]
+ },
+ {
+  "id": "vasbos-expression-merlot",
+  "ad": "V'Asbos Expression Merlot Edition 1",
+  "uretici": "V'Asbos",
+  "il": "Çanakkale",
+  "bolge": "Kuzey Ege (Assos)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2017-2018",
+  "abv": 14.5,
+  "tat": "Kuru meyve ve tatlı baharat, kadifemsi tanenli, olgunluğunun zirvesinde.",
+  "puan": 88,
+  "tl": 2000,
+  "tl_kaynak": "degustasyon.net, Şubat 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vasbos-expression-merlot-edition-1-canakkale/"
+  ]
+ },
+ {
+  "id": "barba-yorgo-retini",
+  "ad": "Barba Yorgo Retini (Retsina)",
+  "uretici": "Barba Yorgo",
+  "il": "Çanakkale",
+  "bolge": "Gökçeada",
+  "renk": "beyaz",
+  "uzum": [],
+  "yil": "",
+  "abv": 0,
+  "tat": "Bölgede retsina yapan tek üretici Barba Yorgo'nun reçineli ev şarabı; Tepeköy tavernasında satılır.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://barbayorgo.com/gokceada/",
+   "https://visitgokceada.com/blog/gokceada-tepekoy-rehberi-tarihi-rum-koyu-ve-tavernalari"
+  ]
+ }
+]
