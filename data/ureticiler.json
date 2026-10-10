@@ -35,7 +35,7 @@
      ]
     }
    ],
-   "sarap": 7,
+   "sarap": 11,
    "sev": "Premium"
   },
   {
@@ -138,7 +138,7 @@
      ]
     }
    ],
-   "sarap": 5,
+   "sarap": 8,
    "sev": "2"
   },
   {
@@ -207,7 +207,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 7,
    "sev": "2"
   },
   {
@@ -243,7 +243,7 @@
      ]
     }
    ],
-   "sarap": 4,
+   "sarap": 12,
    "sev": "2"
   },
   {
@@ -309,7 +309,7 @@
      ]
     }
    ],
-   "sarap": 2,
+   "sarap": 3,
    "sev": "2"
   },
   {
@@ -346,7 +346,7 @@
      ]
     }
    ],
-   "sarap": 5,
+   "sarap": 8,
    "sev": "2"
   },
   {
@@ -383,7 +383,7 @@
      ]
     }
    ],
-   "sarap": 6,
+   "sarap": 18,
    "sev": "2"
   },
   {
@@ -421,7 +421,7 @@
      ]
     }
    ],
-   "sarap": 9,
+   "sarap": 32,
    "sev": "Premium"
   },
   {
@@ -454,7 +454,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 13,
    "sev": "3"
   },
   {
@@ -490,7 +490,7 @@
      ]
     }
    ],
-   "sarap": 5,
+   "sarap": 13,
    "sev": "2"
   },
   {
@@ -525,7 +525,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 14,
    "sev": "3"
   },
   {
@@ -559,7 +559,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 6,
    "sev": "3"
   },
   {
@@ -595,7 +595,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 7,
    "sev": "3"
   },
   {
@@ -803,7 +803,7 @@
      ]
     }
    ],
-   "sarap": 4,
+   "sarap": 7,
    "sev": "2"
   },
   {
@@ -947,7 +947,7 @@
      ]
     }
    ],
-   "sarap": 7,
+   "sarap": 17,
    "sev": "2"
   },
   {
@@ -981,7 +981,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 7,
    "sev": "2"
   },
   {
@@ -1041,7 +1041,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 6,
    "sev": "2"
   },
   {
@@ -1113,8 +1113,8 @@
      ]
     }
    ],
-   "sarap": 3,
-   "sev": "3"
+   "sarap": 7,
+   "sev": "2"
   },
   {
    "ad": "Ataol",
@@ -1433,7 +1433,7 @@
      ]
     }
    ],
-   "sarap": 7,
+   "sarap": 35,
    "sev": "2"
   },
   {
@@ -1501,8 +1501,8 @@
      ]
     }
    ],
-   "sarap": 2,
-   "sev": "3"
+   "sarap": 10,
+   "sev": "2"
   },
   {
    "ad": "Tutkun (Hektor Şarap Evi)",
@@ -1564,7 +1564,7 @@
      ]
     }
    ],
-   "sarap": 6,
+   "sarap": 16,
    "sev": "2"
   },
   {
@@ -1624,7 +1624,7 @@
      ]
     }
    ],
-   "sarap": 4,
+   "sarap": 6,
    "sev": "0"
   },
   {
@@ -1713,7 +1713,7 @@
      ]
     }
    ],
-   "sarap": 7,
+   "sarap": 11,
    "sev": "Premium"
   },
   {
@@ -1750,8 +1750,8 @@
      ]
     }
    ],
-   "sarap": 6,
-   "sev": "0"
+   "sarap": 7,
+   "sev": "3"
   },
   {
    "ad": "HUS Şarapçılık",
@@ -1785,8 +1785,8 @@
      ]
     }
    ],
-   "sarap": 7,
-   "sev": "0"
+   "sarap": 9,
+   "sev": "2"
   },
   {
    "ad": "Perdix",
@@ -1823,7 +1823,7 @@
     }
    ],
    "sarap": 5,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Statera",
@@ -1889,7 +1889,7 @@
     }
    ],
    "sarap": 5,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Mozaik Şarapçılık – Mahrem",
@@ -1927,7 +1927,7 @@
     }
    ],
    "sarap": 5,
-   "sev": "0"
+   "sev": "2"
   },
   {
    "ad": "MMG Şarapçılık – Şatomet",
@@ -1964,7 +1964,7 @@
     }
    ],
    "sarap": 1,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Çakır Şarapçılık",
@@ -2104,8 +2104,8 @@
      ]
     }
    ],
-   "sarap": 13,
-   "sev": "0"
+   "sarap": 22,
+   "sev": "2"
   },
   {
    "ad": "Lucien Arkas Bağları (LA Wines)",
@@ -2143,8 +2143,8 @@
      ]
     }
    ],
-   "sarap": 8,
-   "sev": "0"
+   "sarap": 11,
+   "sev": "2"
   },
   {
    "ad": "Yedi Bilgeler (7Bilgeler Vineyards)",
@@ -2176,8 +2176,8 @@
      ]
     }
    ],
-   "sarap": 7,
-   "sev": "0"
+   "sarap": 25,
+   "sev": "2"
   },
   {
    "ad": "Akberg Şirince – Büyükbağ, Lethe, Asmalıbağ Şirince",
@@ -2250,8 +2250,8 @@
      ]
     }
    ],
-   "sarap": 9,
-   "sev": "0"
+   "sarap": 22,
+   "sev": "2"
   },
   {
    "ad": "Kuzubağ",
@@ -2289,7 +2289,7 @@
      ]
     }
    ],
-   "sarap": 7,
+   "sarap": 10,
    "sev": "Premium"
   },
   {
@@ -2327,7 +2327,7 @@
      ]
     }
    ],
-   "sarap": 6,
+   "sarap": 8,
    "sev": "2"
   },
   {
@@ -2363,8 +2363,8 @@
      ]
     }
    ],
-   "sarap": 3,
-   "sev": "0"
+   "sarap": 5,
+   "sev": "3"
   },
   {
    "ad": "Kayıbağ – Paşa Dedem",
@@ -2432,8 +2432,8 @@
      ]
     }
    ],
-   "sarap": 7,
-   "sev": "0"
+   "sarap": 13,
+   "sev": "2"
   },
   {
    "ad": "Heraki",
@@ -2468,7 +2468,7 @@
     }
    ],
    "sarap": 4,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Selendi",
@@ -2502,8 +2502,8 @@
      ]
     }
    ],
-   "sarap": 5,
-   "sev": "0"
+   "sarap": 10,
+   "sev": "2"
   },
   {
    "ad": "Kastro Tireli",
@@ -2536,8 +2536,8 @@
      ]
     }
    ],
-   "sarap": 6,
-   "sev": "0"
+   "sarap": 10,
+   "sev": "2"
   },
   {
    "ad": "Sobran Bağları – Alaşehir-Philadelphia",
@@ -2566,7 +2566,7 @@
     }
    ],
    "sarap": 1,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Öküzgözü Şarapçılık – Phokaia",
@@ -2693,8 +2693,8 @@
      ]
     }
    ],
-   "sarap": 5,
-   "sev": "0"
+   "sarap": 6,
+   "sev": "3"
   },
   {
    "ad": "Kavaklıdere",
@@ -2740,7 +2740,7 @@
      ]
     }
    ],
-   "sarap": 59,
+   "sarap": 67,
    "sev": "Premium"
   },
   {
@@ -2779,8 +2779,8 @@
      ]
     }
    ],
-   "sarap": 4,
-   "sev": "Premium"
+   "sarap": 14,
+   "sev": "2"
   },
   {
    "ad": "Sagavin",
@@ -2814,7 +2814,7 @@
     }
    ],
    "sarap": 3,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Antioche Vineyards",
@@ -2850,7 +2850,7 @@
     }
    ],
    "sarap": 6,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Tasheli",
@@ -2948,7 +2948,7 @@
     }
    ],
    "sarap": 5,
-   "sev": "2"
+   "sev": "3"
   },
   {
    "ad": "Ayda Bağları (Vinaida)",
@@ -3044,7 +3044,7 @@
     }
    ],
    "sarap": 2,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Claros",
@@ -3230,8 +3230,8 @@
      ]
     }
    ],
-   "sarap": 5,
-   "sev": "0"
+   "sarap": 10,
+   "sev": "2"
   },
   {
    "ad": "Mar-Ada",
@@ -3322,7 +3322,7 @@
     }
    ],
    "sarap": 2,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Datça Şarapçılık (Datça Vineyard & Winery)",
@@ -3418,7 +3418,7 @@
     }
    ],
    "sarap": 3,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Mor Salkım Bağları",
@@ -3510,7 +3510,7 @@
     }
    ],
    "sarap": 3,
-   "sev": "0"
+   "sev": "3"
   },
   {
    "ad": "Garova Vineyards",
@@ -3752,7 +3752,7 @@
      ]
     }
    ],
-   "sarap": 24,
+   "sarap": 27,
    "sev": "2"
   },
   {
@@ -3787,8 +3787,8 @@
      ]
     }
    ],
-   "sarap": 7,
-   "sev": "3"
+   "sarap": 9,
+   "sev": "2"
   },
   {
    "ad": "Diren",
@@ -3821,7 +3821,7 @@
      ]
     }
    ],
-   "sarap": 17,
+   "sarap": 31,
    "sev": "2"
   },
   {
@@ -3854,7 +3854,7 @@
      ]
     }
    ],
-   "sarap": 6,
+   "sarap": 8,
    "sev": "3"
   },
   {
@@ -3888,7 +3888,7 @@
      ]
     }
    ],
-   "sarap": 17,
+   "sarap": 40,
    "sev": "Premium"
   },
   {
@@ -4016,7 +4016,7 @@
      ]
     }
    ],
-   "sarap": 3,
+   "sarap": 4,
    "sev": "2"
   },
   {
@@ -4099,8 +4099,8 @@
      ]
     }
    ],
-   "sarap": 5,
-   "sev": "3"
+   "sarap": 6,
+   "sev": "Premium"
   },
   {
    "ad": "Ninova",

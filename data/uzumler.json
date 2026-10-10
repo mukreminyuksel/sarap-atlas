@@ -25,7 +25,7 @@
     "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
    ],
    "rehber": true,
-   "katalog": 51
+   "katalog": 67
   },
   {
    "id": "bogazkere",
@@ -51,7 +51,7 @@
     "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
    ],
    "rehber": true,
-   "katalog": 36
+   "katalog": 47
   },
   {
    "id": "kalecik-karasi",
@@ -77,7 +77,7 @@
     "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1"
    ],
    "rehber": true,
-   "katalog": 35
+   "katalog": 59
   },
   {
    "id": "papazkarasi",
@@ -100,7 +100,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 12
+   "katalog": 22
   },
   {
    "id": "karasakiz",
@@ -125,7 +125,7 @@
     "https://www.vitikultur.com/tr/uzumler/karalahna"
    ],
    "rehber": true,
-   "katalog": 7
+   "katalog": 15
   },
   {
    "id": "karalahna",
@@ -172,7 +172,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 9
+   "katalog": 10
   },
   {
    "id": "adakarasi",
@@ -190,7 +190,7 @@
     "https://www.vitikultur.com/tr/uzumler/adakarasi"
    ],
    "rehber": true,
-   "katalog": 2
+   "katalog": 6
   },
   {
    "id": "urla-karasi",
@@ -367,7 +367,7 @@
     "https://en.wikipedia.org/wiki/Narince_(grape)"
    ],
    "rehber": true,
-   "katalog": 28
+   "katalog": 43
   },
   {
    "id": "emir",
@@ -392,7 +392,7 @@
     "https://en.wikipedia.org/wiki/Emir_(grape)"
    ],
    "rehber": true,
-   "katalog": 15
+   "katalog": 19
   },
   {
    "id": "hasandede",
@@ -411,7 +411,7 @@
     "https://degustasyon.net/vinkara-atelier-hasandede-2023-ankara/"
    ],
    "rehber": true,
-   "katalog": 1
+   "katalog": 2
   },
   {
    "id": "sultaniye",
@@ -433,7 +433,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 9
+   "katalog": 10
   },
   {
    "id": "bornova-misketi",
@@ -457,7 +457,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 12
+   "katalog": 14
   },
   {
    "id": "cavus",
@@ -591,7 +591,7 @@
     "https://www.vitikultur.com/tr/uzumler/mazrona"
    ],
    "rehber": true,
-   "katalog": 3
+   "katalog": 4
   },
   {
    "id": "gokuzum",
@@ -692,7 +692,7 @@
    ],
    "turkiyede": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli ve Elmalı'da yetişir. Hem tek çeşit hem de Merlot ve yerli üzümlerle kupaj olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Chateau Kalpak, Barbare, Likya, Urla Şarapçılık, Kutman, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 154
+   "katalog": 210
   },
   {
    "id": "merlot",
@@ -753,7 +753,7 @@
    ],
    "turkiyede": "Trakya, Gelibolu, Ege ve Elmalı'da yaygın olarak dikilir; Bordeaux tarzı kupajlarda ve tek çeşit olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Ayda, Claros, Arcadia, Badur, Chateau Kalpak, Kutman.",
    "dunya": true,
-   "katalog": 100
+   "katalog": 152
   },
   {
    "id": "syrah",
@@ -816,7 +816,7 @@
    ],
    "turkiyede": "Ege'ye (Urla, Selçuk, Bodrum, Datça) ve Trakya'ya iyi uyum sağlamıştır; tek çeşit ve kupaj olarak yaygındır. Yetiştirenlerden bazıları: Urla Şarapçılık, Çakır, Mozaik, Karnas, Barbare, Erdel, Lucien Arkas Bağları, Likya.",
    "dunya": true,
-   "katalog": 96
+   "katalog": 128
   },
   {
    "id": "cabernet-franc",
@@ -876,7 +876,7 @@
    ],
    "turkiyede": "Gelibolu, Trakya, Urla, Bodrum ve Elmalı'da dikilir; hem Bordeaux tarzı kupajlarda hem tek çeşit olarak. Yetiştirenlerden bazıları: Chamlija, USCA, Dvin Urla, Chateau Gali, Caeli, Likya, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 76
+   "katalog": 98
   },
   {
    "id": "petit-verdot",
@@ -932,7 +932,7 @@
    ],
    "turkiyede": "Trakya, Gelibolu ve Ege'de dikilir; bazı üreticiler tek çeşit olarak da şişeler. Yetiştirenlerden bazıları: Chateau Gali, Chateau Kalpak, Dessera, Asmadan, Mozaik, Perdix, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 40
+   "katalog": 46
   },
   {
    "id": "pinot-noir",
@@ -992,7 +992,7 @@
    ],
    "turkiyede": "Sıcak iklim nedeniyle zor yetişir; serin, rüzgârlı ya da yüksek rakımlı parsellerde denenir. Yetiştirenlerden bazıları: Chamlija ve Arcadia (Trakya), Perdix (Urla), Ma'adra (Gömeç), Küp Şarapçılık (Denizli-Çal), Likya (Elmalı), Ellez.",
    "dunya": true,
-   "katalog": 37
+   "katalog": 45
   },
   {
    "id": "grenache",
@@ -1050,7 +1050,7 @@
    ],
    "turkiyede": "Ege (Çeşme, Gömeç, Urla) ve Tekirdağ'da sınırlı ekim; genellikle Syrah ve Mourvèdre ile GSM tarzı kupajlarda ya da roze olarak. Yetiştirenlerden bazıları: Barbare, Buradan, Aura, Lucien Arkas Bağları, Nif Bağları, Statera.",
    "dunya": true,
-   "katalog": 38
+   "katalog": 39
   },
   {
    "id": "carignan",
@@ -1105,7 +1105,7 @@
    ],
    "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Urla'da HUS Şarapçılık yetiştiriyor.",
    "dunya": true,
-   "katalog": 9
+   "katalog": 10
   },
   {
    "id": "alicante-bouschet",
@@ -1234,7 +1234,7 @@
    ],
    "turkiyede": "Az sayıda üretici işler. Vitikultur kayıtlarına göre Mozaik (Urla), Nif Bağları, Lucien Arkas Bağları ve Dessera yetiştiriyor.",
    "dunya": true,
-   "katalog": 21
+   "katalog": 24
   },
   {
    "id": "montepulciano",
@@ -1287,7 +1287,7 @@
    ],
    "turkiyede": "Sınırlı; Vitikultur kayıtlarına göre Urla'da Mozaik, Nif Bağları ve Lucien Arkas Bağları yetiştiriyor, çoğunlukla kupajlarda.",
    "dunya": true,
-   "katalog": 5
+   "katalog": 6
   },
   {
    "id": "tempranillo",
@@ -1516,7 +1516,7 @@
    ],
    "turkiyede": "Urla, Kemalpaşa, Tekirdağ, Denizli ve Elmalı başta olmak üzere yaygın dikilir; fıçılı ve fıçısız stillerde, ayrıca yerli Narince ile kupajlarda. Yetiştirenlerden bazıları: Suvla, Çakır, Barel, Nif Bağları, İki Deniz Arası, Küp, Kutman, Likya, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 69
+   "katalog": 88
   },
   {
    "id": "sauvignon-blanc",
@@ -1579,7 +1579,7 @@
    ],
    "turkiyede": "Trakya, Ege (Urla, Menderes), Denizli ve Elmalı'da yaygın; en başarılı uluslararası beyazlarımızdan biridir. Yetiştirenlerden bazıları: Chamlija, Arcadia, Suvla, Perdix, İsabey, Erdel, Likya, Lucien Arkas Bağları, Prius.",
    "dunya": true,
-   "katalog": 41
+   "katalog": 72
   },
   {
    "id": "viognier",
@@ -1635,7 +1635,7 @@
    ],
    "turkiyede": "Sınırlı. Vitikultur kayıtlarına göre Nif Bağları (Kemalpaşa), Chateau Gali, Dvin Urla, MMG ve Lucien Arkas Bağları yetiştiriyor; İdol Şarapçılık'ın Torbalı'da organik Viognier ürettiği de basına yansımıştır.",
    "dunya": true,
-   "katalog": 12
+   "katalog": 17
   },
   {
    "id": "riesling",
@@ -1697,7 +1697,7 @@
    ],
    "turkiyede": "Çok sınırlı; Vitikultur kayıtlarına göre Lüleburgaz'da (Trakya) Chamlija yetiştiriyor.",
    "dunya": true,
-   "katalog": 14
+   "katalog": 16
   },
   {
    "id": "vermentino",
@@ -1820,7 +1820,7 @@
     "https://www.vitikultur.com/tr/baglar"
    ],
    "dunya": true,
-   "katalog": 18
+   "katalog": 23
   },
   {
    "id": "carmenere",
@@ -2008,7 +2008,7 @@
     "https://www.vitikultur.com/tr/baglar"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 3
   },
   {
    "id": "gamay",
@@ -2056,7 +2056,7 @@
     "https://t24.com.tr/yazarlar/mehmet-yalcin/yitik-uzumun-pesinde,50127"
    ],
    "dunya": true,
-   "katalog": 1
+   "katalog": 2
   },
   {
    "id": "pinotage",
@@ -2197,7 +2197,7 @@
     "https://winefolly.com/grapes/xinomavro/"
    ],
    "dunya": true,
-   "katalog": 1
+   "katalog": 2
   },
   {
    "id": "tannat",
@@ -2245,7 +2245,7 @@
     "https://www.vitikultur.com/tr/baglar"
    ],
    "dunya": true,
-   "katalog": 1
+   "katalog": 2
   },
   {
    "id": "cinsault",
@@ -2625,7 +2625,7 @@
     "https://yoldaolmak.com/arcadia-baglari-bakucha-hotel"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 6
   },
   {
    "id": "gewurztraminer",
@@ -2675,7 +2675,7 @@
     "https://direnwines.com/"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 3
   },
   {
    "id": "semillon",
@@ -2728,7 +2728,7 @@
     "https://www.milliyet.com.tr/ekonomi/sato-tipi-sarap-uretiyoruz-1678455"
    ],
    "dunya": true,
-   "katalog": 9
+   "katalog": 15
   },
   {
    "id": "gruner-veltliner",
@@ -2828,7 +2828,7 @@
     "https://winefolly.com/grapes/albarino/"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 4
   },
   {
    "id": "assyrtiko",
@@ -2876,7 +2876,7 @@
     "https://winefolly.com/grapes/assyrtiko/"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 3
   },
   {
    "id": "furmint",
@@ -3253,7 +3253,7 @@
     "https://www.vitikultur.com/tr/baglar"
    ],
    "dunya": true,
-   "katalog": 0
+   "katalog": 1
   },
   {
    "id": "melon-de-bourgogne",
@@ -3346,7 +3346,7 @@
     "https://winefolly.com/grapes/marsanne/"
    ],
    "dunya": true,
-   "katalog": 2
+   "katalog": 3
   },
   {
    "id": "pinot-blanc",
@@ -3501,7 +3501,7 @@
    "yerli": true,
    "rehber": false,
    "renk": "",
-   "katalog": 3
+   "katalog": 6
   },
   {
    "id": "sauvignon-gris",
@@ -3509,7 +3509,7 @@
    "yerli": false,
    "rehber": false,
    "renk": "",
-   "katalog": 2
+   "katalog": 4
   },
   {
    "id": "roussanne",
@@ -3517,7 +3517,7 @@
    "yerli": false,
    "rehber": false,
    "renk": "beyaz",
-   "katalog": 3
+   "katalog": 4
   },
   {
    "id": "kinali-yapincak",
@@ -3534,6 +3534,22 @@
    "rehber": false,
    "renk": "",
    "katalog": 1
+  },
+  {
+   "id": "mavrud",
+   "ad": "Mavrud",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 2
+  },
+  {
+   "id": "agiorgitiko",
+   "ad": "Agiorgitiko",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 2
   },
   {
    "id": "beyazkere",
@@ -3661,7 +3677,7 @@
    "yerli": true,
    "rehber": false,
    "renk": "kirmizi",
-   "katalog": 5
+   "katalog": 6
   },
   {
    "id": "horoz-karasi",
@@ -3714,6 +3730,22 @@
   {
    "id": "bilbizeki",
    "ad": "Bılbızeki",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "sungurlu-beyazi",
+   "ad": "Sungurlu Beyazı",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
+   "katalog": 1
+  },
+  {
+   "id": "bornova-misket",
+   "ad": "Bornova Misket",
    "yerli": true,
    "rehber": false,
    "renk": "beyaz",
@@ -4085,14 +4117,6 @@
    "yerli": true,
    "rehber": false,
    "renk": "",
-   "katalog": 1
-  },
-  {
-   "id": "agiorgitiko",
-   "ad": "Agiorgitiko",
-   "yerli": true,
-   "rehber": false,
-   "renk": "kirmizi",
    "katalog": 1
   },
   {

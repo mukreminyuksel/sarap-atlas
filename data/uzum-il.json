@@ -1,0 +1,2831 @@
+{
+ "_aciklama": "İl il bağcılık: her ilin bağ notu, üzümleri (şaraba uygunluk: yuksek/orta/dusuk/uygun_degil/dogrulanmadi) ve yerel üreticiler.",
+ "iller": [
+  {
+   "id": "elazig",
+   "il": "Elazığ",
+   "bolge": "Doğu Anadolu (Yukarı Fırat)",
+   "bag_notu": "Yüksek rakım (bağlar yaklaşık 1.000-1.200 m, repo kaydı), kışlar sert, yazlar sıcak-kurak; TÜİK 2004 verisine göre 10.030 ha üzüm alanı (Doğu bölgesinin %56'sı). İl üzümünün %20-25'i şaraplık, %50-60'ı sofralık, %15-20'si şıra/pekmez; şaraplığın %20-25'i ildeki fabrikaya gidiyor (2005 verisi).",
+   "uzumler": [
+    {
+     "ad": "Öküzgözü",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar. Elazığ'da il üzümünün yaklaşık %20-25'i şaraplık olarak pazarlanır; Öküzgözü bu şaraplığın büyük bölümüdür.",
+     "yerel_ad_notu": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+     ],
+     "uz": "okuzgozu"
+    },
+    {
+     "ad": "Boğazkere",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Geç olgunlaşan, kalın kabuklu, küçük taneli bir üzüm. Yoğun renk, yüksek ve kurutan tanen, sağlam yapı ve orta asit verir; vişne, kiraz ve baharat notaları taşır. Meşe olgunlaştırması tanenini yumuşatır, yıllanma potansiyeli yüksektir.",
+     "yerel_ad_notu": "Adı \"boğazı yakan\" anlamına gelir; ağızda bıraktığı belirgin tanen hissini anlatır. En klasik kupaj eşi Öküzgözü'dür.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/bogazkere",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+     ],
+     "uz": "bogazkere"
+    },
+    {
+     "ad": "Horozkarası (Horos Karası, Kilis Karası)",
+     "kullanim": [
+      "sofralik",
+      "sarap",
+      "pekmez/diger",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok iri (100 tane ort. 585 g), üzeri beyaz pus kaplı, koyu mor-siyah, kalın ve sert kabuklu, 2-3 çekirdekli, orta sulu bir çeşit. Sofralık ağırlıklıdır; pekmez, pestil ve şarapta da kullanılır. Tek çeşit şaraplarda orta lal rengi, yüksek asit, hafif tanen, orta alkol, çilek-kırmızı meyve-baharat tarif edilir (örnek: Ni&Ce Cuvée FRDN 2024); Elazığ Ağın'da Hastek Ağın markasıyla şişelenmiştir.",
+     "yerel_ad_notu": "Kilis Karası / Horos Karası; Gaziantep, Kilis, Elazığ-Ağın ve Hatay kayıtlarında geçer.",
+     "kaynak": [
+      "https://evrenkalkan.com.tr/horoz-karasi/",
+      "http://kentgazetesi.biz/kilisin-muhtesem-uzumu-horozkarasi-kilis-karasi/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+     ]
+    },
+    {
+     "ad": "Kösetevek",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Elazığ Kuzeybağ üretici sitesinde Öküzgözü ile birlikte anılan yerel çeşit.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://kuzeybag.com/urunler/"
+     ],
+     "not": "kaynak doğrulanmadı: ampelografi."
+    },
+    {
+     "ad": "Ağın Kırmızısı / Ağın Beyazı / Şilfoni / Köhnü",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Elazığ'da şaraplık üzüm üretiminin Öküzgözü'nden sonra gelen çeşitleri olarak sayılır; il üretiminin %60'ının şaraplık türler olduğu yazılır (bu oran kaynağın ifadesidir, 2010 verisi).",
+     "yerel_ad_notu": "Ağın, Elazığ ilçesi.",
+     "kaynak": [
+      "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf"
+     ],
+     "not": "kaynak doğrulanmadı: tek tek kalite/özellik verisi yok."
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Eskibağlar",
+     "not": "Sivrice Kürk Köyü Eskibağlar mevkii (Hazar Gölü yamaçları); lisanslı firma kaydı 'Hilal Aral'. Öküzgözü ve Boğazkere. Bağ-otel kompleksi, şaraphane 2009.",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Eskibağlar",
+     "sarap": 2
+    },
+    {
+     "ad": "Kuzeybağ",
+     "not": "Lisans: Arnika Tarım Ür. Gıda Ltd. Şti.; Öküzgözü, Kösetevek.",
+     "web": "https://kuzeybag.com",
+     "firma_sayisi": 1,
+     "sh": "Kuzeybağ",
+     "sarap": 3
+    },
+    {
+     "ad": "Hastek Ağın",
+     "not": "Lisans: Aşır Şimşek Bağcılık Şarapçılık Ltd. Şti. (Ağın); Horozkarası şarabı. Web sitesi bulunamadı.",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Hastek Ağın",
+     "sarap": 1
+    }
+   ],
+   "kaynak": [
+    "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf",
+    "https://www.aa.com.tr/tr/ekonomi/elazigda-yetistirilen-uzumde-81-bin-ton-rekolte-bekleniyor/2700532",
+    "https://www.vitikultur.com/tr/uzumler/okuzgozu"
+   ]
+  },
+  {
+   "id": "malatya",
+   "il": "Malatya",
+   "bolge": "Doğu Anadolu",
+   "bag_notu": "Öküzgözü Elazığ ile birlikte Malatya köylerinde de yetişir (eylül sonu-ekim ortası olgunlaşır). TÜİK 2004: 7.251 ha üzüm alanı.",
+   "uzumler": [
+    {
+     "ad": "Öküzgözü",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar.",
+     "yerel_ad_notu": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+     ],
+     "uz": "okuzgozu"
+    },
+    {
+     "ad": "Karaoğlan",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Malatya Arapgir'in (Yazılı/Saldek köyü yöresi) yerel çeşidi. Kaynaklara göre Öküzgözü'ne benzeyen yuvarlak, kalın kabuklu, koyu siyah tanelidir; çok aromatik ve yenebilir. Şaraptan rubi kırmızı, orta gövdeli, yüksek asitli, yumuşak tanenli dengeli şaraplar elde edildiği yazılır (tadım yazıları; laboratuvar verisi yok). Diren (Tokat) tek çeşit ve kupaj şarapta kullanır.",
+     "yerel_ad_notu": "Arapgir yerel çeşidi; Tokat Diren de kullanır.",
+     "kaynak": [
+      "https://www.agos.com.tr/tr/yazi/24154/karaoglan",
+      "https://sarapoburu.com/2009/06/savulun-karaoglan-geliyor/",
+      "https://direnwines.com/"
+     ]
+    },
+    {
+     "ad": "Kabarcık (Malatya)",
+     "kullanim": [
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Malatya'da yetiştirilen yerel/standart çeşitler arasında anılır; bir arama sonucunda meyve suyu/geleneksel ürün kullanımı belirtilir.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyedeki-en-iyi-10-beyaz-uzum-cesidi/"
+     ],
+     "not": "kaynak doğrulanmadı"
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf",
+    "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+   ]
+  },
+  {
+   "id": "erzincan",
+   "il": "Erzincan",
+   "bolge": "Doğu Anadolu (Üzümlü, Erzincan Ovası)",
+   "bag_notu": "Karasal, yüksek rakımlı Erzincan ovası; Üzümlü'de yaklaşık 200 yıllık bağlar; Altıntepe'de Urartu dönemi saraç/depo bulguları bağcılık geçmişine işaret eder. Rakım/toprak ölçüsü kaynakta net verilmemiş: kaynak doğrulanmadı.",
+   "uzumler": [
+    {
+     "ad": "Cimin (Karaerik)",
+     "kullanim": [
+      "sofralik",
+      "kurutmalik",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "uygun_degil",
+     "aciklama": "Erzincan Üzümlü yöresinin siyah renkli, basık-oval taneli (ortalama 3-4 g, 1-4 çekirdekli, orta kalınlıkta kabuk), konik salkımlı (300-1500 g) yerel çeşididir. 'Cimin' coğrafi işaretli ticari addır; yörede çeşit Karaerik olarak da anılır, yöredeki asmaların yaklaşık %99'unu oluşturur. Tadı tatlı-mayhoş arası, resmî tanıtımda 'sıfıra yakın şeker oranı' ve mayhoş tat vurgulanır. Şarapta kullanılmaz: yerel basın haberlerinde çeşidin kuru maddesinin %17'de kaldığı, rengin siyah, tadın mayhoş olduğu ve 'şarap mayası tutmadığı' için şarap sektöründe kullanılmadığı belirtilir (üretici/ziraat kaynaklı alıntı; laboratuvar analizi bu çalışmada doğrulanmadı). Yani Cimin gerçekte bir sofralık/kurutmalık/pekmezlik-pestillik üzümdür; düşük şeker + mayhoş asit potansiyel alkolü düşük bırakır. Slow Food Ark of Taste kataloğundadır; 1900'lerden önce şarapta kullanıldığı, sonra yalnızca sofralığa döndüğü akademik kaynaklarda anılır.",
+     "yerel_ad_notu": "Cimin / Karaerik. Not: Erzincan'da 'şarap yapılabilir' iddiası kaynaksız; mevcut kaynaklar tersini söylüyor.",
+     "kaynak": [
+      "https://erzincanilozelidaresi.gov.tr/cimin-uzumu",
+      "https://www.ajanserzincan.com/erzincan-cimin-uzumu-sofralikta-essiz-sarapta-kullanilamaz",
+      "https://dergipark.org.tr/en/download/article-file/4802120",
+      "https://www.hurriyetdailynews.com/erzincans-tulum-cheese-cimin-grape-enter-global-ark-of-taste-220633"
+     ]
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://erzincanilozelidaresi.gov.tr/cimin-uzumu",
+    "https://dergipark.org.tr/en/download/article-file/4802120",
+    "https://www.mdpi.com/2071-1050/14/3/1496/html",
+    "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/cimin-grape/"
+   ]
+  },
+  {
+   "id": "tokat",
+   "il": "Tokat",
+   "bolge": "Karadeniz iç kesimi (Yeşilırmak havzası)",
+   "bag_notu": "Narince, il üzüm varlığının yaklaşık %90'ıdır; bağcılık Merkez, Erbaa, Niksar, Zile, Turhal, Pazar'da; ilde yaklaşık 44 üzüm çeşidi anılır.",
+   "uzumler": [
+    {
+     "ad": "Narince",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Orta-yüksek asit, narenciye, taş meyvesi ve hafif bal nüanslı, dengeli kuru beyazlar verir. Meşeye uygundur ve on yıla kadar yıllanabilir.",
+     "yerel_ad_notu": "Adı \"narin\" sözcüğünden gelir; ince kabuğuna gönderme yapar. Genetik çalışmalar Kalecik Karası ile Dimrit'in doğal melezi olduğunu gösterir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/narince",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Narince_(grape)"
+     ],
+     "uz": "narince"
+    },
+    {
+     "ad": "Kabarcık",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Yuvarlak taneli beyaz çeşit; hem şaraplık hem sofralık olarak anılır. Adının köpüklü/fokurdayan şaraplardan geldiği yazılır. Güneydoğu (Gaziantep) üzüm listelerinde de geçer.",
+     "yerel_ad_notu": "Kaynaklarda Tokat ve Gaziantep ile ilişkilendirilir.",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyenin-saraplik-uzum-cesitleri/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+     ],
+     "not": "kaynak doğrulanmadı: asit/şeker/tanen değerleri bulunamadı; tutarsız bölge atfı (Tokat/Gaziantep)."
+    },
+    {
+     "ad": "Karaoğlan",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Malatya Arapgir'in (Yazılı/Saldek köyü yöresi) yerel çeşidi. Kaynaklara göre Öküzgözü'ne benzeyen yuvarlak, kalın kabuklu, koyu siyah tanelidir; çok aromatik ve yenebilir. Şaraptan rubi kırmızı, orta gövdeli, yüksek asitli, yumuşak tanenli dengeli şaraplar elde edildiği yazılır (tadım yazıları; laboratuvar verisi yok). Diren (Tokat) tek çeşit ve kupaj şarapta kullanır.",
+     "yerel_ad_notu": "Arapgir yerel çeşidi; Tokat Diren de kullanır.",
+     "kaynak": [
+      "https://www.agos.com.tr/tr/yazi/24154/karaoglan",
+      "https://sarapoburu.com/2009/06/savulun-karaoglan-geliyor/",
+      "https://direnwines.com/"
+     ]
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Diren",
+     "not": "Lisanslı firma: Karmen Şarapçılık San. ve Tic. A.Ş.; ilçe/yer: Merkez; kayıtlı çeşitler: Narince, Öküzgözü, Boğazkere, Karaoğlan, Kalecik Karası, Cabernet Sauvignon",
+     "web": "https://direnwines.com",
+     "firma_sayisi": 1,
+     "sh": "Diren",
+     "sarap": 31
+    }
+   ],
+   "kaynak": [
+    "https://turkiyeturizmansiklopedisi.com/tokat-narince-uzumu",
+    "https://tokatarastirmalari.gop.edu.tr/wp-content/uploads/sites/10/2026/01/Cilt-5.1.pdf"
+   ]
+  },
+  {
+   "id": "nevsehir",
+   "il": "Nevşehir",
+   "bolge": "İç Anadolu (Kapadokya)",
+   "bag_notu": "Volkanik tüf toprak, yüksek rakım, gece-gündüz farkı (Emir'in asidini koruduğu vurgulanır).",
+   "uzumler": [
+    {
+     "ad": "Emir",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Yüksek asit, ince yapı ve mineral karakterle öne çıkar; çok açık renkli, yeşil elma ve narenciye aromalı kuru beyazlar verir. Köpüklü şarap için de kullanılır.",
+     "yerel_ad_notu": "Adının bölgedeki beylerin sofralarında tercih edilmesinden geldiği anlatılır. Volkanik tüf toprak ve yüksek rakımın gece-gündüz farkı asidini korur.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/emir",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Emir_(grape)"
+     ],
+     "uz": "emir"
+    },
+    {
+     "ad": "Dimrit",
+     "kullanim": [
+      "sarap",
+      "pekmez/diger",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Yüksek şeker içeriğiyle bilinir. Senirkent siyah Dimrit'inin nitelikli kırmızı şarap verebildiği belirtilir; ayrıntılı tanen-asit profili kaynaklarda az belgelenmiştir.",
+     "yerel_ad_notu": "Bulgaristan'ın Dimyat üzümüyle aynı değildir. Sofralık, sirke, şıra ve pekmez için de kullanılır; genetik çalışmalara göre Narince'nin ebeveynlerinden biridir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/dimrit",
+      "https://en.wikipedia.org/wiki/Narince_(grape)"
+     ],
+     "uz": "dimrit"
+    },
+    {
+     "ad": "Parmak / Çavuş (Kapadokya sofralıkları)",
+     "kullanim": [
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "dusuk",
+     "aciklama": "Nevşehir sörvey çalışmasında Parmak ve Çavuş üzümleri sofralık çeşitler olarak sınıflanır; Dimrit erkenci olup genellikle kurutmalık ve pekmezliktir.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/353626"
+     ]
+    },
+    {
+     "ad": "Kayseri Karası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "İri siyah taneli, çekirdekli, konik salkımlı; Ürgüp Ortahisar'da yetişir, Eylül başında olgunlaşır. Yuvarlak, nadir, ince kabuklu, koyu mor büyük taneli ve hem sofralık hem şaraplık olarak anıldığı bir kaynakta yazılıdır.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/353626",
+      "https://www.muskarahaber.com/nevsehirin-uzumleri"
+     ],
+     "not": "Şarap kalitesi için kaynak bulunamadı."
+    },
+    {
+     "ad": "İsmailoğlu",
+     "kullanim": [
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Avanos Göynük kasabası için ekonomik önemli; konik salkımlı, sarı-yeşil, yuvarlak taneli, 2-3 çekirdekli, orta mevsim.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/353626"
+     ]
+    },
+    {
+     "ad": "Devedişi",
+     "kullanim": [
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Avanos'ta; konik salkım, elips tane, sarı renkli, genellikle tek çekirdekli; eylül sonunda olgunlaşır.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/353626"
+     ]
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Kavaklıdere Côtes d'Avanos",
+     "not": "Lisanslı firma: Kavaklıdere Şarapları A.Ş.; ilçe/yer: Gülşehir; kayıtlı çeşitler: Narince, Emir, Kalecik Karası, Tempranillo, Öküzgözü, Chardonnay",
+     "web": "https://kavaklidere.com/kapadokya-cotes-davanos-baglari/",
+     "firma_sayisi": 1,
+     "sh": "Kavaklıdere Côtes d'Avanos",
+     "sarap": 0
+    },
+    {
+     "ad": "Kocabağ",
+     "not": "Lisanslı firma: Kocabağ Bağcılık ve Şarapçılık Ltd. Şti.; ilçe/yer: Gülşehir; kayıtlı çeşitler: Emir, Narince, Kalecik Karası, Öküzgözü, Boğazkere",
+     "web": "https://kavaklidere.com/kocabag/",
+     "firma_sayisi": 1,
+     "sh": "Kocabağ",
+     "sarap": 8
+    },
+    {
+     "ad": "Aryatus / Laurasia",
+     "not": "Lisanslı firma: Nazmiye Turgut Deniz Şarapçılık; ilçe/yer: Hacıbektaş; kayıtlı çeşitler: Emir, Kalecik Karası, Öküzgözü",
+     "web": "https://www.denizsarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Aryatus / Laurasia",
+     "sarap": 0
+    },
+    {
+     "ad": "Evenez / Sonava",
+     "not": "Lisanslı firma: Kapadokya Sedef Tar. Hayv. Şarapçılık San. Tic. Ltd.Şti.; ilçe/yer: Avanos; kayıtlı çeşitler: Emir, Kalecik Karası, Öküzgözü, Dimrit",
+     "web": "https://evenez.com",
+     "firma_sayisi": 1,
+     "sh": "Evenez / Sonava",
+     "sarap": 3
+    },
+    {
+     "ad": "Turasan",
+     "not": "Lisanslı firma: Turasan Bağcılık ve Şarapçılık Ltd. Şti.; ilçe/yer: Ürgüp; kayıtlı çeşitler: Emir, Narince, Kalecik Karası, Öküzgözü, Boğazkere, Cabernet Sauvignon",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Turasan",
+     "sarap": 27
+    },
+    {
+     "ad": "S'narin",
+     "not": "Lisanslı firma: Senarin Gıda Sanayi ve Ticaret Ltd.Şti; ilçe/yer: Avanos; kayıtlı çeşitler: Emir, Kalecik Karası, Öküzgözü, Boğazkere",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "S'narin",
+     "sarap": 0
+    },
+    {
+     "ad": "Kapadokya Şarapçılık Tarım İth. İhr. San. ve Tic. Ltd. Şti.",
+     "not": "Lisanslı firma: Kapadokya Şarapçılık Tarım İth. İhr. San. ve Tic. Ltd. Şti.; ilçe/yer: Gülşehir",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Peri Vadisi Gıda Tarım Tur. İnş. Emlak San. Ve Tic. Ltd. Şti.",
+     "not": "Lisanslı firma: Peri Vadisi Gıda Tarım Tur. İnş. Emlak San. Ve Tic. Ltd. Şti.; ilçe/yer: Ürgüp",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/353626",
+    "https://www.vitikultur.com/tr/uzumler/emir"
+   ]
+  },
+  {
+   "id": "denizli",
+   "il": "Denizli",
+   "bolge": "Ege (Çal platosu)",
+   "bag_notu": "Çal'da kalkerli, 800-1.200 m'ye varan yüksek platolar (Lermonos 840-880 m, Çalkarası kaydında 1.200 m'ye kadar).",
+   "uzumler": [
+    {
+     "ad": "Çalkarası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Düşük pigmentli bir siyah üzümdür; açık renkli şaraplar ve özellikle kaliteli rozeler verir. Orta-yüksek asit, düşük tanen; çilek, ahududu, vişne ve hafif çiçeksi notalar taşır.",
+     "yerel_ad_notu": "Çalkarası ve \"Çal Karası\" aynı üzümün iki yazımıdır. Hafif kırmızı ve köpüklü roze de yapılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/calkarasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "calkarasi"
+    },
+    {
+     "ad": "Sultaniye",
+     "kullanim": [
+      "sofralik",
+      "kurutmalik",
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çekirdeksiz, ince kabuklu, düşük asitli bir üzümdür. Kuru ya da yarı kuru, hafif gövdeli, yeşil elma ve narenciye notalı yalın ve ferah beyazlar verir.",
+     "yerel_ad_notu": "Dünyada Sultana / Thompson Seedless olarak bilinir. Asıl kullanımı sofralık ve kuru üzümdür; ayrıca rakının ana üzümüdür.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/sultaniye",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "sultaniye"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Pamukkale Şarapları",
+     "not": "Lisanslı firma: Pamukkale Şarapçılık San. ve Tic. A.Ş.; ilçe/yer: Güney; kayıtlı çeşitler: Çalkarası, Sultaniye, Bornova Misketi, Cabernet Sauvignon, Merlot, Shiraz",
+     "web": "https://pamukkalewinery.com",
+     "firma_sayisi": 1,
+     "sh": "Pamukkale Şarapları",
+     "sarap": 22
+    },
+    {
+     "ad": "Kuzubağ",
+     "not": "Lisanslı firma: Kuzubağ Tar. San. ve Tic. A. Ş.; ilçe/yer: Çal; kayıtlı çeşitler: Çal Karası, Kalecik Karası, Acıkara, Narince, Sultaniye, Cabernet Sauvignon",
+     "web": "https://www.kuzubag.com",
+     "firma_sayisi": 1,
+     "sh": "Kuzubağ",
+     "sarap": 10
+    },
+    {
+     "ad": "Küp Şarapları (Epic, Artemis, Thia)",
+     "not": "Lisanslı firma: Küp Şarapçılık Fermantasyon Gıda İnş. Taah. Nak. San. ve Tic. Ltd. Şti; ilçe/yer: Çal; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Shiraz, Chardonnay, Narince, Mazrona",
+     "web": "https://kupsarap.com",
+     "firma_sayisi": 1,
+     "sh": "Küp Şarapları (Epic, Artemis, Thia)",
+     "sarap": 8
+    },
+    {
+     "ad": "Lermonos",
+     "not": "Lisanslı firma: Lermonos Gıda Tarım Hayvancılık Turizm Enerji San. ve Tic. A.Ş.; ilçe/yer: Çal; kayıtlı çeşitler: Çal Karası, Öküzgözü, Kalecik Karası, Boğazkere, Cabernet Sauvignon, Merlot",
+     "web": "https://www.lermonos.com",
+     "firma_sayisi": 1,
+     "sh": "Lermonos",
+     "sarap": 5
+    },
+    {
+     "ad": "Kayıbağ – Paşa Dedem",
+     "not": "Lisanslı firma: Kayıbağ Şarapçılık Gıda ve Alkollü Ürünler Toprak Mahsülleri  İnş. Mal; ilçe/yer: Çal; kayıtlı çeşitler: Cabernet Sauvignon, Sauvignon Blanc",
+     "web": "https://www.kayibag.com",
+     "firma_sayisi": 1,
+     "sh": "Kayıbağ – Paşa Dedem",
+     "sarap": 3
+    },
+    {
+     "ad": "Ezel Şarapları",
+     "not": "Lisanslı firma: Ezel Şarapçılık Tarım Ürünleri Gıda ve Alkollü Ürünler San. ve Tic. Lt; ilçe/yer: Çal; kayıtlı çeşitler: Çalkarası, Sultaniye, Öküzgözü, Boğazkere, Syrah, Cabernet Sauvignon",
+     "web": "https://www.ezelwines.com",
+     "firma_sayisi": 1,
+     "sh": "Ezel Şarapları",
+     "sarap": 0
+    },
+    {
+     "ad": "Aykut Özkan Şarapçılık (Colossae, Yalı, İsabey, Cümbüş, Lunda)",
+     "not": "Lisanslı firma: Aykut Özkan Şarp. Fer. Gıda Tar. Nak. Ak. Turz. Teks. San. ve Tic. Ltd; ilçe/yer: Çal; kayıtlı çeşitler: Çal Karası, Sultaniye, Syrah",
+     "web": "https://www.aykutozkansarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Aykut Özkan Şarapçılık (Colossae, Yalı, İsabey, Cümbüş, Lunda)",
+     "sarap": 0
+    },
+    {
+     "ad": "Efmeyra",
+     "not": "Lisanslı firma: Efmeyra Şarap ve Alkollü Ürünler Tarım Mahsülleri San. ve Tic. Ltd. Şt; ilçe/yer: Çal",
+     "web": "https://www.efmeyra.com",
+     "firma_sayisi": 1,
+     "sh": "Efmeyra",
+     "sarap": 0
+    },
+    {
+     "ad": "Hanchalar (Erdel Şarapçılık)",
+     "not": "Lisanslı firma: Erdel Gıda Anonim Şirketi; ilçe/yer: Çal; kayıtlı çeşitler: Öküzgözü, Syrah, Sauvignon Blanc",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Hanchalar (Erdel Şarapçılık)",
+     "sarap": 2
+    },
+    {
+     "ad": "Calypso Rose Gıda San. Tic. A.Ş",
+     "not": "Lisanslı firma: Calypso Rose Gıda San. Tic. A.Ş; ilçe/yer: Bozkurt",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Obam Şarapçılık Üretim ve Pazarlama Ltd. Şti.",
+     "not": "Lisanslı firma: Obam Şarapçılık Üretim ve Pazarlama Ltd. Şti.; ilçe/yer: Bekilli",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Pardus Tarım Ürünleri Gıda Hayvancılık ve Alkollü Ürünler San. ve Tic. Ltd. Şti.",
+     "not": "Lisanslı firma: Pardus Tarım Ürünleri Gıda Hayvancılık ve Alkollü Ürünler San. ve Tic.; ilçe/yer: Çal",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/calkarasi",
+    "https://www.vitikultur.com/tr/uzumler/sultaniye"
+   ]
+  },
+  {
+   "id": "manisa",
+   "il": "Manisa",
+   "bolge": "Ege",
+   "bag_notu": "Türkiye'nin üzüm ambarı; üretimin büyük kısmı sofralık/kurutmalık (2018'de ülke üretiminin %38'i Manisa). Alaşehir, Salihli, Kula, Akhisar'da şarap bağları.",
+   "uzumler": [
+    {
+     "ad": "Sultaniye",
+     "kullanim": [
+      "sofralik",
+      "kurutmalik",
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çekirdeksiz, ince kabuklu, düşük asitli bir üzümdür. Kuru ya da yarı kuru, hafif gövdeli, yeşil elma ve narenciye notalı yalın ve ferah beyazlar verir.",
+     "yerel_ad_notu": "Dünyada Sultana / Thompson Seedless olarak bilinir. Asıl kullanımı sofralık ve kuru üzümdür; ayrıca rakının ana üzümüdür.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/sultaniye",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "sultaniye"
+    },
+    {
+     "ad": "Karasakız (Kuntra)",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Erken olgunlaşan, ince kabuklu bir çeşittir. Düşük tanen, orta-düşük asit ve görece yüksek alkol; kiraz, çilek ve baharat notalarıyla hafif-orta gövdeli şaraplar verir, tarzı sıkça Gamay'a benzetilir.",
+     "yerel_ad_notu": "Kuntra, Bozcaada'daki yerel adıdır. Roze ve köpüklü şarap yapımına da çok uygundur; Bozcaada'da sıkça Karalahna ile harmanlanır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/karasakiz",
+      "https://www.vitikultur.com/tr/uzumler/karalahna"
+     ],
+     "uz": "karasakiz"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Kavaklıdere – Pendore",
+     "not": "Lisanslı firma: Kavaklıdere Şarapları A.Ş.; ilçe/yer: Alaşehir; kayıtlı çeşitler: Öküzgözü, Boğazkere, Syrah, Malbec, Cabernet Sauvignon, Merlot",
+     "web": "https://kavaklidere.com",
+     "firma_sayisi": 1,
+     "sh": "Kavaklıdere – Pendore",
+     "sarap": 13
+    },
+    {
+     "ad": "Öküzgözü Şarapçılık – Phokaia",
+     "not": "Lisanslı firma: Öküzgözü Şarapçılık San. ve Tic. Ltd. Şti.; ilçe/yer: Salihli; kayıtlı çeşitler: Foça Karası, Öküzgözü, Cabernet Sauvignon, Merlot, Chardonnay",
+     "web": "https://okuzgozusarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Öküzgözü Şarapçılık – Phokaia",
+     "sarap": 4
+    },
+    {
+     "ad": "Sezar Şarap (Sezer Holding)",
+     "not": "Lisanslı firma: Alcosan İçecek San. ve Tic. Ltd. Şti.; ilçe/yer: Salihli; kayıtlı çeşitler: Sultaniye, Cabernet Sauvignon, Sauvignon Blanc, Öküzgözü, Boğazkere, Misket",
+     "web": "https://www.sezerholding.com.tr/markalar/sarap",
+     "firma_sayisi": 1,
+     "sh": "Sezar Şarap (Sezer Holding)",
+     "sarap": 3
+    },
+    {
+     "ad": "Yanık Ülke",
+     "not": "Lisanslı firma: KOZMİK İNŞAAT TUR. VE GIDA SAN. TİC. A.Ş.; ilçe/yer: Kula; kayıtlı çeşitler: Syrah, Merlot, Cabernet Sauvignon, Cabernet Franc, Muscat",
+     "web": "https://www.yanikulke.com",
+     "firma_sayisi": 1,
+     "sh": "Yanık Ülke",
+     "sarap": 6
+    },
+    {
+     "ad": "Heraki",
+     "not": "Lisanslı firma: Heraki Şarapçılık San. Tic. Ltd. Şti.; ilçe/yer: Alaşehir; kayıtlı çeşitler: Boğazkere, Sultaniye, Çal Karası, Karasakız, Gök, Patkara",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Heraki",
+     "sarap": 4
+    },
+    {
+     "ad": "Selendi",
+     "not": "Lisanslı firma: Selendi Tarım Ürünleri San. ve Tic. A.Ş.; ilçe/yer: Akhisar; kayıtlı çeşitler: Cabernet Sauvignon, Cabernet Franc, Merlot, Shiraz, Chardonnay, Viognier",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Selendi",
+     "sarap": 10
+    },
+    {
+     "ad": "Kastro Tireli",
+     "not": "Lisanslı firma: Tireli Çiftliği Tarım İşletmeleri San. Tic. A.Ş.; ilçe/yer: Akhisar; kayıtlı çeşitler: Syrah, Mourvèdre, Viognier, Kalecik Karası, Narince, Cabernet Sauvignon",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Kastro Tireli",
+     "sarap": 10
+    },
+    {
+     "ad": "Sobran Bağları – Alaşehir-Philadelphia",
+     "not": "Lisanslı firma: Antalya Dış Tic. Enerji İçecek ve San. Tic. Ltd. Şti.; ilçe/yer: Alaşehir; kayıtlı çeşitler: Nebbiolo",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Sobran Bağları – Alaşehir-Philadelphia",
+     "sarap": 1
+    },
+    {
+     "ad": "Deva Şarapçılık",
+     "not": "Lisanslı firma: Deva İçecek San. ve Tic. A.Ş.; ilçe/yer: Salihli",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Deva Şarapçılık",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://www.hurriyet.com.tr/ekonomi/manisa-ilk-sirada-40607965",
+    "https://www.vitikultur.com/tr/uzumler/sultaniye"
+   ]
+  },
+  {
+   "id": "izmir",
+   "il": "İzmir",
+   "bolge": "Ege",
+   "bag_notu": "Urla yarımadası volkanik tüf ve kireçli kayalık; Bornova-Foça-Urla çevresi.",
+   "uzumler": [
+    {
+     "ad": "Bornova Misketi",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Muscat ailesinden; düşük asitli, yoğun çiçeksi ve aromatik bir üzüm. Kurudan yarı tatlıya ve geç hasat tatlılara uzanan beyaz şaraplar verir.",
+     "yerel_ad_notu": "Anadolu koşullarında yüzyıllar içinde ayrışmış bir Muscat (Muscat Blanc à Petits Grains) koludur; sofralık olarak da tüketilir. Hasat zamanlaması kritiktir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/bornova-misketi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "bornova-misketi"
+    },
+    {
+     "ad": "Urla Karası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Orta-yüksek tanen, koyu meyve karakteri ve belirgin baharatlı notalarla orta-tam gövdeli kırmızılar verir. Volkanik tüf ve kireçli kayalık topraklara iyi uyum sağlar.",
+     "yerel_ad_notu": "Türkiye'nin en az ekilen yerli kırmızılarından biridir; Urla bağ rotası üreticilerinin eski bahçelerden aldığı çeliklerle yeniden yaygınlaşmıştır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/urla-karasi"
+     ],
+     "uz": "urla-karasi"
+    },
+    {
+     "ad": "Foça Karası",
+     "kullanim": [
+      "sarap",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Geç olgunlaşan, koyu ve kalın kabuklu taneli bir üzümdür. Kırmızı, roze ve blanc de noir tarzlarında ve harmanlarda kullanılır; geleneksel pekmez yapımında da değerlendirilir.",
+     "yerel_ad_notu": "Yaklaşık 2.600 yıllık geçmişe sahip olduğu ve antik Phokaia ile ilişkilendirildiği belirtilir; Slow Food Lezzet Gemisi kataloğundadır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/foca-karasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "foca-karasi"
+    },
+    {
+     "ad": "Çakal",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "İnce kabuklu, erken olgunlaşan, pembemsi kabuklu \"gri\" bir üzümdür; roze yapımına uygundur. Düşük tanen, orta asit; çilek reçeli, tropik meyve ve mango notaları.",
+     "yerel_ad_notu": "Erken olgunlaşan tanelerini tepelerden inen çakallar yediği için bu adı aldığı aktarılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/cakal"
+     ],
+     "uz": "cakal"
+    },
+    {
+     "ad": "Sıdalan",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Canlı, yüksek asitli; hafif-orta gövdeli, narenciye, armut ve tropik meyve notalı, ıslak taş mineralliği ve tuzumsu bitişli beyazlar verir. Köpüklüye de uygundur.",
+     "yerel_ad_notu": "Geçmişte Çanakkale Şarap Fabrikası'nda kanyak için yetiştirilirdi; damıtımevi kapanınca neredeyse yok olmuştu.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/sidalan"
+     ],
+     "uz": "sidalan"
+    },
+    {
+     "ad": "Papazkarası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+     "yerel_ad_notu": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "papazkarasi"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Urla Şarapçılık (Urla Winery)",
+     "not": "Lisanslı firma: Urla Şarapçılık Gıda Turizm Tarım San. ve Tic. A.Ş.; ilçe/yer: Urla; kayıtlı çeşitler: Urla Karası, Nero d'Avola, Bornova Misketi, Boğazkere, Cabernet Sauvignon, Merlot",
+     "web": "https://www.urlasarapcilik.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Urla Şarapçılık (Urla Winery)",
+     "sarap": 11
+    },
+    {
+     "ad": "USCA",
+     "not": "Lisanslı firma: U.S.C.A. Bağcılık Şarapçılık Zeytincilik Tarım ve Gıda San. Tic. Ltd. ; ilçe/yer: Urla; kayıtlı çeşitler: Bornova Misketi, Foça Karası, Öküzgözü, Syrah, Cabernet Sauvignon, Merlot",
+     "web": "https://www.usca.com.tr",
+     "firma_sayisi": 1,
+     "sh": "USCA",
+     "sarap": 7
+    },
+    {
+     "ad": "HUS Şarapçılık",
+     "not": "Lisanslı firma: Ceylan Ertörer Diaz Leon; ilçe/yer: Urla; kayıtlı çeşitler: Carignan, Alicante, Bornova Misketi, Boğazkere, Syrah, Grenache",
+     "web": "https://www.huswines.com",
+     "firma_sayisi": 1,
+     "sh": "HUS Şarapçılık",
+     "sarap": 9
+    },
+    {
+     "ad": "Perdix",
+     "not": "Lisanslı firma: EOS Tarım Gıda Turizm San. ve Tic. A.Ş.; ilçe/yer: Urla; kayıtlı çeşitler: Bornova Misketi, Sauvignon Blanc, Pinot Noir, Merlot, Syrah, Cabernet Sauvignon",
+     "web": "https://www.perdixwines.com",
+     "firma_sayisi": 1,
+     "sh": "Perdix",
+     "sarap": 5
+    },
+    {
+     "ad": "Statera",
+     "not": "Lisanslı firma: Statera Bağcılık Şarapçılık Sanayi ve Tic. A.Ş.; ilçe/yer: Urla; kayıtlı çeşitler: Viognier, Grenache, Syrah, Mourvèdre, Bornova Misketi",
+     "web": "https://staterasarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Statera",
+     "sarap": 5
+    },
+    {
+     "ad": "Urlice Vineyards",
+     "not": "Lisanslı firma: Urlice Bağcılık ve Şarapçılık - Reha Öğünlü; ilçe/yer: Urla; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Syrah, Chardonnay",
+     "web": "https://urlice.com",
+     "firma_sayisi": 1,
+     "sh": "Urlice Vineyards",
+     "sarap": 5
+    },
+    {
+     "ad": "Mozaik Şarapçılık – Mahrem",
+     "not": "Lisanslı firma: Mozaik Organik Tarım ve Hayvancılık Sanayi Ticaret A.Ş.; ilçe/yer: Urla; kayıtlı çeşitler: Syrah, Sangiovese, Corinto, Montepulciano, Petit Verdot, Tannat",
+     "web": "https://www.mozaiksarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Mozaik Şarapçılık – Mahrem",
+     "sarap": 5
+    },
+    {
+     "ad": "MMG Şarapçılık – Şatomet",
+     "not": "Lisanslı firma: MMG Şarapçılık Ziraat ve Gıda Ürünleri Turz. İnş. San. Tic. Ltd. Şti.; ilçe/yer: Urla; kayıtlı çeşitler: Bornova Misketi, Kara Misket, Mourvèdre, Syrah, Cabernet Sauvignon, Merlot",
+     "web": "https://www.mmgsarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "MMG Şarapçılık – Şatomet",
+     "sarap": 1
+    },
+    {
+     "ad": "Çakır Şarapçılık",
+     "not": "Lisanslı firma: Sevinç Çakır - Urla Çakır Bağcılık ve Şarapçılık; ilçe/yer: Urla; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Syrah, Bornova Misketi, Chardonnay",
+     "web": "https://www.cakirsarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Çakır Şarapçılık",
+     "sarap": 3
+    },
+    {
+     "ad": "İkidenizarası",
+     "not": "Lisanslı firma: İkidenizarası Tarımsal Ür. San. ve Tic. A.Ş.; ilçe/yer: Urla; kayıtlı çeşitler: Cabernet Sauvignon, Syrah, Chardonnay",
+     "web": "https://ikidenizarasiwinery.com",
+     "firma_sayisi": 1,
+     "sh": "İkidenizarası",
+     "sarap": 3
+    },
+    {
+     "ad": "Paşaeli",
+     "not": "Lisanslı firma: Paşaeli Bağcılık ve Şarapçılık A.Ş.; ilçe/yer: Tire; kayıtlı çeşitler: Karasakız, Sıdalan, Çakal, Yapıncak, Çalkarası, Sultaniye",
+     "web": "https://www.pasaeli.com",
+     "firma_sayisi": 1,
+     "sh": "Paşaeli",
+     "sarap": 6
+    },
+    {
+     "ad": "Lucien Arkas Bağları (LA Wines)",
+     "not": "Lisanslı firma: La Organik Bağcılık Şarapçılık Hayvancılık İnşaat Turizm Gıda San. ve ; ilçe/yer: Torbalı; kayıtlı çeşitler: Bornova Misketi, Narince, Öküzgözü, Boğazkere, Cabernet Sauvignon, Marselan",
+     "web": "https://www.lawines.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Lucien Arkas Bağları (LA Wines)",
+     "sarap": 11
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/bornova-misketi",
+    "https://www.vitikultur.com/tr/uzumler/urla-karasi",
+    "https://www.vitikultur.com/tr/uzumler/foca-karasi"
+   ]
+  },
+  {
+   "id": "tekirdag",
+   "il": "Tekirdağ",
+   "bolge": "Trakya (Şarköy-Mürefte, Marmara kıyısı)",
+   "bag_notu": "Marmara'ya bakan yamaçlar, Şarköy-Mürefte tarihî bağ bölgesi; 23 lisanslı firma.",
+   "uzumler": [
+    {
+     "ad": "Papazkarası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+     "yerel_ad_notu": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "papazkarasi"
+    },
+    {
+     "ad": "Yapıncak",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İnce kabuklu, geç olgunlaşan bir üzüm. Elma, armut ve ayva aromalı, orta-düşük asitli beyazlar; ferah kuru, meşede dinlendirilmiş ve geleneksel yöntemle köpüklü tarzlar yapılır. 'Kınalı Yapıncak' adı kabuktaki al benekten gelir; hafif gövdeli, aromatik, canlı asitli; elma-armut-ayva-narenciye; Tekirdağ Yapıncak salamura asma yaprağı coğrafi işaretlidir.",
+     "yerel_ad_notu": "Yetiştirilmesi zor ve düşük verimlidir; tatlı şarap üretimine de uygundur.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/yapincak",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "yapincak"
+    },
+    {
+     "ad": "Kolorko",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Geç olgunlaşan, düşük verimli bir çeşit. Oldukça aromatik, hafif gövdeli, düşük alkollü ve belirgin yüksek asitli şaraplar verir; kimi zaman misket üzümlerine benzetilir.",
+     "yerel_ad_notu": "1960'lardan sonra dikim alanı hızla daraldı; 2000'lere gelindiğinde birkaç üreticide birkaç asma kalmıştı.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/kolorko"
+     ],
+     "uz": "kolorko"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Doluca",
+     "not": "Lisanslı firma: Doluca Bağcılık ve Şarapçılık A.Ş.; ilçe/yer: Şarköy (Mürefte); ayrıca Çerkezköy OSB; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Shiraz, Sauvignon Blanc, Chardonnay, Öküzgözü",
+     "web": "https://www.doluca.com",
+     "firma_sayisi": 1,
+     "sh": "Doluca",
+     "sarap": 11
+    },
+    {
+     "ad": "Kutman",
+     "not": "Lisanslı firma: Kutman Şarapları - Ahmet Adnan Kutman; ilçe/yer: Şarköy (Mürefte); kayıtlı çeşitler: Papaskarası, Gamay, Cinsault, Semillon",
+     "web": "http://www.kutmansaraplari.com",
+     "firma_sayisi": 1,
+     "sh": "Kutman",
+     "sarap": 1
+    },
+    {
+     "ad": "Melen",
+     "not": "Lisanslı firma: Melen Şarapçılık - Ahmet Cem Çetintaş; ilçe/yer: Şarköy (Hoşköy); kayıtlı çeşitler: Papaskarası, Shiraz, Cabernet Sauvignon, Semillon",
+     "web": "https://www.melenwinery.com",
+     "firma_sayisi": 1,
+     "sh": "Melen",
+     "sarap": 1
+    },
+    {
+     "ad": "Kayra",
+     "not": "Lisanslı firma: Mey Alkollü İçkiler San. ve Tic. A.Ş.; ilçe/yer: Şarköy; kayıtlı çeşitler: Chardonnay, Viognier, Sauvignon Blanc, Semillon, Merlot, Cabernet Franc",
+     "web": "https://meyicki.com",
+     "firma_sayisi": 1,
+     "sh": "Kayra",
+     "sarap": 8
+    },
+    {
+     "ad": "Barbare",
+     "not": "Lisanslı firma: Nova Şarap Üretim San. Ve Tic. Ltd. Şti.; ilçe/yer: Süleymanpaşa (Yazır, Karaağaçlık mevkii); kayıtlı çeşitler: Syrah, Grenache, Mourvèdre, Cabernet Sauvignon, Merlot, Pinot Noir",
+     "web": "https://www.barbarewines.com",
+     "firma_sayisi": 1,
+     "sh": "Barbare",
+     "sarap": 2
+    },
+    {
+     "ad": "Umurbey",
+     "not": "Lisanslı firma: Arıner Tarım Ürünleri Meşrubat ve Gıda San.İth. İhr. Tic. Ltd. Şti.; ilçe/yer: Süleymanpaşa (Yazır); kayıtlı çeşitler: Sauvignon Blanc, Semillon, Chardonnay, Cabernet Sauvignon, Merlot, Syrah",
+     "web": "https://www.umurbey.com",
+     "firma_sayisi": 1,
+     "sh": "Umurbey",
+     "sarap": 7
+    },
+    {
+     "ad": "Barel Vineyards",
+     "not": "Lisanslı firma: Bar-El Şarapçılık Gıda San. Tic. Ltd. Şti.; ilçe/yer: Süleymanpaşa (Karaevli); kayıtlı çeşitler: Cabernet Sauvignon, Syrah, Cabernet Franc, Merlot, Semillon, Sauvignon Blanc",
+     "web": "http://www.barelvineyards.com",
+     "firma_sayisi": 1,
+     "sh": "Barel Vineyards",
+     "sarap": 12
+    },
+    {
+     "ad": "Château Nuzun",
+     "not": "Lisanslı firma: Şatonuzun Bağcılık Şarapçılık Turizm San. ve Tic. Ltd. Şti.; ilçe/yer: Marmaraereğlisi (Çeşmeli); kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Syrah, Pinot Noir",
+     "web": "https://www.chateaunuzun.com",
+     "firma_sayisi": 1,
+     "sh": "Château Nuzun",
+     "sarap": 3
+    },
+    {
+     "ad": "Gürbüz Winery",
+     "not": "Lisanslı firma: Gurbuz Gıda A.Ş.; ilçe/yer: Çorlu; kayıtlı çeşitler: Cabernet Sauvignon, Sauvignon Blanc, Shiraz, Merlot, Cinsault, Kalecik Karası",
+     "web": "https://gurbuzwinery.com",
+     "firma_sayisi": 1,
+     "sh": "Gürbüz Winery",
+     "sarap": 8
+    },
+    {
+     "ad": "Seler Wines",
+     "not": "Lisanslı firma: Seler Alkollü İçecekler Meşrubat Gıda Pazarlama ve Akaryakıt San. Tic.; ilçe/yer: Şarköy",
+     "web": "http://www.arslangida.com/seler_alkollu_icecekler_tekirdag.php",
+     "firma_sayisi": 1,
+     "sh": "Seler Wines",
+     "sarap": 0
+    },
+    {
+     "ad": "Gülor",
+     "not": "Lisanslı firma: Gülor Şarapçılık Turizm San. ve Tic. Ltd. Şti.; ilçe/yer: Şarköy (Eriklice); kayıtlı çeşitler: Malbec, Cabernet Sauvignon, Petit Verdot, Merlot, Semillon, Sauvignon Blanc",
+     "web": "https://www.gulorwines.com",
+     "firma_sayisi": 1,
+     "sh": "Gülor",
+     "sarap": 7
+    },
+    {
+     "ad": "Château Kalpak",
+     "not": "Lisanslı firma: Kalpak Tarım Anonim Şirketi; ilçe/yer: Şarköy; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Château Kalpak",
+     "sarap": 3
+    }
+   ],
+   "kaynak": [
+    "https://tekirdag.org/sarkoy-murefte-saraplari/",
+    "https://www.vitikultur.com/tr/uzumler/yapincak"
+   ]
+  },
+  {
+   "id": "canakkale-bozcaada",
+   "il": "Çanakkale (Bozcaada)",
+   "bolge": "Ege adası",
+   "bag_notu": "Rüzgârlı ada, kıyıya yakın ince topraklı bağlar. 5 lisanslı firma (Ataol, Corvus, Talay, Yunatçılar, Güler).",
+   "uzumler": [
+    {
+     "ad": "Karasakız (Kuntra)",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Erken olgunlaşan, ince kabuklu bir çeşittir. Düşük tanen, orta-düşük asit ve görece yüksek alkol; kiraz, çilek ve baharat notalarıyla hafif-orta gövdeli şaraplar verir, tarzı sıkça Gamay'a benzetilir.",
+     "yerel_ad_notu": "Kuntra, Bozcaada'daki yerel adıdır. Roze ve köpüklü şarap yapımına da çok uygundur; Bozcaada'da sıkça Karalahna ile harmanlanır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/karasakiz",
+      "https://www.vitikultur.com/tr/uzumler/karalahna"
+     ],
+     "uz": "karasakiz"
+    },
+    {
+     "ad": "Karalahna",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Koyu renk, yüksek asit ve belirgin tanen yapısıyla orta-tam gövdeli şaraplar verir. Siyah erik, kara kiraz ve ahududu aromaları taşır; meşeye iyi yanıt verir.",
+     "yerel_ad_notu": "Adı \"kara lahana\" anlamına gelir. Slow Food'un Lezzet Gemisi (Ark of Taste) kataloğunda yer alır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/karalahna",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "karalahna"
+    },
+    {
+     "ad": "Vasilaki",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İnce kabuklu, küçük taneli bir üzüm. Kuru, açık renkli, canlı asitli; narenciye, portakal kabuğu ve karanfil aromalı ince beyazlar verir. Uzun yıllanmaya uygun değildir.",
+     "yerel_ad_notu": "1900'lerin başında Dedeağaç'tan adaya getirildiği aktarılır. Slow Food Lezzet Gemisi kataloğunda yer alır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/vasilaki",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "vasilaki"
+    },
+    {
+     "ad": "Çavuş",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Orta asit, hafif aromatik ve taze meyve karakterli, ferah beyaz şaraplar verir. Aşırı olgunlaşınca asidi düşer.",
+     "yerel_ad_notu": "Bozcaada'da sofralık üzüm olarak da tüketilir; sıkça Vasilaki ile kupaj yapılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/cavus"
+     ],
+     "uz": "cavus"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Talay",
+     "not": "Lisanslı firma: Talay Şarapçılık A.Ş.; ilçe/yer: Bozcaada; kayıtlı çeşitler: Kuntra, Karalahna, Çavuş, Vasilaki, Cabernet Sauvignon, Merlot",
+     "web": "https://talay1948.com",
+     "firma_sayisi": 1,
+     "sh": "Talay",
+     "sarap": 0
+    },
+    {
+     "ad": "Ataol",
+     "not": "Lisanslı firma: Ataol Bağcılık ve Şarapçılık Koll. Şti. - Faik Ahmet Ataol ve Ortaklar; ilçe/yer: Bozcaada; kayıtlı çeşitler: Kuntra, Karalahna, Çavuş, Vasilaki",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Ataol",
+     "sarap": 0
+    },
+    {
+     "ad": "Corvus",
+     "not": "Lisanslı firma: Corvus Tarım Gıda Teks. Şarapçılık İnş. Tur. Hav. San. ve Tic. A.Ş.; ilçe/yer: Bozcaada (Tuzburnu); kayıtlı çeşitler: Kuntra, Karalahna, Çavuş, Vasilaki, Cabernet Sauvignon, Petit Verdot",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Corvus",
+     "sarap": 7
+    },
+    {
+     "ad": "Gülerada",
+     "not": "Lisanslı firma: Güler İnşaat Turizm San.ve Tic. Ltd. Şti.; ilçe/yer: Bozcaada (Alaybey)",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Gülerada",
+     "sarap": 0
+    },
+    {
+     "ad": "Çamlıbağ",
+     "not": "Lisanslı firma: Yunatçılar Şarapçılık San. ve Tic. Ltd. Şti.; ilçe/yer: Bozcaada; kayıtlı çeşitler: Kuntra, Karalahna, Vasilaki, Cabernet Sauvignon, Merlot",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Çamlıbağ",
+     "sarap": 6
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/karasakiz",
+    "https://www.vitikultur.com/tr/uzumler/karalahna",
+    "https://www.vitikultur.com/tr/uzumler/vasilaki",
+    "https://www.vitikultur.com/tr/uzumler/cavus"
+   ]
+  },
+  {
+   "id": "canakkale-gokceada",
+   "il": "Çanakkale (Gökçeada)",
+   "bolge": "Ege adası",
+   "bag_notu": "Gökçeada'da 3 lisanslı firma (Barba Yorgo, Nympha, Nusretbey). Adaya özgü üzüm bilgisi bu çalışmada kaynaklanmadı: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [
+    {
+     "ad": "Nusretbey",
+     "not": "Lisanslı firma: Etis Ekolojik Tarım Ürünleri ve Tur. İşl. San. ve Tic. Ltd. Şti.; ilçe/yer: Gökçeada; kayıtlı çeşitler: Kalabaki, Cabernet Sauvignon, Merlot, Shiraz",
+     "web": "https://nusretbey.com",
+     "firma_sayisi": 1,
+     "sh": "Nusretbey",
+     "sarap": 0
+    },
+    {
+     "ad": "Barba Yorgo",
+     "not": "Lisanslı firma: Yorgi Zarbozan - Barba Yorgo Şarapları ve Pansiyon; ilçe/yer: Gökçeada (Tepeköy)",
+     "web": "https://barbayorgo.com",
+     "firma_sayisi": 1,
+     "sh": "Barba Yorgo",
+     "sarap": 1
+    },
+    {
+     "ad": "Nympha / İmroz Nympha",
+     "not": "Lisanslı firma: Nympha Organik Bağcılık Şarapçılık ve Tur. İth. İhr. San. Tic. Ltd. Şt; ilçe/yer: Gökçeada (Şirinköy)",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Nympha / İmroz Nympha",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://barbayorgo.com"
+   ]
+  },
+  {
+   "id": "canakkale-anakara-gelibolu-eceabat-ayvacik",
+   "il": "Çanakkale (anakara: Gelibolu/Eceabat/Ayvacık)",
+   "bolge": "Marmara-Ege",
+   "bag_notu": "Gelibolu Yarımadası ve Assos; Kaz Dağları çevresinde Sıdalan.",
+   "uzumler": [
+    {
+     "ad": "Sıdalan",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Canlı, yüksek asitli; hafif-orta gövdeli, narenciye, armut ve tropik meyve notalı, ıslak taş mineralliği ve tuzumsu bitişli beyazlar verir. Köpüklüye de uygundur.",
+     "yerel_ad_notu": "Geçmişte Çanakkale Şarap Fabrikası'nda kanyak için yetiştirilirdi; damıtımevi kapanınca neredeyse yok olmuştu.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/sidalan"
+     ],
+     "uz": "sidalan"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "V'Asbos",
+     "not": "Lisanslı firma: Asbos Tarımsal Üretim Sanayi ve Ticaret A. Ş.; ilçe/yer: Ayvacık (Paşaköy); kayıtlı çeşitler: Cabernet Sauvignon, Cabernet Franc, Merlot, Syrah, Grenache, Malbec",
+     "web": "https://vasbosofficial.com",
+     "firma_sayisi": 1,
+     "sh": "V'Asbos",
+     "sarap": 3
+    },
+    {
+     "ad": "Asmadan",
+     "not": "Lisanslı firma: Asmadan Tarım Ürünleri ve Bağcılık San. ve Tic. A.Ş.; ilçe/yer: Eceabat; kayıtlı çeşitler: Cabernet Sauvignon, Syrah, Cabernet Franc, Petit Verdot, Öküzgözü, Boğazkere",
+     "web": "https://www.asmadan.com",
+     "firma_sayisi": 1,
+     "sh": "Asmadan",
+     "sarap": 7
+    },
+    {
+     "ad": "Château Ergenekon",
+     "not": "Lisanslı firma: Ergenekon Ekolojik Bağcılık Yönetim Danışmanlık Tur. San. ve Tic. Ltd.; ilçe/yer: Eceabat (Bigalı); kayıtlı çeşitler: Cabernet Sauvignon, Cabernet Franc, Merlot, Syrah, Grenache, Sauvignon Blanc",
+     "web": "https://chateauergenekon.com",
+     "firma_sayisi": 1,
+     "sh": "Château Ergenekon",
+     "sarap": 0
+    },
+    {
+     "ad": "Etruscan",
+     "not": "Lisanslı firma: Etruscan Sağlık Bilişim Beslenme Gıda Tur. San. ve Tic. A.Ş.; ilçe/yer: Eceabat; kayıtlı çeşitler: Cabernet Sauvignon, Shiraz, Sauvignon Blanc, Petit Verdot, Cabernet Franc, Sangiovese",
+     "web": "https://www.etruscan.com.tr/vineyard/",
+     "firma_sayisi": 1,
+     "sh": "Etruscan",
+     "sarap": 0
+    },
+    {
+     "ad": "Hazar",
+     "not": "Lisanslı firma: Göklin İçecek Tütün Gıda San. ve Tic. Ltd. Şti.; ilçe/yer: Bayramiç (Çavuşlu)",
+     "web": "https://www.argrup.org/tr/goklin-icecek",
+     "firma_sayisi": 1,
+     "sh": "Hazar",
+     "sarap": 0
+    },
+    {
+     "ad": "Suvla",
+     "not": "Lisanslı firma: SUVLA ŞARAPLARI TARIM SAN. VE TİC.A.Ş.; ilçe/yer: Eceabat; kayıtlı çeşitler: Karasakız, Sauvignon Blanc, Roussanne, Marsanne, Merlot, Cabernet Sauvignon",
+     "web": "https://www.suvla.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Suvla",
+     "sarap": 35
+    },
+    {
+     "ad": "Tutkun (Hektor Şarap Evi)",
+     "not": "Lisanslı firma: Tutkun Şarapçılık İç. Mad. Tar. Tur. Tic. Ltd. Şti.; ilçe/yer: Merkez (Erenköy/İntepe)",
+     "web": "https://www.hektorsarapevi.com",
+     "firma_sayisi": 1,
+     "sh": "Tutkun (Hektor Şarap Evi)",
+     "sarap": 0
+    },
+    {
+     "ad": "Şirince Yedibağlar",
+     "not": "Lisanslı firma: Şirince Yedi Bağlar Şarapçılık Bağ. San. Tic. Ltd. Şti.; ilçe/yer: Bayramiç (Gedik)",
+     "web": "https://www.sirincesarapcilik.com",
+     "firma_sayisi": 1,
+     "sh": "Şirince Yedibağlar",
+     "sarap": 0
+    },
+    {
+     "ad": "Ayşen Sezer Özertürk Pebblera Şarap Üretim İşletmesi",
+     "not": "Lisanslı firma: Ayşen Sezer Özertürk Pebblera Şarap Üretim İşletmesi; ilçe/yer: Bayramiç (Gedik)",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Gali",
+     "not": "Lisanslı firma: Kavur Tarım ve Bağcılık San. Tic. Ltd. Şti.; ilçe/yer: Gelibolu (Evreşe-Kadıköy); kayıtlı çeşitler: Merlot, Cabernet Franc, Cabernet Sauvignon",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Gali",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/sidalan"
+   ]
+  },
+  {
+   "id": "gaziantep",
+   "il": "Gaziantep",
+   "bolge": "Güneydoğu Anadolu",
+   "bag_notu": "Ülke üzüm üretiminde 5. (151.728 t); yaklaşık 162.000 da bağ.",
+   "uzumler": [
+    {
+     "ad": "Dökülgen",
+     "kullanim": [
+      "sarap",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok verimli beyaz bir Güneydoğu çeşidi: yumurta şeklinde orta kalınlıkta kabuklu, çok sulu ve çok tatlı taneli, 1-2 çekirdekli. Kullanımı kuruluk ve şaraplıktır (8 kg/omca civarı verim). Altın sarısı renkli, görece düşük asitli orta kalite sofra şarabı verdiği yazılır.",
+     "yerel_ad_notu": "Gaziantep Aşağı Beylik/Battal Büyük bağlarında tanımlanan çeşit.",
+     "kaynak": [
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+     ]
+    },
+    {
+     "ad": "Horozkarası (Horos Karası, Kilis Karası)",
+     "kullanim": [
+      "sofralik",
+      "sarap",
+      "pekmez/diger",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok iri (100 tane ort. 585 g), üzeri beyaz pus kaplı, koyu mor-siyah, kalın ve sert kabuklu, 2-3 çekirdekli, orta sulu bir çeşit. Sofralık ağırlıklıdır; pekmez, pestil ve şarapta da kullanılır. Tek çeşit şaraplarda orta lal rengi, yüksek asit, hafif tanen, orta alkol, çilek-kırmızı meyve-baharat tarif edilir (örnek: Ni&Ce Cuvée FRDN 2024); Elazığ Ağın'da Hastek Ağın markasıyla şişelenmiştir.",
+     "yerel_ad_notu": "Kilis Karası / Horos Karası; Gaziantep, Kilis, Elazığ-Ağın ve Hatay kayıtlarında geçer.",
+     "kaynak": [
+      "https://evrenkalkan.com.tr/horoz-karasi/",
+      "http://kentgazetesi.biz/kilisin-muhtesem-uzumu-horozkarasi-kilis-karasi/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+     ]
+    },
+    {
+     "ad": "Besni",
+     "kullanim": [
+      "kurutmalik",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "uygun_degil",
+     "aciklama": "Güneydoğu'nun siyah kuru üzüm ve pestil/pekmez çeşidi; Adıyaman ve Gaziantep'te yetişir. Şarap çeşidi olarak kaynaklarda öne çıkmaz.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+     ],
+     "not": "Ampelografik ayrıntı kaynaksız; şarap uygunluğu için ayrı kaynak bulunmadı."
+    },
+    {
+     "ad": "Kabarcık",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Yuvarlak taneli beyaz çeşit; hem şaraplık hem sofralık olarak anılır. Adının köpüklü/fokurdayan şaraplardan geldiği yazılır. Güneydoğu (Gaziantep) üzüm listelerinde de geçer.",
+     "yerel_ad_notu": "Kaynaklarda Tokat ve Gaziantep ile ilişkilendirilir.",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyenin-saraplik-uzum-cesitleri/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+     ],
+     "not": "kaynak doğrulanmadı: asit/şeker/tanen değerleri bulunamadı; tutarsız bölge atfı (Tokat/Gaziantep)."
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.iletisim.gov.tr/turkce/yerel_basin/detay/gaziantep-uzum-uretiminde-5-sirada-mardin",
+    "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+   ]
+  },
+  {
+   "id": "kilis",
+   "il": "Kilis",
+   "bolge": "Güneydoğu Anadolu",
+   "bag_notu": "Evliya Çelebi'ye atfen yöre kırk çeşit üzümle anılır; Horozkarası ve Rumi yöreyle özdeşleşmiştir.",
+   "uzumler": [
+    {
+     "ad": "Horozkarası (Horos Karası, Kilis Karası)",
+     "kullanim": [
+      "sofralik",
+      "sarap",
+      "pekmez/diger",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok iri (100 tane ort. 585 g), üzeri beyaz pus kaplı, koyu mor-siyah, kalın ve sert kabuklu, 2-3 çekirdekli, orta sulu bir çeşit. Sofralık ağırlıklıdır; pekmez, pestil ve şarapta da kullanılır. Tek çeşit şaraplarda orta lal rengi, yüksek asit, hafif tanen, orta alkol, çilek-kırmızı meyve-baharat tarif edilir (örnek: Ni&Ce Cuvée FRDN 2024); Elazığ Ağın'da Hastek Ağın markasıyla şişelenmiştir.",
+     "yerel_ad_notu": "Kilis Karası / Horos Karası; Gaziantep, Kilis, Elazığ-Ağın ve Hatay kayıtlarında geçer.",
+     "kaynak": [
+      "https://evrenkalkan.com.tr/horoz-karasi/",
+      "http://kentgazetesi.biz/kilisin-muhtesem-uzumu-horozkarasi-kilis-karasi/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+     ]
+    },
+    {
+     "ad": "Rumi",
+     "kullanim": [
+      "pekmez/diger",
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Sarı-açık yeşil renkli çeşit; pekmezlik, şirelik ve şaraplık olarak anılır.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://kilis.ktb.gov.tr/TR-61807/bagcilik-ve-uzum-uretimi.html",
+      "http://kentgazetesi.biz/kilisin-muhtesem-uzum-cesitleri/"
+     ],
+     "not": "Teknik veri kaynaksız."
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://kilis.ktb.gov.tr/TR-61807/bagcilik-ve-uzum-uretimi.html"
+   ]
+  },
+  {
+   "id": "diyarbakir",
+   "il": "Diyarbakır",
+   "bolge": "Güneydoğu Anadolu (Dicle havzası)",
+   "bag_notu": "Çakıllı, bazen kalkerli-killi kırmızı topraklar; Dicle-Fırat arası Mezopotamya platosu (Hürriyet).",
+   "uzumler": [
+    {
+     "ad": "Boğazkere",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Geç olgunlaşan, kalın kabuklu, küçük taneli bir üzüm. Yoğun renk, yüksek ve kurutan tanen, sağlam yapı ve orta asit verir; vişne, kiraz ve baharat notaları taşır. Meşe olgunlaştırması tanenini yumuşatır, yıllanma potansiyeli yüksektir.",
+     "yerel_ad_notu": "Adı \"boğazı yakan\" anlamına gelir; ağızda bıraktığı belirgin tanen hissini anlatır. En klasik kupaj eşi Öküzgözü'dür.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/bogazkere",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+     ],
+     "uz": "bogazkere"
+    },
+    {
+     "ad": "Öküzgözü",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar.",
+     "yerel_ad_notu": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+     ],
+     "uz": "okuzgozu"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Ninova",
+     "not": "Lisanslı firma: Ninova Şarapçılık San. Ve Tic. Ltd. Şti; ilçe/yer: Eğil; kayıtlı çeşitler: Boğazkere, Öküzgözü",
+     "web": "http://www.ninovasarap.com",
+     "firma_sayisi": 1,
+     "sh": "Ninova",
+     "sarap": 0
+    },
+    {
+     "ad": "Arhaz Tarım İnşaat Elektrik Nakliyat Petrol Ticaret Limited Şirketi",
+     "not": "Lisanslı firma: Arhaz Tarım İnşaat Elektrik Nakliyat Petrol Ticaret Limited Şirketi; ilçe/yer: Çermik",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Sıdık Güneş - Aşnan Üzüm Ürünleri ve Şarap Üretimi",
+     "not": "Lisanslı firma: Sıdık Güneş - Aşnan Üzüm Ürünleri ve Şarap Üretimi; ilçe/yer: Ergani; kayıtlı çeşitler: Boğazkere",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/bogazkere",
+    "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+   ]
+  },
+  {
+   "id": "mardin",
+   "il": "Mardin",
+   "bolge": "Güneydoğu Anadolu (Midyat/Nusaybin)",
+   "bag_notu": "Süryani şarapçılık geleneği; Nusaybin'de Mazrone, Karfuki, İmsebbek, Hasani, Bilbizeki, Şepirze, Zeyti yöresel çeşitleri; Mazrone ve Kerküş yaygın.",
+   "uzumler": [
+    {
+     "ad": "Mazrona",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "İnce kabuklu, terroire duyarlı, geç (çoğunlukla ekimde) olgunlaşan bir çeşit. Harmanlarda ferah, kuru ve mineral karakterli beyazlara katkı verir.",
+     "yerel_ad_notu": "Tek başına şişelenen örnekleri azdır; Süryani şarapçılık mirasına bağlıdır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/mazrona"
+     ],
+     "uz": "mazrona"
+    },
+    {
+     "ad": "Kerküş",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Beyaz sayılsa da kabukları yoğun pigmentlidir; tek başına yapıldığında amber renkli, bir miktar tanenli, dokulu şaraplar verir. Yüksek şeker içerir.",
+     "yerel_ad_notu": "Bölgenin Süryani şarapçılık geleneğinin parçasıdır; Shiluh tarafından Mazrona ile harmanlanır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/kerkus"
+     ],
+     "uz": "kerkus"
+    },
+    {
+     "ad": "Boğazkere",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Geç olgunlaşan, kalın kabuklu, küçük taneli bir üzüm. Yoğun renk, yüksek ve kurutan tanen, sağlam yapı ve orta asit verir; vişne, kiraz ve baharat notaları taşır. Meşe olgunlaştırması tanenini yumuşatır, yıllanma potansiyeli yüksektir.",
+     "yerel_ad_notu": "Adı \"boğazı yakan\" anlamına gelir; ağızda bıraktığı belirgin tanen hissini anlatır. En klasik kupaj eşi Öküzgözü'dür.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/bogazkere",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
+     ],
+     "uz": "bogazkere"
+    },
+    {
+     "ad": "Öküzgözü",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İri, sulu taneli bir üzümdür; orta tanen, parlak asit ve koyu kırmızı meyve (kiraz, vişne) karakteri verir. Tek başına orta gövdeli ve yumuşak, Boğazkere ile kupajda daha yapılı ve uzun ömürlü şaraplar çıkar.",
+     "yerel_ad_notu": "Adı \"öküz gözü\" demektir ve iri, yuvarlak tanelere gönderme yapar. Anavatanı Elazığ'da bağlar yaklaşık 1.000-1.200 m rakımdadır; kışlar -20°C'nin altına inebilir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/okuzgozu",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
+     ],
+     "uz": "okuzgozu"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Shiluh",
+     "not": "Lisanslı firma: Ninve Gıda Meşr. Tar. Tur. Medikal San. ve Tic. Ltd. Şti.; ilçe/yer: Midyat; kayıtlı çeşitler: Boğazkere, Öküzgözü, Mazrona, Kerküş | Lisanslı firma: Şiluh Gıda Pazarlama Tarım Turizm Sanayi ve Ticaret Limited Şirketi; ilçe/yer: Midyat; kayıtlı çeşitler: Boğazkere, Öküzgözü, Mazrona, Kerküş",
+     "web": "https://www.shiluh.com.tr",
+     "firma_sayisi": 2,
+     "sh": "Shiluh",
+     "sarap": 8
+    }
+   ],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/1846562",
+    "https://www.vitikultur.com/tr/uzumler/kerkus",
+    "https://www.shiluh.com.tr"
+   ]
+  },
+  {
+   "id": "sirnak",
+   "il": "Şırnak",
+   "bolge": "Güneydoğu Anadolu (İdil)",
+   "bag_notu": "Şırnak bağ alanı 25.222 da, 14.653 t; İdil'de 18.398 da, 9.788 t. İdil'de 20 mahalli çeşit tespit edilmiş; kullanımlar sofralık, şaraplık-şıralık, kurutmalık, pekmez, pestil.",
+   "uzumler": [
+    {
+     "ad": "Karkuş / Bılbızeki / Gavdoni / Raşe Gurnık / Kıttıl Nafs",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Midin şarapçılığın yerel çeşitleri olarak listeledikleri adlar (Boğazkere/Öküzgözü/Mazrona ile birlikte).",
+     "yerel_ad_notu": "Karkuş Kerküş ile aynı olabilir.",
+     "kaynak": [
+      "https://www.midinwine.com/saraphane",
+      "https://dergipark.org.tr/tr/pub/bdbad/article/596063"
+     ],
+     "not": "kaynak doğrulanmadı: çeşit özellikleri."
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Midin",
+     "not": "Lisanslı firma: Saliba Dan. Tur. Gıda Tar. İth. İhr. San. ve Tic. Ltd. Şti.; ilçe/yer: İdil; kayıtlı çeşitler: Karkuş, Bılbızeki, Gavdoni, Raşe Gurnık, Kıttıl Nafs, Mazrona",
+     "web": "https://www.midinwine.com",
+     "firma_sayisi": 1,
+     "sh": "Midin",
+     "sarap": 6
+    }
+   ],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/pub/bdbad/article/596063"
+   ]
+  },
+  {
+   "id": "siirt",
+   "il": "Siirt",
+   "bolge": "Güneydoğu Anadolu",
+   "bag_notu": "Viticulture için ekolojik koşullar elverişli (kaynak ifadesi). Merkez-Gökçebağ, Şirvan, Eruh, Pervari, Tillo'da 30+ yerel çeşit tanımlanmış.",
+   "uzumler": [
+    {
+     "ad": "Tayfi",
+     "kullanim": [],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "İnce kabuklu, benekli renkli, sulu; misafire ikramlık sofralık olarak anılır.",
+     "yerel_ad_notu": "Siirt yerel çeşidi",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/286929"
+     ],
+     "not": "Bu çalışmada tanımlama ve kalite incelemesi var; şarap uygunluğu değerlendirilmemiş. kaynak doğrulanmadı."
+    },
+    {
+     "ad": "Sinciri",
+     "kullanim": [],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "",
+     "yerel_ad_notu": "Siirt yerel çeşidi",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/286929"
+     ],
+     "not": "Bu çalışmada tanımlama ve kalite incelemesi var; şarap uygunluğu değerlendirilmemiş. kaynak doğrulanmadı."
+    },
+    {
+     "ad": "Binetati",
+     "kullanim": [],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "",
+     "yerel_ad_notu": "Siirt yerel çeşidi",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/286929"
+     ],
+     "not": "Bu çalışmada tanımlama ve kalite incelemesi var; şarap uygunluğu değerlendirilmemiş. kaynak doğrulanmadı."
+    },
+    {
+     "ad": "Gozane",
+     "kullanim": [],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "",
+     "yerel_ad_notu": "Siirt yerel çeşidi",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/286929"
+     ],
+     "not": "Bu çalışmada tanımlama ve kalite incelemesi var; şarap uygunluğu değerlendirilmemiş. kaynak doğrulanmadı."
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/286929"
+   ]
+  },
+  {
+   "id": "van",
+   "il": "Van",
+   "bolge": "Doğu Anadolu",
+   "bag_notu": "TÜİK 2004: 39 ha üzüm alanı (Elazığ 10.030 ha ile karşılaştırınız). Gevaş'ta Karagöz, Siirt, Yeşil, Artos, Dilber, Ağa, Erek çeşitleri.",
+   "uzumler": [
+    {
+     "ad": "Erciş Karası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Van Erciş yöresine atfedilen kırmızı şaraplık çeşit; Akberg (İzmir) şarap içinde kullanır.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://akberg.wine"
+     ],
+     "not": "kaynak doğrulanmadı: ampelografi."
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/pub/jist/article/104204",
+    "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf"
+   ]
+  },
+  {
+   "id": "bitlis",
+   "il": "Bitlis",
+   "bolge": "Doğu Anadolu",
+   "bag_notu": "TÜİK 2004: 86 ha üzüm alanı. Şaraplık çeşit bilgisi: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf"
+   ]
+  },
+  {
+   "id": "hakkari",
+   "il": "Hakkâri",
+   "bolge": "Doğu Anadolu",
+   "bag_notu": "TÜİK 2004: 27 ha üzüm alanı. Çeşit bilgisi: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://web.firat.edu.tr/harput/dergii/dergi3/3-6.pdf"
+   ]
+  },
+  {
+   "id": "ankara",
+   "il": "Ankara",
+   "bolge": "İç Anadolu (Kalecik, Kızılırmak vadisi)",
+   "bag_notu": "Kalecik Karası'nın anavatanı; Kızılırmak vadisi.",
+   "uzumler": [
+    {
+     "ad": "Kalecik Karası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Düşük-orta tanen, parlak asit ve kiraz-ahududu gibi kırmızı meyve aromalarıyla zarif, orta gövdeli şaraplar verir. Meşede dinlendirilmiş daha gövdeli yorumları ve rozeleri de yaygındır.",
+     "yerel_ad_notu": "Filoksera ve uzun süreli ihmal nedeniyle yok olmanın eşiğine gelmiş; 1970'lerde Ankara Üniversitesi'nden Prof. Dr. Y. Sabit Ağaoğlu'nun klon seleksiyonu çalışmalarıyla yeniden canlandırılmıştır. Sık sık Pinot Noir'a benzetilir ama botanik olarak akraba değildir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/kalecik-karasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1"
+     ],
+     "uz": "kalecik-karasi"
+    },
+    {
+     "ad": "Hasandede",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İnce kabuklu, orta taneli beyaz bir üzüm. Çiçeksi ve narenciye parfümlü, portakal kabuğu, yeşil elma, armut ve şeftali notalı, yumuşak dokulu ve görece dolgun beyazlar verir.",
+     "yerel_ad_notu": "Yapılaşma nedeniyle dikim alanı ciddi biçimde azalmıştır; Vinkara bu üzümü şişeleyen az sayıdaki üreticiden biridir.",
+     "kaynak": [
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://degustasyon.net/vinkara-atelier-hasandede-2023-ankara/"
+     ],
+     "uz": "hasandede"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Kavaklıdere",
+     "not": "Lisanslı firma: Kavaklıdere Şarapları A.Ş.; ilçe/yer: Akyurt; kayıtlı çeşitler: Kalecik Karası, Öküzgözü, Boğazkere, Narince, Emir, Chardonnay",
+     "web": "https://kavaklidere.com",
+     "firma_sayisi": 1,
+     "sh": "Kavaklıdere",
+     "sarap": 67
+    },
+    {
+     "ad": "Vinkara",
+     "not": "Lisanslı firma: B-Bak Gıda Tarım ve Tic. A.Ş.; ilçe/yer: Kalecik; kayıtlı çeşitler: Kalecik Karası, Hasandede, Narince, Öküzgözü, Boğazkere",
+     "web": "https://vinkarawines.com",
+     "firma_sayisi": 1,
+     "sh": "Vinkara",
+     "sarap": 40
+    },
+    {
+     "ad": "Kalvi",
+     "not": "Lisanslı firma: Kalecik Şarap San. ve Tic. A.Ş.; ilçe/yer: Kalecik; kayıtlı çeşitler: Kalecik Karası, Öküzgözü, Boğazkere, Cabernet Sauvignon",
+     "web": "http://kalvisarap.com",
+     "firma_sayisi": 1,
+     "sh": "Kalvi",
+     "sarap": 2
+    },
+    {
+     "ad": "Tafali's",
+     "not": "Lisanslı firma: TAFALİ Gıda İçecek İnşaat Üretim İhracat İthalat Sanayi ve Ticaret Lim; ilçe/yer: Kalecik; kayıtlı çeşitler: Kalecik Karası",
+     "web": "https://www.tafalis.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Tafali's",
+     "sarap": 2
+    },
+    {
+     "ad": "Kalecik Şarapları Üretim Paz. Tic. Ltd. Şti.",
+     "not": "Lisanslı firma: Kalecik Şarapları Üretim Paz. Tic. Ltd. Şti.; ilçe/yer: Kalecik",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Tomurcukbağ",
+     "not": "Lisanslı firma: Tomurcukbağ Bağcılık ve Şarapçılık Ltd. Şti.; ilçe/yer: Kalecik; kayıtlı çeşitler: Kalecik Karası, Sauvignon Blanc",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Tomurcukbağ",
+     "sarap": 4
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/kalecik-karasi",
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ]
+  },
+  {
+   "id": "kirikkale",
+   "il": "Kırıkkale",
+   "bolge": "İç Anadolu",
+   "bag_notu": "Hasandede'nin adını aldığı Hasandede köyü Kırıkkale/Keskin'dedir (repo kaydı, GT kaynaklı).",
+   "uzumler": [
+    {
+     "ad": "Hasandede",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "İnce kabuklu, orta taneli beyaz bir üzüm. Çiçeksi ve narenciye parfümlü, portakal kabuğu, yeşil elma, armut ve şeftali notalı, yumuşak dokulu ve görece dolgun beyazlar verir.",
+     "yerel_ad_notu": "Yapılaşma nedeniyle dikim alanı ciddi biçimde azalmıştır; Vinkara bu üzümü şişeleyen az sayıdaki üreticiden biridir.",
+     "kaynak": [
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties",
+      "https://degustasyon.net/vinkara-atelier-hasandede-2023-ankara/"
+     ],
+     "uz": "hasandede"
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+   ]
+  },
+  {
+   "id": "amasya",
+   "il": "Amasya",
+   "bolge": "Karadeniz iç kesimi (Merzifon-Gümüşhacıköy)",
+   "bag_notu": "Merzifon-Gümüşhacıköy'de tarihî bağcılık; 502 Vineyards 2021'de kuruldu (yıllık ~20.000 L).",
+   "uzumler": [
+    {
+     "ad": "Merzifon Karası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Merzifon/Gümüşhacıköy yöresinin unutulmaya yüz tutmuş yerel siyah çeşidi; 502 Vineyards Sarıköy'deki 20 yıllık asmalardan tek çeşit şarap yapıyor.",
+     "yerel_ad_notu": "Merzifon-Gümüşhacıköy.",
+     "kaynak": [
+      "https://www.502vineyards.com/ourstory",
+      "https://www.wayanatapas.com/en/merzifonkarasi-disi-mercan-ve-merzifonun-kaybolan-bagcilik-mirasi/"
+     ],
+     "not": "kaynak doğrulanmadı: teknik değerler yok."
+    },
+    {
+     "ad": "Dişi Mercan",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Amasya'nın nadir yerel çeşidi; 502 Vineyards'ın paslanmaz çelikte fermente edilip 4 ay sürede (lees) dinlendirdiği, bu çeşitten yapılan ilk şarap olduğu belirtilir.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.502vineyards.com/wines",
+      "https://www.winesofturkiye.com.tr/502-2/"
+     ],
+     "not": "kaynak doğrulanmadı: renk/asit bilgisi yok."
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "502 Vineyards",
+     "not": "Lisanslı firma: SAM Hayvancılık Tarım Gıda ve İnş. San. ve Tic. Ltd. Şti.; ilçe/yer: Gümüşhacıköy; kayıtlı çeşitler: Merzifon Karası, Dişi Mercan, Narince, Kalecik Karası",
+     "web": "https://www.502vineyards.com",
+     "firma_sayisi": 1,
+     "sh": "502 Vineyards",
+     "sarap": 8
+    }
+   ],
+   "kaynak": [
+    "https://www.502vineyards.com/ourstory",
+    "https://www.wayanatapas.com/en/merzifonkarasi-disi-mercan-ve-merzifonun-kaybolan-bagcilik-mirasi/"
+   ]
+  },
+  {
+   "id": "kayseri",
+   "il": "Kayseri",
+   "bolge": "İç Anadolu",
+   "bag_notu": "Nevşehir/Niğde/Ankara/Kırşehir ile birlikte yapılan sörveylerde Kayseri Karası, Buludu, Göğcek, Parmak, Çavuş, Dimrit saptanmış.",
+   "uzumler": [
+    {
+     "ad": "Kayseri Karası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "İri siyah taneli, çekirdekli, konik salkımlı; Ürgüp Ortahisar'da yetişir, Eylül başında olgunlaşır. Yuvarlak, nadir, ince kabuklu, koyu mor büyük taneli ve hem sofralık hem şaraplık olarak anıldığı bir kaynakta yazılıdır.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://dergipark.org.tr/tr/download/article-file/353626",
+      "https://www.muskarahaber.com/nevsehirin-uzumleri"
+     ],
+     "not": "Şarap kalitesi için kaynak bulunamadı."
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Vinolus",
+     "not": "Lisanslı firma: Molu Tarım Hayvancılık Gıda Tic. ve San. A.Ş.; ilçe/yer: Kocasinan; kayıtlı çeşitler: Narince, Emir, Chardonnay, Roussanne, Kalecik Karası, Tempranillo",
+     "web": "https://www.vinolus.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Vinolus",
+     "sarap": 9
+    }
+   ],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/353626",
+    "https://www.vinolus.com.tr"
+   ]
+  },
+  {
+   "id": "nigde",
+   "il": "Niğde",
+   "bolge": "İç Anadolu",
+   "bag_notu": "Bağcılık var (Emir'in yetiştiği Nevşehir-Kırşehir-Kayseri-Niğde alanı); çeşit/ölçü: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/353626"
+   ]
+  },
+  {
+   "id": "kirsehir",
+   "il": "Kırşehir",
+   "bolge": "İç Anadolu",
+   "bag_notu": "Sörvey çalışmalarında anılan il; ayrıntı: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://dergipark.org.tr/tr/download/article-file/353626"
+   ]
+  },
+  {
+   "id": "aksaray",
+   "il": "Aksaray",
+   "bolge": "İç Anadolu (Güzelyurt)",
+   "bag_notu": "Hasandağı eteği; Gelveri markalı lisans kaydı var, çeşit bilgisi yok.",
+   "uzumler": [],
+   "yerel_uretici": [
+    {
+     "ad": "Gelveri",
+     "not": "Lisanslı firma: Gelveri Tur. El Sanatları Gıda Tar. Paz. San. Tic. Ltd. Şti.; ilçe/yer: Güzelyurt",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Gelveri",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://gastereamag.com/kapadokya-teruari-gelveri/"
+   ]
+  },
+  {
+   "id": "konya",
+   "il": "Konya",
+   "bolge": "İç Anadolu (Hüyük, Beyşehir yöresi)",
+   "bag_notu": "Hüyük bağları 1.150-1.600 m, kırmızı killi-tınlı toprak; Hititlerden bağcılık geleneği (üretici ifadesi).",
+   "uzumler": [
+    {
+     "ad": "Aküzüm",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Mistia Wines (Hüyük/Konya, 1150-1600 m, kırmızı killi-tınlı toprak) bu yerel çeşitlerden şarap yaptığını belirtir; çeşit özellikleri sitede verilmemiş.",
+     "yerel_ad_notu": "Konya-Hüyük yerel çeşidi.",
+     "kaynak": [
+      "https://mistiawines.com"
+     ],
+     "not": "kaynak doğrulanmadı: renk/asit/şeker bilgisi yok.",
+     "uz": "akuzum"
+    },
+    {
+     "ad": "Ten Göynek",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Mistia Wines (Hüyük/Konya, 1150-1600 m, kırmızı killi-tınlı toprak) bu yerel çeşitlerden şarap yaptığını belirtir; çeşit özellikleri sitede verilmemiş.",
+     "yerel_ad_notu": "Konya-Hüyük yerel çeşidi.",
+     "kaynak": [
+      "https://mistiawines.com"
+     ],
+     "not": "kaynak doğrulanmadı: renk/asit/şeker bilgisi yok."
+    },
+    {
+     "ad": "Sıkkara",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Mistia Wines (Hüyük/Konya, 1150-1600 m, kırmızı killi-tınlı toprak) bu yerel çeşitlerden şarap yaptığını belirtir; çeşit özellikleri sitede verilmemiş.",
+     "yerel_ad_notu": "Konya-Hüyük yerel çeşidi.",
+     "kaynak": [
+      "https://mistiawines.com"
+     ],
+     "not": "kaynak doğrulanmadı: renk/asit/şeker bilgisi yok."
+    },
+    {
+     "ad": "Kızıl Üzüm",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Mistia Wines (Hüyük/Konya, 1150-1600 m, kırmızı killi-tınlı toprak) bu yerel çeşitlerden şarap yaptığını belirtir; çeşit özellikleri sitede verilmemiş.",
+     "yerel_ad_notu": "Konya-Hüyük yerel çeşidi.",
+     "kaynak": [
+      "https://mistiawines.com"
+     ],
+     "not": "kaynak doğrulanmadı: renk/asit/şeker bilgisi yok."
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Mistia Wines",
+     "not": "Lisanslı firma: Mistia Wines Tarım Hayvancılık Turizm Üretim Pazarlama  Ltd. Şti.; ilçe/yer: Hüyük; kayıtlı çeşitler: Aküzüm, Ten Göynek, Sıkkara, Kızıl Üzüm",
+     "web": "https://mistiawines.com",
+     "firma_sayisi": 1,
+     "sh": "Mistia Wines",
+     "sarap": 2
+    }
+   ],
+   "kaynak": [
+    "https://mistiawines.com"
+   ]
+  },
+  {
+   "id": "karaman",
+   "il": "Karaman",
+   "bolge": "İç Anadolu",
+   "bag_notu": "Konya-Karaman bağcılığı (sofralık/kurutmalık ağırlıklı olduğu söylenir); çeşit/şarap: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.konyadayatirim.gov.tr/assets/upload/dosyalar/uzum-uretici-rehberi-kop.pdf"
+   ]
+  },
+  {
+   "id": "adiyaman",
+   "il": "Adıyaman",
+   "bolge": "Güneydoğu Anadolu",
+   "bag_notu": "Besni ilçesi çevresi; siyah kuru üzüm/pestil ağırlıklı.",
+   "uzumler": [
+    {
+     "ad": "Besni",
+     "kullanim": [
+      "kurutmalik",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "uygun_degil",
+     "aciklama": "Güneydoğu'nun siyah kuru üzüm ve pestil/pekmez çeşidi; Adıyaman ve Gaziantep'te yetişir. Şarap çeşidi olarak kaynaklarda öne çıkmaz.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+     ],
+     "not": "Ampelografik ayrıntı kaynaksız; şarap uygunluğu için ayrı kaynak bulunmadı."
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/"
+   ]
+  },
+  {
+   "id": "sanliurfa",
+   "il": "Şanlıurfa",
+   "bolge": "Güneydoğu Anadolu",
+   "bag_notu": "Besni ve Dökülgen yetiştirilir (arama özeti).",
+   "uzumler": [
+    {
+     "ad": "Besni",
+     "kullanim": [
+      "kurutmalik",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "uygun_degil",
+     "aciklama": "Güneydoğu'nun siyah kuru üzüm ve pestil/pekmez çeşidi; Adıyaman ve Gaziantep'te yetişir. Şarap çeşidi olarak kaynaklarda öne çıkmaz.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html"
+     ],
+     "not": "Ampelografik ayrıntı kaynaksız; şarap uygunluğu için ayrı kaynak bulunmadı."
+    },
+    {
+     "ad": "Dökülgen",
+     "kullanim": [
+      "sarap",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok verimli beyaz bir Güneydoğu çeşidi: yumurta şeklinde orta kalınlıkta kabuklu, çok sulu ve çok tatlı taneli, 1-2 çekirdekli. Kullanımı kuruluk ve şaraplıktır (8 kg/omca civarı verim). Altın sarısı renkli, görece düşük asitli orta kalite sofra şarabı verdiği yazılır.",
+     "yerel_ad_notu": "Gaziantep Aşağı Beylik/Battal Büyük bağlarında tanımlanan çeşit.",
+     "kaynak": [
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+     ]
+    }
+   ],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/"
+   ]
+  },
+  {
+   "id": "hatay",
+   "il": "Hatay",
+   "bolge": "Akdeniz (Antakya)",
+   "bag_notu": "Hatay 49.000 da; Pafı, Horoz Karası, Hatun Parmağı vb. sofralık ağırlıklı.",
+   "uzumler": [
+    {
+     "ad": "Barburi",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Hatay/Antakya'ya özgü kadim kırmızı şaraplık çeşit; Roma döneminden beri yetiştirildiği, Antioche tarafından 2009'da yeniden bağcılığa alınıp 2016'da ilk şarabının yapıldığı belirtilir.",
+     "yerel_ad_notu": "Antakya Barburi.",
+     "kaynak": [
+      "https://tr.wikipedia.org/wiki/Barburi",
+      "https://antakyagazetesi.com/barburi-uzum-sadece-antakyada-yetisiyor/",
+      "https://www.antioche.com.tr"
+     ],
+     "not": "kaynak doğrulanmadı: teknik profil."
+    },
+    {
+     "ad": "Horozkarası (Horos Karası, Kilis Karası)",
+     "kullanim": [
+      "sofralik",
+      "sarap",
+      "pekmez/diger",
+      "kurutmalik"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Çok iri (100 tane ort. 585 g), üzeri beyaz pus kaplı, koyu mor-siyah, kalın ve sert kabuklu, 2-3 çekirdekli, orta sulu bir çeşit. Sofralık ağırlıklıdır; pekmez, pestil ve şarapta da kullanılır. Tek çeşit şaraplarda orta lal rengi, yüksek asit, hafif tanen, orta alkol, çilek-kırmızı meyve-baharat tarif edilir (örnek: Ni&Ce Cuvée FRDN 2024); Elazığ Ağın'da Hastek Ağın markasıyla şişelenmiştir.",
+     "yerel_ad_notu": "Kilis Karası / Horos Karası; Gaziantep, Kilis, Elazığ-Ağın ve Hatay kayıtlarında geçer.",
+     "kaynak": [
+      "https://evrenkalkan.com.tr/horoz-karasi/",
+      "http://kentgazetesi.biz/kilisin-muhtesem-uzumu-horozkarasi-kilis-karasi/",
+      "https://www.bahcebitkileri.org/guneydogu-anadolu-bolgesindeki-uzum-cesitleri.html",
+      "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+     ]
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Antioche Vineyards",
+     "not": "Lisanslı firma: Universal Tekstil A.Ş.; ilçe/yer: Belen; kayıtlı çeşitler: Barburi, Sangiovese, Syrah, Merlot, Cabernet Sauvignon, Sauvignon Blanc",
+     "web": "https://www.antioche.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Antioche Vineyards",
+     "sarap": 6
+    }
+   ],
+   "kaynak": [
+    "https://hatay.tarimorman.gov.tr/Haber/423/Hatayda-Uzum-Hasadi-Basladi",
+    "https://tr.wikipedia.org/wiki/Barburi"
+   ]
+  },
+  {
+   "id": "bursa",
+   "il": "Bursa",
+   "bolge": "Marmara",
+   "bag_notu": "Ana bağcılık illerinden; İznik Müşküle coğrafi işaretli sofralık.",
+   "uzumler": [
+    {
+     "ad": "İznik Müşküle",
+     "kullanim": [
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "uygun_degil",
+     "aciklama": "İznik (Bursa) yöresinde yetişen sarı-yeşil, sulu-sert, çekirdekli sofralık üzüm; kış aylarına kadar saklanabilir; coğrafi işaretlidir.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://www.webagron.com/turkiyede-yetistirilen-uzum-cesitleri/"
+     ]
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Yusta",
+     "not": "Lisanslı firma: USTA ÖZEL SAĞLIK HİZMETLERİ SAN.ve TİC. LTD.ŞTİ; ilçe/yer: Mudanya (Yörükali); kayıtlı çeşitler: Shiraz, Merlot, Cabernet Sauvignon, Sauvignon Blanc, Malbec, Chardonnay",
+     "web": "https://yustabursa.com",
+     "firma_sayisi": 1,
+     "sh": "Yusta",
+     "sarap": 6
+    },
+    {
+     "ad": "BM Agro Organik Tarım Ve Gıda Anonim Şirketi",
+     "not": "Lisanslı firma: BM Agro Organik Tarım Ve Gıda Anonim Şirketi; ilçe/yer: İznik (Yörükler)",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.webagron.com/turkiyede-yetistirilen-uzum-cesitleri/"
+   ]
+  },
+  {
+   "id": "balikesir",
+   "il": "Balıkesir",
+   "bolge": "Marmara (Avşa, Ayvalık-Gömeç)",
+   "bag_notu": "Avşa Adası'nda Adakarası; Gömeç/Madra dağı ve Ayvalık körfezi bağları.",
+   "uzumler": [
+    {
+     "ad": "Adakarası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, mor taneli bir üzümdür. Yaklaşık %12 alkol ve parlak asitle ferah, baharatlı, orta gövdeli kırmızı ve rozeler verir; kırmızı meyve, tatlı baharat ve karabiber belirgindir.",
+     "yerel_ad_notu": "Adı \"adanın karası\" demektir. Vitikultur'a göre 2025'te Avşa Adakarası, coğrafi işaret tescili alan ilk Türk şarabı olmuştur.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/adakarasi"
+     ],
+     "uz": "adakarasi"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Aura Winery (Vin Aura)",
+     "not": "Lisanslı firma: Ali Erhan Seçkin Bağcılık ve Şarapçılık; ilçe/yer: Gömeç (Kuyualan); kayıtlı çeşitler: Shiraz, Cabernet Sauvignon, Cabernet Franc, Grenache, Sauvignon Blanc",
+     "web": "https://aurawinery.com",
+     "firma_sayisi": 1,
+     "sh": "Aura Winery (Vin Aura)",
+     "sarap": 1
+    },
+    {
+     "ad": "Ma'adra Vineyards",
+     "not": "Lisanslı firma: Seki Bağcılık ve Şarapçılık Ltd. Şti.; ilçe/yer: Gömeç (Kubaşlar); kayıtlı çeşitler: Syrah, Cabernet Sauvignon, Merlot, Pinot Noir, Chardonnay",
+     "web": "https://maadra.com",
+     "firma_sayisi": 1,
+     "sh": "Ma'adra Vineyards",
+     "sarap": 7
+    },
+    {
+     "ad": "Şen Vineyards",
+     "not": "Lisanslı firma: Şen Bağcılık, Fidancılık, Tarım, Turizm San. ve Tic. Ltd. Şti.; ilçe/yer: Balya (Ilıca)",
+     "web": "https://www.senvineyards.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Şen Vineyards",
+     "sarap": 0
+    },
+    {
+     "ad": "Büyülübağ",
+     "not": "Lisanslı firma: Büyülübağ Bağcılık Şarapçılık San. ve Tic. Ltd. Şti.; ilçe/yer: Marmara (Avşa Adası); kayıtlı çeşitler: Adakarası, Cabernet Sauvignon, Merlot, Cabernet Franc, Syrah, Chardonnay",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Büyülübağ",
+     "sarap": 17
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/adakarasi"
+   ]
+  },
+  {
+   "id": "kirklareli",
+   "il": "Kırklareli",
+   "bolge": "Trakya",
+   "bag_notu": "Papazkarası Lüleburgaz dolayında; 8 lisanslı firma.",
+   "uzumler": [
+    {
+     "ad": "Papazkarası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+     "yerel_ad_notu": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "papazkarasi"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Arcadia Vineyards",
+     "not": "Lisanslı firma: Arcadia Vineyards Turizm Tarım Ürünleri ve Tic. Ltd. Şti.; ilçe/yer: Lüleburgaz (Hamitabat); kayıtlı çeşitler: Sauvignon Blanc, Sauvignon Gris, Pinot Gris, Narince, Papaskarası, Öküzgözü",
+     "web": "https://arcadiavineyards.com",
+     "firma_sayisi": 1,
+     "sh": "Arcadia Vineyards",
+     "sarap": 18
+    },
+    {
+     "ad": "Chamlija",
+     "not": "Lisanslı firma: İrem Çamlıca Bağcılık Şarapçılık ve Tarımsal Danış. San. Tic. Ltd. Şti; ilçe/yer: Lüleburgaz (Büyükkarıştıran); kayıtlı çeşitler: Papaskarası, Cabernet Franc, Cabernet Sauvignon, Merlot, Pinot Noir, Chardonnay",
+     "web": "https://www.chamlija.com",
+     "firma_sayisi": 1,
+     "sh": "Chamlija",
+     "sarap": 32
+    },
+    {
+     "ad": "Saranta / Chateau Murou",
+     "not": "Lisanslı firma: Saranta Farmhouse Ticaret Limited Şirketi; ilçe/yer: Merkez (Karakoç); kayıtlı çeşitler: Sauvignon Blanc, Cabernet Franc, Merlot, Montepulciano, Kalecik Karası, Papaskarası",
+     "web": "https://saranta.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Saranta / Chateau Murou",
+     "sarap": 14
+    },
+    {
+     "ad": "Brysıs İçecek San. ve Tic. A.Ş.",
+     "not": "Lisanslı firma: Brysıs İçecek San. ve Tic. A.Ş.; ilçe/yer: Merkez (Kırklareli OSB)",
+     "web": "https://www.brysis.com",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Vino Dessera",
+     "not": "Lisanslı firma: Saniye Dönmez Dönmez Çiftliği Bağdan-Bahçeden Yetkin Tarım Uygulamalar; ilçe/yer: Merkez (Ahmetçe); kayıtlı çeşitler: Cabernet Sauvignon, Cabernet Franc, Merlot, Shiraz, Petit Verdot, Sangiovese",
+     "web": "https://desserabagevi.com",
+     "firma_sayisi": 1,
+     "sh": "Vino Dessera",
+     "sarap": 7
+    },
+    {
+     "ad": "Ellez",
+     "not": "Lisanslı firma: Ellez Bağcılık Tarım Ürünleri San.Tic.Ltd.Şti.; ilçe/yer: Lüleburgaz (Çeşmekolu); kayıtlı çeşitler: Papaskarası, Shiraz, Cabernet Sauvignon, Merlot, Cabernet Franc",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Ellez",
+     "sarap": 13
+    },
+    {
+     "ad": "Prius Wines",
+     "not": "Lisanslı firma: Prius Bağcılık ve Şarapçılık Limited Şirketi; ilçe/yer: Lüleburgaz (Ahmetbey); kayıtlı çeşitler: Cabernet Franc, Cabernet Sauvignon, Malbec, Merlot, Sauvignon Blanc, Papaskarası",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Prius Wines",
+     "sarap": 13
+    },
+    {
+     "ad": "KA Winery",
+     "not": "Lisanslı firma: KA Şarapçılık Tic. Ltd. Şti.; ilçe/yer: Lüleburgaz (Büyükkarıştıran); kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Syrah, Cabernet Franc, Sauvignon Blanc, Kalecik Karası",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "KA Winery",
+     "sarap": 6
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/papazkarasi"
+   ]
+  },
+  {
+   "id": "edirne",
+   "il": "Edirne",
+   "bolge": "Trakya",
+   "bag_notu": "Arda, Merkez; Trakya bağcılığı.",
+   "uzumler": [
+    {
+     "ad": "Papazkarası",
+     "kullanim": [
+      "sarap",
+      "sofralik"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, iri taneli kadim bir üzümdür. Orta-düşük tanen, yüksek asit; erik, kiraz ve baharat aromalı, aromatik ve zarif kırmızılar verir.",
+     "yerel_ad_notu": "Hem sofralık hem şaraplık olarak yetiştirilir. Adının bölgedeki Rum köy papazlarının yetiştirdiği üzümlerle ilişkilendirildiği aktarılır.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/papazkarasi",
+      "https://goturkiye.com/vineyards/indigenous-grape-varieties"
+     ],
+     "uz": "papazkarasi"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Arda",
+     "not": "Lisanslı firma: Arda Bağcılık Ltd. Şti.; ilçe/yer: Merkez (Küçükdöllük); kayıtlı çeşitler: Papaskarası, Merlot, Cabernet Sauvignon, Shiraz, Cabernet Franc, Narince",
+     "web": "https://ardabagevi.com",
+     "firma_sayisi": 1,
+     "sh": "Arda",
+     "sarap": 2
+    },
+    {
+     "ad": "Edrine",
+     "not": "Lisanslı firma: Şinasi Öktem - Öktem Bağcılık ve Şarapçılık; ilçe/yer: Havsa; kayıtlı çeşitler: Cabernet Sauvignon, Merlot, Shiraz, Papaskarası, Sauvignon Blanc, Chardonnay",
+     "web": "http://edrine.com",
+     "firma_sayisi": 1,
+     "sh": "Edrine",
+     "sarap": 2
+    },
+    {
+     "ad": "Mercan Bağcılık Şarapçılık ve Gıda Sanayi ve Tic. Ltd. Şti.",
+     "not": "Lisanslı firma: Mercan Bağcılık Şarapçılık ve Gıda Sanayi ve Tic. Ltd. Şti.; ilçe/yer: İpsala",
+     "web": "",
+     "firma_sayisi": 1
+    },
+    {
+     "ad": "Ömer Kaplan - Zerdüşt Gıda",
+     "not": "Lisanslı firma: Ömer Kaplan - Zerdüşt Gıda; ilçe/yer: İpsala",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/papazkarasi"
+   ]
+  },
+  {
+   "id": "aydin",
+   "il": "Aydın",
+   "bolge": "Ege",
+   "bag_notu": "Bağcılıkta anılan Ege ili; yerel çeşit bilgisi: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [
+    {
+     "ad": "Sevilen",
+     "not": "Lisanslı firma: Sevilen Şarap Sanayi A.Ş.; ilçe/yer: Germencik; kayıtlı çeşitler: Sauvignon Blanc, Cabernet Franc, Syrah, Petit Verdot, Kalecik Karası, Öküzgözü",
+     "web": "https://www.sevilen.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Sevilen",
+     "sarap": 22
+    },
+    {
+     "ad": "Antik Bağcılık",
+     "not": "Lisanslı firma: ANTİK Bağcılık San. ve Tic. A.Ş.; ilçe/yer: Germencik; kayıtlı çeşitler: Bornova Misketi, Cabernet Sauvignon, Merlot, Shiraz, Chardonnay, Sauvignon Blanc",
+     "web": "https://www.antikbagcilik.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Antik Bağcılık",
+     "sarap": 0
+    },
+    {
+     "ad": "Prodom",
+     "not": "Lisanslı firma: Gıdatay Gıda ve Tarım San. Tic. A.Ş.; ilçe/yer: Umurlu; kayıtlı çeşitler: Syrah, Petit Verdot, Cabernet Franc, Cabernet Sauvignon, Kalecik Karası, Öküzgözü",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Prodom",
+     "sarap": 10
+    },
+    {
+     "ad": "Mar-Ada",
+     "not": "Lisanslı firma: Mar Ada Zirai Ürünler Seracılık Gıda Turizm San. Tic. A.Ş.; ilçe/yer: Kuşadası",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Mar-Ada",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://www.hanimkoylu.net/turkiyede-uzum-nerede-yetisir-bolge-bolge-detayli-rehber/"
+   ]
+  },
+  {
+   "id": "mugla",
+   "il": "Muğla",
+   "bolge": "Ege-Akdeniz (Datça, Bodrum, Marmaris, Fethiye)",
+   "bag_notu": "Datça yarımadası, Bodrum dağ köyleri (budanmamış yaşlı asmalar), Bozburun.",
+   "uzumler": [
+    {
+     "ad": "Knidos Karası",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Koyu yakut renkli; nar ve orman meyvesi gibi ekşimsi notalar, canlı asit ve yumuşak tanenle orta gövdeli, meyvemsi bir şarap verir.",
+     "yerel_ad_notu": "Datça Yarımadası'nın lokal üzümü olarak Knidos bağevi tarafından şişelenir.",
+     "kaynak": [
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "knidos-karasi"
+    },
+    {
+     "ad": "Kanlıkara / Ak Üzüm / Panık",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "dogrulanmadi",
+     "aciklama": "Neferiye'nin etiketlediği Bodrum yerel çeşitleri.",
+     "yerel_ad_notu": "",
+     "kaynak": [
+      "https://neferiye.com"
+     ],
+     "not": "kaynak doğrulanmadı"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Datça Şarapçılık (Datça Vineyard & Winery)",
+     "not": "Lisanslı firma: Datça Bağcılık ve Şarapçılık Limited.Şirketi.; ilçe/yer: Datça; kayıtlı çeşitler: Öküzgözü, Boğazkere, Merlot, Syrah, Chardonnay, Sauvignon Blanc",
+     "web": "https://datcasarap.com",
+     "firma_sayisi": 1,
+     "sh": "Datça Şarapçılık (Datça Vineyard & Winery)",
+     "sarap": 0
+    },
+    {
+     "ad": "Karnas Vineyards",
+     "not": "Lisanslı firma: Menser Dış Tic. ve Gıda San. Ltd. Şti.; ilçe/yer: Bodrum; kayıtlı çeşitler: Zinfandel, Syrah, Cabernet Franc, Vermentino",
+     "web": "https://karnasvineyards.com",
+     "firma_sayisi": 1,
+     "sh": "Karnas Vineyards",
+     "sarap": 3
+    },
+    {
+     "ad": "Mor Salkım Bağları",
+     "not": "Lisanslı firma: Mor Salkım Bağcılık Tarım Gıda Tur. San. ve Tic. A.Ş.; ilçe/yer: Bodrum",
+     "web": "https://www.morsalkimbagcilik.com.tr",
+     "firma_sayisi": 1,
+     "sh": "Mor Salkım Bağları",
+     "sarap": 0
+    },
+    {
+     "ad": "Neferiye",
+     "not": "Lisanslı firma: Neferiye Bağcılık Şarapçılık Ticaret Limited Şirketi; ilçe/yer: Bodrum; kayıtlı çeşitler: Kanlıkara, Ak Üzüm, Panık",
+     "web": "https://neferiye.com",
+     "firma_sayisi": 1,
+     "sh": "Neferiye",
+     "sarap": 3
+    },
+    {
+     "ad": "Karmylassos",
+     "not": "Lisanslı firma: Serpil Düzyol - Karmylassos Biyodinamik Bağcılık ve Şarapçılık; ilçe/yer: Fethiye",
+     "web": "http://www.karmylassos.com",
+     "firma_sayisi": 1,
+     "sh": "Karmylassos",
+     "sarap": 0
+    },
+    {
+     "ad": "Knidos",
+     "not": "Lisanslı firma: Knidos Şarapçılık Gıda Tur. Tic. Ltd. Şti.; ilçe/yer: Datça; kayıtlı çeşitler: Knidos Karası",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Knidos",
+     "sarap": 1
+    },
+    {
+     "ad": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+     "not": "Lisanslı firma: Orhan Şakir Kayraklı – Kayraklı Bağcılık ve Şarap İşletmeleri; ilçe/yer: Marmaris (Bozburun); kayıtlı çeşitler: Roussanne, Marsanne, Öküzgözü, Boğazkere, Cabernet Sauvignon, Merlot",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Asarcık Vineyards (Kayraklı Şarapçılık)",
+     "sarap": 3
+    },
+    {
+     "ad": "Garova Vineyards",
+     "not": "Lisanslı firma: Mehmet Vuran - Garova Şarapçılık; ilçe/yer: Bodrum",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Garova Vineyards",
+     "sarap": 0
+    },
+    {
+     "ad": "Ege Bodrum Şarapçılık Tarım Turizm A.Ş.",
+     "not": "Lisanslı firma: Ege Bodrum Şarapçılık Tarım Turizm A.Ş.; ilçe/yer: Bodrum",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/",
+    "https://neferiye.com"
+   ]
+  },
+  {
+   "id": "isparta",
+   "il": "Isparta",
+   "bolge": "Akdeniz-Göller",
+   "bag_notu": "Senirkent'te Dimrit.",
+   "uzumler": [
+    {
+     "ad": "Dimrit",
+     "kullanim": [
+      "sarap",
+      "pekmez/diger"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Yüksek şeker içeriğiyle bilinir. Senirkent siyah Dimrit'inin nitelikli kırmızı şarap verebildiği belirtilir; ayrıntılı tanen-asit profili kaynaklarda az belgelenmiştir.",
+     "yerel_ad_notu": "Bulgaristan'ın Dimyat üzümüyle aynı değildir. Sofralık, sirke, şıra ve pekmez için de kullanılır; genetik çalışmalara göre Narince'nin ebeveynlerinden biridir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/dimrit",
+      "https://en.wikipedia.org/wiki/Narince_(grape)"
+     ],
+     "uz": "dimrit"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "İllegüp",
+     "not": "Lisanslı firma: İllegüp Şarapçılık Meyve Suyu Gıda Tarım İth. İhr. San. ve Tic. Ltd.Şt; ilçe/yer: Senirkent; kayıtlı çeşitler: Öküzgözü, Kalecik Karası",
+     "web": "https://www.illegupsarapcilik.com.tr",
+     "firma_sayisi": 1,
+     "sh": "İllegüp",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/dimrit"
+   ]
+  },
+  {
+   "id": "antalya",
+   "il": "Antalya",
+   "bolge": "Akdeniz (Elmalı/Likya)",
+   "bag_notu": "Elmalı'da yüksek rakımlı kalkerli topraklar; Acıkara ve Fersun.",
+   "uzumler": [
+    {
+     "ad": "Acıkara",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "yuksek",
+     "aciklama": "Kalın kabuklu, yüksek tanenli, fenolik açıdan zengin bir çeşit. Yoğun mor-siyah renkte, orta gövdeli şaraplar; karabiber, kara kiraz, erik ve böğürtlen aromaları.",
+     "yerel_ad_notu": "Neredeyse kaybolmuşken Likya Bağları tarafından tek bir yaban asmadan yeniden keşfedilmiştir (2002-2003). Adı \"acı, kara\" anlamına gelir.",
+     "kaynak": [
+      "https://www.vitikultur.com/tr/uzumler/acikara",
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "acikara"
+    },
+    {
+     "ad": "Fersun",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Açık yakut renkli, aroması yoğun; çilek, vişne ve gül notalarıyla orta gövdeli, yumuşak tanenli bir şarap verir.",
+     "yerel_ad_notu": "Likya'nın Arkeo serisi altında şişelenen endemik üzümlerdendir.",
+     "kaynak": [
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "fersun"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Likya Şarapları",
+     "not": "Lisanslı firma: Özkan Petrol Ürünleri Paz. Nak. ve Tic. Ltd. Şti. Kızılbel Bağcılık ve; ilçe/yer: Elmalı; kayıtlı çeşitler: Acıkara, Cabernet Sauvignon, Cabernet Franc, Merlot, Syrah, Pinot Noir",
+     "web": "https://likyasarap.com",
+     "firma_sayisi": 1,
+     "sh": "Likya Şarapları",
+     "sarap": 14
+    },
+    {
+     "ad": "Sagavin",
+     "not": "Lisanslı firma: Sagavin Bağcılık ve Şarapçılık San. Tic. Ltd. Şti.; ilçe/yer: Kepez; kayıtlı çeşitler: Emir, Öküzgözü, Syrah, Boğazkere, Sultaniye, Sauvignon Blanc",
+     "web": "https://sagavin.com",
+     "firma_sayisi": 1,
+     "sh": "Sagavin",
+     "sarap": 3
+    },
+    {
+     "ad": "Yasemin Şarapçılık Sanayi ve Ticaret Ltd.Şti.",
+     "not": "Lisanslı firma: Yasemin Şarapçılık Sanayi ve Ticaret Ltd.Şti.; ilçe/yer: Elmalı",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://www.vitikultur.com/tr/uzumler/acikara",
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ]
+  },
+  {
+   "id": "mersin",
+   "il": "Mersin",
+   "bolge": "Akdeniz (Toros)",
+   "bag_notu": "Silifke/Çömelek, Toros eteği 900-1.400 m.",
+   "uzumler": [
+    {
+     "ad": "Patkara",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Koyu yakut renkli, aromatik bir kırmızı; mürdüm eriği, böğürtlen ve baharat notaları, diri asit ve yumuşak tanenle orta gövdeli şaraplar verir.",
+     "yerel_ad_notu": "Toros Dağları'nın endemik üzümlerinden biri; Tasheli ve Selefkia bağları tarafından şaraba kazandırılmıştır.",
+     "kaynak": [
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "patkara"
+    },
+    {
+     "ad": "Göküzüm",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Kabuk temaslı (turuncu/amber) tarzda yapıldığında olgun kayısı, ıhlamur ve çiçeksi notalar, orta tanen ve orta asitle hafif buruk bir şarap verir.",
+     "yerel_ad_notu": "Tasheli'nin \"Kehribar\" şarabında yaklaşık 15 gün kabuk temasıyla işlenmiştir.",
+     "kaynak": [
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "gokuzum"
+    },
+    {
+     "ad": "Aküzüm",
+     "kullanim": [
+      "sarap"
+     ],
+     "sarap_uygunlugu": "orta",
+     "aciklama": "Açık limon sarısı; otsu, altın elma ve ayva notalı, düşük asitli, hafif-orta gövdeli beyazlar verir.",
+     "yerel_ad_notu": "Toros'ta goble usulü yaşlı bağlarda yetiştirilir.",
+     "kaynak": [
+      "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+     ],
+     "uz": "akuzum"
+    }
+   ],
+   "yerel_uretici": [
+    {
+     "ad": "Tasheli",
+     "not": "Lisanslı firma: 5 D Bağcılık Şarapçılık Gıda Sanayi Ticaret Ltd.Şti.; ilçe/yer: Mut; kayıtlı çeşitler: Patkara, Göküzüm, Aküzüm, Cabernet Sauvignon, Shiraz, Boğazkere",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Tasheli",
+     "sarap": 4
+    },
+    {
+     "ad": "Çerçiler Şarap – Selefkia Wine",
+     "not": "Lisanslı firma: Çerçiler Mimarlık Mühendislik İnşaat ve Tic. Ltd. Şti.; ilçe/yer: Silifke",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Çerçiler Şarap – Selefkia Wine",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
+   ]
+  },
+  {
+   "id": "bilecik",
+   "il": "Bilecik",
+   "bolge": "Marmara/İç Batı",
+   "bag_notu": "Çeşit/üretici bilgisi: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+   ]
+  },
+  {
+   "id": "eskisehir",
+   "il": "Eskişehir",
+   "bolge": "İç Batı Anadolu",
+   "bag_notu": "Eskişehir'de çok bağ olduğu yazılır; ayrıntı: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+   ]
+  },
+  {
+   "id": "usak",
+   "il": "Uşak",
+   "bolge": "Ege iç",
+   "bag_notu": "Lisans kaydı Kavaklıdere ve Murat Bağcılık; yerel çeşit: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [
+    {
+     "ad": "Kavaklıdere",
+     "not": "Lisanslı firma: Kavaklıdere Şarapları A.Ş.; ilçe/yer: Eşme",
+     "web": "https://kavaklidere.com",
+     "firma_sayisi": 1,
+     "sh": "Kavaklıdere",
+     "sarap": 67
+    },
+    {
+     "ad": "Murat Bağcılık Şarapçılık Gıda Tur. İnş. San. ve Tic.Ltd.Şti",
+     "not": "Lisanslı firma: Murat Bağcılık Şarapçılık Gıda Tur. İnş. San. ve Tic.Ltd.Şti; ilçe/yer: Sivaslı",
+     "web": "",
+     "firma_sayisi": 1
+    }
+   ],
+   "kaynak": [
+    "https://kavaklidere.com"
+   ]
+  },
+  {
+   "id": "afyonkarahisar",
+   "il": "Afyonkarahisar",
+   "bolge": "Ege iç",
+   "bag_notu": "Bir arama özetinde 6 yerel çeşit (Kara Dirmit dahil) anıldı; kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [],
+   "kaynak": [
+    "https://www.hurriyet.com.tr/kelebek/iste-turkiyenin-saraplik-uzum-haritasi-38736270"
+   ]
+  },
+  {
+   "id": "artvin",
+   "il": "Artvin",
+   "bolge": "Karadeniz",
+   "bag_notu": "Mesaşuna 20 dönümde doğal üretim; çeşit: kaynak doğrulanmadı.",
+   "uzumler": [],
+   "yerel_uretici": [
+    {
+     "ad": "Mesaşuna",
+     "not": "Lisanslı firma: Yusuf Arifağaoğlu Turizm Ve Seyahat Acentalığı Tic. Ltd. Şti.; ilçe/yer: Borçka",
+     "web": "",
+     "firma_sayisi": 1,
+     "sh": "Mesaşuna",
+     "sarap": 0
+    }
+   ],
+   "kaynak": [
+    "https://gundemartvin.com/20-donumde-dogal-uretimle-dunya-pazarina-acilan-sarap"
+   ]
+  }
+ ],
+ "diger_uzumler": [
+  {
+   "ad": "Razakı",
+   "aciklama": "Marmara, Trakya ve Batı Karadeniz'de yetişen iri (6-7 g) sarı-yeşil, çekirdekli sofralık; şaraplık değil.",
+   "iller": [
+    "Tekirdağ",
+    "Edirne",
+    "Balıkesir"
+   ],
+   "sarap_uygunlugu": "uygun_degil",
+   "kaynak": [
+    "https://www.webagron.com/turkiyede-yetistirilen-uzum-cesitleri/"
+   ]
+  },
+  {
+   "ad": "Hafızali",
+   "aciklama": "Sofralık çeşitler listesinde (Razakı, Müşküle ile) sayılır; Dilli&Kader derlemesi.",
+   "iller": [],
+   "sarap_uygunlugu": "uygun_degil",
+   "kaynak": [
+    "https://arastirma.tarimorman.gov.tr/manisabagcilik/Belgeler/genelbagcilik/UZUM%20CESITLERI%20YILDIZ%20DILLI.pdf"
+   ]
+  },
+  {
+   "ad": "Yapıncak / Kınalı Yapıncak",
+   "aciklama": "Tekirdağ entry'sine bakınız.",
+   "iller": [
+    "Tekirdağ",
+    "İzmir"
+   ],
+   "sarap_uygunlugu": "yuksek",
+   "kaynak": [
+    "https://iyisarap.plus/collections/kinali-yapincak"
+   ]
+  }
+ ],
+ "notlar": {
+  "atlanan_kaynaksiz": [
+   "Rasazı",
+   "Mevlüt",
+   "Tilkikuyruğu",
+   "Zeybek",
+   "Şire",
+   "Gül üzümü",
+   "Kerkük (üzüm olarak)",
+   "Beylerce",
+   "Kara Dirmit (Afyon)"
+  ],
+  "cimin_ozet": "Cimin (Karaerik), Erzincan Üzümlü'nün coğrafi işaretli siyah sofralık üzümüdür; kuru madde %17, mayhoş tat ve 'maya tutmaması' nedeniyle şarap çeşidi değildir (kaynaklar: Erzincan İl Özel İdaresi, yerel basın, akademik makale).",
+  "eskibaglar": "Elazığ Sivrice Kürk Köyü'ndeki Eskibağlar, lisans-sarap.json'da 'Hilal Aral' firma adıyla kayıtlı; bağ+otel kompleksi.",
+  "sinirlar": "Bu çalışmada tek tek çeşit için şeker/asit/tanen laboratuvar verisi çoğunlukla bulunamadı; açıklamalar kaynaklardaki tarifleri aktarır. dergipark/ajanserzincan/fondazioneslowfood sitelerine ortamdan erişilemedi; bu sayfalar arama özeti üzerinden aktarıldı."
+ }
+}

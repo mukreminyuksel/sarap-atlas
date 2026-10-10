@@ -44,6 +44,202 @@
     ]
    ]
   },
+  "7-bilgeler-ait-sauvignon-blanc": {
+   "tl": 3600,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3600
+    ]
+   ]
+  },
+  "7-bilgeler-anaxagoras": {
+   "tl": 1477,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1477
+    ]
+   ]
+  },
+  "7-bilgeler-anaxagoras-chardonnay": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "7-bilgeler-anaxagoras-rezerv": {
+   "tl": 1870,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1870
+    ]
+   ]
+  },
+  "7-bilgeler-hippokrates": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "7-bilgeler-khilon-fume-blanc": {
+   "tl": 1665,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1665
+    ]
+   ]
+  },
+  "7-bilgeler-khilon-sauvignon-blanc": {
+   "tl": 1477,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1477
+    ]
+   ]
+  },
+  "7-bilgeler-lasos-rose-shiraz-karasakiz": {
+   "tl": 1477,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1477
+    ]
+   ]
+  },
+  "7-bilgeler-polemos": {
+   "tl": 4000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4000
+    ]
+   ]
+  },
+  "7-bilgeler-pythagoras": {
+   "tl": 2100,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2100
+    ]
+   ]
+  },
+  "7-bilgeler-vindemia-defne-emir": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "7-bilgeler-vindemia-gunes": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "7-bilgeler-vindemia-guz": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "7-bilgeler-vindemia-ruzgar": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
   "antioche-barburi": {
    "tl": 1200,
    "tarih": "2026-10-05",
@@ -170,6 +366,34 @@
     ]
    ]
   },
+  "arcadia-mono-pinot-gris": {
+   "tl": 963,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     963
+    ]
+   ]
+  },
+  "arcadia-mono-pinot-gris-rose": {
+   "tl": 1012,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1012
+    ]
+   ]
+  },
   "arcadia-odrysia-narince": {
    "tl": 1360,
    "tarih": "2026-10-05",
@@ -198,6 +422,34 @@
     ]
    ]
   },
+  "arcadia-odrysia-red-blend": {
+   "tl": 1520,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1520
+    ]
+   ]
+  },
+  "arcadia-odrysia-sauvignon-blanc": {
+   "tl": 1058,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Aralık 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1058
+    ]
+   ]
+  },
   "arcadia-pet-nat": {
    "tl": 2122,
    "tarih": "2026-10-05",
@@ -209,6 +461,62 @@
     [
      "2026-10-05",
      2122
+    ]
+   ]
+  },
+  "asmadan-bagban-gamay": {
+   "tl": 705,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağustos 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     705
+    ]
+   ]
+  },
+  "asmadan-bagban-semillon": {
+   "tl": 463,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Nisan 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     463
+    ]
+   ]
+  },
+  "asmadan-ikon": {
+   "tl": 2292,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2292
+    ]
+   ]
+  },
+  "asmadan-kor-blend": {
+   "tl": 649,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     649
     ]
    ]
   },
@@ -296,6 +604,20 @@
     ]
    ]
   },
+  "barel-cabernet-sauvignon-merlot": {
+   "tl": 972,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     972
+    ]
+   ]
+  },
   "barel-cabernet-sauvignon-syrah": {
    "tl": 1198,
    "tarih": "2026-10-05",
@@ -307,6 +629,48 @@
     [
      "2026-10-05",
      1198
+    ]
+   ]
+  },
+  "barel-chardonnay": {
+   "tl": 1412,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1412
+    ]
+   ]
+  },
+  "barel-fume-blanc": {
+   "tl": 1835,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1835
+    ]
+   ]
+  },
+  "barel-gunn": {
+   "tl": 1412,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1412
     ]
    ]
   },
@@ -335,6 +699,90 @@
     [
      "2026-10-05",
      1574
+    ]
+   ]
+  },
+  "barel-semillon": {
+   "tl": 1316,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1316
+    ]
+   ]
+  },
+  "barel-vineyards-merlot": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mayıs 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "barel-vineyards-montepulciano-sangiovese": {
+   "tl": 1000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Aralık 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1000
+    ]
+   ]
+  },
+  "barel-vineyards-syrah-reserve": {
+   "tl": 850,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     850
+    ]
+   ]
+  },
+  "buyulubag-ada-karasi": {
+   "tl": 792,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     792
+    ]
+   ]
+  },
+  "buyulubag-ada-karasi-cabernet-sauvignon": {
+   "tl": 907,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     907
     ]
    ]
   },
@@ -380,6 +828,20 @@
     ]
    ]
   },
+  "buyulubag-cabernet-sauvignon-wild-fermented": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haziran 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
+    ]
+   ]
+  },
   "buyulubag-chardonnay": {
    "tl": 1070,
    "tarih": "2026-10-05",
@@ -422,6 +884,34 @@
     ]
    ]
   },
+  "buyulubag-sauvignon-blanc": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mayıs 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "buyulubag-vedat-milor-serisi-adakarasi": {
+   "tl": 758,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     758
+    ]
+   ]
+  },
   "buyulubag-wild-fermented-cabernet": {
    "tl": 1140,
    "tarih": "2026-10-05",
@@ -433,6 +923,34 @@
     [
      "2026-10-05",
      1140
+    ]
+   ]
+  },
+  "cakir-adventum-syrah": {
+   "tl": 1395,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1395
+    ]
+   ]
+  },
+  "cakir-somnium-premium-cabernet-merlot": {
+   "tl": 4340,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4340
     ]
    ]
   },
@@ -464,6 +982,20 @@
     ]
    ]
   },
+  "camlibag-blush": {
+   "tl": 840,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     840
+    ]
+   ]
+  },
   "camlibag-karalahna": {
    "tl": 880,
    "tarih": "2026-10-05",
@@ -475,6 +1007,20 @@
     [
      "2026-10-05",
      880
+    ]
+   ]
+  },
+  "camlibag-merlot-kuntra": {
+   "tl": 920,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     920
     ]
    ]
   },
@@ -492,6 +1038,48 @@
     ]
    ]
   },
+  "chamlija-albarino": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eylül 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
+  "chamlija-albarino-narince": {
+   "tl": 1356,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1356
+    ]
+   ]
+  },
+  "chamlija-assyrtiko": {
+   "tl": 1650,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mayıs 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1650
+    ]
+   ]
+  },
   "chamlija-asticus-mons-cabernet-franc": {
    "tl": 3300,
    "tarih": "2026-10-05",
@@ -503,6 +1091,104 @@
     [
      "2026-10-05",
      3300
+    ]
+   ]
+  },
+  "chamlija-asticus-mons-cabernet-sauvignon": {
+   "tl": 4312,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4312
+    ]
+   ]
+  },
+  "chamlija-asticus-mons-merlot": {
+   "tl": 2735,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2735
+    ]
+   ]
+  },
+  "chamlija-asticus-mons-pinot-noir": {
+   "tl": 3472,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3472
+    ]
+   ]
+  },
+  "chamlija-blanc-de-noirs-papaskarasi": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şubat 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
+    ]
+   ]
+  },
+  "chamlija-cabernet-franc": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Aralık 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "chamlija-cabernet-sauvignon": {
+   "tl": 1628,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1628
+    ]
+   ]
+  },
+  "chamlija-cuvee-marcel-biron": {
+   "tl": 2300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2300
     ]
    ]
   },
@@ -531,6 +1217,20 @@
     [
      "2026-10-05",
      1795
+    ]
+   ]
+  },
+  "chamlija-felix-culpa-kirmizi": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kasım 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
     ]
    ]
   },
@@ -576,6 +1276,90 @@
     ]
    ]
   },
+  "chamlija-mavrud": {
+   "tl": 1605,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1605
+    ]
+   ]
+  },
+  "chamlija-merlot": {
+   "tl": 1628,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1628
+    ]
+   ]
+  },
+  "chamlija-nevi-sahsina-munhasir": {
+   "tl": 2495,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2495
+    ]
+   ]
+  },
+  "chamlija-pa-pi-ka": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "chamlija-pinot-noir": {
+   "tl": 1450,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eylül 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1450
+    ]
+   ]
+  },
+  "chamlija-quartz-fume-sauvignon-blanc": {
+   "tl": 1900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Aralık 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1900
+    ]
+   ]
+  },
   "chamlija-riesling": {
    "tl": 2150,
    "tarih": "2026-10-05",
@@ -590,6 +1374,34 @@
     ]
    ]
   },
+  "chamlija-rose-de-strandja": {
+   "tl": 1500,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mayıs 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1500
+    ]
+   ]
+  },
+  "chamlija-sauvignon-blanc": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Temmuz 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
   "chamlija-thracian-beyaz": {
    "tl": 2110,
    "tarih": "2026-10-05",
@@ -601,6 +1413,34 @@
     [
      "2026-10-05",
      2110
+    ]
+   ]
+  },
+  "chamlija-turandot": {
+   "tl": 7728,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     7728
+    ]
+   ]
+  },
+  "chamlija-xinomavro": {
+   "tl": 762,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     762
     ]
    ]
   },
@@ -646,12 +1486,180 @@
     ]
    ]
   },
+  "chateau-murou-blush": {
+   "tl": 1189,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1189
+    ]
+   ]
+  },
+  "chateau-murou-cabernet-franc": {
+   "tl": 1256,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1256
+    ]
+   ]
+  },
+  "chateau-murou-cabernet-sauvignon": {
+   "tl": 1256,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1256
+    ]
+   ]
+  },
+  "chateau-murou-chardonnay": {
+   "tl": 1310,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1310
+    ]
+   ]
+  },
+  "chateau-murou-fume-blanc": {
+   "tl": 1310,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1310
+    ]
+   ]
+  },
+  "chateau-murou-merlot-cabernet-sauvignon": {
+   "tl": 1076,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1076
+    ]
+   ]
+  },
+  "chateau-murou-rezerv-kalecik-karasi": {
+   "tl": 1256,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1256
+    ]
+   ]
+  },
+  "chateau-murou-rezerv-okuzgozu": {
+   "tl": 1076,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1076
+    ]
+   ]
+  },
+  "chateau-murou-rezerv-syrah": {
+   "tl": 1256,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1256
+    ]
+   ]
+  },
+  "chateau-murou-rose": {
+   "tl": 1310,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1310
+    ]
+   ]
+  },
+  "chateau-murou-semillon": {
+   "tl": 1310,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1310
+    ]
+   ]
+  },
   "chateau-nuzun-cabernet-sauvignon": {
    "tl": 900,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "degustasyon.net, Aralık 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
+  "chateau-nuzun-merlot": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2026",
    "not": "Ekim 2026 Türkiye perakende, 75 cl",
    "gecmis": [
     [
@@ -758,6 +1766,48 @@
     ]
    ]
   },
+  "diren-collection-cabernet-sauvignon": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-chardonnay": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-kalecik-karasi": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
   "diren-collection-karaoglan-2022": {
    "tl": 636,
    "tarih": "2026-10-05",
@@ -773,6 +1823,20 @@
    ]
   },
   "diren-collection-kosetevek-2024": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-merlot": {
    "tl": 636,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
@@ -811,6 +1875,76 @@
     [
      "2026-10-05",
      636
+    ]
+   ]
+  },
+  "diren-collection-okuzgozu-bogazkere": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-sauvignon-blanc": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-sungurlu-beyazi": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-collection-syrah": {
+   "tl": 636,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     636
+    ]
+   ]
+  },
+  "diren-karmen-selection-beyaz": {
+   "tl": 359,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     359
     ]
    ]
   },
@@ -954,6 +2088,20 @@
     ]
    ]
   },
+  "diren-yari-tatli-blush": {
+   "tl": 416,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     416
+    ]
+   ]
+  },
   "doluca-alcitepe-cabernet-shiraz": {
    "tl": 2145,
    "tarih": "2026-10-05",
@@ -1024,6 +2172,118 @@
     ]
    ]
   },
+  "doluca-signium-rose": {
+   "tl": 1815,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1815
+    ]
+   ]
+  },
+  "edrine-odris": {
+   "tl": 444,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     444
+    ]
+   ]
+  },
+  "edrine-single-papaskarasi": {
+   "tl": 396,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     396
+    ]
+   ]
+  },
+  "ellez-cabernet-sauvignon": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "ellez-cabernet-sauvignon-merlot": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "ellez-cabernet-sauvignon-shiraz": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "ellez-merlot": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "ellez-papaskarasi": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
   "ellez-papaskarasi-blanc-de-noir": {
    "tl": 930,
    "tarih": "2026-10-05",
@@ -1052,6 +2312,90 @@
     ]
    ]
   },
+  "ellez-reserve-cabernet-sauvignon": {
+   "tl": 1300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1300
+    ]
+   ]
+  },
+  "ellez-reserve-cabernet-sauvignon-merlot": {
+   "tl": 1300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1300
+    ]
+   ]
+  },
+  "ellez-reserve-merlot": {
+   "tl": 1300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1300
+    ]
+   ]
+  },
+  "ellez-reserve-papaskarasi": {
+   "tl": 1300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1300
+    ]
+   ]
+  },
+  "ellez-shiraz": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "ellez-shiraz-rose": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
   "gulor-xxx": {
    "tl": 3000,
    "tarih": "2026-10-05",
@@ -1077,6 +2421,20 @@
     [
      "2026-10-05",
      1822
+    ]
+   ]
+  },
+  "gurbuz-chardonnay": {
+   "tl": 616,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     616
     ]
    ]
   },
@@ -1136,6 +2494,188 @@
     ]
    ]
   },
+  "gurbuz-winemakers-selection-merlot": {
+   "tl": 1822,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1822
+    ]
+   ]
+  },
+  "heraki-akuarela-cal-karasi": {
+   "tl": 1565,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1565
+    ]
+   ]
+  },
+  "heraki-akuarela-sultaniye": {
+   "tl": 855,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     855
+    ]
+   ]
+  },
+  "heraki-delta-v-sultaniye": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
+  "heraki-novakula-bogazkere": {
+   "tl": 2530,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2530
+    ]
+   ]
+  },
+  "hus-an-roze": {
+   "tl": 1316,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1316
+    ]
+   ]
+  },
+  "hus-bogazkere": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "hus-bornova-misketi": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "hus-carinena-pie-franco": {
+   "tl": 2500,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2500
+    ]
+   ]
+  },
+  "hus-emir": {
+   "tl": 1150,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1150
+    ]
+   ]
+  },
+  "hus-juan-carinena": {
+   "tl": 1390,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1390
+    ]
+   ]
+  },
+  "hus-kara-sulu": {
+   "tl": 1680,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1680
+    ]
+   ]
+  },
+  "hus-la-zona": {
+   "tl": 1344,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1344
+    ]
+   ]
+  },
   "ka-winery-blend-211": {
    "tl": 1140,
    "tarih": "2026-10-05",
@@ -1147,6 +2687,20 @@
     [
      "2026-10-05",
      1140
+    ]
+   ]
+  },
+  "ka-winery-cabernet-franc": {
+   "tl": 1088,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1088
     ]
    ]
   },
@@ -1164,6 +2718,34 @@
     ]
    ]
   },
+  "ka-winery-cabernet-sauvignon-merlot-kopya": {
+   "tl": 655,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     655
+    ]
+   ]
+  },
+  "ka-winery-sauvignon-blanc": {
+   "tl": 828,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     828
+    ]
+   ]
+  },
   "ka-winery-syrah": {
    "tl": 1140,
    "tarih": "2026-10-05",
@@ -1175,6 +2757,90 @@
     [
      "2026-10-05",
      1140
+    ]
+   ]
+  },
+  "kastro-tireli-kalecik-vahsi-maya": {
+   "tl": 2450,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2450
+    ]
+   ]
+  },
+  "kastro-tireli-narince-reserve": {
+   "tl": 2170,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2170
+    ]
+   ]
+  },
+  "kastro-tireli-peri-roze": {
+   "tl": 816,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     816
+    ]
+   ]
+  },
+  "kastro-tireli-reserve-syrah": {
+   "tl": 4410,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4410
+    ]
+   ]
+  },
+  "kastro-tireli-syrah-mourvedre": {
+   "tl": 1995,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1995
+    ]
+   ]
+  },
+  "kastro-tireli-viognier-reserve": {
+   "tl": 2312,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2312
     ]
    ]
   },
@@ -1626,6 +3292,20 @@
     ]
    ]
   },
+  "kavaklidere-egeo-sauvignon-blanc": {
+   "tl": 1325,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1325
+    ]
+   ]
+  },
   "kavaklidere-egeo-sauvignon-blanc-2024": {
    "tl": 1490,
    "tarih": "2026-10-05",
@@ -1721,6 +3401,20 @@
     [
      "2026-10-05",
      3090
+    ]
+   ]
+  },
+  "kavaklidere-pendore-harmonie": {
+   "tl": 3005,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3005
     ]
    ]
   },
@@ -2018,6 +3712,48 @@
     ]
    ]
   },
+  "kup-epic-cabernet-merlot-shiraz": {
+   "tl": 1183,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1183
+    ]
+   ]
+  },
+  "kup-epic-merlot": {
+   "tl": 1302,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1302
+    ]
+   ]
+  },
+  "kup-visne-likor-sarabi": {
+   "tl": 1659,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1659
+    ]
+   ]
+  },
   "kuzeybag-kosetevek-2022": {
    "tl": 966,
    "tarih": "2026-10-05",
@@ -2057,6 +3793,132 @@
     [
      "2026-10-05",
      966
+    ]
+   ]
+  },
+  "kuzubag-cal-karasi-kalecik-roze": {
+   "tl": 1259,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1259
+    ]
+   ]
+  },
+  "kuzubag-chardonnay": {
+   "tl": 1215,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1215
+    ]
+   ]
+  },
+  "kuzubag-haziran": {
+   "tl": 1125,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1125
+    ]
+   ]
+  },
+  "kuzubag-hur-cal-karasi-tatli": {
+   "tl": 1320,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1320
+    ]
+   ]
+  },
+  "kuzubag-kalecik-karasi": {
+   "tl": 1374,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1374
+    ]
+   ]
+  },
+  "kuzubag-merlot": {
+   "tl": 1270,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1270
+    ]
+   ]
+  },
+  "kuzubag-okuzgozu-shiraz": {
+   "tl": 1529,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1529
+    ]
+   ]
+  },
+  "kuzubag-sauvignon-blanc": {
+   "tl": 1515,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1515
+    ]
+   ]
+  },
+  "kuzubag-sultaniye-yasli-asmalar": {
+   "tl": 925,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     925
     ]
    ]
   },
@@ -2116,6 +3978,132 @@
     ]
    ]
   },
+  "la-mon-reve-montepulciano": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
+    ]
+   ]
+  },
+  "la-mon-reve-sauvignon-blanc-pinot-grigio": {
+   "tl": 1230,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1230
+    ]
+   ]
+  },
+  "la-passito": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
+  "lermonos-cabernet-sauvignon": {
+   "tl": 1440,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1440
+    ]
+   ]
+  },
+  "lermonos-merlot": {
+   "tl": 1958,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1958
+    ]
+   ]
+  },
+  "likya-patara-beyaz": {
+   "tl": 693,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     693
+    ]
+   ]
+  },
+  "likya-patara-kirmizi": {
+   "tl": 693,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     693
+    ]
+   ]
+  },
+  "likya-patara-rose": {
+   "tl": 693,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     693
+    ]
+   ]
+  },
+  "lucien-arkas-baglari-idol-kirmizi": {
+   "tl": 599,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     599
+    ]
+   ]
+  },
   "lucien-arkas-meandros": {
    "tl": 2325,
    "tarih": "2026-10-05",
@@ -2158,6 +4146,20 @@
     ]
    ]
   },
+  "maadra-syrah": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şubat 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
   "maadra-syrah-reserve": {
    "tl": 1500,
    "tarih": "2026-10-05",
@@ -2169,6 +4171,118 @@
     [
      "2026-10-05",
      1500
+    ]
+   ]
+  },
+  "mahrem-ekigaina": {
+   "tl": 1385,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1385
+    ]
+   ]
+  },
+  "mahrem-petit-verdot-rebo": {
+   "tl": 1485,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1485
+    ]
+   ]
+  },
+  "mahrem-syrah": {
+   "tl": 1210,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1210
+    ]
+   ]
+  },
+  "mistia-puduhepa-ak-uzum": {
+   "tl": 1123,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1123
+    ]
+   ]
+  },
+  "nif-bornova-misketi": {
+   "tl": 1988,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1988
+    ]
+   ]
+  },
+  "nif-reserve-montepulciano": {
+   "tl": 4800,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4800
+    ]
+   ]
+  },
+  "nif-reserve-viognier": {
+   "tl": 3358,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3358
+    ]
+   ]
+  },
+  "nif-solaris": {
+   "tl": 1476,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1476
     ]
    ]
   },
@@ -2186,6 +4300,356 @@
     ]
    ]
   },
+  "pamukkale-anfora-cabernet-sauvignon": {
+   "tl": 575,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     575
+    ]
+   ]
+  },
+  "pamukkale-anfora-grand-reserve-bogazkere": {
+   "tl": 2880,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2880
+    ]
+   ]
+  },
+  "pamukkale-anfora-grand-reserve-shiraz": {
+   "tl": 2880,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2880
+    ]
+   ]
+  },
+  "pamukkale-anfora-narince": {
+   "tl": 575,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     575
+    ]
+   ]
+  },
+  "pamukkale-anfora-trio-beyaz": {
+   "tl": 475,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     475
+    ]
+   ]
+  },
+  "pamukkale-anfora-trio-kirmizi": {
+   "tl": 475,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     475
+    ]
+   ]
+  },
+  "pamukkale-anfora-trio-roze": {
+   "tl": 475,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     475
+    ]
+   ]
+  },
+  "pamukkale-arti-c-sauvignon-merlot": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "pamukkale-arti-cabernet-franc": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "pamukkale-arti-cabernet-sauvignon-roze": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "pamukkale-arti-chardonnay-narince": {
+   "tl": 950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     950
+    ]
+   ]
+  },
+  "pamukkale-arti-kalecik-shiraz": {
+   "tl": 1276,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1276
+    ]
+   ]
+  },
+  "pamukkale-grand-reserve-shiraz": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2020)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
+  "pamukkale-kizil-alan-okuzgozu": {
+   "tl": 1210,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1210
+    ]
+   ]
+  },
+  "pamukkale-mulier-misket": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
+  "pamukkale-nodus-cabernet-franc-merlot": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2021)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "pamukkale-nodus-cabernet-sauvignon": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2021)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "pamukkale-nodus-fume-blanc": {
+   "tl": 1645,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1645
+    ]
+   ]
+  },
+  "pamukkale-nodus-narince": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "pamukkale-nodus-shiraz": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2021)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "pasa-dedem-blush": {
+   "tl": 1114,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1114
+    ]
+   ]
+  },
+  "pasa-dedem-cabernet-sauvignon": {
+   "tl": 1114,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1114
+    ]
+   ]
+  },
+  "pasa-dedem-sauvignon-blanc": {
+   "tl": 1114,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1114
+    ]
+   ]
+  },
+  "pasaeli-k2": {
+   "tl": 1498,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1498
+    ]
+   ]
+  },
+  "pasaeli-sidalan": {
+   "tl": 800,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     800
+    ]
+   ]
+  },
   "porta-caeli": {
    "tl": 6655,
    "tarih": "2026-10-05",
@@ -2200,6 +4664,34 @@
     ]
    ]
   },
+  "porta-caeli-ament-cabernet-franc": {
+   "tl": 3296,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3296
+    ]
+   ]
+  },
+  "porta-caeli-ament-cabernet-sauvignon": {
+   "tl": 2658,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2658
+    ]
+   ]
+  },
   "porta-caeli-ament-merlot": {
    "tl": 2916,
    "tarih": "2026-10-05",
@@ -2211,6 +4703,34 @@
     [
      "2026-10-05",
      2916
+    ]
+   ]
+  },
+  "porta-caeli-felici": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Nisan 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
+  "porta-caeli-felici-barrel-aged-rose": {
+   "tl": 2718,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2718
     ]
    ]
   },
@@ -2256,6 +4776,20 @@
     ]
    ]
   },
+  "porta-diverti-beyaz": {
+   "tl": 972,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     972
+    ]
+   ]
+  },
   "porta-diverti-kirmizi": {
    "tl": 1142,
    "tarih": "2026-10-05",
@@ -2267,6 +4801,76 @@
     [
      "2026-10-05",
      1142
+    ]
+   ]
+  },
+  "porta-diverti-pembe": {
+   "tl": 935,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     935
+    ]
+   ]
+  },
+  "porta-diverti-sauvignon-blanc": {
+   "tl": 1189,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1189
+    ]
+   ]
+  },
+  "prius-ahmet-bey-merlot-cabernet-sauvignon": {
+   "tl": 1080,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1080
+    ]
+   ]
+  },
+  "prius-ahmetbey-beyaz": {
+   "tl": 990,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Temmuz 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     990
+    ]
+   ]
+  },
+  "prius-ahmetbey-merlot-cabernet-sauvignon": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mart 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
     ]
    ]
   },
@@ -2298,6 +4902,62 @@
     ]
    ]
   },
+  "prius-distinction-sauvignon-blanc": {
+   "tl": 1320,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eylül 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1320
+    ]
+   ]
+  },
+  "prius-martenicka": {
+   "tl": 720,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     720
+    ]
+   ]
+  },
+  "prius-martenicka-martenitsa": {
+   "tl": 600,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mart 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     600
+    ]
+   ]
+  },
+  "prius-martenicka-rose": {
+   "tl": 840,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağustos 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     840
+    ]
+   ]
+  },
   "prius-papas-noir": {
    "tl": 1224,
    "tarih": "2026-10-05",
@@ -2312,6 +4972,20 @@
     ]
    ]
   },
+  "prius-papaskarasi-kalecik-karasi": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mart 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
   "prius-vino-sapiens": {
    "tl": 1380,
    "tarih": "2026-10-05",
@@ -2323,6 +4997,76 @@
     [
      "2026-10-05",
      1380
+    ]
+   ]
+  },
+  "prodom-blend": {
+   "tl": 655,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     655
+    ]
+   ]
+  },
+  "prodom-fume-blanc": {
+   "tl": 651,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     651
+    ]
+   ]
+  },
+  "prodom-petit-verdot": {
+   "tl": 906,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     906
+    ]
+   ]
+  },
+  "prodom-syrah-kalecik": {
+   "tl": 684,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     684
+    ]
+   ]
+  },
+  "sarafin-rose": {
+   "tl": 1998,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1998
     ]
    ]
   },
@@ -2365,6 +5109,398 @@
     [
      "2026-10-05",
      1256
+    ]
+   ]
+  },
+  "selendi-akhisar-blend": {
+   "tl": 1755,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1755
+    ]
+   ]
+  },
+  "selendi-gulpembe": {
+   "tl": 1620,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1620
+    ]
+   ]
+  },
+  "selendi-morali-chardonnay": {
+   "tl": 1620,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1620
+    ]
+   ]
+  },
+  "selendi-morali-sauvignon-blanc": {
+   "tl": 1620,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1620
+    ]
+   ]
+  },
+  "selendi-sarnic-beyaz": {
+   "tl": 1316,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1316
+    ]
+   ]
+  },
+  "selendi-sarnic-cabernet-franc": {
+   "tl": 3000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3000
+    ]
+   ]
+  },
+  "selendi-sarnic-merlot": {
+   "tl": 3000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3000
+    ]
+   ]
+  },
+  "selendi-sarnic-shiraz": {
+   "tl": 3000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3000
+    ]
+   ]
+  },
+  "sevilen-900-cabernet-sauvignon": {
+   "tl": 1050,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1050
+    ]
+   ]
+  },
+  "sevilen-900-fume-blanc": {
+   "tl": 1227,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1227
+    ]
+   ]
+  },
+  "sevilen-900-petit-verdot": {
+   "tl": 2300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2021)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2300
+    ]
+   ]
+  },
+  "sevilen-centum-syrah": {
+   "tl": 1023,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1023
+    ]
+   ]
+  },
+  "sevilen-franc-de-pied-sauvignon-blanc": {
+   "tl": 4350,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4350
+    ]
+   ]
+  },
+  "sevilen-isabey-bornova-misket": {
+   "tl": 765,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     765
+    ]
+   ]
+  },
+  "sevilen-isabey-cabernet-merlot": {
+   "tl": 573,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     573
+    ]
+   ]
+  },
+  "sevilen-isabey-r-kirmizi": {
+   "tl": 450,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     450
+    ]
+   ]
+  },
+  "sevilen-isabey-sauvignon-blanc": {
+   "tl": 1030,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1030
+    ]
+   ]
+  },
+  "sevilen-ix-parsel-cabernet": {
+   "tl": 572,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     572
+    ]
+   ]
+  },
+  "sevilen-majestik-kirmizi": {
+   "tl": 470,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     470
+    ]
+   ]
+  },
+  "sevilen-nativus-okuzgozu-bogazkere": {
+   "tl": 369,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     369
+    ]
+   ]
+  },
+  "sevilen-plato-emir": {
+   "tl": 580,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     580
+    ]
+   ]
+  },
+  "sevilen-plato-kalecik-karasi": {
+   "tl": 748,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     748
+    ]
+   ]
+  },
+  "sevilen-plato-narince": {
+   "tl": 1023,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1023
+    ]
+   ]
+  },
+  "sevilen-plato-okuzgozu": {
+   "tl": 930,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     930
+    ]
+   ]
+  },
+  "sevilen-tasev-blanc-de-noir-kalecik-karasi": {
+   "tl": 1446,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1446
+    ]
+   ]
+  },
+  "sevilen-tasev-grenache": {
+   "tl": 1656,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1656
+    ]
+   ]
+  },
+  "sevilen-tasev-sauvignon-blanc": {
+   "tl": 1863,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1863
+    ]
+   ]
+  },
+  "sevilen-tasev-viognier": {
+   "tl": 1794,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1794
     ]
    ]
   },
@@ -2494,6 +5630,34 @@
     ]
    ]
   },
+  "suvla-agiorgitiko": {
+   "tl": 743,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     743
+    ]
+   ]
+  },
+  "suvla-bogazkere-okuzgozu": {
+   "tl": 475,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     475
+    ]
+   ]
+  },
   "suvla-bozokbag-chardonnay": {
    "tl": 980,
    "tarih": "2026-10-05",
@@ -2505,6 +5669,62 @@
     [
      "2026-10-05",
      980
+    ]
+   ]
+  },
+  "suvla-cabernet-sauvignon-merlot": {
+   "tl": 523,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     523
+    ]
+   ]
+  },
+  "suvla-chardonnay": {
+   "tl": 719,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     719
+    ]
+   ]
+  },
+  "suvla-chardonnay-tek-bag": {
+   "tl": 1102,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1102
+    ]
+   ]
+  },
+  "suvla-clairet": {
+   "tl": 593,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     593
     ]
    ]
   },
@@ -2536,6 +5756,118 @@
     ]
    ]
   },
+  "suvla-iyi-ki-karasakiz-brut": {
+   "tl": 2166,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2166
+    ]
+   ]
+  },
+  "suvla-kirte": {
+   "tl": 1069,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1069
+    ]
+   ]
+  },
+  "suvla-merlot": {
+   "tl": 737,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     737
+    ]
+   ]
+  },
+  "suvla-misket-narince": {
+   "tl": 497,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     497
+    ]
+   ]
+  },
+  "suvla-papaskarasi": {
+   "tl": 442,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     442
+    ]
+   ]
+  },
+  "suvla-reserve-karasakiz": {
+   "tl": 1272,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1272
+    ]
+   ]
+  },
+  "suvla-reserve-petit-verdot-karasakiz": {
+   "tl": 1392,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1392
+    ]
+   ]
+  },
+  "suvla-reserve-roussanne-marsanne": {
+   "tl": 1950,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mayıs 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1950
+    ]
+   ]
+  },
   "suvla-reserve-semillon": {
    "tl": 2250,
    "tarih": "2026-10-05",
@@ -2547,6 +5879,104 @@
     [
      "2026-10-05",
      2250
+    ]
+   ]
+  },
+  "suvla-rose-cabernet-franc-merlot": {
+   "tl": 715,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     715
+    ]
+   ]
+  },
+  "suvla-rose-cabernet-sauvignon-karasakiz": {
+   "tl": 495,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     495
+    ]
+   ]
+  },
+  "suvla-sauvignon-blanc": {
+   "tl": 721,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     721
+    ]
+   ]
+  },
+  "suvla-sauvignon-blanc-tek-bag": {
+   "tl": 992,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     992
+    ]
+   ]
+  },
+  "suvla-syrah": {
+   "tl": 638,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     638
+    ]
+   ]
+  },
+  "suvla-viognier": {
+   "tl": 710,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     710
+    ]
+   ]
+  },
+  "turasan-blush-kalecik-karasi": {
+   "tl": 768,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     768
     ]
    ]
   },
@@ -2718,6 +6148,20 @@
     ]
    ]
   },
+  "turasan-riesling-2024": {
+   "tl": 1632,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1632
+    ]
+   ]
+  },
   "turasan-rose-kalecik-karasi-2025": {
    "tl": 625,
    "tarih": "2026-10-05",
@@ -2858,6 +6302,34 @@
     ]
    ]
   },
+  "umurbey-blend": {
+   "tl": 769,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     769
+    ]
+   ]
+  },
+  "umurbey-blush": {
+   "tl": 769,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     769
+    ]
+   ]
+  },
   "umurbey-fume-blanc": {
    "tl": 1778,
    "tarih": "2026-10-05",
@@ -2869,6 +6341,20 @@
     [
      "2026-10-05",
      1778
+    ]
+   ]
+  },
+  "umurbey-merlot": {
+   "tl": 1215,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1215
     ]
    ]
   },
@@ -2897,6 +6383,90 @@
     [
      "2026-10-05",
      1379
+    ]
+   ]
+  },
+  "urla-sauvignon-blanc": {
+   "tl": 1700,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1700
+    ]
+   ]
+  },
+  "usca-opia-x": {
+   "tl": 3200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3200
+    ]
+   ]
+  },
+  "usca-sonnet-23-syrah-foca-karasi": {
+   "tl": 2182,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2182
+    ]
+   ]
+  },
+  "usca-sonnet-5-bornova-misketi": {
+   "tl": 1642,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1642
+    ]
+   ]
+  },
+  "usca-sonnet-8-okuzgozu-blush": {
+   "tl": 1198,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1198
+    ]
+   ]
+  },
+  "usca-sonnet-99-viognier": {
+   "tl": 1342,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1342
     ]
    ]
   },
@@ -2970,6 +6540,20 @@
     ]
    ]
   },
+  "vinkara-atelier-kalecik-karasi-okuzgozu": {
+   "tl": 754,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     754
+    ]
+   ]
+  },
   "vinkara-atelier-okuzgozu-2023": {
    "tl": 754,
    "tarih": "2026-10-05",
@@ -2995,6 +6579,34 @@
     [
      "2026-10-05",
      1104
+    ]
+   ]
+  },
+  "vinkara-atelier-yari-tatli-kalecik-karasi": {
+   "tl": 854,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     854
+    ]
+   ]
+  },
+  "vinkara-bornova-misketi": {
+   "tl": 990,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     990
     ]
    ]
   },
@@ -3041,6 +6653,20 @@
    ]
   },
   "vinkara-kalecik-karasi-2022": {
+   "tl": 860,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     860
+    ]
+   ]
+  },
+  "vinkara-merlot": {
    "tl": 860,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
@@ -3110,6 +6736,20 @@
     ]
    ]
   },
+  "vinkara-reserve-cabernet-sauvignon": {
+   "tl": 1505,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1505
+    ]
+   ]
+  },
   "vinkara-reserve-kalecik-karasi-2022": {
    "tl": 1426,
    "tarih": "2026-10-05",
@@ -3149,6 +6789,34 @@
     [
      "2026-10-05",
      1426
+    ]
+   ]
+  },
+  "vinkara-sauvignon-blanc": {
+   "tl": 968,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     968
+    ]
+   ]
+  },
+  "vinkara-syrah": {
+   "tl": 780,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.plus, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     780
     ]
    ]
   },
@@ -3209,6 +6877,20 @@
    ]
   },
   "vino-dessera-vd-cabernet-sauvignon": {
+   "tl": 800,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mart 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     800
+    ]
+   ]
+  },
+  "vino-dessera-vd-sangiovese": {
    "tl": 800,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
@@ -3320,6 +7002,160 @@
     ]
    ]
   },
+  "yanik-ulke-gewurztraminer": {
+   "tl": 850,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2024)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     850
+    ]
+   ]
+  },
+  "yanik-ulke-grand-reserve": {
+   "tl": 1223,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1223
+    ]
+   ]
+  },
+  "yanik-ulke-mahzen-cabernet-franc": {
+   "tl": 1320,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1320
+    ]
+   ]
+  },
+  "yanik-ulke-muscat": {
+   "tl": 776,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     776
+    ]
+   ]
+  },
+  "yanik-ulke-serendipity": {
+   "tl": 1223,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1223
+    ]
+   ]
+  },
+  "yanik-ulke-strabon": {
+   "tl": 715,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com liste fiyatı, Eki 2026 (çevrimiçi satıcı; mağaza fiyatı farklı olabilir)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     715
+    ]
+   ]
+  },
+  "yedi-bilgeler-anaxagoras-chardonnay": {
+   "tl": 1400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1400
+    ]
+   ]
+  },
+  "yedi-bilgeler-khilon-fume-blanc": {
+   "tl": 1665,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat; rekolte 2025)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1665
+    ]
+   ]
+  },
+  "yedi-bilgeler-polemos": {
+   "tl": 4000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2026 (tadım yazısındaki fiyat; rekolte 2022)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     4000
+    ]
+   ]
+  },
+  "yedi-bilgeler-pythagoras": {
+   "tl": 2100,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat; rekolte 2023)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2100
+    ]
+   ]
+  },
+  "yukseltan-3k": {
+   "tl": 1040,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1040
+    ]
+   ]
+  },
   "yukseltan-3k-reserve": {
    "tl": 1250,
    "tarih": "2026-10-05",
@@ -3334,7 +7170,63 @@
     ]
    ]
   },
+  "yukseltan-cabernet-sauvignon": {
+   "tl": 1040,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1040
+    ]
+   ]
+  },
   "yukseltan-chardonnay": {
+   "tl": 1040,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1040
+    ]
+   ]
+  },
+  "yukseltan-merlot": {
+   "tl": 1040,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1040
+    ]
+   ]
+  },
+  "yukseltan-sauvignon-blanc": {
+   "tl": 1040,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "iyisarap.com, Ekim 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1040
+    ]
+   ]
+  },
+  "yukseltan-syrah": {
    "tl": 1040,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
@@ -3362,6 +7254,20 @@
     ]
    ]
   },
+  "yusta-cabernet-sauvignon-merlot": {
+   "tl": 1600,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eylül 2026",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1600
+    ]
+   ]
+  },
   "yusta-malbec": {
    "tl": 1500,
    "tarih": "2026-10-05",
@@ -3376,12 +7282,40 @@
     ]
    ]
   },
+  "yusta-merlot": {
+   "tl": 1300,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kasım 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1300
+    ]
+   ]
+  },
   "yusta-shiraz": {
    "tl": 1250,
    "tarih": "2026-10-05",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "degustasyon.net, Kasım 2025",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
+    ]
+   ]
+  },
+  "yusta-syrah": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ocak 2026",
    "not": "Ekim 2026 Türkiye perakende, 75 cl",
    "gecmis": [
     [

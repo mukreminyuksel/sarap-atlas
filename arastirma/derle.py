@@ -61,6 +61,42 @@ def metin(v):
     return str(v or '').strip()
 
 
+SATIS_URL = re.compile(r'iyisarap\.(com|plus)', re.I)  # çevrimiçi satıcı bağlantısı: alkolün internetten satışı yasak, sitede gösterilmez
+
+
+def kaynak_temiz(liste):
+    return [k for k in (liste or []) if k and not SATIS_URL.search(k)]
+
+
+def kisalt(t, n=220):
+    """Kaynak metnini en fazla ~n karaktere indirir: tam cümlelerde keser, tek cümle uzunsa virgülden böler."""
+    t = re.sub(r'\s+', ' ', str(t or '')).strip()
+    if not t:
+        return ''
+    if len(t) <= n:
+        return t if t[-1] in '.!?' else t + '.'
+    cum = re.split(r'(?<=[.!?])\s+', t)
+    out = ''
+    for c in cum:
+        if len(out) + len(c) + (1 if out else 0) <= n:
+            out = (out + ' ' + c).strip()
+        else:
+            break
+    if out:
+        return out
+    k = t[:n]
+    k = k[:k.rfind(',')] if ',' in k[60:] else k[:k.rfind(' ')]
+    return k.rstrip(' ,;:') + '.'
+
+
+def tahmini_puan(w):
+    """Puan tadım notundan değil madalyadan/alt sınırdan türetilmişse True (sitede 'tahmini' işaretlenir)."""
+    pn = str(w.get('puan_not') or '').lower()
+    if pn:
+        return bool(re.search(r've üzeri|alt sınır|tahmin|madalya', pn)) and 'degustasyon.net' not in pn.split('→')[0]
+    return bool(w.get('odul')) and not any('degustasyon' in k for k in (w.get('kaynak') or []))
+
+
 RENKLER = {'kirmizi', 'beyaz', 'roze', 'kopuren', 'tatli', 'turuncu', 'fortifiye'}
 RENK_ES = {'kırmızı': 'kirmizi', 'red': 'kirmizi', 'white': 'beyaz', 'rose': 'roze', 'rosé': 'roze', 'köpüren': 'kopuren',
            'kopuklu': 'kopuren', 'köpüklü': 'kopuren', 'sparkling': 'kopuren', 'tatlı': 'tatli', 'sweet': 'tatli', 'orange': 'turuncu',
@@ -342,6 +378,7 @@ def odul_sayisi(o):
     return len([x for x in re.split(r';', o or '') if x.strip()])
 
 
+BUL_TAHMIN = set((oku('bul-dogrulanmadi.json', {}) or {}).get('idler') or [])
 DATA, ids = [], set()
 for bolum, w in ham:
     wid = str(w.get('id') or '').strip()
@@ -373,6 +410,27 @@ for bolum, w in ham:
     if tl and not d['tlK']:
         uyarilar.append(f'{wid}: kaynaksız fiyat (tl={tl}) — fiyat gösterilmeyecek')
         d['tl'] = 0
+    d['kaynak'] = kaynak_temiz(d['kaynak'])
+    for a, k in (('gorunum', 'gorunum'), ('koku', 'koku'), ('agiz', 'agiz')):
+        if w.get(a):
+            d[k] = kisalt(w[a])
+    for a in ('servis', 'yillanma'):
+        if w.get(a):
+            d[a] = str(w[a]).strip()
+    if w.get('yemek'):
+        d['yemek'] = [str(x).strip() for x in w['yemek'] if str(x).strip()][:6]
+    if w.get('alkol_seker'):
+        d['sek'] = str(w['alkol_seker']).strip()
+    pk = w.get('profil_kaynak')
+    if pk and not SATIS_URL.search(pk):
+        d['pk'] = pk
+    for a, k in (('profil_rekolte', 'pr'), ('profil_not', 'pn'), ('puan_not', 'pnot'), ('bolge_eski', 'bolgeEski'), ('bolge_kaynak', 'bolgeK')):
+        if w.get(a):
+            d[k] = str(w[a]).strip()
+    if d['puan'] and tahmini_puan(w):
+        d['pTah'] = 1
+    if wid in BUL_TAHMIN:
+        d['bulT'] = 1
     DATA.append(d)
 tr_sayi = len(DATA)
 
@@ -467,6 +525,45 @@ for m, s_ in SARAPHANE.items():
                      'kaynak': s_['kaynak'], 'tesisler': tes, 'sarap': sarap_say.get(m, 0), 'sev': SEV.get(('Türkiye', m), '0')})
 yaz('ureticiler.json', {'_aciklama': 'Şaraphaneler (yalnızca markası bilinen kayıtlar). konum: ilçe ya da il merkezine göre yaklaşık.',
                         'ureticiler': sh_cikti})
+
+# ---------- 5b. Üzüm Haritası / İl İl Bağcılık (uzum-il.json) ----------
+ui = oku('uzum-il.json', None)
+if isinstance(ui, dict):
+    UYG = {'yuksek', 'orta', 'dusuk', 'uygun_degil'}
+    iller_c = []
+    for il in ui.get('iller') or []:
+        yer, goruldu = [], {}
+        for y in il.get('yerel_uretici') or []:
+            ad = str(y.get('ad') or '').strip()
+            if not ad or ad.lower().startswith('bilinen yerel') or 'kayıt bulunmadı' in str(y.get('not') or '').lower() and not y.get('web'):
+                continue
+            n = norm(ad)
+            if n in goruldu:  # aynı markanın birden çok lisanslı firma kaydı tek karta birleşir
+                k = goruldu[n]
+                k['not'] = (k.get('not', '') + ' | ' + str(y.get('not') or '')).strip(' |')
+                k['firma_sayisi'] = k.get('firma_sayisi', 1) + 1
+                continue
+            k = {'ad': ad, 'not': str(y.get('not') or ''), 'web': y.get('web') or '', 'firma_sayisi': 1}
+            sh_ad = saraphane_bul(ad)
+            if sh_ad:
+                k['sh'] = sh_ad
+                k['sarap'] = sarap_say.get(sh_ad, 0)
+            goruldu[n] = k
+            yer.append(k)
+        uzs = []
+        for u in il.get('uzumler') or []:
+            uyg = u.get('sarap_uygunlugu')
+            k = dict(u)
+            k['sarap_uygunlugu'] = uyg if uyg in UYG else 'dogrulanmadi'
+            rec = uzum_bul(u.get('ad', '')) or uzum_bul(re.split(r'[(/,]', str(u.get('ad', '')))[0].strip())
+            if rec and rec.get('rehber'):
+                k['uz'] = rec['id']
+            uzs.append(k)
+        iller_c.append({'id': slug(il.get('il')), 'il': il.get('il'), 'bolge': il.get('bolge') or '', 'bag_notu': il.get('bag_notu') or '',
+                        'uzumler': uzs, 'yerel_uretici': yer, 'kaynak': kaynak_temiz(il.get('kaynak'))})
+    yaz('uzum-il.json', {'_aciklama': 'İl il bağcılık: her ilin bağ notu, üzümleri (şaraba uygunluk: yuksek/orta/dusuk/uygun_degil/dogrulanmadi) ve yerel üreticiler.',
+                         'iller': iller_c, 'diger_uzumler': ui.get('uzum_ek') or [], 'notlar': ui.get('notlar') or {}})
+    print(f'uzum-il: {len(iller_c)} il · {sum(len(i["uzumler"]) for i in iller_c)} üzüm kaydı')
 
 # ---------- 6. Resmî lisans listesi ----------
 lis = oku('lisans-sarap.json', []) or []
