@@ -341,7 +341,7 @@ def uzum_kaydi(ad, renk):
 
 # ---------- 2. Türkiye şaraplarını birleştir (tekrar eden id'ler ayıklanır) ----------
 ham = []
-for bolum in ('trakya', 'ege', 'anadolu', 'ek'):
+for bolum in ('trakya', 'ege', 'anadolu', 'ek', 'ek2', 'ek3'):
     ham += [(bolum, x) for x in (oku(f'saraplar-{bolum}.json', []) or []) if isinstance(x, dict)]
 
 ure_ham = []
