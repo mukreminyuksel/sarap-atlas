@@ -15,7 +15,7 @@ Son güncelleme: 5 Ekim 2026
 | 5 | 📜 Resmî lisans listesinin periyodik güncellemesi | Orta | Küçük (listeyi kullanıcı indirir) | 📌 |
 | 6 | 🏬 İstanbul viski butiklerini Nereden Alınır'a ekleme | Orta | Küçük | 📌 |
 | 7 | 🥛 **Rakı Atlası** (üçüncü kardeş site) | Çok yüksek: tamamen yerli, rakipsiz | Büyük | ✅ |
-| 8 | 🍷 **Şarap Atlası** (dördüncü kardeş site) | Çok yüksek, en büyük alan (180+ üretici) | Çok büyük | 🔨 |
+| 8 | 🍷 **Şarap Atlası** (dördüncü kardeş site) | Çok yüksek, en büyük alan (180+ üretici) | Çok büyük | ✅ |
 
 ---
 
@@ -76,7 +76,8 @@ Son güncelleme: 5 Ekim 2026
 - Viski ve Bira altyapısı aynen taşınır: fiyat takibi, gurme seviyesi, tadım geceleri, kulüpler, Topluluk, Nereden Alınır.
 - Üç sitelik aile: kardeş site düğmesi üçlü menüye döner.
 
-## 5. 🍷 Şarap Atlası
+## 5. 🍷 Şarap Atlası ✅
+- Bitti (Ekim 2026): 852 Türkiye + 317 dünya şarabı, Kadehte bölümü, Türkiye Şarap Sıralaması, İl İl Üzüm Haritası, roze filtresi (113 roze).
 - Resmî listede 160 şarap ve 26 köpüren şarap üreticisi var.
 - Yerli üzümler: Öküzgözü, Boğazkere, Kalecik Karası, Narince, Emir, Sultaniye…
 - Bağ rotaları ve bölgeler: Trakya, Ege, Kapadokya, Elazığ-Diyarbakır, Denizli.

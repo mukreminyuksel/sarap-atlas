@@ -1,0 +1,1583 @@
+[
+ {
+  "id": "nice-rose-horos-karasi-okuzgozu",
+  "ad": "Rose Horos Karası – Öküzgözü",
+  "uretici": "Ni&Ce Vineyards",
+  "il": "Kilis",
+  "bolge": "Güneydoğu Anadolu (Kilis, Kızılgöl)",
+  "renk": "roze",
+  "uzum": [
+   "Horos Karası",
+   "Öküzgözü"
+  ],
+  "yil": "2025",
+  "abv": 11.5,
+  "tat": "Roze şarap: çilek, toprak aromalı; düşük asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 1030,
+  "tl_kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/nice-rose-horos-karasi-okuzgozu-rose-2025-kilis/"
+  ],
+  "gorunum": "Uçuk gül pembesi renginde.",
+  "koku": "Olgun çilek çağrışımlı aromalara hafif topraksı nüanslar eşlik ediyor.",
+  "agiz": "Ağızda dolgun, yoğun, hafif tanenli ve düşük asiditeli. Ferahlamaktan çok yemeklere eşlik edebilecek bir roze.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/nice-rose-horos-karasi-okuzgozu-rose-2025-kilis/"
+ },
+ {
+  "id": "nice-rose-kalecik-karasi",
+  "ad": "Rose Kalecik Karası",
+  "uretici": "Ni&Ce Vineyards",
+  "il": "Denizli",
+  "bolge": "Denizli (Güney)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2025",
+  "abv": 11.6,
+  "tat": "Roze şarap: dağ çileği, çilek, ahududu aromalı; dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 1030,
+  "tl_kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/nice-rose-kalecik-karasi-2025-guney/"
+  ],
+  "gorunum": "Uçuk gül pembesi renginde.",
+  "koku": "Dağ çileği, olgun çilek, ahududu ve frenküzümü çağrışımlı aromalara sahip.",
+  "agiz": "Ağızda dolgun, asidite biraz önde ve tanenler de hafif hissediliyor. Damağı kurutacak denli sek bir roze.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/nice-rose-kalecik-karasi-2025-guney/"
+ },
+ {
+  "id": "suvla-kilitbahir-rose",
+  "ad": "Kilitbahir Rose",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Gelibolu Yarımadası)",
+  "renk": "roze",
+  "uzum": [
+   "Merlot",
+   "Karasakız"
+  ],
+  "yil": "2025",
+  "abv": 13.5,
+  "tat": "Roze şarap: frenküzümü, yaban çileği aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 500,
+  "tl_kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/suvla-kilitbahir-rose-2025-canakkale/"
+  ],
+  "gorunum": "Soluk gül pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü ve yaban çileğini andıran aromalar ön planda.",
+  "agiz": "Diri ve canlı asiditeli, ferahlatıcı bir roze.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/suvla-kilitbahir-rose-2025-canakkale/"
+ },
+ {
+  "id": "chateau-gali-rose",
+  "ad": "Rose",
+  "uretici": "Château Gali",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Gelibolu)",
+  "renk": "roze",
+  "uzum": [
+   "Cabernet Franc"
+  ],
+  "yil": "2024",
+  "abv": 13.5,
+  "tat": "Roze şarap: greyfurt, portakal aromalı; canlı asiditeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 980,
+  "tl_kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/chateau-gali-rose-2024-canakkale/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Greyfurt ve kan portakalı çağrışımlı aromalara sahip.",
+  "agiz": "Ağızda canlı ve diri, belirgin asiditeli, narenciyemsi tonlar ön planda.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/chateau-gali-rose-2024-canakkale/"
+ },
+ {
+  "id": "erdel-hanchalar-clairet",
+  "ad": "Clairet",
+  "uretici": "Erdel – Hanchalar",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası",
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Roze şarap: mürdümeriği aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 400,
+  "tl_kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/erdel-hanchalar-clairet-2022-cal/"
+  ],
+  "gorunum": "Lâl renginde.",
+  "koku": "Mürdümeriği ve turna yemişi de denilen “cranberry” çağrışımlı kokulara sahip.",
+  "agiz": "Ağızda dolgun, hafif tanenli, belirgin asiditeli. Meyvemsi tadlara baharlı dokunuşların da eşlik ettiği “kırmızımsı” bir roze.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/erdel-hanchalar-clairet-2022-cal/"
+ },
+ {
+  "id": "gordias-blush",
+  "ad": "Blush",
+  "uretici": "Gordias",
+  "il": "Ankara",
+  "bolge": "Ankara (Polatlı)",
+  "renk": "roze",
+  "uzum": [
+   "Sauvignon Blanc",
+   "Kalecik Karası"
+  ],
+  "yil": "2024",
+  "abv": 13.5,
+  "tat": "Roze şarap: portakal, greyfurt aromalı; düşük asiditeli, dolgun gövdeli.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 900,
+  "tl_kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/gordias-blush-2024-ankara/"
+  ],
+  "gorunum": "Uçuk pembe renkte.",
+  "koku": "Kan portakalı ve kan greyfurtunu andıran koku ve tadlar ön planda.",
+  "agiz": "Ağızda dolgun ama düşük asiditeli, bir rozeden, özellikle de blush’tan beklenen canlılık ve tazeleyicilikten uzak.",
+  "servis": "6-8 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/gordias-blush-2024-ankara/"
+ },
+ {
+  "id": "yaban-kolektif-rose",
+  "ad": "Rose",
+  "uretici": "Yaban Kolektif",
+  "il": "Çanakkale",
+  "bolge": "Çanakkale ve Van bağları (Manisa Alaşehir'de üretildi)",
+  "renk": "roze",
+  "uzum": [
+   "Karasakız",
+   "Erciş Karası"
+  ],
+  "yil": "2023",
+  "abv": 13.8,
+  "tat": "Roze şarap: canlı asiditeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 1152,
+  "tl_kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yaban-kolektif-rose-2023-canakkale-van/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Kavrulmuş susam çağrışımlı aromaların ardından kırmızı meyvemsi nüanslar da beliriyor.",
+  "agiz": "Diri ve canlı, damakta da meyvemsi notalar ön planda. Aperitif olabileceği gibi hafif başlangıçlarla da denenebilecek bir pembe şarap.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/yaban-kolektif-rose-2023-canakkale-van/"
+ },
+ {
+  "id": "bebayer-roze",
+  "ad": "Roze",
+  "uretici": "Bebayer",
+  "il": "İzmir",
+  "bolge": "Denizli ve Çanakkale bağları (Selçuk'ta üretildi)",
+  "renk": "roze",
+  "uzum": [
+   "Shiraz",
+   "Karasakız"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Roze şarap: frenküzümü, dağ çileği aromalı; canlı asiditeli.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/bebayer-roze-2023-denizli-canakkale/"
+  ],
+  "gorunum": "Soluk gül pembesi renginde.",
+  "koku": "Burunda frenküzümü ve dağ çileği aromaları belirgin. Ağızda da meyvemsi ve aromatik, canlı ve ferahlatıcı.",
+  "agiz": "Temiz yapılmış, diri asiditeli, serinletici bir yaz rozesi.",
+  "profil_kaynak": "https://degustasyon.net/bebayer-roze-2023-denizli-canakkale/"
+ },
+ {
+  "id": "asmadan-gonulden-blush",
+  "ad": "Gönülden Blush",
+  "uretici": "Asmadan",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Gelibolu Yarımadası, Eceabat)",
+  "renk": "roze",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Roze şarap: ayva, şeftali aromalı; dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/asmadan-gonulden-blush-2023-eceabat/"
+  ],
+  "gorunum": "Turuncumsu pembe renkte.",
+  "koku": "Olgun ve pişmiş ayva, ham şeftali ve nektarin çağrışımlı aromalara sahip.",
+  "agiz": "Ağızda dolgun yapılı ancak asidite keskin, yüksek alkol ve Cabernet’den gelen hafif tanenler de burukluk veriyor, damağı biraz kurutuyor. Baharatlı yiyeceklerle sunulabilecek bir roze.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/asmadan-gonulden-blush-2023-eceabat/"
+ },
+ {
+  "id": "asmadan-gonulden-clairet",
+  "ad": "Gönülden Clairet",
+  "uretici": "Asmadan",
+  "il": "Manisa",
+  "bolge": "İç Ege (Köprübaşı)",
+  "renk": "roze",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2023",
+  "abv": 14.0,
+  "tat": "Roze şarap: şeftali aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/asmadan-gonulden-clairet-2023-manisa/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Ham şeftali ve nektarin gibi aromalara sahip.",
+  "agiz": "Damakta dolgun, canlı asiditeli, hafif mayhoş. Öte yandan tanenler de hissediliyor.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/asmadan-gonulden-clairet-2023-manisa/"
+ },
+ {
+  "id": "villa-doluca-klasik-roze",
+  "ad": "Villa Doluca Klasik Roze",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege bağları",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Çalkarası"
+  ],
+  "yil": "2023",
+  "abv": 13.0,
+  "tat": "Roze şarap: ayva, frenküzümü, çiçek aromalı; canlı asiditeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/villa-doluca-klasik-roze-2023-ege/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burun ve damakta canlı meyvemsilikte, olgun ayva ve frenküzümü çağrışımlı koku ve tadlara çiçeksi nüanslar eşlik ediyor.",
+  "agiz": "Körpe ve diri asiditeli, taze ve ferahlatıcı bir pembe şarap.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/villa-doluca-klasik-roze-2023-ege/"
+ },
+ {
+  "id": "ka-winery-kalecik-karasi-roze",
+  "ad": "Kalecik Karası Roze",
+  "uretici": "KA Winery",
+  "il": "Ankara",
+  "bolge": "Ankara (Kalecik)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2023",
+  "abv": 12.7,
+  "tat": "Roze şarap: toprak aromalı; dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/ka-winery-kalecik-karasi-roze-2023-ankara/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Burun ve damakta baharlı ve topraksı nüansların ardından mayhoş kırmızı meyve tonları beliriyor.",
+  "agiz": "Ham çilek tadları hissediliyor, finalde de buruk izler kalıyor. Yağlı dokulu ve dolgun yapılı ama ham meyvemsilik içimi zorlaştırıyor.",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/ka-winery-kalecik-karasi-roze-2023-ankara/"
+ },
+ {
+  "id": "lermonos-alice-pembe",
+  "ad": "Alice Pembe",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası",
+   "Syrah",
+   "Öküzgözü"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Roze şarap: toprak aromalı; düşük asiditeli, dolgun gövdeli.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lermonos-alice-pembe-2023-cal/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burunda topraksı, baharlı ve pişmiş meyvemsi notalar belirgin. Ağızda dolgun ama düşük asidite canlılığı azaltıyor, kaba topraksı bukeler de meyvemsiliği gölgeliyor.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/lermonos-alice-pembe-2023-cal/"
+ },
+ {
+  "id": "lermonos-lykos-valley-okuzgozu-blush",
+  "ad": "Lykos Valley Öküzgözü Blush",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2023",
+  "abv": 13.0,
+  "tat": "Roze şarap: frenküzümü, dağ çileği aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lermonos-lykos-valley-okuzgozu-blush-2023-denizli/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü ve dağ çileği çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Dolgun, yağlı dokulu, diri asiditeli ve çok hafif de tanenli.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/lermonos-lykos-valley-okuzgozu-blush-2023-denizli/"
+ },
+ {
+  "id": "kup-artemis-okuzgozu-shiraz-roze",
+  "ad": "Artemis Öküzgözü – Shiraz Roze",
+  "uretici": "Küp",
+  "il": "Denizli",
+  "bolge": "Denizli (Bekilli)",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü",
+   "Shiraz"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Roze şarap: vişne, kiraz aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kup-artemis-okuzgozu-shiraz-roze-2023-denizli/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Vişne ve kiraz başta olmak üzere kırmızı meyvemsi aroma ve tadlar belirgin.",
+  "agiz": "Dolgun ve yağlı dokulu, diri ve canlı asiditeli, tanen burukluğu da çok hafif hissediliyor. Tipik bir yemek rozesi.",
+  "servis": "10-12 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kup-artemis-okuzgozu-shiraz-roze-2023-denizli/"
+ },
+ {
+  "id": "lermonos-rindera-kalecik-karasi-blush",
+  "ad": "Rindera Kalecik Karası Blush",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2023",
+  "abv": 12.5,
+  "tat": "Roze şarap: ahududu, çilek aromalı; canlı asiditeli, hafif gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lermonos-rindera-kalecik-karasi-blush-2023-cal/"
+  ],
+  "gorunum": "Soluk pembe renkte, “yavruağzı” tonlarında.",
+  "koku": "Ahududu ve çilek çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Ağızda ince yapılı, asidite ön planda.",
+  "servis": "6-8 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/lermonos-rindera-kalecik-karasi-blush-2023-cal/"
+ },
+ {
+  "id": "7-bilgeler-lasos-rose-shiraz-okuzgozu",
+  "ad": "Lasos Rose Shiraz – Öküzgözü",
+  "uretici": "7 Bilgeler",
+  "il": "İzmir",
+  "bolge": "Denizli (Güney) ve Elazığ bağları, Selçuk'ta üretildi",
+  "renk": "roze",
+  "uzum": [
+   "Shiraz",
+   "Öküzgözü"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Roze şarap: frenküzümü, portakal aromalı.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/7-bilgeler-lasos-rose-shiraz-okuzgozu-2023-guney-elazig/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Frenküzümü ve kan portakalı çağrışımlı aromalar burun ve damakta ön planda, hafif bir tanen burukluğu da hissediliyor.",
+  "agiz": "Tam bir yemek rozesi.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/7-bilgeler-lasos-rose-shiraz-okuzgozu-2023-guney-elazig/"
+ },
+ {
+  "id": "lermonos-carovino-calkarasi-blush",
+  "ad": "Carovino Çalkarası Blush",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Roze şarap: ahududu, frenküzümü, dağ çileği aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lermonos-carovino-calkarasi-blush-2022-cal/"
+  ],
+  "gorunum": "Uçuk pembe renkli.",
+  "koku": "Burun ve damakta ahududu, frenküzümü ve dağ çileği çağrışımlı koku ve tadlar ön planda.",
+  "agiz": "Ağızda dolgun ve yağlı dokulu, canlı ve diri asiditeli, meyvemsi ve damakta kalıcı. Bir blush’dan fazlası.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/lermonos-carovino-calkarasi-blush-2022-cal/"
+ },
+ {
+  "id": "lermonos-carovino-calkarasi-clairet",
+  "ad": "Carovino Çalkarası Clairet",
+  "uretici": "Lermonos",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası"
+  ],
+  "yil": "2022",
+  "abv": 14.0,
+  "tat": "Roze şarap: kiraz, çilek aromalı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lermonos-carovino-calkarasi-clairet-2022-cal/"
+  ],
+  "gorunum": "Canlı ve parlak nar kırmızısı renginde.",
+  "koku": "Olgun kiraz, çilek ve nar kokulu.",
+  "agiz": "Damakta kırmızı meyvemsi tonlara baharlı notalar eşlik ediyor.",
+  "servis": "14-16 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/lermonos-carovino-calkarasi-clairet-2022-cal/"
+ },
+ {
+  "id": "gulor-signature-rose",
+  "ad": "Signature Rose",
+  "uretici": "Gülor",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "roze",
+  "uzum": [
+   "Montepulciano"
+  ],
+  "yil": "2023",
+  "abv": 12.2,
+  "tat": "Roze şarap: ahududu, frenküzümü aromalı; dolgun gövdeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/gulor-signature-rose-2023-tekirdag/"
+  ],
+  "gorunum": "Canlı gül pembesi renkte.",
+  "koku": "Burunda ahududu ve frenküzümü çağrışımlı aromalara sahip.",
+  "agiz": "Damakta da meyvemsi, hafif de mineralsi. Sek, yağlı ve dolgun yapılı bir pembe şarap.",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/gulor-signature-rose-2023-tekirdag/"
+ },
+ {
+  "id": "sevilen-majestik-grenache-kalecik-karasi-rose",
+  "ad": "Majestik Grenache – Kalecik Karası Rose",
+  "uretici": "Sevilen",
+  "il": "Aydın",
+  "bolge": "Ege",
+  "renk": "roze",
+  "uzum": [
+   "Grenache",
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 12.0,
+  "tat": "Roze şarap: frenküzümü aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/sevilen-majestik-grenache-kalecik-karasi-rose-2022-ege/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü aromaları belirgin.",
+  "agiz": "Meyvemsi, canlı ve taze bir pembe şarap. Diri asiditesiyle ferahlatıyor. Aperitif olarak ideal, hafif başlangıç yemekleriyle de denenebilir.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/sevilen-majestik-grenache-kalecik-karasi-rose-2022-ege/"
+ },
+ {
+  "id": "kayra-terra-varietal-series-kalecik-karasi-roze",
+  "ad": "Terra Varietal Series Kalecik Karası Roze",
+  "uretici": "Kayra",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Roze şarap: ahududu, frenküzümü, şeftali aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/terra-varietal-series-kalecik-karasi-roze-2022-denizli/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Ahududu ve frenküzümü gibi mayhoş meyve aromaları burun ve damakta belirgin, nektarin ve şeftali çağrışımları da hissediliyor.",
+  "agiz": "Canlı asiditeli, dolgun yapılı, çok dengeli ve yemekleri dahi taşıyabilecek bir roze.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/terra-varietal-series-kalecik-karasi-roze-2022-denizli/"
+ },
+ {
+  "id": "likya-araxa",
+  "ad": "Araxa",
+  "uretici": "Likya",
+  "il": "Antalya",
+  "bolge": "Akdeniz (Elmalı)",
+  "renk": "roze",
+  "uzum": [
+   "Pinot Meunier"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Roze şarap: frenküzümü, dağ çileği, şeftali aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/likya-araxa-2022-antalya/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Frenküzümü, dağ çileği ve şeftali çağrışımlı aromalar burun ve damakta belirgin.",
+  "agiz": "Diri asiditeli, dolgun ve yağlı dokulu. Dengeli ve ferahlatıcı.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/likya-araxa-2022-antalya/"
+ },
+ {
+  "id": "sobran-baglari-nebblush",
+  "ad": "Nebblush",
+  "uretici": "Sobran Bağları",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "roze",
+  "uzum": [
+   "Nebbiolo"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Roze şarap: kayısı, elma aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-nebblush-2022-manisa/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Burun ve damakta meyvemsi ve hafif baharlı, nektarin, kayısı ve pişmiş elma çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Dolgun ve yağlı dokulu, hafif de tanenli. Asidite biraz düşük, geçen rekoltesinin canlılık ve diriliği hissedilmiyor. Bir yemek rozesi, “blush”dan fazlası.",
+  "servis": "10-12 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-nebblush-2022-manisa/"
+ },
+ {
+  "id": "likya-isinda-blush",
+  "ad": "Isinda Blush",
+  "uretici": "Likya",
+  "il": "Antalya",
+  "bolge": "Akdeniz (Elmalı)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Roze şarap: greyfurt aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/likya-isinda-blush-2022-antalya/"
+  ],
+  "gorunum": "Canlı ve parlak gül pembesi renginde.",
+  "koku": "Nektarin ve greyfurt çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Ağızda biraz keskin asiditeli, bir “blush”tan beklenen kolay içim pek gerçekleşemiyor. Baharatlı veya limon ekşili başlangıçlara eşlik etmeli.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/likya-isinda-blush-2022-antalya/"
+ },
+ {
+  "id": "kup-thia-blush",
+  "ad": "Thia Blush",
+  "uretici": "Küp",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Roze şarap: çilek, ahududu, frenküzümü aromalı; dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kup-thia-blush-2022-denizli/"
+  ],
+  "gorunum": "Soluk gül pembesi renginde.",
+  "koku": "İlkten hissedilen kükürt kokuları dağılınca ham çilek, ahududu ve frenküzümü aromaları beliriyor.",
+  "agiz": "Ağızda dolgun, yağlı dokulu, hafif tanenli. Meyvemsi ve baharlı, baharatlı yemeklerle bile eşlik edebilecek bir roze.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kup-thia-blush-2022-denizli/"
+ },
+ {
+  "id": "likya-fox-tilkikuyrugu",
+  "ad": "Fox Tilkikuyruğu",
+  "uretici": "Likya",
+  "il": "Antalya",
+  "bolge": "Akdeniz (Elmalı)",
+  "renk": "roze",
+  "uzum": [
+   "Tilkikuyruğu"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Roze şarap: üzüm, elma aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/likya-fox-tilkikuyrugu-2022-antalya/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burundoa taze üzüm, elma ve nektarin çağrışımlı aromalara sahip.",
+  "agiz": "Ağızda hafif tanenli, belirgin asiditeli, biraz köşeli bir roze.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/likya-fox-tilkikuyrugu-2022-antalya/"
+ },
+ {
+  "id": "sagavin-kalecik-karasi-rose",
+  "ad": "Kalecik Karası Rose",
+  "uretici": "Sagavin",
+  "il": "Nevşehir",
+  "bolge": "Kapadokya (Çat)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2021",
+  "abv": 13.0,
+  "tat": "Roze şarap: çilek, dağ çileği, frenküzümü aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/sagavin-kalecik-karasi-rose-2021-kapadokya/"
+  ],
+  "gorunum": "Soluk gül pembesi renginde.",
+  "koku": "Burun ve damakta çilek, dağ çileği ve frenküzümü çağrışımlı aromalar belirgin.",
+  "agiz": "Canlı ve diri asiditeli, dolgun ama hafif içimli bir roze.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/sagavin-kalecik-karasi-rose-2021-kapadokya/"
+ },
+ {
+  "id": "villa-doluca-neo-rose",
+  "ad": "Villa Doluca Neo Rose",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege ve Doğu Anadolu bağları",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Öküzgözü"
+  ],
+  "yil": "2021",
+  "abv": 13.5,
+  "tat": "Roze şarap: çilek, ahududu, frenküzümü aromalı; canlı asiditeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/villa-doluca-neo-rose-2021-ege-d-anadolu/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Burunda çilek, ahududu ve taze çekilmiş karabiber çağrışımlı frenküzümü, ahududu ve dağ çileği çağrışımlı kokulara sahip.",
+  "agiz": "Ağızda ise kırmızı meyvelerin yanı sıra gül reçelini andıran tadlar hissediliyor. Diri asiditeli, hafifçe tanenli, tipik bir yemek rozesi.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/villa-doluca-neo-rose-2021-ege-d-anadolu/"
+ },
+ {
+  "id": "doluca-verano-rose",
+  "ad": "Verano Rose",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Trakya ve Güneydoğu bağları",
+  "renk": "roze",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Öküzgözü"
+  ],
+  "yil": "2021",
+  "abv": 13.0,
+  "tat": "Roze şarap: ahududu, frenküzümü, elma aromalı; dolgun gövdeli.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/doluca-verano-rose-2021-trakya-g-dogu/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Ahududu, frenküzümü, elma ve ayva kompostosu gibi kokular hissediliyor.",
+  "agiz": "Damakta da meyvemsi, dolgun, yoğun ve zengin. Çok hafif tanenli. Tipik bir yemek rozesi; oğlak, süt kuzusu ve süt danası gibi pembe etlerin yanı sıra hafif mezeler ve başlangıç yemekleriyle de denenebilir.",
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/doluca-verano-rose-2021-trakya-g-dogu/"
+ },
+ {
+  "id": "sevilen-innocent-angel-rose",
+  "ad": "Innocent Angel Rose",
+  "uretici": "Sevilen",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [
+   "Syrah",
+   "Sauvignon Blanc"
+  ],
+  "yil": "2021",
+  "abv": 12.0,
+  "tat": "Roze şarap: şeftali aromalı; canlı asiditeli.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/sevilen-innocent-angel-rose-2021-denizli/"
+  ],
+  "gorunum": "Uçuk pembe renkte.",
+  "koku": "Kırmızı meyveleri, şeftali ve nektarin çağrışımlı aromalara hafif baharlı dokunuşlar eşlik ediyor.",
+  "agiz": "Diri asiditeli, sek, yoğun ve zengin; tipik bir yemek rozesi. Rozede Türk şaraplarında alışmadığımız “neo Provensal” bir stilin temsilcisi.",
+  "servis": "10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/sevilen-innocent-angel-rose-2021-denizli/"
+ },
+ {
+  "id": "chamlija-huyuk-baglari-sikkara",
+  "ad": "Teruar Serisi Hüyük Bağları Sıkkara",
+  "uretici": "Chamlija",
+  "il": "Konya",
+  "bolge": "İç Anadolu (Beyşehir, Hüyük)",
+  "renk": "roze",
+  "uzum": [
+   "Sıkkara"
+  ],
+  "yil": "2021",
+  "abv": 12.7,
+  "tat": "Roze şarap: şeftali, ayva aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/chamlija-teruar-serisi-huyuk-baglari-sikkara-2021-konya/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Beyaz şeftali, nektarin ve ayva çağrışımlı aromalara sahip.",
+  "agiz": "Damakta da meyvemsi, yeşil bitki ve mineral tonları da hissediliyor. Dolgun ve yoğun, diri asiditeli, sağlam yapılı ve ferahlatıcı. Üzümün potansiyelini gösteren, yeni rekolteleri merakla beklenecek bir şarap, Pinot Noir’dan yapılan Sancerre rozelerini andırıyor.",
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/chamlija-teruar-serisi-huyuk-baglari-sikkara-2021-konya/"
+ },
+ {
+  "id": "vino-dessera-purnese-blush",
+  "ad": "Pürneşe Blush",
+  "uretici": "Vino Dessera",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Kırklareli); Denizli üzümü",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2020",
+  "abv": 12.8,
+  "tat": "Roze şarap: frenküzümü, şeftali aromalı.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vino-dessera-purnese-blush-2020-denizli/"
+  ],
+  "gorunum": "Canlı gül pembesi renkte, turuncuya dönüşler de hissediliyor.",
+  "koku": "Burunda çok aromatik değil, damakta ise meyvemsi, çok hafif baharlı ve rahat içimli. Ağızda yağlı dokusuyla damağı sıvıyor, frenküzümü ve beyaz şeftali çağrışımlı tadlar hissediliyor.",
+  "agiz": "Adı “blush” ama daha çok ağırbaşlı bir yemek rozesi.",
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/vino-dessera-purnese-blush-2020-denizli/"
+ },
+ {
+  "id": "vino-dessera-entrika-rose",
+  "ad": "Entrika Rose",
+  "uretici": "Vino Dessera",
+  "il": "Kırklareli",
+  "bolge": "Trakya (Kırklareli)",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası",
+   "Öküzgözü",
+   "Emir"
+  ],
+  "yil": "2020",
+  "abv": 12.9,
+  "tat": "Roze şarap: çilek, ahududu, frenküzümü aromalı.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vino-dessera-entrika-rose-2020-kirklareli/"
+  ],
+  "gorunum": "Soluk gül pembesi renkte.",
+  "koku": "Canlı ve aromatik, çilek, ahududu ve frenküzümü aromaları burun ve damakta belirgin.",
+  "agiz": "Temiz, meyvemsi ve ferahlatıcı bir roze. Meyve tabaklarıyla ve meyveli hafif tatlılarla da denenebilir.",
+  "servis": "6-8 °C",
+  "profil_kaynak": "https://degustasyon.net/vino-dessera-entrika-rose-2020-kirklareli/"
+ },
+ {
+  "id": "nahita-dokya-roze",
+  "ad": "Dokya Roze",
+  "uretici": "Nahita",
+  "il": "Nevşehir",
+  "bolge": "Kapadokya (Argos Bağları)",
+  "renk": "roze",
+  "uzum": [
+   "Shiraz",
+   "Kalecik Karası"
+  ],
+  "yil": "2020",
+  "abv": 14.0,
+  "tat": "Roze şarap: çilek, ahududu, frenküzümü aromalı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/nahita-dokya-roze-2020-kapadokya/"
+  ],
+  "gorunum": "Canlı gül pembesi renkte.",
+  "koku": "Çilek, ahududu ve frenküzümü aromaları belirgin.",
+  "agiz": "Ağızda da meyvemsi ancak biraz buruk, yüksek alkol keskinliği de hissediliyor.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/nahita-dokya-roze-2020-kapadokya/"
+ },
+ {
+  "id": "sagavin-okuzgozu-kalecik-karasi-rose",
+  "ad": "Öküzgözü – Kalecik Karası Rose",
+  "uretici": "Sagavin",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal) ve Nevşehir (Çat)",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü",
+   "Kalecik Karası"
+  ],
+  "yil": "2020",
+  "abv": 13.4,
+  "tat": "Roze şarap: frenküzümü aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/sagavin-okuzgozu-kalecik-karasi-rose-2020-denizli-nevsehir/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü çağrışımlı aromalar canlı ve taze.",
+  "agiz": "Ağızda asidite ön planda, hafif içimli bir roze.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/sagavin-okuzgozu-kalecik-karasi-rose-2020-denizli-nevsehir/"
+ },
+ {
+  "id": "arda-gala-roze",
+  "ad": "Gala Roze",
+  "uretici": "Arda",
+  "il": "Edirne",
+  "bolge": "Trakya (Edirne)",
+  "renk": "roze",
+  "uzum": [
+   "Gamay",
+   "Papazkarası"
+  ],
+  "yil": "2020",
+  "abv": 12.0,
+  "tat": "Roze şarap: toprak aromalı.",
+  "puan": 75,
+  "puan_not": "degustasyon.net 5/10 → 75",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/arda-gala-roze-2020-edirne/"
+  ],
+  "gorunum": "Koyu gül pembesi renkte.",
+  "koku": "Burunda kırmızı meyve aromalarına topraksı bukeler eşlik ediyor.",
+  "agiz": "Ağızda biraz kaba, asidite çok önde, şaraba geçmiş tanenler de burukluk veriyor. Zor içimli bir roze. Bu yıl, baharatlı mezelerle denenebilir.",
+  "profil_kaynak": "https://degustasyon.net/arda-gala-roze-2020-edirne/"
+ },
+ {
+  "id": "la-mon-reve-tempranillo-shiraz-rose",
+  "ad": "La Mon Rêve Tempranillo – Shiraz Rose",
+  "uretici": "Lucien Arkas",
+  "il": "İzmir",
+  "bolge": "Ege (Torbalı)",
+  "renk": "roze",
+  "uzum": [
+   "Tempranillo",
+   "Shiraz"
+  ],
+  "yil": "2020",
+  "abv": 13.5,
+  "tat": "Roze şarap: frenküzümü, dağ çileği, şeftali aromalı.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/la-mon-reve-tempranillo-shiraz-rose-2020-izmir/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Frenküzümü, dağ çileği, beyaz şeftali ve nektarin çağrışımlı aromalara sahip.",
+  "agiz": "Ağızda hafif tanenli, asidite biraz düşük, damakta da kısa kalıyor.",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/la-mon-reve-tempranillo-shiraz-rose-2020-izmir/"
+ },
+ {
+  "id": "doluca-hayal-rose",
+  "ad": "Hayal Rose",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege ve Trakya bağları",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Grenache"
+  ],
+  "yil": "2019",
+  "abv": 14.0,
+  "tat": "Roze şarap: frenküzümü, elma, ayva aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/doluca-hayal-rose-2019-ege-trakya/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü, olgun elma ve ayva çağrışımlı aromalara sahip.",
+  "agiz": "Dolgunca, diri asiditeli, hafif tanenli, temiz ve ferahlatıcı bir roze.",
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/doluca-hayal-rose-2019-ege-trakya/"
+ },
+ {
+  "id": "suvla-kabatepe-blush",
+  "ad": "Kabatepe Blush",
+  "uretici": "Suvla",
+  "il": "Çanakkale",
+  "bolge": "Trakya (Gelibolu Yarımadası)",
+  "renk": "roze",
+  "uzum": [
+   "Syrah",
+   "Merlot",
+   "Çalkarası"
+  ],
+  "yil": "2020",
+  "abv": 13.0,
+  "tat": "Roze şarap: çilek aromalı; canlı asiditeli, dolgun gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/suvla-kabatepe-blush-2020-eceabat/"
+  ],
+  "gorunum": "Canlı pembe renkte.",
+  "koku": "Burunda çilek başta olmak üzere kırmızı meyve aromaları belirgin.",
+  "agiz": "Ağızda da taze, canlı ve ferahlatıcı, diri asiditeli ama dolgun bir roze. Bir blush’tan fazlası.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/suvla-kabatepe-blush-2020-eceabat/"
+ },
+ {
+  "id": "doluca-vinea-rose",
+  "ad": "Vinea Rose",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege bağları",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası",
+   "Kalecik Karası"
+  ],
+  "yil": "2019",
+  "abv": 14.0,
+  "tat": "Roze şarap: çilek aromalı.",
+  "puan": 73,
+  "puan_not": "degustasyon.net 4.5/10 → 73",
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/doluca-vinea-rose-2019-ege/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burunda olgun çilek kokuları ön planda.",
+  "agiz": "Damakta asidite keskin, damağı kurutacak denli de tanenli. Bir rozeden beklenen ferahlatıcılıktan biraz uzak.",
+  "profil_kaynak": "https://degustasyon.net/doluca-vinea-rose-2019-ege/"
+ },
+ {
+  "id": "kayra-allure-beyaz-kalecik-karasi",
+  "ad": "Allure Beyaz Kalecik Karası",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Denizli üzümleri, Şarköy'de üretildi",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "abv": 12.0,
+  "tat": "Roze şarap: frenküzümü, ahududu aromalı; hafif gövdeli.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-allure-beyaz-kalecik-karasi-2020-denizli/"
+  ],
+  "gorunum": "Uçuk gül pembesi renginde.",
+  "koku": "Burun ve damakta çok canlı ve taze, frenküzümü ve ahududu çağrışımlı aromalara sahip.",
+  "agiz": "Çok hafif ve zarif bir roze, ipeksi dokusuyla dili okşuyor. Yeni kuşak Côtes de Provence’lar stilinde yapılmış. İdeal bir aperitif, hafif başlangıçlarla da denenebilir.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-allure-beyaz-kalecik-karasi-2020-denizli/",
+  "profil_rekolte": "2020",
+  "profil_not": "Tadım notu 2020 rekoltesine aittir (Ekim 2021 yazısı); sonraki rekolteler farklı olabilir."
+ },
+ {
+  "id": "kayra-allure-kalecik-karasi",
+  "ad": "Allure Kalecik Karası",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Denizli üzümleri, Şarköy'de üretildi",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2024",
+  "abv": 13.5,
+  "tat": "Kırmızı şarap: çilek, ahududu, kiraz aromalı; canlı asiditeli.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 815,
+  "tl_kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-allure-kalecik-karasi-2024-denizli/"
+  ],
+  "gorunum": "Açık yakut renginde.",
+  "koku": "Burunda çilek, ahududu ve kiraz çağrışımlarına menekşemsi nüanslar eşlik ediyor.",
+  "agiz": "Damakta da yoğun meyvemsilikte, yumuşak tanenli ve canlı asiditeli. Çok rahat içimli bir kırmızı, Beaujolais şaraplarını andırıyor.",
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-allure-kalecik-karasi-2024-denizli/"
+ },
+ {
+  "id": "kayra-allure-crispy-chardonnay",
+  "ad": "Allure Crispy Chardonnay",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Denizli üzümleri, Şarköy'de üretildi",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2024",
+  "abv": 13.0,
+  "tat": "Beyaz şarap: çimen, elma, misket aromalı; canlı asiditeli.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 815,
+  "tl_kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-allure-crispy-chardonnay-2024-denizli/"
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Burunda yeni biçilmiş çimen, yeşil elma ve misket limonunu andıran narenciyemsi aromalar ön planda. Damakta da aromatik, limonsu, diri asiditeli ve “yeşil” bir şarap.",
+  "agiz": "Taze ve ferahlatıcı, adı gibi “körpe”.",
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-allure-crispy-chardonnay-2024-denizli/"
+ },
+ {
+  "id": "kayra-cameo",
+  "ad": "Cameo",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "kopuren",
+  "uzum": [
+   "Chardonnay",
+   "Sauvignon Blanc",
+   "Misket"
+  ],
+  "yil": "2021",
+  "abv": 12.5,
+  "tat": "Köpüren şarap: misket, üzüm, çiçek aromalı; hafif gövdeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-cameo-2021-tekirdag/"
+  ],
+  "gorunum": "Yeşil röfleli açık sarı renkte.",
+  "koku": "Burun ve damakta Misket üzümünden gelen çiçeksi ve taze üzüm çağrışımlı aromalar belirgin.",
+  "agiz": "Yoğun ve canlı köpüklü. İtalyan Spumante’lerini andıran, hafif ve sevimli bir köpüklü şarap.",
+  "servis": "6-8 °C",
+  "alkol_seker": "ekstra sek",
+  "profil_kaynak": "https://degustasyon.net/kayra-cameo-2021-tekirdag/"
+ },
+ {
+  "id": "kayra-madre",
+  "ad": "Madre",
+  "uretici": "Kayra",
+  "il": "Elazığ",
+  "bolge": "Elazığ",
+  "renk": "fortifiye",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "abv": 18.5,
+  "tat": "Fortifiye şarap: ayva, kuru kayısı, badem aromalı; dolgun gövdeli.",
+  "puan": 90,
+  "puan_not": "degustasyon.net 8/10 → 90",
+  "tl": 1655,
+  "tl_kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-madre-elazig-2/"
+  ],
+  "gorunum": "Gülkurusu renginde.",
+  "koku": "Olgun ayva, kuru kayısı, pekmez ve pestil gibi bukelere kavrulmuş badem, fındık ve ceviz çağrışımları eşlik ediyor. Dolgun, yağlı, güçlü; tatlılık asiditeyle iyi dengelenmiş, tuzlu nüanslar bile hissediliyor.",
+  "agiz": "“Soylu” bir oksidasyonla kişilik kazanmış zarif ve dengeli bir maderize şarap.",
+  "servis": "14-16 °C",
+  "profil_kaynak": "https://degustasyon.net/kayra-madre-elazig-2/"
+ },
+ {
+  "id": "kayra-heritage-episode-i",
+  "ad": "Heritage Episode I",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy) ve Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Zinfandel"
+  ],
+  "yil": "2014",
+  "abv": 14.5,
+  "tat": "Kırmızı şarap: kuru incir, baharat aromalı; dolgun gövdeli.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kayra-heritage-episode-i-2014-tekirdag/"
+  ],
+  "gorunum": "Koyu yakut renginde, kiremitsi röfleler de seziliyor.",
+  "koku": "Kuru incir ve tatlı baharat çağrışımlı bukeler ön planda.",
+  "agiz": "Yoğun ve dolgun, tanenleri yuvarlak ve kadifemsi. Sicilya kırmızılarını andıran, dengeli ve ideal içim olgunluğunda bir şarap.",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/kayra-heritage-episode-i-2014-tekirdag/"
+ },
+ {
+  "id": "kayra-terra-varietal-okuzgozu",
+  "ad": "Terra Varietal Öküzgözü",
+  "uretici": "Kayra",
+  "il": "Elazığ",
+  "bolge": "Elazığ",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2021",
+  "abv": 14.5,
+  "tat": "Kırmızı şarap: kuru incir, vişne, toprak aromalı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-terra-varietal-okuzgozu-2021-elazig/"
+  ],
+  "gorunum": "Mor röfleli bordo renginde.",
+  "koku": "Kuru incir ve karanfil çağrışımlı bukelere vişnemsi ve topraksı tonlar eşlik ediyor.",
+  "agiz": "Orta gövdeli, yoğun tanenleri belirgin bir asiditeyle dengeleniyor. Canlı ve rahat içimli bir kırmızı.",
+  "yillanma": "2-3 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-terra-varietal-okuzgozu-2021-elazig/"
+ },
+ {
+  "id": "kayra-terra-cabernet-sauvignon-merlot",
+  "ad": "Terra Cabernet Sauvignon – Merlot",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2022",
+  "abv": 14.0,
+  "tat": "Kırmızı şarap: vişne aromalı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-terra-cabernet-sauvignon-merlot-2022-trakya/"
+  ],
+  "gorunum": "Bordo renginde, lacivert röfleler de görülüyor.",
+  "koku": "Burunda katransı ve reçelsi siyah meyvemsi bukeler ön planda. Vişne ve karanfil çağrışımları hissediliyor.",
+  "agiz": "Ağızda orta gövdeli, çok yoğun tanenli, biraz ağır ve zor içimli.",
+  "yillanma": "2-3 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-terra-cabernet-sauvignon-merlot-2022-trakya/"
+ },
+ {
+  "id": "kayra-terra-varietal-series-shiraz",
+  "ad": "Terra Varietal Series Shiraz",
+  "uretici": "Kayra",
+  "il": "Denizli",
+  "bolge": "Denizli (Güney)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz"
+  ],
+  "yil": "2022",
+  "abv": 14.5,
+  "tat": "Kırmızı şarap: vanilya, çikolata aromalı; hafif gövdeli.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-terra-varietal-series-shiraz-2022-denizli/"
+  ],
+  "gorunum": "Mor röfleli koyu bordo renginde.",
+  "koku": "Burunda vanilya, çikolata, hindistancevizi ve karanfil çağrışımlı bukeler ön planda, yanıksı-katransı nüanslara da sahip.",
+  "agiz": "Ağızda ince yapılı ve biraz gevşek dokulu, hafif tanenli ve rahat içimli. Fıçı biraz öne çıkmış ve meyvemsiliği gölgelemiş.",
+  "servis": "16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-terra-varietal-series-shiraz-2022-denizli/"
+ },
+ {
+  "id": "kayra-terra-varietal-series-narince",
+  "ad": "Terra Varietal Series Narince",
+  "uretici": "Kayra",
+  "il": "Tokat",
+  "bolge": "Karadeniz (Tokat)",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2022",
+  "abv": 12.0,
+  "tat": "Beyaz şarap: mineral aromalı.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-terra-varietal-series-narince-2022-tokat/"
+  ],
+  "gorunum": "Açık sarı renkte.",
+  "koku": "Turunçgilleri çağrıştıran koku ve tadlar ön planda, mineralsi nüanslar da hissediliyor.",
+  "agiz": "Finalde hafif tuzlumsu izler bırakan dengeli ve ferahlatıcı bir beyaz.",
+  "servis": "8-10 °C",
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/kayra-terra-varietal-series-narince-2022-tokat/"
+ },
+ {
+  "id": "kayra-leona-bloom",
+  "ad": "Leona Bloom",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "beyaz",
+  "uzum": [
+   "Misket"
+  ],
+  "yil": "2020",
+  "abv": 12.0,
+  "tat": "Beyaz şarap: bal, çiçek aromalı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/leona-bloom-2020-tekirdag/"
+  ],
+  "gorunum": "Açık sarı renkte.",
+  "koku": "Burun ve damakta canlı meyvemsilikte, bal ve çiçek aromalarına da sahip.",
+  "agiz": "Tatlılığı kararında, şeker iç baymıyor, asidite denge yaratıyor. İyi soğutulup aperitif olarak ya da hafif başlangıçlarla içilebilecek ferahlatıcı bir beyaz.",
+  "alkol_seker": "dömisek",
+  "profil_kaynak": "https://degustasyon.net/leona-bloom-2020-tekirdag/"
+ },
+ {
+  "id": "kayra-leona-blush",
+  "ad": "Leona Blush",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Shiraz"
+  ],
+  "yil": "2020",
+  "abv": 12.5,
+  "tat": "Roze şarap: frenküzümü, dağ çileği, portakal aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/leona-blush-2020-tekirdag/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burun ve damakta frenküzümü, dağ çileği, kan portakalı ve gül aromalarına sahip.",
+  "agiz": "Damakta taze ve ferahlatıcı, diri asiditeli, çok sek ve biraz tuzlumsu. Hafif bir tanen de burukluk veriyor.",
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/leona-blush-2020-tekirdag/"
+ },
+ {
+  "id": "kayra-vintage-rose",
+  "ad": "Vintage Rose (Öküzgözü)",
+  "uretici": "Kayra",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2021",
+  "abv": 11.0,
+  "tat": "Roze şarap: şeftali, bal aromalı; dolgun gövdeli.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/kayra-vintage-rose-2021-denizli/",
+   "https://degustasyon.net/kayra-vintage-okuzgozu-rose-2021-denizli/"
+  ],
+  "gorunum": "Koyu pembe renginde, turuncu röfleler de gözleniyor.",
+  "koku": "Meyvemsi ve baharlı aromalara sahip, şeftali ve balkabağı çağrıımları hissediliyor.",
+  "agiz": "Yağlı dokulu, dolgun yapılı, akıcı ve damakta uzun kalıcılıkta bir roze.",
+  "servis": "8-10 °C",
+  "yillanma": "2-3 yıl içinde",
+  "alkol_seker": "sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kayra-vintage-rose-2021-denizli/"
+ },
+ {
+  "id": "kayra-ambrosia",
+  "ad": "Ambrosia (Experimental Series)",
+  "uretici": "Kayra",
+  "il": "Elazığ",
+  "bolge": "Elazığ",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2020",
+  "abv": 16.4,
+  "tat": "Kırmızı şarap: mürdümeriği, kuru incir, kuru erik aromalı; dolgun gövdeli.",
+  "puan": 95,
+  "puan_not": "degustasyon.net 9/10 → 95",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kayra-ambrosia-2020-elazig/"
+  ],
+  "gorunum": "Çok koyu, siyahî bordo.",
+  "koku": "Burun ve damakta müthiş zengin; mürdümeriği, kuru incir, kuru erik, meşe, çikolata ve mentol çağrışımlı bukelere sahip. Havalandıkça vişne, mahlep, deri ve tütün nüansları da beliriyor.",
+  "agiz": "Dolgun, “etli” dokulu, süper konsantre bir kırmızı. Aşırı olgun üzümlerden yapılmasına rağmen dengeleyici bir asiditeye sahip, yüksek alkol de gövdede eriyor ve hissedilmiyor. Ağızda çok uzun kalıcılıkta.",
+  "profil_kaynak": "https://degustasyon.net/kayra-ambrosia-2020-elazig/"
+ },
+ {
+  "id": "kayra-karkus-old-vine",
+  "ad": "Karkuş Old Vine",
+  "uretici": "Kayra",
+  "il": "Şırnak",
+  "bolge": "Güneydoğu Anadolu (Şırnak, Midin)",
+  "renk": "turuncu",
+  "uzum": [
+   "Karkuş"
+  ],
+  "yil": "2022",
+  "abv": 15.0,
+  "tat": "Turuncu (kabukla mayalanmış) şarap: ceviz, kuru kayısı, ayva aromalı; dolgun gövdeli.",
+  "puan": 90,
+  "puan_not": "degustasyon.net 8/10 → 90",
+  "tl": 0,
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kayra-karkus-old-vine-2022-sirnak/"
+  ],
+  "gorunum": "Buğulu turuncu renkte.",
+  "koku": "Burun ve damakta ceviz, yeni kavrulmuş kabak çekirdeği, kuru kayısı ve ayva gibi bukeler belirgin.",
+  "agiz": "Okside tonlar var ama itici değil, ağızda sek, buruk ve tanenli, hafif tuzlu. Dolgun yapılı ve kaygan dokulu. Doğal şarapların içim zevki veren iyi bir örneği.",
+  "servis": "12-14 °C",
+  "yillanma": "4-5 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/kayra-karkus-old-vine-2022-sirnak/"
+ },
+ {
+  "id": "kayra-cumartesi-blush",
+  "ad": "Cumartesi Blush",
+  "uretici": "Kayra",
+  "il": "Tekirdağ",
+  "bolge": "Denizli üzümleri, Şarköy'de üretildi",
+  "renk": "roze",
+  "uzum": [
+   "Çalkarası"
+  ],
+  "yil": "2016",
+  "abv": 12.5,
+  "tat": "Roze şarap: çilek, ahududu aromalı; canlı asiditeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/cumartesi-blush-2016-denizli/"
+  ],
+  "gorunum": "Canlı gül pembesi renginde.",
+  "koku": "Çilek, ahududu ve yeşil yaprak kokulu. Ağızda da canlı meyvemsilikte, temiz, canlı ve aromatik.",
+  "agiz": "Körpe ve diri asiditeli bir roze.",
+  "servis": "6-8 °C",
+  "profil_kaynak": "https://degustasyon.net/cumartesi-blush-2016-denizli/"
+ }
+]

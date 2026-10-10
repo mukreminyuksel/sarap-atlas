@@ -70,7 +70,18 @@
    "https://kavaklidere.com/urunler/",
    "https://iyisarap.plus/products/kavaklidere-cotes-davanos-methode-charmat",
    "https://degustasyon.net/kavaklidere-cotes-davanos-methode-charmat-2023-kapadokya/"
-  ]
+  ],
+  "gorunum": "Açık sarı tonlarda, bol ve yoğun köpüklü.",
+  "koku": "Emir’in tipik elma aromalarına taze üzüm çeşnileri eşlik ediyor.",
+  "servis": "6-8 °C",
+  "yemek": [
+   "meyveler",
+   "meyveli turtalar",
+   "tatlı-ekşi soslu Asya lezzetleri",
+   "aperitif ikramları"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/kavaklidere-cotes-davanos-methode-charmat",
+  "alkol_seker": "Brut"
  },
  {
   "id": "kavaklidere-cotes-davanos-sauvignon-blanc-2024",
@@ -95,7 +106,18 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-cotes-davanos-sauvignon-blanc",
    "https://degustasyon.net/kavaklidere-cotes-davanos-sauvignon-blanc-2024-kapadokya/"
-  ]
+  ],
+  "koku": "Burun ve damakta misket limonu, greyfurt ve yeni biçilmiş çimen çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Dolgun gövdeli, yoğun ve kaygan dokulu.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "taze keçi peyniri",
+   "istiridye ve deniz tarağı gibi kabuklu deniz ürünleri",
+   "egzotik Asya yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-cotes-davanos-sauvignon-blanc-2024-kapadokya/"
  },
  {
   "id": "kavaklidere-cotes-davanos-chardonnay-2024",
@@ -120,7 +142,18 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-cotes-davanos-chardonnay-2024-kapadokya/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı tonlarında.",
+  "koku": "Burun ve damakta bal peteği, vanilya, nektarin ve armut çağrışımları hissediliyor, çiçeksi ve mineralsi tonlar da beliriyor.",
+  "yillanma": "3-4 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "kabuklu deniz ürünleri",
+   "tereyağlı ya da krema soslu balıklar",
+   "organik kümes hayvanları"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-cotes-davanos-chardonnay-2024-kapadokya/"
  },
  {
   "id": "kavaklidere-cotes-davanos-narince-2024",
@@ -169,7 +202,19 @@
    "https://kavaklidere.com/urunler/",
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-cotes-davanos-rose-2024-kapadokya/"
-  ]
+  ],
+  "gorunum": "Uçuk pembe renkte.",
+  "koku": "Gül, nektarin ve kan portakalı çağrışımlı bukelere sahip, burun ve damakta çok zarif ve ipeksi dokulu.",
+  "agiz": "Diri asiditeli, gövdeli, yağlı ve kaygan dokulu.",
+  "yillanma": "3-4 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "yuzu soslu Asya yemekleri",
+   "kabuklu deniz ürünleri",
+   "süt danası, süt kuzusu ve ördek göğsü gibi pembe etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-cotes-davanos-rose-2023-kapadokya/"
  },
  {
   "id": "kavaklidere-cotes-davanos-tempranillo-2022",
@@ -194,7 +239,16 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-cotes-davanos-tempranillo",
    "https://degustasyon.net/cotes-davanos-tempranillo-2022-kapadokya/"
-  ]
+  ],
+  "gorunum": "Koyu mor renkte.",
+  "koku": "Vişne, kiraz, karadut, olgun kayısı ve vanilya çağrışımlı bukeler ön planda. Vişne, mahlep, yabanmersini ve mentol gibi bukelere çiçeksi nüanslar eşlik ediyor.",
+  "agiz": "Olgun ama yoğun tanenli, canlı asiditeli, çok dengeli ve enerjik bir kırmızı. Gövdeli, belirgin ve esnek tanenleri diri bir asiditeyle dengelenmiş.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "Osmanlı mutfağının meyveli et yemekleri",
+   "hafif mayhoş çeşnili kebaplar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/cotes-davanos-tempranillo-2022-kapadokya/"
  },
  {
   "id": "kavaklidere-cotes-davanos-kalecik-karasi-2022",
@@ -218,7 +272,17 @@
    "https://kavaklidere.com/urunler/",
    "https://iyisarap.plus/products/kavaklidere-cotes-davanos-kalecik-karasi",
    "https://degustasyon.net/kavaklidere-cotes-davanos-kalecik-karasi-2022-kapadokya/"
-  ]
+  ],
+  "koku": "Kırmızı meyvemsi, topraksı ve hafif baharlı bukeler ilginç bir armoni yaratmış.",
+  "agiz": "Orta gövdeli, yumuşak, narin ve zarif bir kırmızı.",
+  "yillanma": "3-5 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "av kuşları",
+   "süt danası, süt kuzusu ve oğlak gibi körpe etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-cotes-davanos-kalecik-karasi-2022-kapadokya/"
  },
  {
   "id": "kavaklidere-emir-2024",
@@ -243,7 +307,20 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-emir",
    "https://degustasyon.net/kavaklidere-emir-2023-kapadokya/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Burunda turunçgil çağrışımlı aromalar belirgin.",
+  "agiz": "Damakta yağlı ve dolgun, diri asiditeli, adeta çeliksi bir dirilikte.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "zengin salatalar",
+   "zeytinyağlı sebzeler",
+   "sebzeli vegan/vejetaryen yemekler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-emir-2023-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-altin-kopuk-2023",
@@ -294,14 +371,25 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-pendore-harmonie",
    "https://degustasyon.net/kavaklidere-pendore-harmonie-2021-manisa/"
-  ]
+  ],
+  "gorunum": "Koyu mor tonlarda.",
+  "koku": "Burun ve damakta henüz biraz kapalı, baharlı ve kuru meyvemsi bukeler ön planda.",
+  "agiz": "Gövdeli, sıkı dokulu, güçlü ama olgun tanenlere sahip.",
+  "yillanma": "1-2 yıl sonra açılmalı, 2030'a kadar",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "etin kemiğiyle uzun piştiği rüstik yahniler",
+   "dinlenmiş biftekler"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/kavaklidere-pendore-harmonie",
+  "alkol_seker": "Sek (kuru)"
  },
  {
   "id": "kavaklidere-pendore-syrah-2022",
   "ad": "Pendore Syrah",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "kirmizi",
   "uzum": [
    "Syrah"
@@ -319,14 +407,27 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-pendore-syrah-2022-manisa/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Koyu bordo tonlarında, mor röfleler de seziliyor.",
+  "koku": "Burun ve damakta deri ve tütün çağrışımlı bukelere olgun siyah meyve ve tatlı baharat bukeleri eşlik ediyor.",
+  "agiz": "Gövdeli, baharlı, yoğun ama olgun tanenli bir kırmızı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "etin kemiğiyle uzun piştiği yahniler",
+   "dinlenmiş biftekler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-pendore-syrah-2022-manisa/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-pendore-syrah-2022-manisa/"
  },
  {
   "id": "kavaklidere-pendore-okuzgozu-2022",
   "ad": "Pendore Öküzgözü",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "kirmizi",
   "uzum": [
    "Öküzgözü"
@@ -344,7 +445,19 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-pendore-okuzgozu-2022-manisa/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli koyu yakut renginde.",
+  "koku": "Mürdümeriği ve karadutu andıran siyah meyvemsi bukelerin ön planda olduğu canlı meyvemsilikte bir kırmızı.",
+  "yillanma": "4-5 yıl içinde",
+  "servis": "karafa aktarılması önerilir",
+  "yemek": [
+   "etin kemiğiyle piştiği yahniler",
+   "etin meyvelerle piştiği Osmanlı yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-pendore-okuzgozu-2022-manisa/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-pendore-okuzgozu-2022-manisa/"
  },
  {
   "id": "kavaklidere-pendore-esprit-des-sommeliers-2022",
@@ -370,14 +483,16 @@
    "https://kavaklidere.com/urunler/",
    "https://iyisarap.plus/products/kavaklidere-pendore-esprit-des-sommeliers",
    "https://degustasyon.net/kavaklidere-pendore-esprit-des-sommeliers-2020-manisa/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/kavaklidere-pendore-esprit-des-sommeliers"
  },
  {
   "id": "kavaklidere-misket-2024",
   "ad": "Kavaklıdere Misket",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "beyaz",
   "uzum": [
    "Bornova Misketi"
@@ -395,7 +510,22 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-misket",
    "https://degustasyon.net/kavaklidere-misket-2024-manisa/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı tonlarda.",
+  "koku": "Liçi meyvesi ve gül gibi tipik Misket aromaları burunda ve damakta belirgin, narenciyemsi tonlar da hissediliyor.",
+  "agiz": "Ağızda dolgun, kaygan, yağlı dokulu. Canlı asiditeli, mineralsi tonlar da hissediliyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "baharatlı Asya yemekleri",
+   "kümes hayvanları",
+   "balıklar",
+   "zengin salatalar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-misket-2024-manisa/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-misket-2024-manisa/"
  },
  {
   "id": "kavaklidere-prestige-kalecik-karasi-2022",
@@ -420,7 +550,17 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-prestige-kalecik-karasi",
    "https://degustasyon.net/kavaklidere-prestige-kalecik-karasi-2022-ankara/"
-  ]
+  ],
+  "koku": "Burun ve damakta canlı meyvemsilikte, siyah kiraz, vişne, kızılcık ve mürdümeriği çağrışımlı meyvemsi tonlara baharlı, derimsi ve topraksı nüanslar eşlik ediyor.",
+  "agiz": "Gövdeli, olgun, tanenleri kadifemsi yumuşaklıkta.",
+  "yillanma": "4-5 yıl içinde",
+  "yemek": [
+   "kuzu, süt danası ve ördek gibi etler",
+   "yaban mantarları",
+   "Osmanlı mutfağının etli-meyveli tencere yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-prestige-kalecik-karasi-2022-ankara/"
  },
  {
   "id": "kavaklidere-prestige-okuzgozu-2021",
@@ -445,7 +585,17 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-prestige-okuzgozu",
    "https://degustasyon.net/kavaklidere-prestige-okuzgozu-2021-elazig/"
-  ]
+  ],
+  "koku": "Vişne, kiraz, kuşburnu ve kızılcık çağrışımlı meyvemsi bukeler çok canlı ve belirgin, baharlı tonlar da onlara eşlik ediyor.",
+  "yillanma": "4-5 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "kapama ve tandır türü kuzu yemekleri",
+   "kaburga dolması gibi baharatlı etler",
+   "dinlenmiş biftekler"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/kavaklidere-prestige-okuzgozu",
+  "alkol_seker": "Sek (kuru)"
  },
  {
   "id": "kavaklidere-prestige-bogazkere-2019",
@@ -470,7 +620,11 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://iyisarap.plus/products/kavaklidere-prestige-bogazkere",
    "https://degustasyon.net/kavaklidere-prestige-bogazkere-2022-diyarbakir/"
-  ]
+  ],
+  "koku": "Burunda deri, baharat, kuru kırmızı meyve ve topraksı notalara sahip.",
+  "agiz": "Damakta olgun ve güçü tanenli, tam gövdeli ve uzun bitişli bir kırmızıdır.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/kavaklidere-prestige-bogazkere"
  },
  {
   "id": "kavaklidere-selection-narince-emir-2022",
@@ -496,7 +650,21 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-selection-beyaz-2023-tokat-nevsehir/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Burun ve damakta narenciyemsi ve çiçeksi bukelere mineralsi tonlar eşlik ediyor.",
+  "agiz": "Gövdeli, kaygan dokulu, belirgin asiditeli ve dengeli bir beyaz.",
+  "yillanma": "4-5 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "yağlı balıklar",
+   "kabuklu deniz ürünleri",
+   "organik kümes hayvanları",
+   "yaban mantarlı yemekler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-selection-beyaz-2023-tokat-nevsehir/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-selection-okuzgozu-bogazkere-2022",
@@ -522,14 +690,25 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-selection-kirmizi-2021-dogu-g-dogu/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Mor röfleli koyu bordo renginde.",
+  "koku": "Napolyon kiraz ve mürdümeriğini andıran olgun kırmızı meyvemsi bukelere baharlı tonlar eşlik ediyor.",
+  "yillanma": "5-6 yıl içinde",
+  "servis": "karafa aktarılması önerilir",
+  "yemek": [
+   "kuzu etleri",
+   "av etleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-selection-kirmizi-2021-dogu-g-dogu/",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-egeo-sauvignon-blanc-2024",
   "ad": "Egeo Sauvignon Blanc",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Sauvignon Blanc"
@@ -547,14 +726,28 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-sauvignon-blanc-2024-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Turunç, yeşil elma ve Ankara armudu gibi meyveleri çağrıştıran taze ve canlı aromalara sahip.",
+  "agiz": "Orta gövdeli, diri asiditeli ve ferahlatıcı bir beyaz.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "ızgara ve tava yağlı balıklar",
+   "suşi ve saşimi gibi Asya lezzetleri",
+   "taze keçi ve tulum peyniri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-sauvignon-blanc-2024-denizli/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-sauvignon-blanc-2024-denizli/"
  },
  {
   "id": "kavaklidere-egeo-fume-blanc-2024",
   "ad": "Egeo Fumé Blanc",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Sauvignon Blanc"
@@ -571,14 +764,28 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-egeo-fume-blanc-2023-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burunda fıçıdan gelen hafif füme tonlara greyfurt, elma ve armut çağrışımlı kokular eşlik ediyor.",
+  "agiz": "Damakta da narenciyemsi ve mineralsi tonlar belirgin, finalde limon çekirdeğini anımsatan bir burukluk bırakıyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "bol baharatlı Asya yemekleri",
+   "yağlı balıklar",
+   "organik kümes hayvanları"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-fume-blanc-2023-denizli/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-fume-blanc-2023-denizli/"
  },
  {
   "id": "kavaklidere-egeo-chardonnay-2024",
   "ad": "Egeo Chardonnay",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Chardonnay"
@@ -596,7 +803,19 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-chardonnay-2024-guney/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Burun ve damakta canlı, taze ve aromatik; olgun elma, armut, nektarin, beyaz şeftali ve misket limonunu çağrıştıran koku ve tadlar hissediliyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "ızgara ve tava yağlı balıklar",
+   "Asya mutfağının baharatlı beyaz et yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-chardonnay-2024-guney/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-chardonnay-2024-guney/"
  },
  {
   "id": "kavaklidere-egeo-roze-2024",
@@ -623,14 +842,26 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-rose-2024-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Uçuk pembe renkli, çok açık tonlarda.",
+  "koku": "Ahududu, dağ çileği ve beyaz kiraz aromaları yoğun ve belirgin.",
+  "agiz": "Ağızda dolgun, yağlı dokulu, hafif tatlımsı izler bırakıyor. Dengeli ve damakta kalıcı Provensal stilde bir “yemek rozesi”.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "süt danası, oğlak ve körpe kuzu gibi pembe etler",
+   "zengin salatalar",
+   "baharatlı Asya yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-rose-2024-denizli/"
  },
  {
   "id": "kavaklidere-egeo-cabernet-sauvignon-2021",
   "ad": "Egeo Cabernet Sauvignon",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "kirmizi",
   "uzum": [
    "Cabernet Sauvignon"
@@ -648,14 +879,22 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-cabernet-sauvignon-2022-ege/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Olgun kırmızı meyve, özellikle de siyah kiraz bukelerine tatlı baharat çağrışımları eşlik ediyor.",
+  "agiz": "Gövdeli, olgun, tanenleri kadifemsi yumuşaklıkta.",
+  "yillanma": "2-3 yıl bekletilebilir",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-cabernet-sauvignon-2022-ege/",
+  "profil_not": "Kaynaktaki tadım notu 2022 rekoltesine aittir; bu şarabın 2021 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-cabernet-sauvignon-2022-ege/"
  },
  {
   "id": "kavaklidere-egeo-merlot-2022",
   "ad": "Egeo Merlot",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "kirmizi",
   "uzum": [
    "Merlot"
@@ -673,7 +912,17 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-merlot-2022-ege/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Kuru meyve ve tatlı baharat bukeleri ön planda, zarif ve rahat içimli.",
+  "agiz": "Gövdeli, yoğun ama yumuşak tanenli, canlı bir asiditeye de sahip. Dengeli ve damakta uzun kalıcılıkta.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "av etleri",
+   "dinlenmiş biftekler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-merlot-2022-ege/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-merlot-2022-ege/"
  },
  {
   "id": "kavaklidere-egeo-malbec-2024",
@@ -705,7 +954,7 @@
   "ad": "Egeo Syrah",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "kirmizi",
   "uzum": [
    "Syrah"
@@ -723,14 +972,26 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-syrah-2021-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burunda katransı, topraksı ve reçelsi siyah meyve çağrışımlı bukeler ön planda. Damakta da siyah ve kırmızı meyve bukelerine tatlı baharat tonları eşlik ediyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "16-18 °C; karafa aktarılmalı",
+  "yemek": [
+   "baharatlı etler",
+   "az acılı kebaplar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-syrah-2021-denizli/",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-syrah-2021-denizli/"
  },
  {
   "id": "kavaklidere-egeo-blend-2022",
   "ad": "Egeo Merlot-Syrah-Cabernet Sauvignon",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "kirmizi",
   "uzum": [
    "Merlot",
@@ -750,14 +1011,28 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-merlot-syrah-c-sauvignon-2022-guney/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Koyu bordo renginde, diskin kenarlarında hafif açılmalar da gözleniyor.",
+  "koku": "Burun ve damakta olgun siyah meyve bukelerine tütün ve tatlı baharat çağrışımları eşlik ediyor.",
+  "agiz": "Orta gövdeli, esnek tanenli, akıcı ve rahat içimli.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "16-18 °C",
+  "yemek": [
+   "kebaplar",
+   "köfte ve burgerler",
+   "etli-kıymalı hamurişleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-merlot-syrah-c-sauvignon-2022-guney/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-merlot-syrah-c-sauvignon-2022-guney/"
  },
  {
   "id": "kavaklidere-egeo-cabernet-franc-merlot-2022",
   "ad": "Egeo Cabernet Franc-Merlot",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "kirmizi",
   "uzum": [
    "Cabernet Franc",
@@ -776,14 +1051,26 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-egeo-cabernet-franc-merlot-2022-guney/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Karadut ve böğürtlen gibi siyah meyve bukelerine baharlı tonlar eşlik ediyor.",
+  "agiz": "Gövdeli, adeta etli dokulu, yoğun ama olgun tanenli tok bir kırmızı. Finalde baharlı izler bırakıyor.",
+  "yillanma": "2-3 yıl daha beklenebilir",
+  "servis": "16-18 °C",
+  "yemek": [
+   "ızgara kırmızı etler",
+   "az acılı kebaplar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-egeo-cabernet-franc-merlot-2022-guney/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-egeo-cabernet-franc-merlot-2022-guney/"
  },
  {
   "id": "kavaklidere-vinart-sauvignon-blanc-2024",
   "ad": "Vin&Art Sauvignon Blanc",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Sauvignon Blanc"
@@ -799,14 +1086,26 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-vinart-sauvignon-blanc-2024-denizli/"
-  ]
+  ],
+  "koku": "Burun ve damakta pasyon meyvesi ve misket limonu çağrışımlı koku ve tadlar belirgin. Aromatik, meyvemsi, canlı ve ferahlatıcı bir beyaz.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "taze keçi peyniri",
+   "beyaz etli başlangıçlar",
+   "Asya mutfakları"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-vinart-sauvignon-blanc-2024-denizli/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-vinart-sauvignon-blanc-2024-denizli/"
  },
  {
   "id": "kavaklidere-vinart-narince-chardonnay-2022",
   "ad": "Vin&Art Narince-Chardonnay",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Kapadokya",
   "renk": "beyaz",
   "uzum": [
    "Narince",
@@ -825,7 +1124,20 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-vinart-narince-chardonnay-2021-kapadokya/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi sarı renkte.",
+  "koku": "Burun ve damakta olgun elma ve kayısı çağrışımlı, çiçeksi nüanslar da hissediliyor.",
+  "agiz": "Dolgun, yağlı dokulu, canlı ve diri asiditeli bir beyaz.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "beyaz etler",
+   "ızgara balıklar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-vinart-narince-chardonnay-2021-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-vinart-narince-chardonnay-2021-kapadokya/"
  },
  {
   "id": "kavaklidere-vinart-kalecik-karasi-syrah-2022",
@@ -851,7 +1163,16 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-vinart-kalecik-karasi-syrah-2022-ic-anadolu-ege/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Mürdümeriği, böğürtlen, karadut ve vanilya çağrışımlı bukelere menekşemsi nüanslar eşlik ediyor.",
+  "agiz": "Orta gövdeli, olgun ve yuvarlak, esnek tanenli ve canlı asiditeli.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "pizza ve pide",
+   "köfte ve burger"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-vinart-kalecik-karasi-syrah-2022-ic-anadolu-ege/"
  },
  {
   "id": "kavaklidere-ancyra-narince-2024",
@@ -876,7 +1197,19 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-ancyra-narince-2023-ankara/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Olgun elma aromalarına topraksı nüanslar eşlik ediyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "ızgara yağlı balıklar",
+   "karides, ahtapot ve kalamar gibi deniz ürünleri",
+   "köy tavuğu",
+   "zengin salatalar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-narince-2023-ankara/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-ancyra-sauvignon-blanc-2024",
@@ -924,7 +1257,17 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-ancyra-sultaniye-emir-2023-ege-kapadokya/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Taze üzüm, elma ve armut aromalarının yanı sıra çiçeksi tonlar da burunda ön planda.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "hafif başlangıçlar",
+   "az baharatlı mezeler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-sultaniye-emir-2023-ege-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-ancyra-blush-2024",
@@ -951,7 +1294,18 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-ancyra-blush-2023-ankara/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Canlı ve parlak gül pembesi renginde.",
+  "koku": "Burunda baharlı tonlar ön planda, kırmızı meyvemsi nüanslar ise daha çok damakta hissediliyor.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "az baharatlı mezeler",
+   "oğlak, süt kuzusu ve süt danası gibi pembe etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-blush-2023-ankara/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-ancyra-kalecik-karasi-2024",
@@ -975,7 +1329,19 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-ancyra-kalecik-karasi-2024-ankara/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Nar renginde, pembe röfleler de gözleniyor.",
+  "koku": "Olgun çilek, siyah kiraz ve ahududu çağrışımlı aromalar burun ve damakta ön planda.",
+  "agiz": "Orta gövdeli, hafif ve biraz ham tanenli, yuvarlak, yumuşak ve akıcı bir kırmızı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "12-14 °C",
+  "yemek": [
+   "palamut ve ton balığı",
+   "köy tavuğu gibi beyaz etler",
+   "makarna, pide ve pizza"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-kalecik-karasi-2024-ankara/"
  },
  {
   "id": "kavaklidere-ancyra-okuzgozu-2024",
@@ -1000,14 +1366,26 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-ancyra-okuzgozu-2024-elazig/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Canlı ve parlak mor renkte.",
+  "koku": "Burunda mürdümeriği çağrışımlı meyvemsi bukelere çiçeksi ve hafif baharlı tonlar eşlik ediyor.",
+  "agiz": "Ağızda da meyvemsi, belki de şimdiye dek yapılan en meyvemsi Öküzgözü örneği. Çok rahat içimli, Beaujolais Nouveau şaraplarını andıran bir canlılık ve hafiflikte.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "12-14 °C",
+  "yemek": [
+   "uskumru, palamut ve ton gibi ağır lezzetli balıklar",
+   "etli-kıymalı hamurişleri",
+   "yoğurtlu kebap ve mantı gibi yoğurtlu etli yemekler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-okuzgozu-2024-elazig/"
  },
  {
   "id": "kavaklidere-ancyra-bogazkere-2024",
   "ad": "Ancyra Boğazkere",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "kirmizi",
   "uzum": [
    "Boğazkere"
@@ -1024,7 +1402,21 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-ancyra-bogazkere-2024-manisa/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Canlı ve parlak mor renkli.",
+  "koku": "Kızılcık ve mürdümeriği gibi mayhoş meyve kokularına çiçeksi nüanslar eşlik ediyor. Ağızda da meyvemsi bukelere baharlı ve hafif topraksı tonlar eşlik ediyor.",
+  "agiz": "Orta gövdeli, canlı asiditeli, yumuşak ve esnek tanenli bir kırmızı. Bir Boğazkere’de ender görülecek biçimde dengeli ve rahat içimli.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "14-16 °C",
+  "yemek": [
+   "yoğurtlu kebap ve mantı",
+   "etin meyvelerle piştiği Osmanlı yemekleri",
+   "kırmızı etli Asya yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-bogazkere-2024-manisa/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-ancyra-bogazkere-2024-manisa/"
  },
  {
   "id": "kavaklidere-ancyra-merlot-2024",
@@ -1049,7 +1441,19 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-ancyra-merlot-2023-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "İlk anda buruna itici kokular geliyor ama biraz havalandıktan sonra vişne, mürdüm eriği, böğürtlen ve siyah kiraz tonları da beliriyor.",
+  "agiz": "Orta gövdeli, hafif “yeşil” tanenli, belirgin asiditeli bir kırmızı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "karafa aktarılması önerilir",
+  "yemek": [
+   "az acılı kebaplar",
+   "köfte",
+   "etli-kıymalı hamurişleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-ancyra-merlot-2023-denizli/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-ancyra-cabernet-sauvignon-syrah-2024",
@@ -1101,14 +1505,27 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-cankaya-2023-ankara/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Olgun beyaz meyve çağrışımlı koku ve tadlara sahip.",
+  "agiz": "Dolgun yapılı ve yağlı kıvamlı, ferahlatıcı ve damakta kalıcı.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "hafif başlangıçlar",
+   "buğulama balıklar",
+   "beyaz soslu makarnalar",
+   "tavuk yemekleri"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-cankaya-2023-ankara/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-lal-2024",
   "ad": "Lal",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "roze",
   "uzum": [
    "Çal Karası"
@@ -1126,7 +1543,22 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-lal-2023-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Uçuk somon pembesi renginde.",
+  "koku": "Burun ve damakta ahududu ve frenküzümü gibi ırmızı meyvemsi aromalara hafif baharlı dokunuşlar eşlik ediyor.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "hafif başlangıçlar",
+   "az baharatlı mezeler",
+   "etli-kıymalı hamurişleri",
+   "tavuk yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-lal-2023-denizli/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-lal-2023-denizli/"
  },
  {
   "id": "kavaklidere-yakut-2023",
@@ -1154,14 +1586,26 @@
    "https://kavaklidere.com/odullerimiz/",
    "https://degustasyon.net/kavaklidere-yakut-2022-g-dogu-ege/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Vişne, Napolyon kiraz, toprak ve baharat kokuları burunda ön planda, menekşeyi andıran çiçeksi nüanslar da beliriyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "etli-kıymalı hamurişleri",
+   "köfte ve burger",
+   "az acılı kebaplar",
+   "ızgara kırmızı etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-yakut-2022-g-dogu-ege/",
+  "profil_not": "Kaynaktaki tadım notu 2022 rekoltesine aittir; bu şarabın 2023 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-primeur-beyaz-2024",
   "ad": "Primeur Beyaz",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Ege",
   "renk": "beyaz",
   "uzum": [
    "Sultaniye",
@@ -1178,7 +1622,19 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-primeur-beyaz-2024-ege/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte.",
+  "koku": "Burunda canlı ve aromatik, misket limonu, elma ve armut çağrışımlı aromalara sahip.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "taze peynirler",
+   "hafif başlangıçlar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-primeur-beyaz-2024-ege/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-primeur-beyaz-2024-ege/"
  },
  {
   "id": "kavaklidere-primeur-kirmizi-2024",
@@ -1201,14 +1657,24 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-primeur-kirmizi-2024-dogu-anadolu/"
-  ]
+  ],
+  "gorunum": "Koyu mor tonlarda.",
+  "koku": "Mürdümeriği çağrışımlı kırmızı meyve aromalarına çiçeksi ve baharlı nüanslar da eşlik ediyor.",
+  "agiz": "Belirgin ama yuvarlak tanenli ve canlı asiditeli bir kırmızı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "14-16 °C",
+  "yemek": [
+   "az acılı kebaplar",
+   "etli-kıymalı hamurişleri"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-primeur-kirmizi-2024-dogu-anadolu/"
  },
  {
   "id": "kavaklidere-angora-beyaz-2024",
   "ad": "Angora Beyaz",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Sultaniye"
@@ -1225,7 +1691,21 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-angora-beyaz-2024-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Saman sarısı renginde, şarabın tazeliğinden dolayı hafif kabarcıklar da gözleniyor.",
+  "koku": "Burun ve damakta taze üzüm, narenciye ve golden elma çağrışımlı meyvemsi aromalar canlı ve belirgin.",
+  "yillanma": "2026 sonuna kadar",
+  "servis": "6-8 °C",
+  "yemek": [
+   "taze peynirler",
+   "salatalar",
+   "çiğ deniz ürünleri",
+   "aperitif"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-angora-beyaz-2024-denizli/",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-angora-beyaz-2024-denizli/"
  },
  {
   "id": "kavaklidere-angora-roze-2024",
@@ -1249,7 +1729,18 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-angora-roze-2024-d-anadolu-ege/"
-  ]
+  ],
+  "gorunum": "Soluk pembe renkli.",
+  "koku": "Burun ve damakta olgun elma, pamuk helva ve mayhoş kırmızı meyve aromaları hissediliyor.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "domatesli ve baharatlı mezeler",
+   "pide ve pizza",
+   "hafif soslu makarnalar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-angora-roze-2024-d-anadolu-ege/"
  },
  {
   "id": "kavaklidere-angora-kirmizi-2023",
@@ -1276,7 +1767,20 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-angora-kirmizi-2024-ege-dogu-anadolu/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burun ve damakta vişne ve siyah kiraz aromalarına baharlı çağrışımlar eşlik ediyor.",
+  "agiz": "Orta gövdeli, yumuşak tanenlere canlı bir asidite eşlik ediyor, akıcı ve rahat içimli.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "şarküteri",
+   "yoğurtlu et yemekleri",
+   "etli-kıymalı hamurişleri",
+   "köfte ve burger"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-angora-kirmizi-2024-ege-dogu-anadolu/",
+  "profil_not": "Kaynaktaki tadım notu 2024 rekoltesine aittir; bu şarabın 2023 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-angora-black-2023",
@@ -1322,7 +1826,19 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-tigris-kirmizi-2024-ege-d-anadolu/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burunda taze kırmızı meyve aromaları, özellikle de vişne ve Napolyon kiraz çağrışımları hissediliyor.",
+  "agiz": "Ağızda da meyvemsi, ince yapılı, yumuşak tanenli ve canlı asiditeli.",
+  "yillanma": "2026 sonuna kadar",
+  "servis": "14-16 °C",
+  "yemek": [
+   "etli-kıymalı hamurişleri",
+   "mantı ve alinazik gibi yoğurtlu-etli yemekler",
+   "şarküteri",
+   "köfte ve burger"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-tigris-kirmizi-2024-ege-d-anadolu/"
  },
  {
   "id": "kavaklidere-tigris-beyaz-2024",
@@ -1350,7 +1866,7 @@
   "ad": "Kavaklıdere Sultaniye (yarı tatlı)",
   "uretici": "Kavaklıdere",
   "il": "Ankara",
-  "bolge": "Ankara",
+  "bolge": "Denizli",
   "renk": "beyaz",
   "uzum": [
    "Sultaniye"
@@ -1366,7 +1882,22 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-sultaniye-2023-denizli/"
-  ]
+  ],
+  "gorunum": "Saman sarısı renginde, yeşil röfleler de gözleniyor.",
+  "koku": "Burun ve damakta golden elma çağrışımlı, hafif mayhoş izler bırakıyor.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "Asya mutfağının başlangıçları",
+   "taze peynirler",
+   "meyveler"
+  ],
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-sultaniye-2023-denizli/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı.",
+  "bolge_eski": "Ankara",
+  "bolge_kaynak": "https://degustasyon.net/kavaklidere-sultaniye-2023-denizli/"
  },
  {
   "id": "kavaklidere-rosato-2024",
@@ -1415,7 +1946,18 @@
   "kaynak": [
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-inci-damlasi-2023-orta-anadolu-ege/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı tonlarda, canlı ve bol köpüklü.",
+  "koku": "Aromatik, meyvemsi, temiz ve rahat içimli.",
+  "agiz": "Diri asiditesiyle ferahlatıcı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "hafif başlangıçlar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-inci-damlasi-2023-orta-anadolu-ege/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "kavaklidere-tatli-sert-narince-2012",
@@ -1439,7 +1981,18 @@
    "https://kavaklidere.com/urunler/",
    "https://degustasyon.net/kavaklidere-tatli-sert-beyaz-2012-tokat/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Kuru meyve, kavrulmuş badem ve fındık, karamel, kuru incir ve kuruüzüm çağrışımlı bukeler burun ve damakta yoğun.",
+  "agiz": "Dolgun kıvamlı, akıcı, damakta kalıcılı.",
+  "servis": "14-18 °C",
+  "yemek": [
+   "kuru yemişler",
+   "meyveli turtalar",
+   "beyaz çikolata",
+   "kahve sonrası likör gibi"
+  ],
+  "alkol_seker": "Tatlı",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-tatli-sert-beyaz-2012-tokat/"
  },
  {
   "id": "kavaklidere-tatli-sert-okuzgozu-2018",
@@ -1487,14 +2040,16 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-grande-reserve",
    "https://degustasyon.net/turasan-grande-reserve-2020-denizli/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-grande-reserve"
  },
  {
   "id": "turasan-cabernet-franc-2023",
   "ad": "Turasan Cabernet Franc",
   "uretici": "Turasan",
   "il": "Nevşehir",
-  "bolge": "Kapadokya",
+  "bolge": "Denizli",
   "renk": "kirmizi",
   "uzum": [
    "Cabernet Franc"
@@ -1511,7 +2066,18 @@
    "https://iyisarap.plus/products/turasan-cabernet-franc",
    "https://degustasyon.net/turasan-cabernet-franc-2023-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Renk açılmış, kiremit tonları belirmeye başlamış.",
+  "koku": "Olgun kırmızı meyve ve tatlı baharat bukeleri burun ve damakta ön planda.",
+  "yillanma": "1-2 yıl içinde",
+  "yemek": [
+   "dinlenmiş biftekler",
+   "etli yahniler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/turasan-cabernet-franc-2023-denizli/",
+  "bolge_eski": "Kapadokya",
+  "bolge_kaynak": "https://degustasyon.net/turasan-cabernet-franc-2023-denizli/"
  },
  {
   "id": "turasan-riesling-2024",
@@ -1527,14 +2093,16 @@
   "abv": 12,
   "tat": "Kapadokya'daki Zeynep Bağları'ndan numaralı şişelerde, fıçıda fermente; olgun elma, bal ve çiçek, diri asit.",
   "puan": 88,
-  "tl": 0,
-  "tl_kaynak": "",
+  "tl": 1632,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
   "odul": "",
   "bul": "sarapci",
   "kaynak": [
    "https://iyisarap.plus/products/turasan-riesling",
    "https://degustasyon.net/turasan-riesling-2021-kapadokya/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-riesling"
  },
  {
   "id": "turasan-seneler-blend-2023",
@@ -1560,7 +2128,11 @@
    "https://iyisarap.plus/products/turasan-seneler-blend",
    "https://degustasyon.net/turasan-seneler-c-sauvignon-merlot-shiraz-2021-denizli/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burunda baharat, karamel ve vanilyalı notalara sahip.",
+  "agiz": "Damakta; olgun ve güçlü tanenli, orta üstü gövdeli, dengeli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-blend"
  },
  {
   "id": "turasan-seneler-okuzgozu-2023",
@@ -1584,7 +2156,9 @@
    "https://iyisarap.plus/products/turasan-seneler-okuzgozu",
    "https://degustasyon.net/turasan-seneler-okuzgozu-2020-elazig/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-okuzgozu"
  },
  {
   "id": "turasan-seneler-okuzgozu-bogazkere-2024",
@@ -1609,7 +2183,9 @@
    "https://iyisarap.plus/products/turasan-seneler-okuzgozu-bogazkere",
    "https://www.milliyet.com.tr/yazarlar/mehmet-yalcin/kapadokya-sarabi-yukseliyor-1095587",
    "https://degustasyon.net/turasan-seneler-okuzgozu-bogazkere-2021-dogu-ege/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-okuzgozu-bogazkere"
  },
  {
   "id": "turasan-seneler-cabernet-sauvignon-2024",
@@ -1631,7 +2207,11 @@
   "bul": "tekel",
   "kaynak": [
    "https://iyisarap.plus/products/turasan-seneler-cabernet-sauvignon"
-  ]
+  ],
+  "koku": "Burunda baharat, vişne ve ahududu notalara sahip.",
+  "agiz": "Damakta; olgun ve güçlü tanenli, orta üstü gövdeli, dengeli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-cabernet-sauvignon"
  },
  {
   "id": "turasan-seneler-narince-2024",
@@ -1654,7 +2234,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-seneler-narince",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-narince"
  },
  {
   "id": "turasan-seneler-chardonnay-2024",
@@ -1677,7 +2259,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-seneler-chardonnay",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-chardonnay"
  },
  {
   "id": "turasan-seneler-sauvignon-blanc-2024",
@@ -1700,7 +2284,10 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-seneler-sauvignon-blanc",
    "https://degustasyon.net/turasan-seneler-sauvignon-blanc-2022-denizli/"
-  ]
+  ],
+  "koku": "Burunda şeftali, nektarin, ananas ve limon notaları ön plandadır. Damakta aromatik, diri asiditesiyle canlı ve uzun bitişli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-seneler-sauvignon-blanc"
  },
  {
   "id": "turasan-emir-2025",
@@ -1725,7 +2312,9 @@
    "https://www.cappadociapage.com/turasan-sarap/",
    "https://degustasyon.net/turasan-cappadocia-emir-2022-kapadokya/",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-emir"
  },
  {
   "id": "turasan-narince-2025",
@@ -1748,7 +2337,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-narince",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-narince"
  },
  {
   "id": "turasan-chardonnay-2024",
@@ -1771,7 +2362,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-chardonnay",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-chardonnay"
  },
  {
   "id": "turasan-sauvignon-blanc-2025",
@@ -1794,7 +2387,12 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-sauvignon-blanc",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "gorunum": "Parlak açık sarı renkte.",
+  "koku": "olup, burunda yoğun narenciye, yeşil elma ve tropikal meyve aromaları sunar.",
+  "agiz": "Damakta, canlı asidite ve ferahlatıcı bir tat ile dengeli bir yapı sergiler.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-sauvignon-blanc"
  },
  {
   "id": "turasan-misket-2025",
@@ -1816,7 +2414,9 @@
   "bul": "kolay",
   "kaynak": [
    "https://iyisarap.plus/products/turasan-misket"
-  ]
+  ],
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-misket"
  },
  {
   "id": "turasan-kalecik-karasi-2024",
@@ -1838,7 +2438,9 @@
   "bul": "kolay",
   "kaynak": [
    "https://iyisarap.plus/products/turasan-kalecik-karasi"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-kalecik-karasi"
  },
  {
   "id": "turasan-fici-kalecik-karasi-kapadokya",
@@ -1883,7 +2485,11 @@
   "bul": "kolay",
   "kaynak": [
    "https://iyisarap.plus/products/turasan-okuzgozu-bogazkere"
-  ]
+  ],
+  "koku": "Burunda ve.",
+  "agiz": "Damakta vişne, böğürtlen ve portakal çiçeği bukeleri içerir.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-okuzgozu-bogazkere"
  },
  {
   "id": "turasan-syrah-2024",
@@ -1906,7 +2512,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-syrah",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "koku": "Burunda ve.",
+  "agiz": "Damakta frenk üzümü, böğürtlen ve kuru erik bukeleri içerir.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-syrah"
  },
  {
   "id": "turasan-merlot-2024",
@@ -1929,7 +2539,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-merlot",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-merlot"
  },
  {
   "id": "turasan-cabernet-sauvignon-2024",
@@ -1952,7 +2564,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-cabernet-sauvignon",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-cabernet-sauvignon"
  },
  {
   "id": "turasan-rose-kalecik-karasi-2025",
@@ -1975,7 +2589,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/turasan-rose-kalecik-karasi",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-rose-kalecik-karasi"
  },
  {
   "id": "turasan-likor-okuzgozu-2020",
@@ -1997,7 +2613,15 @@
   "bul": "zor",
   "kaynak": [
    "https://degustasyon.net/turasan-likor-sarap-okuzgozu-2020-elazig/"
-  ]
+  ],
+  "koku": "Burun ve damakta mürdümeriği, karadut ve böğürtlen gibi bukelere tatlı baharat notaları eşlik ediyor.",
+  "agiz": "Tatlılık iç baymıyor, yoğun tanenlerin burukluğu ile dengeleniyor.",
+  "servis": "12-14 °C",
+  "yemek": [
+   "peynirler",
+   "çikolata ve çikolatalı tatlılar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/turasan-likor-sarap-okuzgozu-2020-elazig/"
  },
  {
   "id": "turasan-peribacasi-kirmizi",
@@ -2041,7 +2665,18 @@
   "kaynak": [
    "https://kavaklidere.com/kocabag/",
    "https://degustasyon.net/kocabag-gravite-2017-kapadokya/"
-  ]
+  ],
+  "gorunum": "Mor röfleli koyu bordo renginde.",
+  "koku": "Burunda Boğazkere’den gelen mürdüm eriği, meyankökü, kuru meyve ve baharat bukeleri belirgin.",
+  "agiz": "Damakta orta gövdeli, yüksek alkolü biraz yakıcı, tanenleri de henüz köşeli.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "baharatlı et yemekleri",
+   "az acılı kebaplar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kocabag-gravite-2017-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2017 rekoltesine aittir."
  },
  {
   "id": "kocabag-leos",
@@ -2066,7 +2701,18 @@
   "kaynak": [
    "https://kavaklidere.com/kocabag/",
    "https://degustasyon.net/kocabag-leos-2019-kapadokya/"
-  ]
+  ],
+  "gorunum": "Renkte açılmalar başlamış, kiremit tonları gözleniyor.",
+  "koku": "Kuru meyve, pestil ve kahve çağrışımlı bukeler burun ve damağa egemen.",
+  "agiz": "Finalde hafif baharlı izler de bırakıyor.",
+  "yillanma": "2025 sonuna kadar",
+  "yemek": [
+   "dinlenmiş biftekler",
+   "yahniler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kocabag-leos-2019-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2019 rekoltesine aittir."
  },
  {
   "id": "kocabag-k-emir",
@@ -2090,7 +2736,19 @@
    "https://kavaklidere.com/kocabag/",
    "https://voyelo.com/tr/kocabag-saraplari/",
    "https://degustasyon.net/kocabag-k-emir-2015-kapadokya/"
-  ]
+  ],
+  "gorunum": "Açık sarı tonlarda.",
+  "koku": "Burun ve damakt a elma, armut gibi beyaz meyvemsi ve mineralsi tonlar belirgin.",
+  "agiz": "Dolgun ve yağlı, akıcı ve kaygan dokulu.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "organik kümes hayvanları",
+   "yağlı balıklar",
+   "süt kuzusu ve oğlak gibi körpe etler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kocabag-k-emir-2015-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2015 rekoltesine aittir."
  },
  {
   "id": "kocabag-k-kalecik-karasi",
@@ -2113,7 +2771,15 @@
   "kaynak": [
    "https://kavaklidere.com/kocabag/",
    "https://degustasyon.net/kocabag-k-kalecik-karasi-2015-kapadokya/"
-  ]
+  ],
+  "koku": "Mürdüm eriği ve kiraz çağrışımlı meyvemsi koku ve tadlar belirgin.",
+  "agiz": "Olgun ve yumuşak tanenli, rahat içimli.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "süt danası, süt kuzusu, oğlak, ördek ve somon"
+  ],
+  "profil_kaynak": "https://degustasyon.net/kocabag-k-kalecik-karasi-2015-kapadokya/",
+  "profil_not": "Kaynaktaki tadım notu 2015 rekoltesine aittir."
  },
  {
   "id": "kocabag-k-okuzgozu",
@@ -2221,7 +2887,19 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-yasasin-kalecik-karasi",
    "https://degustasyon.net/vinkara-yasasin-brut-2020-ankara/"
-  ]
+  ],
+  "gorunum": "Yeşil röfleli açık altın sarısı. İnce taneli, canlı ve işlek köpüklere sahip.",
+  "koku": "Elma, armut ve taze üzüm çağrışımlı meyvemsi aromalara sahip.",
+  "agiz": "Litrede 10 gram şeker içeriyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "hafif başlangıçlar"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-yasasin-kalecik-karasi",
+  "profil_not": "Kaynaktaki tadım notu 2020 rekoltesine aittir; bu şarabın 2021 rekoltesi için ayrı not bulunamadı.",
+  "alkol_seker": "Brut"
  },
  {
   "id": "vinkara-yasasin-rose-2019",
@@ -2245,7 +2923,19 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-yasasin-roze-kalecik-karasi",
    "https://degustasyon.net/vinkara-yasasin-brut-rose-2020-ankara/"
-  ]
+  ],
+  "gorunum": "Soluk gül pembesi tonlarda, ince, zarif ve işlek köpüklere sahip.",
+  "koku": "Frenküzümü, çilek ve ahududu çağrışımlı koku ve tadlar belirgin, baharlı dokunuşlar da hissediliyor.",
+  "yillanma": "3-4 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "hafif başlangıçlar",
+   "pembe etler",
+   "az baharatlı egzotik yemekler"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-yasasin-roze-kalecik-karasi",
+  "profil_not": "Kaynaktaki tadım notu 2020 rekoltesine aittir; bu şarabın 2019 rekoltesi için ayrı not bulunamadı.",
+  "alkol_seker": "Brut"
  },
  {
   "id": "vinkara-grand-reserve-alberello-kalecik-karasi-2022",
@@ -2268,7 +2958,9 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinkara-grand-reserve-alberello-kaleci̇k-karasi",
    "https://degustasyon.net/vinkara-grand-reserve-alberello-kalecik-karasi-2017-ankara/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-grand-reserve-alberello-kaleci̇k-karasi"
  },
  {
   "id": "vinkara-grand-reserve-bogazkere-2019",
@@ -2292,7 +2984,11 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-grand-reserve-bogazkere",
    "https://degustasyon.net/vinkara-grand-reserve-bogazkere-2018-ankara/"
-  ]
+  ],
+  "koku": "Burunda kavrulmuş badem ve isli kokuları.",
+  "agiz": "Damakta çikolata ve vişne aromaları takip eder. Dengeli, yumuşak tanenli ve uzun bitişli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-grand-reserve-bogazkere"
  },
  {
   "id": "vinkara-reserve-kalecik-karasi-2022",
@@ -2316,7 +3012,10 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-reserve-kalecik-karasi",
    "https://degustasyon.net/vinkara-kalecik-karasi-reserve-2021-ankara/"
-  ]
+  ],
+  "koku": "Dengeli gövdesi, kırmızı meyve aromaları ve baharat dokunuşlarıyla karakteristik bir yapıya sahiptir.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-reserve-kalecik-karasi"
  },
  {
   "id": "vinkara-reserve-narince-2022",
@@ -2340,7 +3039,10 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-reserve-narince",
    "https://degustasyon.net/vinkara-reserve-narince-2020-ankara/"
-  ]
+  ],
+  "koku": "Canlı asiditesi, narenciye ve beyaz çiçek aromalarıyla karakterizedir.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-reserve-narince"
  },
  {
   "id": "vinkara-reserve-blend-2021",
@@ -2366,7 +3068,11 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-reserve-blend",
    "https://degustasyon.net/vinkara-cabernet-sauvignon-merlot-syrah-reserve-2018-ankara/"
-  ]
+  ],
+  "koku": "Cabernet Sauvignon ve Merlot üzümlerinin kazandırdığı yeşil biber, böğürtlen, karadut, frambuaz, kuru erik ve vişne notalarını, Syrah üzümünün kazandırdığı baharat notaları takip eder. Fıçının getirdiği meşe, vanilya, kızarmış ekmek ve kahve notalarıyla.",
+  "agiz": "Damakta tam gövdeli ve tanenli yapıdadır.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-reserve-blend"
  },
  {
   "id": "vinkara-reserve-merlot-2021",
@@ -2390,7 +3096,10 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-reserve-merlot",
    "https://degustasyon.net/vinkara-reserve-merlot-2018-ankara/"
-  ]
+  ],
+  "koku": "Yumuşak tanenleri, kırmızı meyve aromaları ve dengeli yapısıyla öne çıkar.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-reserve-merlot"
  },
  {
   "id": "vinkara-atelier-hasandede-2024",
@@ -2414,7 +3123,18 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-atelier-hasandede",
    "https://degustasyon.net/vinkara-atelier-hasandede-2024-ankara/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı tonlarda.",
+  "koku": "Burun ve damakta elma ve armut gibi beyaz meyve çağrışımlı aromalara narenciye ve yeşil bitki nüansları eşlik ediyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "buğulama balıklar",
+   "köy tavuğu yemekleri",
+   "krema soslu makarnalar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/vinkara-atelier-hasandede-2024-ankara/"
  },
  {
   "id": "vinkara-atelier-okuzgozu-2023",
@@ -2438,7 +3158,16 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-winehouse-okuzgozu",
    "https://degustasyon.net/vinkara-atelier-okuzgozu-2023-ankara/"
-  ]
+  ],
+  "koku": "Mürdümeriği ve siyah kiraz çağrışımlı koku ve tadlara baharlı dokunuşlar eşlik ediyor.",
+  "agiz": "Orta gövdeli, yumuşak tanenli, meyvemsi ve dengeli bir kırmızı.",
+  "yillanma": "1-2 yıl içinde",
+  "yemek": [
+   "kuzu ve süt danası etleri",
+   "köfte ve burger"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/vinkara-atelier-okuzgozu-2023-ankara/"
  },
  {
   "id": "vinkara-atelier-riesling-2024",
@@ -2461,7 +3190,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinkara-atelier-riesling",
    "https://degustasyon.net/vinkara-atelier-riesling-2023-ankara/"
-  ]
+  ],
+  "koku": "Burunda kayısı ve limon kokularıyla.",
+  "agiz": "Damakta yüksek asiditeli, orta gövdeli ve uzun bitişli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-atelier-riesling"
  },
  {
   "id": "vinkara-atelier-blanc-de-noir-2024",
@@ -2484,7 +3217,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinkara-atelier-kalecik-karasi",
    "https://degustasyon.net/vinkara-atelier-kalecik-karasi-beyaz-2023-ankara/"
-  ]
+  ],
+  "koku": "Burunda çiçek, çağla, nektarin ve narenciye kokularıyla.",
+  "agiz": "Damakta diri asiditeli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-atelier-kalecik-karasi"
  },
  {
   "id": "vinkara-minoj-2024",
@@ -2508,7 +3245,19 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-minoj",
    "https://degustasyon.net/vinkara-minoj-2024-ankara/"
-  ]
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Burun ve damakta hayli aromatik, nektarin ve kan portakalı çağrışımlı koku ve tadlara çiçeksi tonlar eşlik ediyor.",
+  "agiz": "Dolgun ve yağlı dokulu, canlı, ferahlatıcı ve diri asiditeli bir roze.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "6-8 °C",
+  "yemek": [
+   "aperitif",
+   "hafif başlangıçlar",
+   "zengin salatalar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/vinkara-minoj-2024-ankara/"
  },
  {
   "id": "vinkara-kalecik-karasi-2022",
@@ -2532,7 +3281,11 @@
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-doruk-kalecik-karasi",
    "https://degustasyon.net/vinkara-kalecik-karasi-2020-ankara/"
-  ]
+  ],
+  "koku": "Burunda vişne, ahududu, frenk üzümü ve muz notalarına sahip.",
+  "agiz": "Damaktaysa yumuşak içimli ve uzun bitişli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-doruk-kalecik-karasi"
  },
  {
   "id": "vinkara-okuzgozu-bogazkere-2022",
@@ -2556,7 +3309,11 @@
   "kaynak": [
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-okuzgozu-bogazkere"
-  ]
+  ],
+  "koku": "Burunda kiraz ve mürdüm eriği notalarına.",
+  "agiz": "Damakta hafif baharatlı aromalara sahip, orta tanenli, gövdeli ve uzun bitişli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-okuzgozu-bogazkere"
  },
  {
   "id": "vinkara-narince-2025",
@@ -2579,7 +3336,11 @@
   "kaynak": [
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-narince"
-  ]
+  ],
+  "koku": "Burunda tropik meyve, kayısı ve narenciye notalarına sahip.",
+  "agiz": "Damakta zarif gövdesiyle uzun bitişli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-narince"
  },
  {
   "id": "vinkara-cabernet-sauvignon-2022",
@@ -2602,7 +3363,11 @@
   "kaynak": [
    "https://vinkarawines.com/odullerimiz/",
    "https://iyisarap.plus/products/vinkara-cabernet-sauvignon"
-  ]
+  ],
+  "koku": "Kırmızı orman meyveleri ve baharatlı notalara sahip.",
+  "agiz": "Damakta tanenli yapıda ve güçlü gövdeli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-cabernet-sauvignon"
  },
  {
   "id": "diren-les-muses-2022",
@@ -2626,7 +3391,19 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-les-musses",
    "https://degustasyon.net/diren-les-muses-2021-tokat/"
-  ]
+  ],
+  "gorunum": "Koyu yakut renkli.",
+  "koku": "Burun ve damakta vişne ve mahlepi andıran meyvemsi ve tatlı baharat çağrışımlı bukeler belirgin.",
+  "agiz": "Orta gövdeli, kadifemsi tanenli, olgun ve dengeli bir kırmızı.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "dinlenmiş kırmızı etler",
+   "etli güveçler",
+   "etin kemiğiyle uzun piştiği tencere yemekleri"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/diren-les-musses",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı.",
+  "alkol_seker": "Sek (kuru)"
  },
  {
   "id": "diren-mahla-narince-2022",
@@ -2649,7 +3426,15 @@
   "kaynak": [
    "https://iyisarap.plus/products/diren-mahla-narince",
    "https://degustasyon.net/diren-mahla-narince-2024-tokat/"
-  ]
+  ],
+  "gorunum": "Koyu altın sarısı renginde, grimsi röfleler de gözleniyor.",
+  "koku": "Burunda yüksek uçar asitlerden gelen geçkin kokular hissediliyor.",
+  "agiz": "Damakta yoğun ve dolgun ama cansız ve meyvemsilikten yoksun.",
+  "yillanma": "2024 sonuna kadar",
+  "servis": "10-12 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-mahla-narince-2021-tokat/",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "diren-mahla-karaoglan-2023",
@@ -2672,7 +3457,17 @@
   "kaynak": [
    "https://iyisarap.plus/products/diren-mahla-karaoglan",
    "https://degustasyon.net/diren-mahla-karaoglan-2023-malatya/"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli derin bordo renginde.",
+  "koku": "Burunda vişne ve siyah kiraz çağrışımlarının yanı sıra fıçılardan gelen hafif vanilyamsı kokular da hissediliyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "kuzu ve süt danası gibi etler",
+   "etli-kıymalı hamurişleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-mahla-karaoglan-2023-malatya/"
  },
  {
   "id": "diren-mahla-kosetevek-2024",
@@ -2695,7 +3490,18 @@
   "kaynak": [
    "https://iyisarap.plus/products/diren-mahla-kosetevek",
    "https://degustasyon.net/diren-mahla-kosetevek-2024-elazig/"
-  ]
+  ],
+  "koku": "Burunda kiraz ve vişne çağrışımlı bukelere fıçılardan gelen meşemsi tonlar eşlik ediyor.",
+  "agiz": "Damakta da meyvemsi ve meşemsi tadlar belirgin.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "kuzu ve körpe dana etleri",
+   "etli ve kıymalı hamurişleri",
+   "yoğurtlu etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-mahla-kosetevek-2024-elazig/"
  },
  {
   "id": "diren-mahla-bogazkere-2023",
@@ -2718,7 +3524,17 @@
   "kaynak": [
    "https://iyisarap.plus/products/diren-mahla-bogazkere",
    "https://degustasyon.net/diren-mahla-bogazkere-2024-diyarbakir/"
-  ]
+  ],
+  "koku": "Burunda topraksı ve mayhoş kırmızı meyvemsi kokulara baharlı tonlar eşlik ediyor.",
+  "agiz": "Ağızda dolgun yapılı, tanenleri yoğun ve biraz saldırgan, asidite de belirgin. Baharlı, köşeli, biraz zor içimli bir kırmızı; üzümün adıyla da vadettiği gibi “boğazı keriyor”.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "baharatlı etler",
+   "az acılı kebaplar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-mahla-bogazkere-2023-diyarbakir/"
  },
  {
   "id": "diren-mahla-merzifon-karasi-2021",
@@ -2740,7 +3556,9 @@
   "bul": "tekel",
   "kaynak": [
    "https://iyisarap.plus/products/diren-mahla-merzifon-karasi"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-mahla-merzifon-karasi"
  },
  {
   "id": "orhan-diren-karaoglan-2023",
@@ -2763,7 +3581,19 @@
   "kaynak": [
    "https://iyisarap.plus/products/orhan-diren-karaoglan",
    "https://degustasyon.net/orhan-z-diren-karaoglan-2023-malatya/"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli koyu mor renginde.",
+  "koku": "Burunda vişne ve mahlep cağrışımlı bukeler belirgin.",
+  "agiz": "Ağızda dolgun, yoğun ama esnek tanenli, belirgin asiditeli.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "vişneli kebap",
+   "yenidünya kebabı",
+   "soğan kebabı"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/orhan-z-diren-karaoglan-2023-malatya/"
  },
  {
   "id": "diren-selection-beyaz-2022",
@@ -2788,7 +3618,17 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-selection-beyaz",
    "https://degustasyon.net/diren-selection-beyaz-2021-tokat/"
-  ]
+  ],
+  "koku": "Burun ve damakta vanilya, karamel, krem brüle ve tereyağı çağrışımlarıyla birlikte fındık çağrışımlı oksidatif tonlar da hissediliyor.",
+  "yillanma": "2024 sonuna kadar",
+  "servis": "12 °C",
+  "yemek": [
+   "krema ve tereyağ soslu deniz ürünleri",
+   "organik kümes hayvanları"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-selection-beyaz-2021-tokat/",
+  "profil_not": "Kaynaktaki tadım notu 2021 rekoltesine aittir; bu şarabın 2022 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "diren-selection-kirmizi-2021",
@@ -2814,7 +3654,15 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-selection-kirmizi",
    "https://degustasyon.net/diren-selection-kirmizi-2021-tokat/"
-  ]
+  ],
+  "koku": "Vişne, kiraz ve karadutu andıran kırmızı ve siyah meyve tonları burun ve damakta ön planda.",
+  "yillanma": "3-5 yıl içinde",
+  "servis": "16-18 °C; karafa aktarılmalı",
+  "yemek": [
+   "ızgara kırmızı etler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-selection-kirmizi-2021-tokat/"
  },
  {
   "id": "diren-collection-narince-2024",
@@ -2838,7 +3686,20 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-collection-narince",
    "https://degustasyon.net/diren-collection-narince-2023-tokat/"
-  ]
+  ],
+  "gorunum": "Yeşilimsi açık sarı renkte. röfleli altın sarısı renginde.",
+  "koku": "Olgun elma ve armut çağrışımlı aromalara mineralsi ve baharlı tonlar eşlik ediyor.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "köy tavuğu",
+   "yaban mantarları",
+   "beyaz soslu makarnalar",
+   "tava balıklar"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-collection-narince-2023-tokat/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "diren-collection-kosetevek-2024",
@@ -2861,7 +3722,18 @@
   "kaynak": [
    "https://iyisarap.plus/products/diren-collection-kosetevek",
    "https://degustasyon.net/diren-collection-kosetevek-2023-elazig/"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli bordo renginde.",
+  "koku": "Vişne, kiraz, karadut, yabanmersini ve çikolata çağrışımlı koku ve tadlara sahip.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "14-16 °C",
+  "yemek": [
+   "az acılı kebaplar",
+   "etli-kıymalı hamurişleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-collection-kosetevek-2023-elazig/",
+  "profil_not": "Kaynaktaki tadım notu 2023 rekoltesine aittir; bu şarabın 2024 rekoltesi için ayrı not bulunamadı."
  },
  {
   "id": "diren-collection-karaoglan-2022",
@@ -2885,7 +3757,9 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-collection-karaoglan",
    "https://degustasyon.net/diren-collection-karaoglan-2020-malatya/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-karaoglan"
  },
  {
   "id": "diren-collection-okuzgozu-2022",
@@ -2909,7 +3783,11 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-collection-okuzgozu",
    "https://degustasyon.net/diren-collection-okuzgozu-2020-elazig/"
-  ]
+  ],
+  "koku": "Bu şarap, derin ve yoğun kırmızı rengi, olgun kırmızı meyve aromaları ve baharat notaları ile dikkat çeker.",
+  "agiz": "Damakta dengeli tanenler ve uzun bir bitiş sunar.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-okuzgozu"
  },
  {
   "id": "diren-collection-bogazkere-2022",
@@ -2933,7 +3811,9 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-collection-bogazkere",
    "https://degustasyon.net/diren-collection-bogazkere-2019-diyarbakir/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-bogazkere"
  },
  {
   "id": "diren-vadi-karaoglan-roze-2022",
@@ -2957,7 +3837,18 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-vadi-rose",
    "https://degustasyon.net/diren-vadi-karaoglan-roze-2022-malatya/"
-  ]
+  ],
+  "gorunum": "Turuncu röfleli pembe renkte.",
+  "koku": "Çilek ve frenküzümü çağrışımlı aromalar belirgin.",
+  "agiz": "Damakta tanenler hissediliyor, hafif buruk izler bırakıyor.",
+  "servis": "8-10 °C",
+  "yemek": [
+   "etli-kıymalı hamurişleri",
+   "pide ve pizza",
+   "köfte"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/diren-vadi-karaoglan-roze-2022-malatya/"
  },
  {
   "id": "diren-vadi-yari-tatli-2022",
@@ -2981,7 +3872,11 @@
   "kaynak": [
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-vadi-yari-tatli"
-  ]
+  ],
+  "koku": "Burunda kayısı ve bal notaları.",
+  "agiz": "Damakta; dengili bir tatlılığa sahip.",
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-vadi-yari-tatli"
  },
  {
   "id": "diren-mahlep",
@@ -3007,7 +3902,18 @@
    "https://direnwines.com/",
    "https://iyisarap.plus/products/diren-mahlep-sarabi",
    "https://degustasyon.net/diren-mahlep-tokat/"
-  ]
+  ],
+  "gorunum": "Kiremitsi röfleler ağır basıyor, kahverengileşme yolunda.",
+  "koku": "Vişnenin yabanîsi olan mahlebin hoş kokusu burunda çok yoğun hissediliyor.",
+  "agiz": "Damakta yoğun, tatlılığı mahlep burukluğuyla dengeleniyor.",
+  "servis": "hafif serinletilerek",
+  "yemek": [
+   "dijestif olarak yemek sonrası",
+   "tatlılar",
+   "kuruyemişler"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/diren-mahlep-sarabi",
+  "alkol_seker": "Yarı tatlı"
  },
  {
   "id": "vinolus-narince-2023",
@@ -3031,7 +3937,11 @@
    "https://www.vinolus.com.tr/oykumuz/",
    "https://iyisarap.plus/products/vinolus-narince",
    "https://degustasyon.net/vinolus-narince-2019-tokat/"
-  ]
+  ],
+  "koku": "Burunda şeftali, armut, limon, kavun ve hanımeli kokularının yanında çok iyi entegre olmuş fıçı notlarının geriden hissedildiği zarif ve zengin bir aroma profiline sahiptir.",
+  "agiz": "Ağızda diri asiditesiyle canlı, yuvarlak gövdeli, mineralli ve terruarı yansıtan zarif bir şaraptır.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-narince"
  },
  {
   "id": "vinolus-chardonnay-2024",
@@ -3055,7 +3965,11 @@
    "https://www.haber3.com/guncel/kayseride-uretilen-saraba-chardonnay-du-mondeodulu-fransada-haberi-697133",
    "https://iyisarap.plus/products/vinolus-chardonnay",
    "https://degustasyon.net/vinolus-chardonnay-2017-kayseri/"
-  ]
+  ],
+  "koku": "Burunda vanilya, beyaz çiçek, badem, tereyağı, şeftali ve kayısı notalarına sahip. Damakta tropikal meyve, ayva, narenciye aromalarının yanında geriden gelen bal, hafif tereyağı ve kızarmış ekmek aromaları hakim.",
+  "agiz": "Yağlı ve mineralli yapısı ve diri asitliği ile canlı ve uzun bitişlidir.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-chardonnay"
  },
  {
   "id": "vinolus-emir-roussanne-2023",
@@ -3079,7 +3993,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinolus-emir-roussanne",
    "https://degustasyon.net/vinolus-emir-roussanne-2013-kayseri/"
-  ]
+  ],
+  "koku": "Burunda elma, armut, limon, nektarin ve vanilya gibi yoğun aromalar taşır.",
+  "agiz": "Damakta canlı asiditesi ve mineralli yapısı ile dengeli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-emir-roussanne"
  },
  {
   "id": "vinolus-kalecik-karasi-2024",
@@ -3102,7 +4020,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinolus-kalecik-karasi",
    "https://degustasyon.net/vinolus-kalecik-karasi-2015-kayseri/"
-  ]
+  ],
+  "koku": "Burunda çilek, frambuaz, böğürtlen, kiraz, karadut notalarına sahip.",
+  "agiz": "Damakta yumuşak tanenli, rahat içimli bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-kalecik-karasi"
  },
  {
   "id": "vinolus-kalecik-karasi-tempranillo-2023",
@@ -3126,7 +4048,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinolus-kalecik-karasi-tempranillo",
    "https://degustasyon.net/vinolus-blend-2017-kayseri/"
-  ]
+  ],
+  "koku": "Burunda olgun kırmızı meyveler, frambuaz, erik, kiraz notalarına sahip.",
+  "agiz": "Damakta ise fıçıdan gelen aromaların eşlik ettiği, burun ile uyumlu vişne, frambuaz ve baharatlı aromalarla damakta dolgun, zarif tanenli yapıda bir kırmızı şarap.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-kalecik-karasi-tempranillo"
  },
  {
   "id": "vinolus-syrah-2024",
@@ -3149,7 +4075,11 @@
   "kaynak": [
    "https://iyisarap.plus/products/vinolus-syrah",
    "https://degustasyon.net/vinolus-syrah-2010-denizli/"
-  ]
+  ],
+  "koku": "Burunda böğürtlen, siyah kiraz, karabiber, vanilya, kakao, tütün notaları hakim.",
+  "agiz": "Damakta mürdüm eriği, vişne ve çikolata aromalarına sahip, kadifemsi tanenli, uzun bitişli bir şaraptır.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-syrah"
  },
  {
   "id": "vinolus-arinna-emir-2019",
@@ -3171,7 +4101,9 @@
   "bul": "sarapci",
   "kaynak": [
    "https://iyisarap.plus/products/vinolus-arinna-methode-traditionnelle-emir"
-  ]
+  ],
+  "alkol_seker": "Brut",
+  "profil_kaynak": "https://iyisarap.plus/products/vinolus-arinna-methode-traditionnelle-emir"
  },
  {
   "id": "502-merzifon-karasi-2024",
@@ -3195,7 +4127,9 @@
    "https://www.502vineyards.com/wines",
    "https://iyisarap.plus/products/502-vineyards-merzifon-karasi",
    "https://degustasyon.net/502-vineyards-merzifon-karasi-2020-amasya/"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/502-vineyards-merzifon-karasi"
  },
  {
   "id": "502-wild-fermented-2024",
@@ -3221,7 +4155,16 @@
    "https://www.502vineyards.com/wines",
    "https://iyisarap.plus/products/502-vineyards-wild-fermented",
    "https://degustasyon.net/502-vineyards-blend-amasya/"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli koyu mor renginde.",
+  "koku": "Vişneli çikolata, karadut ve böğürtlen çağrışımlı meyvemsi bukeler çok canlı ve belirgin.",
+  "agiz": "Gövdeli, olgun, yumuşak ve esnek tanenli, diri asiditeli.",
+  "yillanma": "2-3 yıl içinde",
+  "yemek": [
+   "kuzu ve körpe dana etleri"
+  ],
+  "profil_kaynak": "https://iyisarap.plus/products/502-vineyards-wild-fermented",
+  "alkol_seker": "Sek (kuru)"
  },
  {
   "id": "502-merzifon-karasi-cabernet-2022",
@@ -3244,7 +4187,9 @@
   "bul": "sarapci",
   "kaynak": [
    "https://iyisarap.plus/products/502-vineyards-merzifon-karasi-cabernet-sauvignon"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/502-vineyards-merzifon-karasi-cabernet-sauvignon"
  },
  {
   "id": "502-narince-2024",
@@ -3267,7 +4212,17 @@
   "kaynak": [
    "https://www.502vineyards.com/wines",
    "https://degustasyon.net/502-vineyards-narince-2024-tokat/"
-  ]
+  ],
+  "gorunum": "Pembeye çalan turuncumsu tonlarda, rengi atipik.",
+  "koku": "Burunda olgun ve pişmiş elma aromaları yoğun, narenciyemsi nüanslar da hissediliyor.",
+  "agiz": "Ağızda dolgun, alkol ve asit hayli keskin, elma ve armut çağrışımları belirgin.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "12-14 °C",
+  "yemek": [
+   "Karadeniz mutfağının yoğun tereyağlı yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/502-vineyards-narince-2024-tokat/"
  },
  {
   "id": "502-merzifon-karasi-rose-2024",
@@ -3290,7 +4245,18 @@
   "kaynak": [
    "https://www.502vineyards.com/wines",
    "https://degustasyon.net/502-vineyards-rose-2024-amasya/"
-  ]
+  ],
+  "gorunum": "Koyu gül pembesi renginde.",
+  "koku": "Burunda çilek, ahududu ve pembe kiraz aromalarına sahip.",
+  "agiz": "Ağızda da meyvemsi, alkol ve asidite biraz keskin.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "10-12 °C",
+  "yemek": [
+   "baharatlı ve domatesli mezeler",
+   "başlangıç yemekleri"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/502-vineyards-rose-2024-amasya/"
  },
  {
   "id": "502-disi-mercan",
@@ -3336,7 +4302,9 @@
    "https://iyisarap.plus/collections/shiluh",
    "https://iyisarap.plus/products/shiluh-manastir",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/shiluh-manastir"
  },
  {
   "id": "shiluh-turabdin-2020",
@@ -3361,7 +4329,9 @@
    "https://iyisarap.plus/collections/shiluh",
    "https://iyisarap.plus/products/shiluh-turabdin",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/shiluh-turabdin"
  },
  {
   "id": "shiluh-dara-2020",
@@ -3386,7 +4356,9 @@
    "https://iyisarap.plus/collections/shiluh",
    "https://iyisarap.plus/products/shiluh-dara",
    "https://www.tekellist.com.tr/sarap"
-  ]
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/shiluh-dara"
  },
  {
   "id": "shiluh-ninve",
@@ -3525,7 +4497,17 @@
   "kaynak": [
    "https://www.midinwine.com/saraphane",
    "https://degustasyon.net/midin-baluto-beyaz-2020-sirnak/"
-  ]
+  ],
+  "koku": "Burunda oksidatif kokular ve meşe tonları ön planda. Çok sek, Fransızların deyimiyle “kemik kuruluğunda”, pişmiş meyvemsi tonlara ceviz çağrışımlı bukeler eşlik ediyor.",
+  "agiz": "Ağızda dolgun ve gövdeli, tuzlumsu bir mineraliteye sahip.",
+  "servis": "14-16 °C",
+  "yemek": [
+   "yaban mantarlı yemekler",
+   "kuru dinlendirilmiş balıklar",
+   "çerezler"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/midin-baluto-beyaz-2020-sirnak/"
  },
  {
   "id": "midin-baluto-kirmizi-2020",
@@ -3551,7 +4533,15 @@
   "kaynak": [
    "https://www.midinwine.com/saraphane",
    "https://degustasyon.net/midin-baluto-kirmizi-2020-sirnak/"
-  ]
+  ],
+  "koku": "Burunda olgun kırmızı ve siyah meyve bukelerine meşemsi tonlar eşlik ediyor.",
+  "agiz": "Ağızda orta gövdeli, belirgin asiditeli, tanenleri ise ham.",
+  "yillanma": "1-2 yıl içinde",
+  "yemek": [
+   "baharatlı etler",
+   "az acılı kebaplar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/midin-baluto-kirmizi-2020-sirnak/"
  },
  {
   "id": "midin-cehennem-deresi-kirmizi-2020",
@@ -3578,7 +4568,14 @@
   "kaynak": [
    "https://www.midinwine.com/saraphane",
    "https://degustasyon.net/midin-cehennem-deresi-kirmizi-2020-sirnak/"
-  ]
+  ],
+  "koku": "Burunda mürdüm eriği, karadut ve böğürtlen gibi siyah meyve bukeleri belirgin.",
+  "yillanma": "1-2 yıl içinde",
+  "yemek": [
+   "baharatlı etler",
+   "az acılı kebaplar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/midin-cehennem-deresi-kirmizi-2020-sirnak/"
  },
  {
   "id": "midin-cehennem-deresi-bilbizeki-2020",
@@ -3602,7 +4599,15 @@
    "https://www.midinwine.com/saraphane",
    "https://thequirkycork.com/midin-sarapcilik-cehennem-deresi-bilbilzeki/",
    "https://degustasyon.net/midin-cehennem-deresi-bilbizeki-2020-sirnak/"
-  ]
+  ],
+  "koku": "Burunda oksidatif tonlar ön planda. Ağızda ise hafif tatlımsı, pişmiş elma çağrışımlı aromalara sahip, yoğun kıvamlı.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "köy tavuklu yemekler",
+   "yaban mantarlı yemekler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/midin-cehennem-deresi-bilbizeki-2020-sirnak/"
  },
  {
   "id": "midin-miras-kirmizi-2020",
@@ -3628,7 +4633,13 @@
   "kaynak": [
    "https://www.midinwine.com/saraphane",
    "https://degustasyon.net/midin-miras-kirmizi-2020-sirnak/"
-  ]
+  ],
+  "gorunum": "Yakut renkli.",
+  "koku": "Burunda taze üzüm ve nektarin çağrışımlı kokulara sahip.",
+  "agiz": "Damakta ise ince yapılı, ham tanenli ve asidite ön planda hissediliyor.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "14-16 °C",
+  "profil_kaynak": "https://degustasyon.net/midin-miras-kirmizi-2020-sirnak/"
  },
  {
   "id": "kuzeybag-okuzgozu-2022",
@@ -3652,7 +4663,12 @@
    "https://kuzeybag.com/urunler/",
    "https://iyisarap.plus/products/kuzeybag-okuzgozu",
    "https://degustasyon.net/kuzeybag-okuzgozu-2014-elazig/"
-  ]
+  ],
+  "gorunum": "Kadehte mor yansımaları olan yakut kırmızısı renkte.",
+  "koku": "Burunda karadut, böğürtlen, menekşe ve kuru nane notalarına sahip.",
+  "agiz": "Damakta dolgun, yumuşak tanenli, dengeli asiditesi ile kalıcı bir bitiş sunar.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/kuzeybag-okuzgozu"
  },
  {
   "id": "kuzeybag-kosetevek-2022",
@@ -3675,7 +4691,11 @@
   "kaynak": [
    "https://kuzeybag.com/urunler/",
    "https://iyisarap.plus/products/kuzeybag-kosetevek"
-  ]
+  ],
+  "koku": "Burunda çilek, ahududu, kiraz ve okaliptüs notalarına sahip.",
+  "agiz": "Damakta orta gövdeli, orta asiditeli ve yuvarlak tanenli bir kırmızı şarap.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/kuzeybag-kosetevek"
  },
  {
   "id": "kuzeybag-okuzgozu-roze-2023",
@@ -3698,7 +4718,11 @@
   "kaynak": [
    "https://kuzeybag.com/urunler/",
    "https://iyisarap.plus/products/kuzeybag-rose-okuzgozu"
-  ]
+  ],
+  "koku": "Burunda gül, narenciye, ahududu, kiraz ve nar notaları.",
+  "agiz": "Damakta kadifemsi, yuvarlak gövdeli, dengeli asiditeli, aromatik ve mineralli bir bitiş sunar.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/kuzeybag-rose-okuzgozu"
  },
  {
   "id": "tomurcukbag-trajan-kalecik-karasi-rezerv-2024",
@@ -3721,7 +4745,18 @@
   "kaynak": [
    "https://www.vitikultur.com/tr/baglar/tomurcukbag",
    "https://degustasyon.net/tomurcukbag-trajan-kalecik-karasi-rezerv-2024-ankara/"
-  ]
+  ],
+  "gorunum": "Koyu mor renkte.",
+  "koku": "Mürdümeriği ve menekşe çağrışımlı bukelere tatlı baharat nüansları eşlik ediyor.",
+  "agiz": "Damakta dolgun gövdeli, yumuşak ve yuvarlak tanenli, canlı asiditeli ve çok dengeli.",
+  "yillanma": "4-5 yıl içinde",
+  "servis": "16 °C",
+  "yemek": [
+   "süt kuzusu ve danası",
+   "oğlak",
+   "ördek"
+  ],
+  "profil_kaynak": "https://degustasyon.net/tomurcukbag-trajan-kalecik-karasi-rezerv-2024-ankara/"
  },
  {
   "id": "tomurcukbag-trajan-armagan-2023",
@@ -3743,7 +4778,17 @@
   "bul": "zor",
   "kaynak": [
    "https://degustasyon.net/tomurcukbag-trajan-armagan-2023-ankara/"
-  ]
+  ],
+  "gorunum": "Koyu yakut renginde, menekşe moru röfleler de gözleniyor.",
+  "koku": "Vişne ve kiraz çağrışımlı bukelere sahip.",
+  "agiz": "Gövdeli, tanenler güçlü ve damağı hafif kurutuyor, asidite de belirgin.",
+  "yillanma": "3-5 yıl içinde",
+  "yemek": [
+   "ördek",
+   "oğlak"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/tomurcukbag-trajan-armagan-2023-ankara/"
  },
  {
   "id": "tomurcukbag-trajan-narince-2022",
@@ -3765,7 +4810,19 @@
   "bul": "zor",
   "kaynak": [
    "https://degustasyon.net/tomurcukbag-trajan-narince-2022-ankara/"
-  ]
+  ],
+  "gorunum": "Açık sarı tonlarında.",
+  "koku": "Burunda aromatik değil, kendini burundan çok damakta gösteriyor.",
+  "agiz": "Yağlı dokulu, mineralsi ve topraksı nüanslar belirgin, ağızda uzun kalıcılıkta. Asiditesi diri, ferahlatıcı.",
+  "yillanma": "2-3 yıl içinde",
+  "servis": "8-10 °C",
+  "yemek": [
+   "kabuklu deniz ürünleri",
+   "tereyağ ve krema soslu balıklar",
+   "köy tavuğu gibi kümes hayvanları"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/tomurcukbag-trajan-narince-2022-ankara/"
  },
  {
   "id": "tafalis-kalecik-karasi",
@@ -3789,7 +4846,15 @@
    "https://www.tafalis.com.tr/",
    "https://keyiflinotlar.com/2021/01/tafalis-kalecik-karasi-2019/",
    "https://degustasyon.net/tafalis-kalecik-karasi-2019-ankara/"
-  ]
+  ],
+  "koku": "Burunda olgun çilek ve mürdümeriği çağrışımlı bukeler belirgin, damakta meyvemsi çağrışımlara baharlı dokunuşlar eşlik ediyor.",
+  "servis": "14-16 °C",
+  "yemek": [
+   "kıymalı-etli hamurişleri",
+   "oğlak ve süt kuzusu gibi pembe etler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/tafalis-kalecik-karasi-2019-ankara/",
+  "profil_not": "Kaynaktaki tadım notu 2019 rekoltesine aittir."
  },
  {
   "id": "tafalis-roze",
@@ -3882,7 +4947,16 @@
   "kaynak": [
    "https://www.vitikultur.com/tr/baglar/eskibaglar",
    "https://degustasyon.net/eskibaglar-okuzgozu-bogazkere-rezerv-2011-2012-elazig/"
-  ]
+  ],
+  "gorunum": "Koyu mor renkte.",
+  "koku": "Burunda menekşe, mahlep, vişne ve karanfil kokulu.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "karafa aktarılmalı",
+  "yemek": [
+   "baharatlı etler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/eskibaglar-okuzgozu-bogazkere-rezerv-2011-2012-elazig/",
+  "profil_not": "Kaynaktaki tadım notu 2011 rekoltesine aittir."
  },
  {
   "id": "eskibaglar-okuzgozu",
@@ -3905,7 +4979,17 @@
   "kaynak": [
    "https://www.biletara.com/blog/sayfa/eskibaglar-sarap-mahzeni-rehberi",
    "https://degustasyon.net/eskibaglar-okuzgozu-2012-elazig/"
-  ]
+  ],
+  "gorunum": "Lacivert röfleli, koyu mor renkte; tipik Öküzgözü tonlarında.",
+  "koku": "Burun ve damakta topraksı, baharlı, ağızda biraz gevşek ve kaba tanenli.",
+  "yillanma": "1-2 yıl içinde",
+  "servis": "14 °C",
+  "yemek": [
+   "baharatlı etler",
+   "kebaplar"
+  ],
+  "profil_kaynak": "https://degustasyon.net/eskibaglar-okuzgozu-2012-elazig/",
+  "profil_not": "Kaynaktaki tadım notu 2012 rekoltesine aittir."
  },
  {
   "id": "sonava-emir",
@@ -3993,6 +5077,1432 @@
   "kaynak": [
    "https://www.gunisigigazetesi.net/haber/13454982/aginda-yeni-sarap-markasi",
    "http://m.radikal.com.tr/ekonomi/horoz_karasi_siseye_girdi-1029874"
+  ]
+ },
+ {
+  "id": "kavaklidere-tigris-roze-2025",
+  "ad": "Kavaklıdere Tigris Roze",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "2025",
+  "abv": 13.5,
+  "tat": "Kavaklıdere Tigris Roze 2025: Burun ve damakta çilek, dağ çileği ve siyah kiraz çağrışımları belirgin.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2025 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-tigris-roze-2025-denizli/"
+  ],
+  "gorunum": "Somon pembesi renginde.",
+  "koku": "Burun ve damakta çilek, dağ çileği ve siyah kiraz çağrışımları belirgin.",
+  "servis": "6-8 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-tigris-roze-2025-denizli/"
+ },
+ {
+  "id": "diren-blush-2022",
+  "ad": "Diren Blush",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü",
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Diren Blush 2022: Burunda frenküzümü çağrışımlı aromalar belirgin, damakta buna olgun elma ve nektarin çağrışımları da eşlik ediyor.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2022 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/diren-blush-2022-tokat/"
+  ],
+  "gorunum": "Canlı ve parlak gül pembesi renginde.",
+  "koku": "Burunda frenküzümü çağrışımlı aromalar belirgin, damakta buna olgun elma ve nektarin çağrışımları da eşlik ediyor.",
+  "agiz": "Çok hafif tatlılığı diri bir asiditeyle dengelenmiş, rahat içimli ve ferahlatıcı bir roze.",
+  "servis": "6-8 °C",
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://degustasyon.net/diren-blush-2022-tokat/"
+ },
+ {
+  "id": "kavaklidere-pembe-kopuk-2022",
+  "ad": "Kavaklıdere Pembe Köpük",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Ege",
+  "renk": "kopuren",
+  "uzum": [],
+  "yil": "2022",
+  "abv": 14.0,
+  "tat": "Kavaklıdere Pembe Köpük 2022: Burun ve damakta kırmızı meyve aromaları belirgin.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2022 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-pembe-kopuk-2022-ege/"
+  ],
+  "gorunum": "Soluk gül pembesi renginde, bol ve yoğun köpüklü.",
+  "koku": "Burun ve damakta kırmızı meyve aromaları belirgin.",
+  "servis": "6-8 °C",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-pembe-kopuk-2022-ege/"
+ },
+ {
+  "id": "kavaklidere-leyla-beyaz-2023",
+  "ad": "Kavaklıdere Leyla Beyaz",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Denizli",
+  "renk": "beyaz",
+  "uzum": [],
+  "yil": "2023",
+  "abv": 12.5,
+  "tat": "Kavaklıdere Leyla Beyaz 2023: Burunda Emir’in “imzası” golden elma aromalarına taze üzüm ve narenciye çağrışımlı kokular eşlik ediyor.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2023 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-leyla-beyaz-2023-denizli/"
+  ],
+  "koku": "Burunda Emir’in “imzası” golden elma aromalarına taze üzüm ve narenciye çağrışımlı kokular eşlik ediyor.",
+  "agiz": "Ağızda canlı, körpe, diri asiditeli ve ferahlatıcı.",
+  "yillanma": "1-2 yıl",
+  "servis": "6-8 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-leyla-beyaz-2023-denizli/"
+ },
+ {
+  "id": "kavaklidere-leyla-kirmizi-2023",
+  "ad": "Kavaklıdere Leyla Kırmızı",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Denizli",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2023",
+  "abv": 13.0,
+  "tat": "Kavaklıdere Leyla Kırmızı 2023: Burunda Napolyon kiraz, böğürtlen ve mürdümeriğini andıran aromalara sahip.",
+  "puan": 78,
+  "puan_not": "degustasyon.net tadım notu 5.5/10 → 50 + 5 × 5.5 (2023 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-leyla-kirmizi-2023-denizli/"
+  ],
+  "gorunum": "Mor röfleli yakut renginde.",
+  "koku": "Burunda Napolyon kiraz, böğürtlen ve mürdümeriğini andıran aromalara sahip.",
+  "agiz": "Ağızda ince yapılı, tanenleri biraz ham, asidite ön planda.",
+  "yillanma": "1-2 yıl",
+  "servis": "14-16 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-leyla-kirmizi-2023-denizli/"
+ },
+ {
+  "id": "kavaklidere-leyla-rose-2023",
+  "ad": "Kavaklıdere Leyla Roze",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [],
+  "yil": "2023",
+  "abv": 13.0,
+  "tat": "Kavaklıdere Leyla Roze 2023: Burunda frenküzümünü andıran aromalara sahip.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2023 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-leyla-rose-2023-denizli/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burunda frenküzümünü andıran aromalara sahip.",
+  "agiz": "Ağızda dolgun, sek, canlı asiditeli ve meyvemsi bir roze.",
+  "yillanma": "1-2 yıl",
+  "servis": "6-8 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-leyla-rose-2023-denizli/"
+ },
+ {
+  "id": "vasfi-diren-1921-2021",
+  "ad": "Vasfi Diren 1921",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2021",
+  "abv": 14.0,
+  "tat": "Vasfi Diren 1921 2021: Elma ve armut gibi olgun beyaz meyve, şeftali ve nektarin çağrışımlı bukelere çiçeksi nüanslar ve hafif mineralsi tonlar eşlik ediyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2021 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vasfi-diren-1921-2021-tokat/"
+  ],
+  "gorunum": "Yeşil röfleli açık sarı tonlarda.",
+  "koku": "Elma ve armut gibi olgun beyaz meyve, şeftali ve nektarin çağrışımlı bukelere çiçeksi nüanslar ve hafif mineralsi tonlar eşlik ediyor.",
+  "agiz": "Eritilmiş tereyağı kıvamında çok yoğun bir şarap, yağlı dokusuyla ağıza sıvanıyor, diri asiditesiyle de damağı canlandırıyor.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/vasfi-diren-1921-2021-tokat/"
+ },
+ {
+  "id": "vinkara-doruk-kalecik-karasi-2019",
+  "ad": "Vinkara Doruk Kalecik Karası",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2019",
+  "abv": 14.5,
+  "tat": "Vinkara Doruk Kalecik Karası 2019: Olgun çileği andıran meyvemsi ve hafif çiçeksi aromalara sahip.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2019 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-doruk-kalecik-karasi-2019-ankara/"
+  ],
+  "gorunum": "Açık kırmızı renkte.",
+  "koku": "Olgun çileği andıran meyvemsi ve hafif çiçeksi aromalara sahip.",
+  "servis": "12-14 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-doruk-kalecik-karasi-2019-ankara/"
+ },
+ {
+  "id": "vinkara-winehouse-hasandede-2020",
+  "ad": "Vinkara Winehouse Hasandede",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "beyaz",
+  "uzum": [
+   "Hasandede"
+  ],
+  "yil": "2020",
+  "abv": 13.0,
+  "tat": "Vinkara Winehouse Hasandede 2020: Bitkisel, topraksı ve mineralsi bukelere narenciyemsi tonlar eşlik ediyor.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2020 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-winehouse-hasandede-2020-ankara/"
+  ],
+  "gorunum": "Saman sarısı renginde, yeşilimsi röfleler de seziliyor.",
+  "koku": "Bitkisel, topraksı ve mineralsi bukelere narenciyemsi tonlar eşlik ediyor.",
+  "agiz": "Damakta mineralsi, hafif buruk.",
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-winehouse-hasandede-2020-ankara/"
+ },
+ {
+  "id": "diren-karmen-selection-kirmizi-2019",
+  "ad": "Diren Karmen Selection Kırmızı",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Syrah",
+   "Merlot"
+  ],
+  "yil": "2019",
+  "abv": 13.5,
+  "tat": "Diren Karmen Selection Kırmızı 2019: Burun ve damakta canlı meyvemsilikte, mürdüm eriği, böğürtlen, kiraz ve vişne gibi siyah meyve bukelerine topraksı ve baharlı tonlar eşlik ediyor.",
+  "puan": 85,
+  "puan_not": "degustasyon.net tadım notu 7.0/10 → 50 + 5 × 7.0 (2019 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/diren-karmen-selection-kirmizi-2019-tokat/"
+  ],
+  "gorunum": "Mor röfleli koyu yakut renginde.",
+  "koku": "Burun ve damakta canlı meyvemsilikte, mürdüm eriği, böğürtlen, kiraz ve vişne gibi siyah meyve bukelerine topraksı ve baharlı tonlar eşlik ediyor.",
+  "agiz": "Orta gövdeli, yumuşak ve esnek tanenli, canlı asiditeli bir kırmızı.",
+  "servis": "16 °C",
+  "profil_kaynak": "https://degustasyon.net/diren-karmen-selection-kirmizi-2019-tokat/"
+ },
+ {
+  "id": "vinolus-rose-2019",
+  "ad": "Vinolus Roze",
+  "uretici": "Vinolus",
+  "il": "Kayseri",
+  "bolge": "Kapadokya",
+  "renk": "roze",
+  "uzum": [
+   "Syrah",
+   "Kalecik Karası"
+  ],
+  "yil": "2019",
+  "abv": 0,
+  "tat": "Vinolus Roze 2019: Burunda çilek, ahududu ve frenküzümü aromaları belirgin ve canlı.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2019 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinolus-rose-2019-kapadokya/"
+  ],
+  "gorunum": "Gül pembesi renginde.",
+  "koku": "Burunda çilek, ahududu ve frenküzümü aromaları belirgin ve canlı.",
+  "agiz": "Damakta da ipeksi, zarif, yağlı ve kaygan dokulu.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/vinolus-rose-2019-kapadokya/"
+ },
+ {
+  "id": "diren-collection-merzifon-karasi-2020",
+  "ad": "Diren Collection Merzifon Karası",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merzifon Karası"
+  ],
+  "yil": "2020",
+  "abv": 13.5,
+  "tat": "Diren Collection Merzifon Karası 2020: Burun ve damakta topraksı ve mahlep çağrışımlı aromalara mürdüm eriği ve siyah kiraz tonları eşlik ediyor.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2020 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/diren-collection-merzifon-karasi-2020-amasya/"
+  ],
+  "koku": "Burun ve damakta topraksı ve mahlep çağrışımlı aromalara mürdüm eriği ve siyah kiraz tonları eşlik ediyor.",
+  "agiz": "Orta gövdeli, yumuşak tanenli, diri asiditeli ve rahat içimli bir kırmızı.",
+  "servis": "14-16 °C",
+  "profil_kaynak": "https://degustasyon.net/diren-collection-merzifon-karasi-2020-amasya/"
+ },
+ {
+  "id": "vinkara-doruk-okuzgozu-bogazkere-2019",
+  "ad": "Vinkara Doruk Öküzgözü-Boğazkere",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Doğu Anadolu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "2019",
+  "abv": 12.5,
+  "tat": "Vinkara Doruk Öküzgözü-Boğazkere 2019: Olgun nektarin, kızılcık ve pestil çağrışımlı bukelere sahip.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2019 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-doruk-okuzgozu-bogazkere-2019-dogu-g-dogu/"
+  ],
+  "gorunum": "Nar kırmızısı renkte.",
+  "koku": "Olgun nektarin, kızılcık ve pestil çağrışımlı bukelere sahip.",
+  "agiz": "Orta gövdeli, hafif içimli, tanenleri biraz “yeşil” ve ham.",
+  "profil_kaynak": "https://degustasyon.net/vinkara-doruk-okuzgozu-bogazkere-2019-dogu-g-dogu/"
+ },
+ {
+  "id": "vinkara-atelier-kalecik-karasi-2019",
+  "ad": "Vinkara Atelier Kalecik Karası",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2019",
+  "abv": 14.5,
+  "tat": "Vinkara Atelier Kalecik Karası 2019: Ahududu, çilek, karadut, kuru incir ve tütün çağrışımlı bukeler burun ve damakta belirgin.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2019 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-atelier-kalecik-karasi-2019-ankara/"
+  ],
+  "koku": "Ahududu, çilek, karadut, kuru incir ve tütün çağrışımlı bukeler burun ve damakta belirgin.",
+  "agiz": "Dolgun yapılı, yağlı dokulu, yumuşak ve yuvarlak tanenli.",
+  "servis": "14-16 °C",
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-atelier-kalecik-karasi-2019-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-bogazkere-2014",
+  "ad": "Vinkara Mahzen Boğazkere",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Güneydoğu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "2014",
+  "abv": 14.0,
+  "tat": "Vinkara Mahzen Boğazkere 2014: Yaşlı Barolo şaraplarını andıran deri, tütün ve gülkurusu gibi bukelere mentol çağrışımları eşlik ediyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2014 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-bogazkere-2014-ankara-2/"
+  ],
+  "gorunum": "Kiremit renginde, turunç kızılı röfleler belirmiş.",
+  "koku": "Yaşlı Barolo şaraplarını andıran deri, tütün ve gülkurusu gibi bukelere mentol çağrışımları eşlik ediyor.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-bogazkere-2014-ankara-2/"
+ },
+ {
+  "id": "vinkara-mahzen-cabernet-sauvignon-2018",
+  "ad": "Vinkara Mahzen Cabernet Sauvignon",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2018",
+  "abv": 14.5,
+  "tat": "Vinkara Mahzen Cabernet Sauvignon 2018: Canlı kırmızı meyvemsi bukelerin ardından havalandıkça gül kokuları da hissediliyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2018 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-cabernet-sauvignon-2018-ankara/"
+  ],
+  "gorunum": "Koyu bordo renkte, kiremitsi röfleler de belirmeye başlamış.",
+  "koku": "Canlı kırmızı meyvemsi bukelerin ardından havalandıkça gül kokuları da hissediliyor.",
+  "agiz": "Gövdeli esnek tanenli, diri asiditeli ve yuvarlak bir şarap.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-cabernet-sauvignon-2018-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-narince-2018",
+  "ad": "Vinkara Mahzen Narince",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2018",
+  "abv": 14.0,
+  "tat": "Vinkara Mahzen Narince 2018: Burun ve damakta zengin ve kompleks; hafif is, meşe, vanilya, tereyağı, kuru ot ve egzotik meyve çağrışımlı bukeler belirgin.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2018 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-narince-2018-ankara/"
+  ],
+  "gorunum": "Yeşil röfleli altın sarısı.",
+  "koku": "Burun ve damakta zengin ve kompleks; hafif is, meşe, vanilya, tereyağı, kuru ot ve egzotik meyve çağrışımlı bukeler belirgin.",
+  "agiz": "Dolgun gövdeli, yağlı ve kaygan.",
+  "servis": "12 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-narince-2018-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-kalecik-karasi-2017",
+  "ad": "Vinkara Mahzen Kalecik Karası",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2017",
+  "abv": 14.5,
+  "tat": "Vinkara Mahzen Kalecik Karası 2017: Vişne ve karanfili andıran bukeler giderek nektarin ve günkurusu kayısı tonlarına dönüşüyor; deri ve tütün notaları da beliriyor.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2017 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-kalecik-karasi-2017-ankara/"
+  ],
+  "gorunum": "Yakut renginde, kahverengimsi röfleler de seziliyor.",
+  "koku": "Vişne ve karanfili andıran bukeler giderek nektarin ve günkurusu kayısı tonlarına dönüşüyor; deri ve tütün notaları da beliriyor.",
+  "agiz": "Gövdeli, kadifemsi tanenli, damakta uzun kalan zarif bir kırmızı.",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-kalecik-karasi-2017-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-cs-merlot-syrah-2015",
+  "ad": "Vinkara Mahzen Cabernet Sauvignon-Merlot-Syrah",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot",
+   "Syrah"
+  ],
+  "yil": "2015",
+  "abv": 14.5,
+  "tat": "Vinkara Mahzen Cabernet Sauvignon-Merlot-Syrah 2015: Baharat ve kuru meyve bukeleri belirgin.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2015 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-cabernet-s-merlot-syrah-2015-ankara/"
+  ],
+  "gorunum": "Koyu bordo renkli, kiremitsi röfleler de belirmeye başlamış.",
+  "koku": "Baharat ve kuru meyve bukeleri belirgin.",
+  "agiz": "Güçlü gövdeli, sağlam yapılı, yoğun ama kaşmir yumuşaklığında tanenlere sahip.",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-cabernet-s-merlot-syrah-2015-ankara/"
+ },
+ {
+  "id": "vinkara-azili-bogazkere-grand-reserve-2017",
+  "ad": "Vinkara Azılı Boğazkere Grand Reserve",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Güneydoğu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "2017",
+  "abv": 14.0,
+  "tat": "Vinkara Azılı Boğazkere Grand Reserve 2017: Burunda deri ve kuru çiçek bukeleri belirgin.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2017 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-azili-bogazkere-grand-reserve-2017-ankara/"
+  ],
+  "gorunum": "Renk açılmaya, kiremitsi röfleler belirmeye başlamış.",
+  "koku": "Burunda deri ve kuru çiçek bukeleri belirgin.",
+  "agiz": "Damakta da animal tonlar ön planda, gövdeli ve yoğun tanenli ama gücünü yitirmeye başlamış, erken yaşlanmış bir kırmızı.",
+  "profil_kaynak": "https://degustasyon.net/vinkara-azili-bogazkere-grand-reserve-2017-ankara/"
+ },
+ {
+  "id": "vinkara-winehouse-okuzgozu-2018",
+  "ad": "Vinkara Winehouse Öküzgözü",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Doğu Anadolu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2018",
+  "abv": 13.0,
+  "tat": "Vinkara Winehouse Öküzgözü 2018: Burun ve damakta olgun kırmızı meyve bukelerine ayva ve şeftali gibi meyvelerin çağrışımları eşlik ediyor.",
+  "puan": 80,
+  "puan_not": "degustasyon.net tadım notu 6.0/10 → 50 + 5 × 6.0 (2018 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-winehouse-okuzgozu-2018-ankara/"
+  ],
+  "gorunum": "Açık yakut tonlarında.",
+  "koku": "Burun ve damakta olgun kırmızı meyve bukelerine ayva ve şeftali gibi meyvelerin çağrışımları eşlik ediyor.",
+  "servis": "16 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-winehouse-okuzgozu-2018-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-kalecik-karasi-2013",
+  "ad": "Vinkara Mahzen Kalecik Karası",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Vinkara Mahzen Kalecik Karası 2013: Burun ve damakta mürdüm eriği, olgun çilek, vanilya, tütün gibi meyvemsi ve hafif baharlı bukeler hissediliyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2013 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-kalecik-karasi-2013-ankara/"
+  ],
+  "koku": "Burun ve damakta mürdüm eriği, olgun çilek, vanilya, tütün gibi meyvemsi ve hafif baharlı bukeler hissediliyor.",
+  "agiz": "Gövdeli ve yoğun, tanenleri yuvarlak ve kadifemsi.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-kalecik-karasi-2013-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-cabernet-sauvignon-2016",
+  "ad": "Vinkara Mahzen Cabernet Sauvignon",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2016",
+  "abv": 14.5,
+  "tat": "Vinkara Mahzen Cabernet Sauvignon 2016: Burun ve damakta olgun kırmızı meyve, kuru meyve ve karanfili andıran tatlı baharat bukeleri belirgin.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2016 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-cabernet-sauvignon-2016-ankara/"
+  ],
+  "gorunum": "Koyu bordo renginde, mor röflelere de sahip.",
+  "koku": "Burun ve damakta olgun kırmızı meyve, kuru meyve ve karanfili andıran tatlı baharat bukeleri belirgin.",
+  "agiz": "Finalde mineralsi izler de bırakıyor, tadı uzun kalıyor. Gövdeli, sıkı dokulu ve sağlam yapılı.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-cabernet-sauvignon-2016-ankara/"
+ },
+ {
+  "id": "vinkara-mahzen-bogazkere-2013",
+  "ad": "Vinkara Mahzen Boğazkere",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Güneydoğu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Vinkara Mahzen Boğazkere 2013: Tadım notu degustasyon.net kaynaklıdır.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2013 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-bogazkere-2013-ankara-2/"
+  ],
+  "agiz": "O yıllardaki “demirden” tanenleri de kısmen yuvarlanmış.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-bogazkere-2013-ankara-2/"
+ },
+ {
+  "id": "vinkara-mahzen-narince-2013",
+  "ad": "Vinkara Mahzen Narince",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2013",
+  "abv": 13.5,
+  "tat": "Vinkara Mahzen Narince 2013: Burunda narenciye ve egzotik meyve çağrışımlı, vanilya, meşe ve tereyağı tonları ise daha çok damakta hissediliyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2013 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-narince-mahzen-2013-ankara/"
+  ],
+  "gorunum": "Açık altın tonlarında.",
+  "koku": "Burunda narenciye ve egzotik meyve çağrışımlı, vanilya, meşe ve tereyağı tonları ise daha çok damakta hissediliyor.",
+  "agiz": "Damakta yoğun, dolgun, adeta yağlı.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-narince-mahzen-2013-ankara/"
+ },
+ {
+  "id": "kavaklidere-pendore-misket-2017",
+  "ad": "Kavaklıdere Pendore Misket",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Ege",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "2017",
+  "abv": 13.5,
+  "tat": "Kavaklıdere Pendore Misket 2017: Çok canlı bal, çiçek, narenciye ve tropikal meyve aromalarına sahip.",
+  "puan": 85,
+  "puan_not": "degustasyon.net tadım notu 7.0/10 → 50 + 5 × 7.0 (2017 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-pendore-misket-2015-manisa-2/"
+  ],
+  "gorunum": "Yeşil röfleli açık sarı.",
+  "koku": "Çok canlı bal, çiçek, narenciye ve tropikal meyve aromalarına sahip.",
+  "agiz": "Diri asiditeli, ferahlatıcı, mineralsi ve damakta kalıcı.",
+  "servis": "10 °C",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-pendore-misket-2015-manisa-2/"
+ },
+ {
+  "id": "kavaklidere-pendore-syrah-2014",
+  "ad": "Kavaklıdere Pendore Syrah",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2014",
+  "abv": 14.0,
+  "tat": "Kavaklıdere Pendore Syrah 2014: Mentol, meyankökü, toprak, olgun siyah meyve ve bitter çikolata çağrışımlı bukeler burun ve damakta belirgin.",
+  "puan": 92,
+  "puan_not": "degustasyon.net tadım notu 8.5/10 → 50 + 5 × 8.5 (2014 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-pendore-syrah-2014-manisa/"
+  ],
+  "gorunum": "Lacivert röfleli bordo renkli.",
+  "koku": "Mentol, meyankökü, toprak, olgun siyah meyve ve bitter çikolata çağrışımlı bukeler burun ve damakta belirgin.",
+  "agiz": "Gövdeli ve sıkı dokulu, güçlü yapılı, demirden tanenleri yuvarlanmaya başlamış.",
+  "servis": "karafa aktarılmalı",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-pendore-syrah-2014-manisa/"
+ },
+ {
+  "id": "kavaklidere-prestige-narince-2013",
+  "ad": "Kavaklıdere Prestige Narince",
+  "uretici": "Kavaklıdere",
+  "il": "Ankara",
+  "bolge": "Kapadokya",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Kavaklıdere Prestige Narince 2013: Burun ve damakta olgun elma, nektarin, ananas ve tereyağı çağrışımlı bukelere sahip.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2013 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/kavaklidere-prestige-narince-2013-kapadokya-2/"
+  ],
+  "koku": "Burun ve damakta olgun elma, nektarin, ananas ve tereyağı çağrışımlı bukelere sahip.",
+  "agiz": "Dolgun ve yağlı dokulu, yüksek alkol güçlü gövdenin içinde adeta erimiş.",
+  "servis": "10-12 °C",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/kavaklidere-prestige-narince-2013-kapadokya-2/"
+ },
+ {
+  "id": "tomurcukbag-trajan-kalecik-karasi-rezerv-2017",
+  "ad": "Tomurcukbağ Trajan Kalecik Karası Rezerv",
+  "uretici": "Tomurcukbağ",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2017",
+  "abv": 13.7,
+  "tat": "Tomurcukbağ Trajan Kalecik Karası Rezerv 2017: Burun ve damakta olgun çilek ve trüf mantarı çağrışımlı bukeler belirgin, topraksı izler de hissediliyor.",
+  "puan": 90,
+  "puan_not": "degustasyon.net tadım notu 8.0/10 → 50 + 5 × 8.0 (2017 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/tomurcukbag-trajan-kalecik-karasi-rezerv-2017-ankara/"
+  ],
+  "gorunum": "Yakut renkli, kiremitsi röfleler de belirmiş.",
+  "koku": "Burun ve damakta olgun çilek ve trüf mantarı çağrışımlı bukeler belirgin, topraksı izler de hissediliyor.",
+  "agiz": "Dolgun gövdeli ve tanenleri ipeksi yumuşaklığa kavuşmuş, yıllanmış Burgonya kırmızılarını andıran bir şarap.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://degustasyon.net/tomurcukbag-trajan-kalecik-karasi-rezerv-2017-ankara/"
+ },
+ {
+  "id": "vinolus-chardonnay-2017",
+  "ad": "Vinolus Chardonnay",
+  "uretici": "Vinolus",
+  "il": "Kayseri",
+  "bolge": "Kapadokya",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2017",
+  "abv": 14.0,
+  "tat": "Vinolus Chardonnay 2017: Tadım notu degustasyon.net kaynaklıdır.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2017 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinolus-chardonnay-2017-kayseri/"
+  ],
+  "gorunum": "Açık sarı tonlarda.",
+  "agiz": "Dolgun, gövdeli, yağlı ve sağlam dokulu.",
+  "servis": "11–12 °C",
+  "profil_kaynak": "https://degustasyon.net/vinolus-chardonnay-2017-kayseri/"
+ },
+ {
+  "id": "turasan-argos-emir-2015",
+  "ad": "Turasan Argos Emir",
+  "uretici": "Turasan",
+  "il": "Nevşehir",
+  "bolge": "Kapadokya",
+  "renk": "beyaz",
+  "uzum": [
+   "Emir"
+  ],
+  "yil": "2015",
+  "abv": 13.6,
+  "tat": "Turasan Argos Emir 2015: Olgun elma, toprak ve mineral çağrışımlı bukeler burun ve damakta belirgin.",
+  "puan": 85,
+  "puan_not": "degustasyon.net tadım notu 7.0/10 → 50 + 5 × 7.0 (2015 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/turasan-argos-emir-2015-kapadokya/"
+  ],
+  "gorunum": "Yeşil röfleli açık sarı renkte.",
+  "koku": "Olgun elma, toprak ve mineral çağrışımlı bukeler burun ve damakta belirgin.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/turasan-argos-emir-2015-kapadokya/"
+ },
+ {
+  "id": "turasan-tannat-2013",
+  "ad": "Turasan Tannat",
+  "uretici": "Turasan",
+  "il": "Nevşehir",
+  "bolge": "Kapadokya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Tannat"
+  ],
+  "yil": "2013",
+  "abv": 17.0,
+  "tat": "Turasan Tannat 2013: Mentol, mürdüm eriği, vişne, karamel ve vanilya çağrışımlı bukelere sahip.",
+  "puan": 82,
+  "puan_not": "degustasyon.net tadım notu 6.5/10 → 50 + 5 × 6.5 (2013 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/turasan-tannat-2013-kapadokya/"
+  ],
+  "koku": "Mentol, mürdüm eriği, vişne, karamel ve vanilya çağrışımlı bukelere sahip.",
+  "profil_kaynak": "https://degustasyon.net/turasan-tannat-2013-kapadokya/"
+ },
+ {
+  "id": "vinkara-mahzen-narince-2014",
+  "ad": "Vinkara Mahzen Narince",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince"
+  ],
+  "yil": "2014",
+  "abv": 13.5,
+  "tat": "Vinkara Mahzen Narince 2014: Elma ve armut gibi olgun beyaz meyve aromalarına ananas ve tereyağı çağrışımlı kokular da eşlik ediyor.",
+  "puan": 88,
+  "puan_not": "degustasyon.net tadım notu 7.5/10 → 50 + 5 × 7.5 (2014 rekoltesi)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/vinkara-mahzen-narince-2014-ankara/"
+  ],
+  "gorunum": "Altın sarısı renkte.",
+  "koku": "Elma ve armut gibi olgun beyaz meyve aromalarına ananas ve tereyağı çağrışımlı kokular da eşlik ediyor.",
+  "agiz": "Gövdeli, dolgun, adeta yağlı dokulu.",
+  "servis": "10-12 °C",
+  "profil_kaynak": "https://degustasyon.net/vinkara-mahzen-narince-2014-ankara/"
+ },
+ {
+  "id": "vinkara-reserve-cabernet-sauvignon",
+  "ad": "Vinkara Reserve Cabernet Sauvignon",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 13.5,
+  "tat": "Vinkara Reserve Cabernet Sauvignon 2023: kırmızı sek şarap; Cabernet Sauvignon.",
+  "puan": 0,
+  "tl": 1505,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-reserve-cabernet-sauvignon"
+  ],
+  "agiz": "Yoğun gövdeli, güçlü tanenli, uzun bitişli bir kırmızı şaraptır.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-reserve-cabernet-sauvignon"
+ },
+ {
+  "id": "vinkara-atelier-yari-tatli-kalecik-karasi",
+  "ad": "Vinkara Atelier Yarı Tatlı Kalecik Karası",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2023",
+  "abv": 14.0,
+  "tat": "Vinkara Atelier Yarı Tatlı Kalecik Karası 2023: kırmızı yarı tatlı şarap; Kalecik Karası.",
+  "puan": 0,
+  "tl": 854,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-atelier-yari-tatli-kalecik-karasi"
+  ],
+  "koku": "Böğürtlen, çilek, dut, incir, tütün ve tütsülenmiş et aromaları barındırır.",
+  "agiz": "Kadifemsi yapısı ve uzun bitişiyle dikkat çeker.",
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-atelier-yari-tatli-kalecik-karasi"
+ },
+ {
+  "id": "vinkara-atelier-kalecik-karasi-okuzgozu",
+  "ad": "Vinkara Atelier Kalecik Karası & Öküzgözü",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası",
+   "Öküzgözü"
+  ],
+  "yil": "2024",
+  "abv": 11.5,
+  "tat": "Vinkara Atelier Kalecik Karası & Öküzgözü 2024: pembe yarı tatlı şarap; Kalecik Karası, Öküzgözü.",
+  "puan": 0,
+  "tl": 754,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-atelier-kalecik-karasi-okuzgozu"
+  ],
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-atelier-kalecik-karasi-okuzgozu"
+ },
+ {
+  "id": "diren-collection-sungurlu-beyazi",
+  "ad": "Diren Collection Sungurlu Beyazı",
+  "uretici": "Diren",
+  "il": "Çorum",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Sungurlu Beyazı"
+  ],
+  "yil": "2023",
+  "abv": 13.0,
+  "tat": "Diren Collection Sungurlu Beyazı 2023: beyaz sek şarap; Sungurlu Beyazı.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-sungurlu-beyazi"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-sungurlu-beyazi"
+ },
+ {
+  "id": "vinkara-sauvignon-blanc",
+  "ad": "Vinkara Sauvignon Blanc",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2025",
+  "abv": 12.5,
+  "tat": "Vinkara Sauvignon Blanc 2025: beyaz sek şarap; Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 968,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-sauvignon-blanc"
+  ],
+  "koku": "Burunda tropik meyve ve yeşil elma notalarına sahip.",
+  "agiz": "Damakta güçlü asiditeli ve yumuşak içimli bir beyaz.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-sauvignon-blanc"
+ },
+ {
+  "id": "vinkara-merlot",
+  "ad": "Vinkara Merlot",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2020",
+  "abv": 13.5,
+  "tat": "Vinkara Merlot 2020: kırmızı sek şarap; Merlot.",
+  "puan": 0,
+  "tl": 860,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-merlot"
+  ],
+  "agiz": "Yumuşak tanenli, orta gövdeli, yumuşak içim bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-merlot"
+ },
+ {
+  "id": "vinkara-syrah",
+  "ad": "Vinkara Syrah",
+  "uretici": "Vinkara",
+  "il": "Manisa",
+  "bolge": "Ege",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2021",
+  "abv": 14.0,
+  "tat": "Vinkara Syrah 2021: kırmızı sek şarap; Syrah.",
+  "puan": 0,
+  "tl": 780,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-syrah"
+  ],
+  "koku": "Orman meyveleri ve baharatlı notaların yoğun olarak hissedildiği tanenli ve gövdeli yapıda bir kırmızı.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-syrah"
+ },
+ {
+  "id": "diren-karmen-selection-beyaz",
+  "ad": "Diren Karmen Selection Beyaz",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Narince",
+   "Chardonnay"
+  ],
+  "yil": "2019",
+  "abv": 13.5,
+  "tat": "Diren Karmen Selection Beyaz 2019: beyaz sek şarap; Narince, Chardonnay.",
+  "puan": 0,
+  "tl": 359,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-karmen-selection-beyaz"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-karmen-selection-beyaz"
+ },
+ {
+  "id": "diren-yari-tatli-blush",
+  "ad": "Diren Yarı Tatlı Blush",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü",
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Diren Yarı Tatlı Blush 2022: pembe yarı tatlı şarap; Öküzgözü, Kalecik Karası.",
+  "puan": 0,
+  "tl": 416,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-yari-tatli-blush"
+  ],
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-yari-tatli-blush"
+ },
+ {
+  "id": "diren-collection-sauvignon-blanc",
+  "ad": "Diren Collection Sauvignon Blanc",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Diren Collection Sauvignon Blanc 2022: beyaz sek şarap; Sauvignon Blanc.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-sauvignon-blanc"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-sauvignon-blanc"
+ },
+ {
+  "id": "diren-collection-syrah",
+  "ad": "Diren Collection Syrah",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2022",
+  "abv": 14.5,
+  "tat": "Diren Collection Syrah 2022: kırmızı sek şarap; Syrah.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-syrah"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-syrah"
+ },
+ {
+  "id": "diren-collection-merlot",
+  "ad": "Diren Collection Merlot",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Diren Collection Merlot 2022: kırmızı sek şarap; Merlot.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-merlot"
+  ],
+  "koku": "Burunda kırmızı meyve ve baharat aromaları sunan bu şarap, dengeli ve yuvarlak tanenleri ile dikkat çeker.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-merlot"
+ },
+ {
+  "id": "diren-collection-okuzgozu-bogazkere",
+  "ad": "Diren Collection Öküzgözü & Boğazkere",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "2021",
+  "abv": 13.5,
+  "tat": "Diren Collection Öküzgözü & Boğazkere 2021: kırmızı sek şarap; Öküzgözü, Boğazkere.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-okuzgozu-bogazkere"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-okuzgozu-bogazkere"
+ },
+ {
+  "id": "diren-collection-cabernet-sauvignon",
+  "ad": "Diren Collection Cabernet Sauvignon",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2023",
+  "abv": 14.0,
+  "tat": "Diren Collection Cabernet Sauvignon 2023: kırmızı sek şarap; Cabernet Sauvignon.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-cabernet-sauvignon"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-cabernet-sauvignon"
+ },
+ {
+  "id": "diren-collection-kalecik-karasi",
+  "ad": "Diren Collection Kalecik Karası",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Diren Collection Kalecik Karası 2022: kırmızı sek şarap; Kalecik Karası.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-kalecik-karasi"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-kalecik-karasi"
+ },
+ {
+  "id": "diren-collection-chardonnay",
+  "ad": "Diren Collection Chardonnay",
+  "uretici": "Diren",
+  "il": "Tokat",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2023",
+  "abv": 12.5,
+  "tat": "Diren Collection Chardonnay 2023: beyaz sek şarap; Chardonnay.",
+  "puan": 0,
+  "tl": 636,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://iyisarap.plus/products/diren-collection-chardonnay"
+  ],
+  "koku": "Bu şarap, burunda elma, kavun, ananas ve limon kokularıyla dikkat çeker.",
+  "agiz": "Damakta canlı, gövdeli ve meyveli bir bitiş sunar.",
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/diren-collection-chardonnay"
+ },
+ {
+  "id": "vinkara-bornova-misketi",
+  "ad": "Vinkara Bornova Misketi",
+  "uretici": "Vinkara",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misket"
+  ],
+  "yil": "2025",
+  "abv": 13.0,
+  "tat": "Vinkara Bornova Misketi 2025: beyaz yarı tatlı şarap; Bornova Misket.",
+  "puan": 0,
+  "tl": 990,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/vinkara-bornova-misketi"
+  ],
+  "koku": "Burunda gül ve narenciye notalarının yoğun olarak hissedildiği güçlü asiditeli ve yarı tatlı bir beyaz.",
+  "alkol_seker": "Yarı tatlı",
+  "profil_kaynak": "https://iyisarap.plus/products/vinkara-bornova-misketi"
+ },
+ {
+  "id": "turasan-blush-kalecik-karasi",
+  "ad": "Turasan Blush Kalecik Karası",
+  "uretici": "Turasan",
+  "il": "Denizli",
+  "bolge": "Denizli",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2026",
+  "abv": 13.0,
+  "tat": "Turasan Blush Kalecik Karası 2026: pembe sek şarap; Kalecik Karası.",
+  "puan": 0,
+  "tl": 768,
+  "tl_kaynak": "iyisarap.plus, Ekim 2026",
+  "odul": "",
+  "bul": "sarapci",
+  "kaynak": [
+   "https://iyisarap.plus/products/turasan-blush-kalecik-karasi"
+  ],
+  "alkol_seker": "Sek (kuru)",
+  "profil_kaynak": "https://iyisarap.plus/products/turasan-blush-kalecik-karasi"
+ },
+ {
+  "id": "mahsarto-d-midin-the-8-2023",
+  "ad": "Mahsarto d'Midin The 8",
+  "uretici": "Midin",
+  "il": "Şırnak",
+  "bolge": "Güneydoğu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "2023",
+  "abv": 0,
+  "tat": "Decanter World Wine Awards 2025'te Platinum madalya alan, yüzde 80 Boğazkere'li kırmızı.",
+  "puan": 97,
+  "puan_not": "DWWA 2025 Platinum madalyası; Decanter 'Platinum = 97 puan ve üzeri' sayfasında listelendi, tam puan açıklanmadı (alt sınır alındı)",
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "Platinum madalya, Decanter World Wine Awards 2025",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.decanter.com/decanter-world-wine-awards/dwwa-2025-palatinum-medal-winners-97-point-wines-558187/"
+  ]
+ },
+ {
+  "id": "502-diakopa-kalecik-karasi",
+  "ad": "502 Vineyards Diakopa Kalecik Karası",
+  "uretici": "502 Vineyards",
+  "il": "Ankara",
+  "bolge": "Ankara",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Kalecik'teki 30 yıllık asmalardan, çelik tankta 12 ay olgunlaştırılmış saf Kalecik Karası.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.502vineyards.com/wines"
+  ],
+  "koku": "Parlak kırmızı meyve notaları.",
+  "agiz": "Pürüzsüz ve zarif bir bitiş.",
+  "profil_kaynak": "https://www.502vineyards.com/wines",
+  "profil_not": "Üretici sayfasındaki İngilizce tanımdan çevrilmiştir (bright red fruit notes, smooth elegant finish)."
+ },
+ {
+  "id": "502-ugni-blanc",
+  "ad": "502 Vineyards Ugni Blanc",
+  "uretici": "502 Vineyards",
+  "il": "Samsun",
+  "bolge": "Karadeniz",
+  "renk": "beyaz",
+  "uzum": [
+   "Ugni Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Samsun Bafra üzümlerinden; 3 ay çelik tankta, 5 ay Fransız meşe fıçıda olgunlaştırılmış, filtre edilmemiş, minimum sülfitli beyaz.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "odul": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.502vineyards.com/wines"
   ]
  }
 ]

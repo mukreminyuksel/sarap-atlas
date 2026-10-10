@@ -1444,6 +1444,20 @@
     ]
    ]
   },
+  "chateau-gali-rose": {
+   "tl": 980,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     980
+    ]
+   ]
+  },
   "chateau-kalpak": {
    "tl": 2336,
    "tarih": "2026-10-05",
@@ -2393,6 +2407,34 @@
     [
      "2026-10-05",
      930
+    ]
+   ]
+  },
+  "erdel-hanchalar-clairet": {
+   "tl": 400,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     400
+    ]
+   ]
+  },
+  "gordias-blush": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
     ]
    ]
   },
@@ -3656,6 +3698,34 @@
     ]
    ]
   },
+  "kayra-allure-crispy-chardonnay": {
+   "tl": 815,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     815
+    ]
+   ]
+  },
+  "kayra-allure-kalecik-karasi": {
+   "tl": 815,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     815
+    ]
+   ]
+  },
   "kayra-buzbag-rezerv-emir-narince": {
    "tl": 750,
    "tarih": "2026-10-05",
@@ -3667,6 +3737,20 @@
     [
      "2026-10-05",
      750
+    ]
+   ]
+  },
+  "kayra-madre": {
+   "tl": 1655,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1655
     ]
    ]
   },
@@ -4227,6 +4311,34 @@
     [
      "2026-10-05",
      1123
+    ]
+   ]
+  },
+  "nice-rose-horos-karasi-okuzgozu": {
+   "tl": 1030,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1030
+    ]
+   ]
+  },
+  "nice-rose-kalecik-karasi": {
+   "tl": 1030,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1030
     ]
    ]
   },
@@ -5770,6 +5882,20 @@
     ]
    ]
   },
+  "suvla-kilitbahir-rose": {
+   "tl": 500,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     500
+    ]
+   ]
+  },
   "suvla-kirte": {
    "tl": 1069,
    "tarih": "2026-10-05",
@@ -6999,6 +7125,20 @@
     [
      "2026-10-05",
      1210
+    ]
+   ]
+  },
+  "yaban-kolektif-rose": {
+   "tl": 1152,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1152
     ]
    ]
   },

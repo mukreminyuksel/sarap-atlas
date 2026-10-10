@@ -50,7 +50,7 @@
     "https://vegadergi.com.tr/bagciligin-ve-sarabin-anadolu-ve-trakyali-tarihi/",
     "https://www.hurriyet.com.tr/seyahat/sarkoy-de-bagbozumu-senligi-eylulde-baslar-30048561"
    ],
-   "sarap": 238
+   "sarap": 258
   },
   {
    "id": "bozcaada-gokceada",
@@ -171,7 +171,7 @@
     "https://www.vitikultur.com/tr/baglar",
     "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
    ],
-   "sarap": 78
+   "sarap": 82
   },
   {
    "id": "ic-ege",
@@ -203,7 +203,7 @@
     "https://kavaklidere.com/baglarimiz-ve-uretim/",
     "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey"
    ],
-   "sarap": 45
+   "sarap": 48
   },
   {
    "id": "denizli-cal",
@@ -245,7 +245,7 @@
     "https://vegadergi.com.tr/bagciligin-ve-sarabin-anadolu-ve-trakyali-tarihi/",
     "https://festivall.com.tr/festival/14661/cal-bag-bozumu-kultur-ve-sanat-festivali/"
    ],
-   "sarap": 69
+   "sarap": 83
   },
   {
    "id": "akdeniz",
@@ -282,7 +282,7 @@
     "https://www.vitikultur.com/tr/bolgeler/mediterranean",
     "https://www.wayanatapas.com/en/guney-ege-akdeniz-bag-rotasinin-endemik-uzumler/"
    ],
-   "sarap": 37
+   "sarap": 40
   },
   {
    "id": "kapadokya",
@@ -318,7 +318,7 @@
     "https://www.oggusto.com/gastronomi/bag-bozumu-nedir-ne-zaman-yapilir",
     "https://festivall.com.tr/festival/13405/urgup-uluslararasi-bag-bozumu-festivali/"
    ],
-   "sarap": 51
+   "sarap": 53
   },
   {
    "id": "kalecik",
@@ -350,7 +350,7 @@
     "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1",
     "https://www.kalecik.bel.tr/haberler/14-kalecik-karasi-uzum-festivaline-davetlisiniz"
    ],
-   "sarap": 69
+   "sarap": 71
   },
   {
    "id": "elazig",
@@ -378,7 +378,7 @@
     "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
     "https://www.elazigfirat.com/video/19409353/elazigda-17-bag-bozumu-ve-uzum-festivali-duzenlendi"
    ],
-   "sarap": 27
+   "sarap": 31
   },
   {
    "id": "guneydogu",
@@ -409,7 +409,7 @@
     "https://www.vitikultur.com/tr/uzumler/mazrona",
     "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
    ],
-   "sarap": 21
+   "sarap": 23
   },
   {
    "id": "karadeniz",
@@ -435,7 +435,7 @@
     "https://www.wsetglobal.com/knowledge-centre/blog/2023/june/13/exploring-the-wines-of-tuerkiye-turkey",
     "https://turkiyeturizmansiklopedisi.com/tokat-narince-salamura-asma-yapragi"
    ],
-   "sarap": 37
+   "sarap": 38
   },
   {
    "id": "diger",
@@ -445,13 +445,14 @@
     "Balıkesir",
     "Bursa",
     "Isparta",
+    "Kilis",
     "Konya",
     "Manisa",
     "Çanakkale",
     "İzmir"
    ],
    "aciklama": "12 ana bölgenin dışında kalan bağlar ve şaraphaneler (Kuzey Ege kıyısı, Güney Marmara, Foça ve benzeri).",
-   "sarap": 27
+   "sarap": 29
   }
  ],
  "ulkeler": [
