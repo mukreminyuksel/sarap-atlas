@@ -15,6 +15,7 @@ Türkçe şarap atlası: Türkiye ve dünya şarapları, üzümler, bölgeler, p
 - IWSC'nin iki Türk ödülü (2025 Akberg Şirince, 2026 V'Asbos) arama özetine dayanıyor, iwsc.net'ten doğrulanmadı; "doğrulanacak" notuyla gösterilir.
 
 ## Veri dosyaları ve betikler
+- `scripts/gorsel.mjs` — şişe görseli ekleme: `sec | ekle <id> <gorselURL> <sayfaURL> <sahip> | yok <id> | sil <id>`. Yalnızca **resmî üretici sitelerinden** (yaş kapılı siteler atlanır); görsel 160 px yüksekliğinde WebP'ye çevrilir (`img/sise/`, kayıt `data/gorseller.json`). Aylık görev ayın 8'inde çalışır.
 - `data/fiyatlar.json` — fiyat kayıtları (kaynak, güven, tarih). Elle düzenleme; aylık görev `scripts/fiyat-guncelle.mjs` ile yazar (`sec` → araştırılacaklar, `uygula dosya.json` → güvenlik kontrolleriyle yazar; şüpheli değişimleri reddeder).
 - `data/baglantilar.json` — üreticilerin resmî site ve sosyal medya bağlantıları. `scripts/baglanti.mjs` (`sec` / `ekle` / `yok` / `kontrol` / `sil`). Yalnızca **resmî** hesaplar.
 - `data/satis.json` — "Nereden Alınır" (yasal not, zincir, duty-free, butik); `data/topluluk.json` — kulüp, grup, festival, kanallar.
