@@ -304,7 +304,8 @@
   "tl": 0,
   "bul": "kolay",
   "kaynak": [
-   "https://degustasyon.net/villa-doluca-klasik-roze-2023-ege/"
+   "https://degustasyon.net/villa-doluca-klasik-roze-2023-ege/",
+   "https://www.doluca.com/saraplar/urun-listesi"
   ],
   "gorunum": "Gül pembesi renginde.",
   "koku": "Burun ve damakta canlı meyvemsilikte, olgun ayva ve frenküzümü çağrışımlı koku ve tadlara çiçeksi nüanslar eşlik ediyor.",
@@ -803,7 +804,8 @@
   "tl": 0,
   "bul": "kolay",
   "kaynak": [
-   "https://degustasyon.net/villa-doluca-neo-rose-2021-ege-d-anadolu/"
+   "https://degustasyon.net/villa-doluca-neo-rose-2021-ege-d-anadolu/",
+   "https://www.doluca.com/saraplar/urun-listesi"
   ],
   "gorunum": "Canlı gül pembesi renginde.",
   "koku": "Burunda çilek, ahududu ve taze çekilmiş karabiber çağrışımlı frenküzümü, ahududu ve dağ çileği çağrışımlı kokulara sahip.",
@@ -815,7 +817,7 @@
  },
  {
   "id": "doluca-verano-rose",
-  "ad": "Verano Rose",
+  "ad": "Verano",
   "uretici": "Doluca",
   "il": "Tekirdağ",
   "bolge": "Trakya ve Güneydoğu bağları",
@@ -832,7 +834,8 @@
   "tl": 0,
   "bul": "kolay",
   "kaynak": [
-   "https://degustasyon.net/doluca-verano-rose-2021-trakya-g-dogu/"
+   "https://degustasyon.net/doluca-verano-rose-2021-trakya-g-dogu/",
+   "https://www.doluca.com/saraplar/urun-listesi"
   ],
   "gorunum": "Gül pembesi renginde.",
   "koku": "Ahududu, frenküzümü, elma ve ayva kompostosu gibi kokular hissediliyor.",
@@ -1078,7 +1081,8 @@
   "tl": 0,
   "bul": "kolay",
   "kaynak": [
-   "https://degustasyon.net/doluca-hayal-rose-2019-ege-trakya/"
+   "https://degustasyon.net/doluca-hayal-rose-2019-ege-trakya/",
+   "https://www.doluca.com/saraplar/urun-listesi"
   ],
   "gorunum": "Somon pembesi renginde.",
   "koku": "Burun ve damakta frenküzümü, olgun elma ve ayva çağrışımlı aromalara sahip.",
@@ -1134,7 +1138,8 @@
   "tl": 0,
   "bul": "kolay",
   "kaynak": [
-   "https://degustasyon.net/doluca-vinea-rose-2019-ege/"
+   "https://degustasyon.net/doluca-vinea-rose-2019-ege/",
+   "https://www.doluca.com/saraplar/urun-listesi"
   ],
   "gorunum": "Gül pembesi renginde.",
   "koku": "Burunda olgun çilek kokuları ön planda.",
@@ -1579,5 +1584,107 @@
   "agiz": "Körpe ve diri asiditeli bir roze.",
   "servis": "6-8 °C",
   "profil_kaynak": "https://degustasyon.net/cumartesi-blush-2016-denizli/"
+ },
+ {
+  "id": "doluca-bianca",
+  "ad": "Bianca",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege ve Tokat bağları",
+  "renk": "kopuklu",
+  "uzum": [
+   "Narince",
+   "Sultaniye"
+  ],
+  "yil": "2018",
+  "abv": 13.0,
+  "tat": "Narince ve Sultaniye'den, karbondioksit eklenerek yapılan köpüren beyaz; taze üzüm aromalı, diri asitli.",
+  "puan": 0,
+  "tl": 0,
+  "bul": "",
+  "kaynak": [
+   "https://www.doluca.com/saraplar/urun-listesi",
+   "https://degustasyon.net/doluca-bianca-ekstra-brut-2018-tekirdag/"
+  ],
+  "gorunum": "Açık sarı, canlı ve yoğun köpüklü.",
+  "koku": "Taze üzüm aromaları.",
+  "agiz": "Hafif buruk, dolgun ve diri asitli.",
+  "servis": "6-8 °C",
+  "yemek": [
+   "Kutlama ve aperatif",
+   "Şarap kokteylleri"
+  ],
+  "alkol_seker": "ekstra brut",
+  "profil_kaynak": "https://degustasyon.net/doluca-bianca-ekstra-brut-2018-tekirdag/",
+  "profil_rekolte": "2018"
+ },
+ {
+  "id": "doluca-vinea-kirmizi",
+  "ad": "Vinea Kırmızı",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege bağları",
+  "renk": "kirmizi",
+  "uzum": [
+   "Shiraz",
+   "Kalecik Karası"
+  ],
+  "yil": "2019",
+  "abv": 14.0,
+  "tat": "Shiraz ve Kalecik Karası'ndan günlük sofra şarabı; reçelsi siyah meyve ve mürdüm eriği, köşeli tanen.",
+  "puan": 0,
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.doluca.com/saraplar/urun-listesi",
+   "https://degustasyon.net/doluca-vinea-kirmizi-2019-ege/"
+  ],
+  "gorunum": "Mor, lacivert yansımalı.",
+  "koku": "Reçelsi siyah meyve.",
+  "agiz": "Mürdüm eriği ve yeşil biber; tanenler sivri, damağı kurutuyor.",
+  "servis": "16 °C",
+  "yemek": [
+   "Izgara etler"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/doluca-vinea-kirmizi-2019-ege/",
+  "profil_rekolte": "2019",
+  "tl_kaynak": "",
+  "not": "2019 tadımında yalnızca Migros'ta satılıyordu."
+ },
+ {
+  "id": "doluca-vinea-beyaz",
+  "ad": "Vinea Beyaz",
+  "uretici": "Doluca",
+  "il": "Tekirdağ",
+  "bolge": "Ege, Tokat ve Kapadokya bağları",
+  "renk": "beyaz",
+  "uzum": [
+   "Sultaniye",
+   "Narince",
+   "Emir"
+  ],
+  "yil": "2019",
+  "abv": 13.0,
+  "tat": "Sultaniye, Narince ve Emir'den günlük sofra şarabı; olgun ayva, keskin asit, hafif badem burukluğu.",
+  "puan": 0,
+  "tl": 0,
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.doluca.com/saraplar/urun-listesi",
+   "https://degustasyon.net/doluca-vinea-beyaz-2019-tekirdag/"
+  ],
+  "gorunum": "Saman sarısı.",
+  "koku": "Olgun ayva ve hafif yanık tonlar.",
+  "agiz": "İnce yapılı, asidi sivri; sonda çağla-badem burukluğu.",
+  "yemek": [
+   "Baharatlı mezeler",
+   "Beyaz etler",
+   "Spritz ve sangria"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/doluca-vinea-beyaz-2019-tekirdag/",
+  "profil_rekolte": "2019",
+  "not": "2019 tadımında yalnızca Migros'ta satılıyordu."
  }
 ]

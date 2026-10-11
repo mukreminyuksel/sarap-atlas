@@ -25,7 +25,7 @@
     "https://en.wikipedia.org/wiki/%C3%96k%C3%BCzg%C3%B6z%C3%BC"
    ],
    "rehber": true,
-   "katalog": 112
+   "katalog": 111
   },
   {
    "id": "bogazkere",
@@ -77,7 +77,7 @@
     "https://en.wikipedia.org/wiki/Kalecik_Karas%C4%B1"
    ],
    "rehber": true,
-   "katalog": 93
+   "katalog": 94
   },
   {
    "id": "papazkarasi",
@@ -367,7 +367,7 @@
     "https://en.wikipedia.org/wiki/Narince_(grape)"
    ],
    "rehber": true,
-   "katalog": 64
+   "katalog": 66
   },
   {
    "id": "emir",
@@ -392,7 +392,7 @@
     "https://en.wikipedia.org/wiki/Emir_(grape)"
    ],
    "rehber": true,
-   "katalog": 30
+   "katalog": 31
   },
   {
    "id": "hasandede",
@@ -433,7 +433,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 22
+   "katalog": 24
   },
   {
    "id": "bornova-misketi",
@@ -457,7 +457,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 21
+   "katalog": 20
   },
   {
    "id": "cavus",
@@ -692,7 +692,7 @@
    ],
    "turkiyede": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli ve Elmalı'da yetişir. Hem tek çeşit hem de Merlot ve yerli üzümlerle kupaj olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Chateau Kalpak, Barbare, Likya, Urla Şarapçılık, Kutman, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 260
+   "katalog": 259
   },
   {
    "id": "merlot",
@@ -816,7 +816,7 @@
    ],
    "turkiyede": "Ege'ye (Urla, Selçuk, Bodrum, Datça) ve Trakya'ya iyi uyum sağlamıştır; tek çeşit ve kupaj olarak yaygındır. Yetiştirenlerden bazıları: Urla Şarapçılık, Çakır, Mozaik, Karnas, Barbare, Erdel, Lucien Arkas Bağları, Likya.",
    "dunya": true,
-   "katalog": 177
+   "katalog": 178
   },
   {
    "id": "cabernet-franc",
