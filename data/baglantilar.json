@@ -1,4 +1,13 @@
 {
- "baglantilar": {},
+ "baglantilar": {
+  "Aura Winery (Vin Aura)": {
+   "web": "https://www.aurawinery.com",
+   "kontrol": "2026-10-11"
+  },
+  "Datça Şarapçılık (Datça Vineyard & Winery)": {
+   "web": "https://www.datcasarap.com",
+   "kontrol": "2026-10-11"
+  }
+ },
  "yok": {}
 }
