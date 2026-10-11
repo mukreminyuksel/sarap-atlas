@@ -3286,7 +3286,7 @@ function renderUzum(){
   const box=document.getElementById('uzumBox');if(!box)return;
   if(!UZUMLER.length){box.innerHTML='<div class="empty">Üzüm rehberi yükleniyor…</div>';return;}
   const q=document.getElementById('uzumAra').value||'';
-  const uy=u=>!q.trim()||araUyar([u.ad,u.bolge,(u.bolgeler||[]).join(' '),u.koken,u.karakter,u.eslesme,(u.aromalar||[]).join?u.aromalar.join(' '):u.aromalar,u.turkiyede].join(' '),q);
+  const uy=u=>!q.trim()||araUyar([u.ad,u.bolge,(u.bolgeler||[]).join(' '),u.koken,u.karakter,u.eslesme,Array.isArray(u.aromalar)?u.aromalar.join(' '):(u.aromalar||''),u.turkiyede].join(' '),q);
   const dn=denenenUzumler();
   const kart=u=>{const n=u.katalog||uzumSaraplari(u.id).length,ok=dn.has(u.id),txt=String(u.karakter||u.aciklama||u.not||'');
     return `<div class="stilkart" data-uzum="${esc(u.id)}"><div class="sk-ust"><span class="renk buyuk" style="background:${uzumRenk(u)}"></span><div><div class="sk-ad">${esc(u.ad)}${ok?' <span title="Denedin" style="color:var(--have)">✓</span>':''}</div><div class="sk-tr">${u.renk==='beyaz'?'Beyaz üzüm':u.renk==='kirmizi'?'Kırmızı üzüm':''}${u.bolge?' · '+esc(String(u.bolge).split(/[;,]/)[0]):''}</div></div></div>
