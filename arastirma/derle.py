@@ -522,7 +522,7 @@ for m, s_ in SARAPHANE.items():
                     'konum': [round(c[0] + 0.035 * (n % 4) - 0.05 * (n // 4), 4), round(c[1] + 0.05 * (n % 4), 4)]})
     sh_cikti.append({'ad': m, 'kurulus': s_.get('kurulus') or '', 'baglar': s_.get('baglar') or '', 'uzumler': s_.get('uzumler') or [],
                      'web': s_.get('web') or '', 'instagram': s_.get('instagram') or '', 'hikaye': s_.get('hikaye') or '',
-                     'kaynak': s_['kaynak'], 'tesisler': tes, 'sarap': sarap_say.get(m, 0), 'sev': SEV.get(('Türkiye', m), '0')})
+                     'kaynak': kaynak_temiz(s_['kaynak']), 'tesisler': tes, 'sarap': sarap_say.get(m, 0), 'sev': SEV.get(('Türkiye', m), '0')})
 yaz('ureticiler.json', {'_aciklama': 'Şaraphaneler (yalnızca markası bilinen kayıtlar). konum: ilçe ya da il merkezine göre yaklaşık.',
                         'ureticiler': sh_cikti})
 

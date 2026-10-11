@@ -90,7 +90,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Eskibağlar",
-     "sarap": 2
+     "sarap": 3
     },
     {
      "ad": "Kuzeybağ",
@@ -472,7 +472,7 @@
      "web": "https://pamukkalewinery.com",
      "firma_sayisi": 1,
      "sh": "Pamukkale Şarapları",
-     "sarap": 22
+     "sarap": 23
     },
     {
      "ad": "Kuzubağ",
@@ -480,7 +480,7 @@
      "web": "https://www.kuzubag.com",
      "firma_sayisi": 1,
      "sh": "Kuzubağ",
-     "sarap": 10
+     "sarap": 18
     },
     {
      "ad": "Küp Şarapları (Epic, Artemis, Thia)",
@@ -496,7 +496,7 @@
      "web": "https://www.lermonos.com",
      "firma_sayisi": 1,
      "sh": "Lermonos",
-     "sarap": 10
+     "sarap": 26
     },
     {
      "ad": "Kayıbağ – Paşa Dedem",
@@ -536,7 +536,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Hanchalar (Erdel Şarapçılık)",
-     "sarap": 2
+     "sarap": 5
     },
     {
      "ad": "Calypso Rose Gıda San. Tic. A.Ş",
@@ -630,7 +630,7 @@
      "web": "https://www.yanikulke.com",
      "firma_sayisi": 1,
      "sh": "Yanık Ülke",
-     "sarap": 6
+     "sarap": 8
     },
     {
      "ad": "Heraki",
@@ -638,7 +638,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Heraki",
-     "sarap": 4
+     "sarap": 6
     },
     {
      "ad": "Selendi",
@@ -646,7 +646,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Selendi",
-     "sarap": 10
+     "sarap": 16
     },
     {
      "ad": "Kastro Tireli",
@@ -654,7 +654,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Kastro Tireli",
-     "sarap": 10
+     "sarap": 15
     },
     {
      "ad": "Sobran Bağları – Alaşehir-Philadelphia",
@@ -662,7 +662,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Sobran Bağları – Alaşehir-Philadelphia",
-     "sarap": 2
+     "sarap": 14
     },
     {
      "ad": "Deva Şarapçılık",
@@ -776,7 +776,7 @@
      "web": "https://www.urlasarapcilik.com.tr",
      "firma_sayisi": 1,
      "sh": "Urla Şarapçılık (Urla Winery)",
-     "sarap": 11
+     "sarap": 15
     },
     {
      "ad": "USCA",
@@ -832,7 +832,7 @@
      "web": "https://www.mmgsarapcilik.com",
      "firma_sayisi": 1,
      "sh": "MMG Şarapçılık – Şatomet",
-     "sarap": 1
+     "sarap": 5
     },
     {
      "ad": "Çakır Şarapçılık",
@@ -864,7 +864,7 @@
      "web": "https://www.lawines.com.tr",
      "firma_sayisi": 1,
      "sh": "Lucien Arkas Bağları (LA Wines)",
-     "sarap": 12
+     "sarap": 14
     }
    ],
    "kaynak": [
@@ -930,7 +930,7 @@
      "web": "https://www.doluca.com",
      "firma_sayisi": 1,
      "sh": "Doluca",
-     "sarap": 16
+     "sarap": 56
     },
     {
      "ad": "Kutman",
@@ -954,7 +954,7 @@
      "web": "https://meyicki.com",
      "firma_sayisi": 1,
      "sh": "Kayra",
-     "sarap": 25
+     "sarap": 42
     },
     {
      "ad": "Barbare",
@@ -962,7 +962,7 @@
      "web": "https://www.barbarewines.com",
      "firma_sayisi": 1,
      "sh": "Barbare",
-     "sarap": 2
+     "sarap": 3
     },
     {
      "ad": "Umurbey",
@@ -970,7 +970,7 @@
      "web": "https://www.umurbey.com",
      "firma_sayisi": 1,
      "sh": "Umurbey",
-     "sarap": 7
+     "sarap": 9
     },
     {
      "ad": "Barel Vineyards",
@@ -986,7 +986,7 @@
      "web": "https://www.chateaunuzun.com",
      "firma_sayisi": 1,
      "sh": "Château Nuzun",
-     "sarap": 3
+     "sarap": 4
     },
     {
      "ad": "Gürbüz Winery",
@@ -1010,7 +1010,7 @@
      "web": "https://www.gulorwines.com",
      "firma_sayisi": 1,
      "sh": "Gülor",
-     "sarap": 8
+     "sarap": 9
     },
     {
      "ad": "Château Kalpak",
@@ -1209,7 +1209,7 @@
      "web": "https://www.asmadan.com",
      "firma_sayisi": 1,
      "sh": "Asmadan",
-     "sarap": 9
+     "sarap": 15
     },
     {
      "ad": "Château Ergenekon",
@@ -1241,7 +1241,7 @@
      "web": "https://www.suvla.com.tr",
      "firma_sayisi": 1,
      "sh": "Suvla",
-     "sarap": 37
+     "sarap": 52
     },
     {
      "ad": "Tutkun (Hektor Şarap Evi)",
@@ -1991,7 +1991,7 @@
      "web": "https://mistiawines.com",
      "firma_sayisi": 1,
      "sh": "Mistia Wines",
-     "sarap": 2
+     "sarap": 5
     }
    ],
    "kaynak": [
@@ -2198,7 +2198,7 @@
      "web": "https://aurawinery.com",
      "firma_sayisi": 1,
      "sh": "Aura Winery (Vin Aura)",
-     "sarap": 1
+     "sarap": 3
     },
     {
      "ad": "Ma'adra Vineyards",
@@ -2222,7 +2222,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Büyülübağ",
-     "sarap": 17
+     "sarap": 21
     }
    ],
    "kaynak": [
@@ -2258,7 +2258,7 @@
      "web": "https://arcadiavineyards.com",
      "firma_sayisi": 1,
      "sh": "Arcadia Vineyards",
-     "sarap": 18
+     "sarap": 25
     },
     {
      "ad": "Chamlija",
@@ -2266,7 +2266,7 @@
      "web": "https://www.chamlija.com",
      "firma_sayisi": 1,
      "sh": "Chamlija",
-     "sarap": 33
+     "sarap": 50
     },
     {
      "ad": "Saranta / Chateau Murou",
@@ -2288,7 +2288,7 @@
      "web": "https://desserabagevi.com",
      "firma_sayisi": 1,
      "sh": "Vino Dessera",
-     "sarap": 9
+     "sarap": 14
     },
     {
      "ad": "Ellez",
@@ -2304,7 +2304,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Prius Wines",
-     "sarap": 13
+     "sarap": 16
     },
     {
      "ad": "KA Winery",
@@ -2388,7 +2388,7 @@
      "web": "https://www.sevilen.com.tr",
      "firma_sayisi": 1,
      "sh": "Sevilen",
-     "sarap": 24
+     "sarap": 33
     },
     {
      "ad": "Antik Bağcılık",
@@ -2396,7 +2396,7 @@
      "web": "https://www.antikbagcilik.com.tr",
      "firma_sayisi": 1,
      "sh": "Antik Bağcılık",
-     "sarap": 0
+     "sarap": 2
     },
     {
      "ad": "Prodom",
@@ -2459,7 +2459,7 @@
      "web": "https://datcasarap.com",
      "firma_sayisi": 1,
      "sh": "Datça Şarapçılık (Datça Vineyard & Winery)",
-     "sarap": 0
+     "sarap": 13
     },
     {
      "ad": "Karnas Vineyards",
@@ -2475,7 +2475,7 @@
      "web": "https://www.morsalkimbagcilik.com.tr",
      "firma_sayisi": 1,
      "sh": "Mor Salkım Bağları",
-     "sarap": 0
+     "sarap": 7
     },
     {
      "ad": "Neferiye",
@@ -2606,7 +2606,7 @@
      "web": "https://likyasarap.com",
      "firma_sayisi": 1,
      "sh": "Likya Şarapları",
-     "sarap": 17
+     "sarap": 37
     },
     {
      "ad": "Sagavin",
@@ -2689,7 +2689,7 @@
      "web": "",
      "firma_sayisi": 1,
      "sh": "Çerçiler Şarap – Selefkia Wine",
-     "sarap": 0
+     "sarap": 7
     }
    ],
    "kaynak": [
@@ -2807,9 +2807,7 @@
     "İzmir"
    ],
    "sarap_uygunlugu": "yuksek",
-   "kaynak": [
-    "https://iyisarap.plus/collections/kinali-yapincak"
-   ]
+   "kaynak": []
   }
  ],
  "notlar": {

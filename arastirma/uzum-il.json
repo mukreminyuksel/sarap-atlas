@@ -826,7 +826,6 @@
     }
    ],
    "kaynak": [
-    "https://iyisarap.plus/collections/kinali-yapincak",
     "https://tekirdag.org/sarkoy-murefte-saraplari/",
     "https://www.vitikultur.com/tr/uzumler/yapincak"
    ]
@@ -2399,9 +2398,7 @@
     "İzmir"
    ],
    "sarap_uygunlugu": "yuksek",
-   "kaynak": [
-    "https://iyisarap.plus/collections/kinali-yapincak"
-   ]
+   "kaynak": []
   }
  ],
  "notlar": {

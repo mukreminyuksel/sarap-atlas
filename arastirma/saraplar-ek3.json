@@ -1,0 +1,1795 @@
+[
+ {
+  "id": "badur-blend",
+  "ad": "Badur Blend",
+  "uretici": "Badur Wines & Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2019",
+  "abv": 14.0,
+  "tat": "Çelik tankta beklemiş genç bir kupaj: reçelimsi kırmızı meyve ve toprak notaları, orta gövde, sert ve köşeli tanenler.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/badur-blend-2019-tekirdag/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "servis": "karafa alınması öneriliyor",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/badur-blend-2019-tekirdag/",
+  "profil_rekolte": "2019"
+ },
+ {
+  "id": "firuze-syrah-okuzgozu",
+  "ad": "Firuze Syrah – Öküzgözü",
+  "uretici": "Uçmakdere – Firuze",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy) ve Elazığ üzümü",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Öküzgözü"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Tekirdağ Syrah'ı ile Elazığ Öküzgözü'nün kupajı; olgun böğürtlen ve baharat, dolgun gövde, güçlü ama esnek tanen.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/firuze-syrah-okuzgozu-2013-tekirdag-elazig/"
+  ],
+  "yemek": [
+   "biftek",
+   "et yemekleri"
+  ],
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/firuze-syrah-okuzgozu-2013-tekirdag-elazig/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "firuze-kalecik-karasi-cabernet-sauvignon",
+  "ad": "Firuze Kalecik Karası – Cabernet Sauvignon",
+  "uretici": "Uçmakdere – Firuze",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy, Uçmakdere)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Kalecik Karası",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2013",
+  "abv": 15.0,
+  "tat": "Parlak yakut renkli, mürdüm eriği, yaban mersini ve vanilyalı; orta gövdeli, yumuşak tanenli, canlı asiditeli hafif bir kırmızı.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/firuze-kalecik-karasi-cabernet-sauvignon-2013-tekirdag/"
+  ],
+  "servis": "14 °C",
+  "yemek": [
+   "kuzu",
+   "süt danası",
+   "kümes hayvanları"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/firuze-kalecik-karasi-cabernet-sauvignon-2013-tekirdag/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "firuze-sauvignon-blanc-narince",
+  "ad": "Firuze Sauvignon Blanc – Narince",
+  "uretici": "Uçmakdere – Firuze",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy, Uçmakdere)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc",
+   "Narince"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Şarköy Sauvignon Blanc'ı ve Tokat Narince'si; aroması çekingen, alkolü öne çıkan, ferahlığı sınırlı bir beyaz.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/firuze-sauvignon-blanc-narince-2013/"
+  ],
+  "yillanma": "1 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/firuze-sauvignon-blanc-narince-2013/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "firuze-okuzgozu-bogazkere",
+  "ad": "Firuze Öküzgözü – Boğazkere",
+  "uretici": "Uçmakdere – Firuze",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy) – Elazığ üzümü",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "2013",
+  "abv": 14.0,
+  "tat": "Elazığ üzümlerinden; mürdüm eriği, vişne, kızılcık ve tütün; orta gövde, diri asidite, belirgin tanen.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/firuze-okuzgozu-bogazkere-2013-elazig/"
+  ],
+  "yemek": [
+   "baharatlı etler"
+  ],
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/firuze-okuzgozu-bogazkere-2013-elazig/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "firuze-merlot-cabernet-sauvignon",
+  "ad": "Firuze Merlot – Cabernet Sauvignon",
+  "uretici": "Uçmakdere – Firuze",
+  "il": "Tekirdağ",
+  "bolge": "Trakya (Şarköy, Uçmakdere)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2013",
+  "abv": 15.0,
+  "tat": "Koyu yakut renkte, reçelimsi böğürtlen ve kırmızı meyve, baharat ve toprak; gövdeli, enerjik ve diri.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/firuze-merlot-cabernet-sauvignon-2013-tekirdag/"
+  ],
+  "servis": "16 °C",
+  "yemek": [
+   "ızgara etler"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/firuze-merlot-cabernet-sauvignon-2013-tekirdag/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "vin-aura-sauvignon-blanc",
+  "ad": "Vin Aura Sauvignon Blanc",
+  "uretici": "Aura Winery (Vin Aura)",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç) – Seferihisar üzümü",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2024",
+  "abv": 10.0,
+  "tat": "Seferihisar üzümüyle Gömeç'te yapılmış düşük alkollü beyaz; pişmiş kayısı-nektarin, belirgin asidite, buruk ve kısa bitiş.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 1000,
+  "tl_kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vin-aura-sauvignon-blanc-2024-izmir/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yillanma": "2026 sonuna kadar",
+  "profil_kaynak": "https://degustasyon.net/vin-aura-sauvignon-blanc-2024-izmir/",
+  "profil_rekolte": "2024"
+ },
+ {
+  "id": "vin-aura-cabernet-sauvignon",
+  "ad": "Vin Aura Cabernet Sauvignon",
+  "uretici": "Aura Winery (Vin Aura)",
+  "il": "Balıkesir",
+  "bolge": "Marmara (Gömeç) – Edirne üzümü",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2024",
+  "abv": 13.0,
+  "tat": "Edirne üzümünden; mürdüm eriği, kızılcık, toprak ve bitter çikolata; orta gövde, genç ve büzüştürücü tanenler.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 1000,
+  "tl_kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vin-aura-cabernet-sauvignon-2024-edirne/"
+  ],
+  "yillanma": "1-2 yıl sonra",
+  "servis": "karafa alınması öneriliyor",
+  "yemek": [
+   "baharatlı etler",
+   "az acılı kebap"
+  ],
+  "profil_kaynak": "https://degustasyon.net/vin-aura-cabernet-sauvignon-2024-edirne/",
+  "profil_rekolte": "2024"
+ },
+ {
+  "id": "satomet-cabernet-sauvignon",
+  "ad": "Şatomet Cabernet Sauvignon",
+  "uretici": "MMG Şarapçılık – Şatomet",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2011",
+  "abv": 13.5,
+  "tat": "Urla bağlarından, az filtrelenmiş; kuru meyve, tatlı baharat ve toprak, sert ve kurutucu tanenler.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/satomet-cabernet-sauvignon-2011-urla/"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "yemek": [
+   "baharatlı etler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/satomet-cabernet-sauvignon-2011-urla/",
+  "profil_rekolte": "2011"
+ },
+ {
+  "id": "satomet-syrah",
+  "ad": "Şatomet Syrah",
+  "uretici": "MMG Şarapçılık – Şatomet",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2011",
+  "abv": 13.5,
+  "tat": "Fransız meşesinde olgunlaşan Syrah; demli çay, karanfil ve toprak notaları, sert tanenler.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/satomet-syrah-2011-urla/"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/satomet-syrah-2011-urla/",
+  "profil_rekolte": "2011"
+ },
+ {
+  "id": "satomet-merlot",
+  "ad": "Şatomet Merlot",
+  "uretici": "MMG Şarapçılık – Şatomet",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2011",
+  "abv": 13.5,
+  "tat": "Koyu bordo; yanık-reçelimsi meyve ve toprak tonları, köşeli ve kurutucu tanenler.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/satomet-merlot-2011-urla/"
+  ],
+  "yemek": [
+   "baharatlı yemekler"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/satomet-merlot-2011-urla/",
+  "profil_rekolte": "2011"
+ },
+ {
+  "id": "satomet-blush",
+  "ad": "Şatomet Blush",
+  "uretici": "MMG Şarapçılık – Şatomet",
+  "il": "İzmir",
+  "bolge": "Urla",
+  "renk": "roze",
+  "uzum": [
+   "Chardonnay",
+   "Syrah"
+  ],
+  "yil": "2011",
+  "abv": 12.7,
+  "tat": "Gece hasadı Chardonnay ve Syrah, 6 ay meşe; pişmiş meyve, düşük asidite, yağlı ve dolgun bir yemek rozesi.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/satomet-blush-2011-urla/"
+  ],
+  "yemek": [
+   "mezeler",
+   "hafif etler",
+   "makarna"
+  ],
+  "yillanma": "1 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/satomet-blush-2011-urla/",
+  "profil_rekolte": "2011"
+ },
+ {
+  "id": "sobran-baglari-signature-nebbiolo",
+  "ad": "Sobran Bağları Signature Nebbiolo",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Nebbiolo"
+  ],
+  "yil": "2020",
+  "abv": 14.0,
+  "tat": "3.300 şişelik özel seri Nebbiolo; gül kurusu ve baharat, dolgun ama erken yaşlanmış ve gücünü yitirmiş bulundu.",
+  "puan": 70,
+  "puan_not": "degustasyon.net 4/10 → 70",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-signature-nebbiolo-2020-manisa/"
+  ],
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-signature-nebbiolo-2020-manisa/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "sobran-baglari-emir",
+  "ad": "Sobran Bağları Emir",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege – Denizli (Güney) üzümü",
+  "renk": "beyaz",
+  "uzum": [
+   "Emir"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Denizli-Güney'de yetişen Emir'den; toprak, hafif yanık ve baharat, yağlı ve mineral, tuzlumsu bitiş.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-emir-2022-denizli/",
+   "https://degustasyon.net/sobran-baglari-emir-2021-denizli/"
+  ],
+  "servis": "8-10 °C",
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "köy tavuğu",
+   "yaban mantarı"
+  ],
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-emir-2022-denizli/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "sobran-baglari-garnacha-blanca-blanc-de-noir",
+  "ad": "Sobran Bağları Garnacha Blanca (Blanc de Noir)",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "beyaz",
+  "uzum": [
+   "Grenache"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Siyah Grenache'tan 'siyahın beyazı' tekniğiyle sek beyaz; can eriği, çağla, elma, canlı asidite ve mineral iz.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-garnacha-blanca-2022-manisa/",
+   "https://degustasyon.net/sobran-baglari-garnacha-blanc-de-noir-2021-manisa/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "hindi",
+   "köy tavuğu",
+   "bıldırcın",
+   "vejetaryen yemekler"
+  ],
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-garnacha-blanca-2022-manisa/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "sobran-baglari-sobran-beyazi",
+  "ad": "Sobran Bağları Sobran Beyazı",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "beyaz",
+  "uzum": [
+   "Early Sweet",
+   "Sultaniye"
+  ],
+  "yil": "2022",
+  "abv": 12.5,
+  "tat": "Early Sweet ve Sultaniye kupajı; ham nektarin, yeşil erik ve taze üzüm, hafif toprak; kısa bitişli basit bir beyaz.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-sobran-beyazi-2022-manisa/",
+   "https://degustasyon.net/sobran-baglari-sobran-beyazi-2021-manisa/",
+   "https://degustasyon.net/sobran-baglari-sobran-beyazi-2020-manisa/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "aperitif",
+   "çerez",
+   "hafif başlangıçlar"
+  ],
+  "servis": "6-8 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-sobran-beyazi-2022-manisa/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "sobran-baglari-shiraz-garnacha",
+  "ad": "Sobran Bağları Shiraz – Garnacha",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Grenache"
+  ],
+  "yil": "2021",
+  "abv": 14.0,
+  "tat": "Koyu mor; reçelimsi siyah meyve, bitter çikolata ve vanilya; orta gövde, olgun ve yoğun tanen, diri yapı.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-shiraz-garnacha-2021-manisa/",
+   "https://degustasyon.net/sobran-baglari-shiraz-garnacha-2020-manisa/",
+   "https://degustasyon.net/sobran-baglari-shiraz-garnacha-2019-manisa/",
+   "https://degustasyon.net/sobran-baglari-shiraz-garnacha-2018-manisa/"
+  ],
+  "servis": "16 °C",
+  "yemek": [
+   "dinlenmiş biftek",
+   "az baharatlı kebap"
+  ],
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-shiraz-garnacha-2021-manisa/",
+  "profil_rekolte": "2021"
+ },
+ {
+  "id": "sobran-baglari-cabernet-sauvignon",
+  "ad": "Sobran Bağları Cabernet Sauvignon",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2021",
+  "abv": 14.5,
+  "tat": "Koyu bordo; vişne, mentol, meşe ve toprak; gövdeli, yoğun fakat henüz köşeli tanenli genç bir kırmızı.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-cabernet-sauvignon-2021-manisa/",
+   "https://degustasyon.net/sobran-baglari-cabernet-sauvignon-2020-manisa/",
+   "https://degustasyon.net/sobran-baglari-cabernet-sauvignon-2019-manisa/",
+   "https://degustasyon.net/sobran-baglari-cabernet-sauvignon-2018-manisa/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "dinlenmiş biftek",
+   "az acılı kebap"
+  ],
+  "servis": "16-18 °C",
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-cabernet-sauvignon-2021-manisa/",
+  "profil_rekolte": "2021"
+ },
+ {
+  "id": "sobran-baglari-nebbianca-blanc-de-noir",
+  "ad": "Sobran Bağları Nebbianca (Blanc de Noir)",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "beyaz",
+  "uzum": [
+   "Nebbiolo"
+  ],
+  "yil": "2022",
+  "abv": 13.5,
+  "tat": "Siyah Nebbiolo'dan beyaz; golden elma, nektarin, limon ve tatlı baharat; dolgun, yağlı, dengeli ve kalıcı.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-nebbianca-blanc-de-noir-2022-manisa/",
+   "https://degustasyon.net/sobran-baglari-nebbianca-blanc-de-noir-2021-manisa/",
+   "https://degustasyon.net/sobran-baglari-nebbianca-2020-manisa/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "köy tavuğu",
+   "bıldırcın",
+   "yaban mantarı"
+  ],
+  "servis": "10-12 °C",
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-nebbianca-blanc-de-noir-2022-manisa/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "sobran-baglari-blend",
+  "ad": "Sobran Bağları Blend",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah",
+   "Nebbiolo"
+  ],
+  "yil": "2021",
+  "abv": 13.5,
+  "tat": "Cabernet Sauvignon, Şiraz ve Nebbiolo kupajı; karanfil, mahlep ve kırmızı meyve, orta gövde, mayhoş ve enerjik.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/sobran-baglari-blend-2021-manisa/",
+   "https://degustasyon.net/sobran-baglari-sobran-blend-2020-manisa/",
+   "https://degustasyon.net/sobran-baglari-kupaj-2019-manisa/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "yemek": [
+   "mantı",
+   "yoğurtlu kebap",
+   "kıymalı hamur işleri"
+  ],
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/sobran-baglari-blend-2021-manisa/",
+  "profil_rekolte": "2021"
+ },
+ {
+  "id": "sobran-baglari-alasehir-philadelphia-kirmizi",
+  "ad": "Alaşehir Philadelphia Kırmızı",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere",
+   "Merlot"
+  ],
+  "yil": "2021",
+  "abv": 13.0,
+  "tat": "Sobran bağlarının sofra kırmızısı; ham kırmızı meyve, toprak ve baharat, ince yapı, yumuşak tanen, kısa bitiş.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/alasehir-philadelphia-2021-manisa/",
+   "https://degustasyon.net/alasehir-philadelphia-2019-manisa/",
+   "https://degustasyon.net/alasehir-philadelphia-2018-manisa/"
+  ],
+  "yemek": [
+   "ızgara sucuk",
+   "köfte",
+   "palamut"
+  ],
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/alasehir-philadelphia-2021-manisa/",
+  "profil_rekolte": "2021"
+ },
+ {
+  "id": "sobran-baglari-alasehir-philadelphia-rose",
+  "ad": "Alaşehir Philadelphia Rose",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "roze",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Syrah"
+  ],
+  "yil": "2022",
+  "abv": 14.0,
+  "tat": "Gül pembesi; çilek ve ahududu, canlı asidite, tanenden gelen hafif burukluk.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/alasehir-philadelphia-rose-2022-manisa/",
+   "https://degustasyon.net/alasehir-philadelphia-rose-2019-manisa/",
+   "https://degustasyon.net/alasehir-philadelphia-rose-2018-manisa/"
+  ],
+  "servis": "8-10 °C",
+  "yemek": [
+   "az baharatlı mezeler",
+   "hafif başlangıçlar"
+  ],
+  "yillanma": "2023 sonuna kadar",
+  "profil_kaynak": "https://degustasyon.net/alasehir-philadelphia-rose-2022-manisa/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "sobran-baglari-alasehir-philadelphia-sultaniye",
+  "ad": "Alaşehir Philadelphia Sultaniye",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sultaniye"
+  ],
+  "yil": "2019",
+  "abv": 13.0,
+  "tat": "Çekirdeksiz Sultaniye'den; taze üzüm, elma, armut ve yeşil bitki, yağlı ama diri ve ferah.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/alasehir-philadelphia-sultaniye-2019-manisa/"
+  ],
+  "yemek": [
+   "mezeler",
+   "başlangıçlar",
+   "ızgara kanat"
+  ],
+  "servis": "8-10 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/alasehir-philadelphia-sultaniye-2019-manisa/",
+  "profil_rekolte": "2019"
+ },
+ {
+  "id": "sobran-baglari-alasehir-philadelphia-sultan-i-amber",
+  "ad": "Alaşehir Philadelphia Sultan-ı Amber",
+  "uretici": "Sobran Bağları – Alaşehir-Philadelphia",
+  "il": "Manisa",
+  "bolge": "İç Ege (Alaşehir)",
+  "renk": "tatli",
+  "uzum": [
+   "Sultaniye"
+  ],
+  "yil": "2018",
+  "abv": 15.0,
+  "tat": "Sultaniye'den 37,5 cl tatlı şarap; kavrulmuş badem, fındık ve ceviz gibi oksidatif notalar, şeriyi andıran tuzlumsu bir profil.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/alasehir-philadelphia-sultan-i-amber-2018-manisa/"
+  ],
+  "yemek": [
+   "kuruyemiş",
+   "aperitif"
+  ],
+  "profil_kaynak": "https://degustasyon.net/alasehir-philadelphia-sultan-i-amber-2018-manisa/",
+  "profil_rekolte": "2018"
+ },
+ {
+  "id": "selefkia-patkara",
+  "ad": "Selefkia Patkara",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara"
+  ],
+  "yil": "2020",
+  "abv": 14.0,
+  "tat": "Göksu Vadisi'nin yerel Patkara'sı; reçelimsi kırmızı meyve, katran, toprak ve baharat, orta gövde, yoğun tanen.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-patkara-2020-mersin/",
+   "https://degustasyon.net/selefkia-patkara-2019-mersin/"
+  ],
+  "servis": "karafa alınması öneriliyor",
+  "yemek": [
+   "baharatlı kırmızı et",
+   "az acılı kebap"
+  ],
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/selefkia-patkara-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-patkara-naturel",
+  "ad": "Selefkia Patkara Naturel",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara"
+  ],
+  "yil": "2020",
+  "abv": 13.3,
+  "tat": "1.420 m rakımlı organik bağdan, yabani maya, durultmasız ve filtresiz; olgun vişne, deri ve toprak, canlı ve enerjik.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-patkara-naturel-2020-mersin/"
+  ],
+  "yemek": [
+   "baharatlı kırmızı et",
+   "az acılı kebap"
+  ],
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/selefkia-patkara-naturel-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-patkara-old-vine",
+  "ad": "Selefkia Patkara Old Vine",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Patkara"
+  ],
+  "yil": "2020",
+  "abv": 12.5,
+  "tat": "60-80 yaşlı asmalardan; mürdüm eriği, böğürtlen ve tatlı baharat, canlı asidite, hafif mayhoş.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-patkara-old-vine-2020-mersin/"
+  ],
+  "yemek": [
+   "kıymalı hamur işleri",
+   "yoğurtlu kebap"
+  ],
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/selefkia-patkara-old-vine-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-patkara-rose",
+  "ad": "Selefkia Patkara Rose",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "roze",
+  "uzum": [
+   "Patkara"
+  ],
+  "yil": "2020",
+  "abv": 12.6,
+  "tat": "Sızma yöntemiyle; nar renginde, baharat ve toprak meyvenin önünde, yoğun ve hafif tanenli, clairet tarzı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-patkara-rose-2020-mersin/"
+  ],
+  "yemek": [
+   "kuzu",
+   "köfte",
+   "şarküteri"
+  ],
+  "yillanma": "2023 sonuna kadar",
+  "profil_kaynak": "https://degustasyon.net/selefkia-patkara-rose-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-isbitiren-old-vine",
+  "ad": "Selefkia İşbitiren Old Vine",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "beyaz",
+  "uzum": [
+   "İşbitiren"
+  ],
+  "yil": "2020",
+  "abv": 14.0,
+  "tat": "60 yaşlı asmalardan kabuk maserasyonlu; bitkisel ve hafif oksidatif, ceviz ve tuzlu-mineral, dolgun; kehribar şarapları andırır.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-isbitiren-old-vine-2020-mersin/"
+  ],
+  "yemek": [
+   "füme hindi",
+   "tavuk",
+   "ördek"
+  ],
+  "servis": "10-12 °C",
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/selefkia-isbitiren-old-vine-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-old-vine-gokuzum",
+  "ad": "Selefkia Old Vine Göküzüm",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Göküzüm"
+  ],
+  "yil": "2020",
+  "abv": 13.3,
+  "tat": "80 yaşlı bağdan; topraksı ve oksidatif, tuzlumsu ve buruk, alışılmadık bir beyaz.",
+  "puan": 75,
+  "puan_not": "degustasyon.net 5/10 → 75",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-old-vine-gokuzum-2020-mersin/"
+  ],
+  "yemek": [
+   "kümes hayvanları",
+   "yaban mantarı"
+  ],
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/selefkia-old-vine-gokuzum-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "selefkia-ak-uzum",
+  "ad": "Selefkia Ak Üzüm",
+  "uretici": "Çerçiler Şarap – Selefkia Wine",
+  "il": "Mersin",
+  "bolge": "Akdeniz (Silifke, Göksu Vadisi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Ak Üzüm"
+  ],
+  "yil": "2020",
+  "abv": 11.8,
+  "tat": "Toros'a özgü yerel üzümden; hafif oksidatif, yağlı ve mineral, düşük asiditeli.",
+  "puan": 75,
+  "puan_not": "degustasyon.net 5/10 → 75",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/selefkia-ak-uzum-2020-mersin/",
+   "https://degustasyon.net/selefkia-ak-uzum-2019-mersin/"
+  ],
+  "yemek": [
+   "köy tavuğu",
+   "tereyağlı deniz ürünleri"
+  ],
+  "servis": "8-10 °C",
+  "yillanma": "2022 sonuna kadar",
+  "profil_kaynak": "https://degustasyon.net/selefkia-ak-uzum-2020-mersin/",
+  "profil_rekolte": "2020"
+ },
+ {
+  "id": "ayda-vinaida-pinot-noir",
+  "ad": "Ayda Vinaida Pinot Noir",
+  "uretici": "Ayda Bağları (Vinaida)",
+  "il": "İzmir",
+  "bolge": "Ege (Seferihisar)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Pinot Noir"
+  ],
+  "yil": "2016",
+  "abv": 14.1,
+  "tat": "Seferihisar-Gödence'nin 500 m rakımlı bağından, 9 ay Fransız meşesi, vegan; reçelimsi kiraz-vişne, belirgin tanen, sıcak iklim Pinot'su.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinaida-pinot-noir-2016-izmir/"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/vinaida-pinot-noir-2016-izmir/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "ayda-vinaida-syrah",
+  "ad": "Ayda Vinaida Syrah",
+  "uretici": "Ayda Bağları (Vinaida)",
+  "il": "İzmir",
+  "bolge": "Ege (Seferihisar)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2016",
+  "abv": 13.2,
+  "tat": "Gödence ve Gölcük üzümlerinden, 9 ay meşe, vegan; reçelimsi kırmızı meyve, meyan kökü, toprak ve baharat, orta gövde, yoğun tanen.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinaida-syrah-2016-izmir/"
+  ],
+  "servis": "karafa alınması öneriliyor",
+  "yillanma": "2-3 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/vinaida-syrah-2016-izmir/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "ayda-vinaida-cabernet-sauvignon",
+  "ad": "Ayda Vinaida Cabernet Sauvignon",
+  "uretici": "Ayda Bağları (Vinaida)",
+  "il": "İzmir",
+  "bolge": "Ege (Seferihisar) – Urla üzümü",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2016",
+  "abv": 13.3,
+  "tat": "Urla-Kuşçular üzümüyle Gödence'de yapılmış, 9 ay meşe; deri, toprak ve baharat, çok yoğun ve kurutucu tanen.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinaida-cabernet-sauvignon-2016-izmir/"
+  ],
+  "servis": "1 saat karafta bekletilmesi öneriliyor",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/vinaida-cabernet-sauvignon-2016-izmir/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "claros-merlot",
+  "ad": "Claros Merlot",
+  "uretici": "Claros",
+  "il": "İzmir",
+  "bolge": "Ege (Menderes)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2016",
+  "abv": 14.6,
+  "tat": "Menderes havzası üzümünden, filtresiz; mayhoş kırmızı meyve ve mentol, canlı asidite, ham ve köşeli tanen.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/claros-merlot-2016-izmir/"
+  ],
+  "servis": "karafa alınması öneriliyor",
+  "yemek": [
+   "baharatlı etler"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/claros-merlot-2016-izmir/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "hanchalar-chardonnay",
+  "ad": "Hanchalar Chardonnay",
+  "uretici": "Hanchalar (Erdel Şarapçılık)",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2016",
+  "abv": 14.5,
+  "tat": "Çal-Hançalar köyündeki aile şaraphanesinden; pişmiş elma, armut ve limon, yüksek alkol, düşük asidite.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/hanchalar-chardonnay-2016-denizli/"
+  ],
+  "profil_kaynak": "https://degustasyon.net/hanchalar-chardonnay-2016-denizli/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "hanchalar-kalecik-karasi-rose",
+  "ad": "Hanchalar Kalecik Karası Rose",
+  "uretici": "Hanchalar (Erdel Şarapçılık)",
+  "il": "Denizli",
+  "bolge": "Denizli (Çal)",
+  "renk": "roze",
+  "uzum": [
+   "Kalecik Karası"
+  ],
+  "yil": "2016",
+  "abv": 13.5,
+  "tat": "Koyu pembe; olgun kırmızı meyve ve bitkisel notalar, baharatlı ve hafif buruk.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/hanchalar-kalecik-karasi-rose-2016-denizli/"
+  ],
+  "yemek": [
+   "baharatlı yemekler",
+   "mezeler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/hanchalar-kalecik-karasi-rose-2016-denizli/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "datca-blend-barik",
+  "ad": "Datça Blend Barik",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2014",
+  "abv": 13.0,
+  "tat": "Knidos yakınındaki seyreltilmiş bağlardan, Fransız meşesinde; deri, tütün ve kuru meyve, gövdeli, olgun tanenli, içim olgunluğunda.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "AWC Vienna 2024 gümüş (2021 rekoltesi)",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-blend-barik-2014-datca/",
+   "https://degustasyon.net/awc-vienna-2024-sonuclari/"
+  ],
+  "servis": "karafa alınması öneriliyor",
+  "yemek": [
+   "dinlenmiş kırmızı et"
+  ],
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-blend-barik-2014-datca/",
+  "profil_rekolte": "2014"
+ },
+ {
+  "id": "datca-cnidus-syrah-rezerve",
+  "ad": "Datça Cnidus Syrah Rezerve",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2014",
+  "abv": 13.0,
+  "tat": "Fransız meşesinde; olgun ve kuru meyve, tatlı baharat ve mineral, orta gövde, kadifemsi tanen.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-cnidus-syrah-rezerve-2014-datca/",
+   "https://degustasyon.net/datca-cnidus-syrah-2011-datca/"
+  ],
+  "yemek": [
+   "baharatlı etler",
+   "tencere kebabı"
+  ],
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-cnidus-syrah-rezerve-2014-datca/",
+  "profil_rekolte": "2014"
+ },
+ {
+  "id": "datca-cnidus-okuzgozu-bogazkere-reserve",
+  "ad": "Datça Cnidus Öküzgözü – Boğazkere Reserve",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "2014",
+  "abv": 13.0,
+  "tat": "Meşede olgunlaşmış; kuru kırmızı meyve, pekmez, pestil, tütün, karanfil ve mahlep, gövdeli ve etli, yuvarlanmış güçlü tanen.",
+  "puan": 85,
+  "puan_not": "degustasyon.net 7/10 → 85",
+  "tl": 0,
+  "odul": "Decanter Dünya Şarap Ödülleri gümüş (2014, degustasyon.net tadım yazısına göre); Decanter WWA 2023 gümüş (2020 rekoltesi)",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-cnidus-okuzgozu-bogazkere-reserve-2014-datca/",
+   "https://degustasyon.net/datca-cnidus-okuzgozu-bogazkere-2011-datca/",
+   "https://degustasyon.net/decanter-wwa-2023-sonuclari/"
+  ],
+  "yemek": [
+   "dinlenmiş et",
+   "av eti"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-cnidus-okuzgozu-bogazkere-reserve-2014-datca/",
+  "profil_rekolte": "2014"
+ },
+ {
+  "id": "datca-cnidus-cabernet-sauvignon-reserve",
+  "ad": "Datça Cnidus Cabernet Sauvignon Reserve",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2015",
+  "abv": 13.5,
+  "tat": "Meşede olgunlaşmış; olgun kırmızı ve kuru meyve, tatlı baharat, gövdeli, zengin ve kalıcı, yuvarlak tanen.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-cnidus-c-sauvignon-reserve-2015-datca/",
+   "https://degustasyon.net/datca-cnidus-cabernet-sauvignon-2012-datca/"
+  ],
+  "yemek": [
+   "dinlenmiş biftek",
+   "Beykoz kebabı"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-cnidus-c-sauvignon-reserve-2015-datca/",
+  "profil_rekolte": "2015"
+ },
+ {
+  "id": "datca-cnidus-merlot-rezerve",
+  "ad": "Datça Cnidus Merlot Rezerve",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2016",
+  "abv": 13.7,
+  "tat": "Meşede olgunlaşmış; deri, tütün, olgun ve kuru meyve, gövdeli, tanenleri yuvarlanmış.",
+  "puan": 88,
+  "puan_not": "degustasyon.net 7.5/10 → 88",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-cnidus-merlot-rezerve-2016-datca/"
+  ],
+  "yemek": [
+   "dinlenmiş etler",
+   "av etleri"
+  ],
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-cnidus-merlot-rezerve-2016-datca/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "datca-silenus-chardonnay",
+  "ad": "Datça Silenus Chardonnay",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2018",
+  "abv": 13.7,
+  "tat": "Meşede beklemiş; meşe, hafif füme ve bitkisel notalar, dolgun ve mineral, düşük asidite.",
+  "puan": 83,
+  "puan_not": "degustasyon.net 6.5/10 → 83",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-vineyard-winery-silenus-chardonnay-2018-datca/",
+   "https://degustasyon.net/datca-silenus-chardonnay-2013-datca/"
+  ],
+  "yemek": [
+   "ızgara balık",
+   "füme balık",
+   "tereyağlı kümes hayvanları"
+  ],
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/datca-vineyard-winery-silenus-chardonnay-2018-datca/",
+  "profil_rekolte": "2018"
+ },
+ {
+  "id": "datca-silenus-blush",
+  "ad": "Datça Silenus Blush",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2013",
+  "abv": 13.0,
+  "tat": "Gül pembesi; kırmızı meyve, hafif tanenli burukluk.",
+  "puan": 78,
+  "puan_not": "degustasyon.net 5.5/10 → 78",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/datca-silenus-blush-okgozuzu-2013-datca/"
+  ],
+  "profil_kaynak": "https://degustasyon.net/datca-silenus-blush-okgozuzu-2013-datca/",
+  "profil_rekolte": "2013"
+ },
+ {
+  "id": "vinbodrum-chardonnay",
+  "ad": "VinBodrum Chardonnay",
+  "uretici": "Ege Bodrum Şarapçılık Tarım Turizm A.Ş.",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2016",
+  "abv": 13.6,
+  "tat": "Mumcular Silva bağlarından, 6 ay meşe; elma ve armut, dolgun, aromatik ve yağlı.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinbodrum-chardonnay-2016-bodrum/"
+  ],
+  "servis": "8-10 °C",
+  "yemek": [
+   "kremalı beyaz etler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/vinbodrum-chardonnay-2016-bodrum/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "vinbodrum-chardonnay-bornova-misketi",
+  "ad": "VinBodrum Chardonnay – Bornova Misketi",
+  "uretici": "Ege Bodrum Şarapçılık Tarım Turizm A.Ş.",
+  "il": "Muğla",
+  "bolge": "Bodrum",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay",
+   "Bornova Misketi"
+  ],
+  "yil": "2016",
+  "abv": 13.6,
+  "tat": "600 şişelik kupaj; elma, armut ve çiçek, dolgun ve yağlı, düşük asidite.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinbodrum-chardonnay-bornova-misketi-2016-bodrum/"
+  ],
+  "servis": "8-10 °C",
+  "profil_kaynak": "https://degustasyon.net/vinbodrum-chardonnay-bornova-misketi-2016-bodrum/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "vinbodrum-okuzgozu-roze",
+  "ad": "VinBodrum Öküzgözü Roze",
+  "uretici": "Ege Bodrum Şarapçılık Tarım Turizm A.Ş.",
+  "il": "Muğla",
+  "bolge": "Bodrum – Denizli üzümü",
+  "renk": "roze",
+  "uzum": [
+   "Öküzgözü"
+  ],
+  "yil": "2016",
+  "abv": 14.5,
+  "tat": "Denizli-Lermonos üzümüyle Bodrum'da yapılmış; yoğun, tanenli ve hafif buruk koyu pembe bir roze.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/vinbodrum-okuzgozu-roze-2016-denizli/"
+  ],
+  "servis": "10 °C",
+  "yemek": [
+   "kuzu",
+   "baharatlı mezeler"
+  ],
+  "profil_kaynak": "https://degustasyon.net/vinbodrum-okuzgozu-roze-2016-denizli/",
+  "profil_rekolte": "2016"
+ },
+ {
+  "id": "mistia-huyuk-sarabi-kirmizi",
+  "ad": "Mistia Hüyük Şarabı Kırmızı",
+  "uretici": "Mistia Wines",
+  "il": "Konya",
+  "bolge": "İç Anadolu (Beyşehir, Hüyük)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec",
+   "Sıkkara",
+   "Petit Verdot",
+   "Gemri",
+   "Tempranillo"
+  ],
+  "yil": "2022",
+  "abv": 13.0,
+  "tat": "Malbec, Sıkkara, Petit Verdot, Gemri ve Tempranillo kupajı; ahududu, dağ çileği, mürdüm eriği ve siyah kiraz, orta gövde, yumuşak tanen.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 399,
+  "tl_kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/mistia-huyuk-sarabi-2022-konya/"
+  ],
+  "alkol_seker": "sek (kuru)",
+  "servis": "14-16 °C",
+  "yillanma": "1-2 yıl içinde",
+  "profil_kaynak": "https://degustasyon.net/mistia-huyuk-sarabi-2022-konya/",
+  "profil_rekolte": "2022"
+ },
+ {
+  "id": "eskibaglar-okuzgozu-bogazkere",
+  "ad": "Eskibağlar Öküzgözü – Boğazkere",
+  "uretici": "Eskibağlar",
+  "il": "Elazığ",
+  "bolge": "Doğu Anadolu",
+  "renk": "kirmizi",
+  "uzum": [
+   "Öküzgözü",
+   "Boğazkere"
+  ],
+  "yil": "2011",
+  "abv": 13.0,
+  "tat": "Hazar Vadisi'nin 1.400 m bağlarından %70 Öküzgözü-%30 Boğazkere; füme, reçelimsi kiraz, mürdüm ve vanilya, genç ve köşeli.",
+  "puan": 80,
+  "puan_not": "degustasyon.net 6/10 → 80",
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/eskibaglar-okuzgozu-bogazkere-2011-elazig/"
+  ],
+  "yillanma": "1-2 yıl dinlendirilmeli",
+  "servis": "karafa alınması öneriliyor",
+  "profil_kaynak": "https://degustasyon.net/eskibaglar-okuzgozu-bogazkere-2011-elazig/",
+  "profil_rekolte": "2011"
+ },
+ {
+  "id": "datca-cnidus-bogazkere",
+  "ad": "Datça Cnidus Boğazkere",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [
+   "Boğazkere"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin şarap listesinde yer alıyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1"
+  ]
+ },
+ {
+  "id": "datca-sauvignon-blanc",
+  "ad": "Datça Sauvignon Blanc",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin şarap listesinde yer alıyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1"
+  ],
+  "alkol_seker": "sek (kuru)"
+ },
+ {
+  "id": "datca-sauvignon-blanc-yari-tatli",
+  "ad": "Datça Sauvignon Blanc Yarı Tatlı",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin şarap listesinde yer alıyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1"
+  ],
+  "alkol_seker": "yarı tatlı"
+ },
+ {
+  "id": "datca-silenus-fum-blanc",
+  "ad": "Datça Silenus Fumé Blanc",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "",
+  "abv": 0,
+  "tat": "Üreticinin şarap listesinde yer alıyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1"
+  ]
+ },
+ {
+  "id": "mor-salkim-volante-bornova-misketi",
+  "ad": "Mor Salkım Volante Bornova Misketi",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Bornova Misketi"
+  ],
+  "yil": "2025",
+  "abv": 0,
+  "tat": "Bodrum'da üretilen Bornova Misketi beyazı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "Mundus Vini Bahar 2025 altın (2024); AWC Vienna 2026 gümüş (2025)",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/mundus-vini-2025-bahar-tadimi-sonuclari/",
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-volante-sauvignon-blanc",
+  "ad": "Mor Salkım Volante Sauvignon Blanc",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Sauvignon Blanc"
+  ],
+  "yil": "2025",
+  "abv": 0,
+  "tat": "Sauvignon Blanc beyazı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-chardonnay",
+  "ad": "Mor Salkım Chardonnay",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "beyaz",
+  "uzum": [
+   "Chardonnay"
+  ],
+  "yil": "2025",
+  "abv": 0,
+  "tat": "Chardonnay beyazı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-merlot-ros",
+  "ad": "Mor Salkım Merlot Rosé",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "roze",
+  "uzum": [
+   "Merlot"
+  ],
+  "yil": "2025",
+  "abv": 0,
+  "tat": "Merlot'dan roze. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-con-amore-merlot-cabernet-sauvignon",
+  "ad": "Mor Salkım Con Amore Merlot – Cabernet Sauvignon",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Merlot",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Merlot ve Cabernet Sauvignon kupajı kırmızı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-adagio-syrah",
+  "ad": "Mor Salkım Adagio Syrah",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Syrah kırmızısı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "mor-salkim-adagio-syrah-merlot-cabernet-sauvignon",
+  "ad": "Mor Salkım Adagio Syrah – Merlot – Cabernet Sauvignon",
+  "uretici": "Mor Salkım Bağları",
+  "il": "Muğla",
+  "bolge": "Bodrum (Çömlekçi)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Syrah",
+   "Merlot",
+   "Cabernet Sauvignon"
+  ],
+  "yil": "2020",
+  "abv": 0,
+  "tat": "Üç üzümlü kırmızı kupaj. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "Concours Mondial de Bruxelles 2023 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/concours-mondial-de-bruxelles-2023-sonuclari/"
+  ]
+ },
+ {
+  "id": "antik-bagcilik-passionis-dornfelder-regent",
+  "ad": "Antik Bağcılık Passionis Dornfelder & Regent",
+  "uretici": "Antik Bağcılık",
+  "il": "Aydın",
+  "bolge": "Ege (Germencik)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Dornfelder",
+   "Regent"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Germencik'teki üreticinin Dornfelder ve Regent kupajı kırmızısı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2024 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2024-sonuclari/"
+  ]
+ },
+ {
+  "id": "antik-bagcilik-passionis-malbec",
+  "ad": "Antik Bağcılık Passionis Malbec",
+  "uretici": "Antik Bağcılık",
+  "il": "Aydın",
+  "bolge": "Ege (Germencik)",
+  "renk": "kirmizi",
+  "uzum": [
+   "Malbec"
+  ],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Malbec kırmızısı. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2024 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/awc-vienna-2024-sonuclari/"
+  ]
+ },
+ {
+  "id": "badur-cabernet-sauvignon-merlot",
+  "ad": "Badur Cabernet Sauvignon – Merlot",
+  "uretici": "Badur Wines & Vineyards",
+  "il": "Tekirdağ",
+  "bolge": "Trakya",
+  "renk": "kirmizi",
+  "uzum": [
+   "Cabernet Sauvignon",
+   "Merlot"
+  ],
+  "yil": "2023",
+  "abv": 0,
+  "tat": "Cabernet Sauvignon ve Merlot kupajı kırmızı (Badur Blend'in devamı olabilir). Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "International Wine Challenge 2026 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://degustasyon.net/international-wine-challenge-2026-sonuclari/"
+  ]
+ },
+ {
+  "id": "datca-grand-reserve",
+  "ad": "Datça Grand Reserve",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2022",
+  "abv": 0,
+  "tat": "Üreticinin kırmızılar listesindeki en üst seri. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2026 altın (2022); Concours Mondial de Bruxelles 2021 altın (2016); AWC Vienna 2024 gümüş (2020)",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1",
+   "https://degustasyon.net/awc-vienna-2026-sonuclari/",
+   "https://degustasyon.net/concours-mondial-de-bruxelles-2021-sonuclari/",
+   "https://degustasyon.net/awc-vienna-2024-sonuclari/"
+  ]
+ },
+ {
+  "id": "datca-kaldi-83",
+  "ad": "Datça Kaldı 83",
+  "uretici": "Datça Şarapçılık (Datça Vineyard & Winery)",
+  "il": "Muğla",
+  "bolge": "Datça",
+  "renk": "kirmizi",
+  "uzum": [],
+  "yil": "2021",
+  "abv": 0,
+  "tat": "Üreticinin kırmızılar listesinde 'Kaldı' adıyla yer alan şarap. Uluslararası yarışma sonuçlarında adı geçiyor; yayımlanmış tadım notu bulunamadı.",
+  "puan": 0,
+  "tl": 0,
+  "odul": "AWC Vienna 2024 gümüş",
+  "bul": "",
+  "kaynak": [
+   "https://www.datcasarap.com/saraplarimiz-1",
+   "https://degustasyon.net/awc-vienna-2024-sonuclari/"
+  ]
+ }
+]

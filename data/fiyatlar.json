@@ -478,6 +478,20 @@
     ]
    ]
   },
+  "asmadan-bagban-karasakiz": {
+   "tl": 500,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     500
+    ]
+   ]
+  },
   "asmadan-bagban-semillon": {
    "tl": 463,
    "tarih": "2026-10-05",
@@ -489,6 +503,34 @@
     [
      "2026-10-05",
      463
+    ]
+   ]
+  },
+  "asmadan-bagban-sidalan": {
+   "tl": 463,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Nis 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     463
+    ]
+   ]
+  },
+  "asmadan-figen": {
+   "tl": 717,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Haz 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     717
     ]
    ]
   },
@@ -545,6 +587,34 @@
     [
      "2026-10-05",
      1390
+    ]
+   ]
+  },
+  "asmadan-vals-macabeo-narince": {
+   "tl": 545,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     545
+    ]
+   ]
+  },
+  "asmadan-vals-sauvignon-blanc": {
+   "tl": 600,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     600
     ]
    ]
   },
@@ -867,6 +937,20 @@
     [
      "2026-10-05",
      3000
+    ]
+   ]
+  },
+  "buyulubag-mirandus": {
+   "tl": 850,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Nis 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     850
     ]
    ]
   },
@@ -1248,6 +1332,20 @@
     ]
    ]
   },
+  "chamlija-kalecik-karasi": {
+   "tl": 1340,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1340
+    ]
+   ]
+  },
   "chamlija-kara-sevda": {
    "tl": 1250,
    "tarih": "2026-10-05",
@@ -1402,6 +1500,20 @@
     ]
    ]
   },
+  "chamlija-teruar-serisi-huyuk-baglari-syrah": {
+   "tl": 995,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     995
+    ]
+   ]
+  },
   "chamlija-thracian-beyaz": {
    "tl": 2110,
    "tarih": "2026-10-05",
@@ -1444,6 +1556,20 @@
     ]
    ]
   },
+  "chateau-gali-kirmizi": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
   "chateau-gali-rose": {
    "tl": 980,
    "tarih": "2026-10-05",
@@ -1455,6 +1581,20 @@
     [
      "2026-10-05",
      980
+    ]
+   ]
+  },
+  "chateau-gali-viognier": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
     ]
    ]
   },
@@ -1665,6 +1805,20 @@
     [
      "2026-10-05",
      900
+    ]
+   ]
+  },
+  "chateau-nuzun-grand-vin": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
     ]
    ]
   },
@@ -2144,6 +2298,76 @@
     ]
    ]
   },
+  "doluca-dlc-cabernet-sauvignon-merlot": {
+   "tl": 942,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     942
+    ]
+   ]
+  },
+  "doluca-dlc-playa-rose-kopuren": {
+   "tl": 750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     750
+    ]
+   ]
+  },
+  "doluca-dlc-sultaniye-emir": {
+   "tl": 1380,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1380
+    ]
+   ]
+  },
+  "doluca-karma-chardonnay-narince": {
+   "tl": 1020,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1020
+    ]
+   ]
+  },
+  "doluca-kav-narince": {
+   "tl": 1470,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1470
+    ]
+   ]
+  },
   "doluca-kizilcaterzi-merlot": {
    "tl": 1585,
    "tarih": "2026-10-05",
@@ -2155,6 +2379,104 @@
     [
      "2026-10-05",
      1585
+    ]
+   ]
+  },
+  "doluca-mistik-beyaz": {
+   "tl": 315,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     315
+    ]
+   ]
+  },
+  "doluca-mistik-kirmizi": {
+   "tl": 315,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     315
+    ]
+   ]
+  },
+  "doluca-safir-bornova-misketi-gec-hasat": {
+   "tl": 1290,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1290
+    ]
+   ]
+  },
+  "doluca-sarafin-cabernet-sauvignon": {
+   "tl": 1584,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1584
+    ]
+   ]
+  },
+  "doluca-sarafin-chardonnay": {
+   "tl": 2016,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2016
+    ]
+   ]
+  },
+  "doluca-sarafin-merlot": {
+   "tl": 1485,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1485
+    ]
+   ]
+  },
+  "doluca-sarafin-sauvignon-blanc": {
+   "tl": 1938,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1938
     ]
    ]
   },
@@ -2197,6 +2519,34 @@
     [
      "2026-10-05",
      1815
+    ]
+   ]
+  },
+  "doluca-tugra-kalecik-karasi": {
+   "tl": 1046,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1046
+    ]
+   ]
+  },
+  "doluca-tugra-okuzgozu": {
+   "tl": 1380,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1380
     ]
    ]
   },
@@ -2564,6 +2914,20 @@
     ]
    ]
   },
+  "heraki-akuarela-karasakiz": {
+   "tl": 970,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     970
+    ]
+   ]
+  },
   "heraki-akuarela-sultaniye": {
    "tl": 855,
    "tarih": "2026-10-05",
@@ -2603,6 +2967,20 @@
     [
      "2026-10-05",
      2530
+    ]
+   ]
+  },
+  "heraki-patkara": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
     ]
    ]
   },
@@ -3740,6 +4118,20 @@
     ]
    ]
   },
+  "kayra-imperial-okuzgozu-bogazkere": {
+   "tl": 5500,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     5500
+    ]
+   ]
+  },
   "kayra-madre": {
    "tl": 1655,
    "tarih": "2026-10-05",
@@ -4118,6 +4510,48 @@
     ]
    ]
   },
+  "lermonos-lykos-valley-kalecik-karasi": {
+   "tl": 630,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     630
+    ]
+   ]
+  },
+  "lermonos-lykos-valley-narince-chardonnay": {
+   "tl": 630,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     630
+    ]
+   ]
+  },
+  "lermonos-lykos-valley-syrah": {
+   "tl": 349,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     349
+    ]
+   ]
+  },
   "lermonos-merlot": {
    "tl": 1958,
    "tarih": "2026-10-05",
@@ -4129,6 +4563,174 @@
     [
      "2026-10-05",
      1958
+    ]
+   ]
+  },
+  "lermonos-rindera-bornova-misketi": {
+   "tl": 539,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Şub 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     539
+    ]
+   ]
+  },
+  "lermonos-rindera-chardonnay": {
+   "tl": 1080,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1080
+    ]
+   ]
+  },
+  "lermonos-rindera-fume-blanc": {
+   "tl": 1080,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1080
+    ]
+   ]
+  },
+  "lermonos-rindera-okuzgozu-bogazkere": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
+  "lermonos-rindera-shiraz": {
+   "tl": 1080,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1080
+    ]
+   ]
+  },
+  "likya-arkeo-6-his": {
+   "tl": 986,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     986
+    ]
+   ]
+  },
+  "likya-arkeo-acikara": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
+  "likya-arkeo-likya-atesi": {
+   "tl": 986,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     986
+    ]
+   ]
+  },
+  "likya-arkeo-likya-bilgesi": {
+   "tl": 986,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     986
+    ]
+   ]
+  },
+  "likya-arkeo-likya-isigi": {
+   "tl": 986,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     986
+    ]
+   ]
+  },
+  "likya-arkeo-merzifon-karasi": {
+   "tl": 996,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     996
+    ]
+   ]
+  },
+  "likya-arkeo-tesaduf": {
+   "tl": 986,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     986
     ]
    ]
   },
@@ -4300,6 +4902,34 @@
     ]
    ]
   },
+  "mistia-huyuk-sarabi": {
+   "tl": 399,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     399
+    ]
+   ]
+  },
+  "mistia-huyuk-sarabi-kirmizi": {
+   "tl": 399,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     399
+    ]
+   ]
+  },
   "mistia-puduhepa-ak-uzum": {
    "tl": 1123,
    "tarih": "2026-10-05",
@@ -4311,6 +4941,20 @@
     [
      "2026-10-05",
      1123
+    ]
+   ]
+  },
+  "mistia-puduhepa-ten-goynek": {
+   "tl": 750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     750
     ]
    ]
   },
@@ -4846,6 +5490,20 @@
     ]
    ]
   },
+  "porta-caeli-pacem-barrel-aged-viognier": {
+   "tl": 2100,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Nis 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2100
+    ]
+   ]
+  },
   "porta-caeli-pacem-blend": {
    "tl": 1916,
    "tarih": "2026-10-05",
@@ -4986,6 +5644,34 @@
     ]
    ]
   },
+  "prius-ahmetbey-narince-chardonnay": {
+   "tl": 768,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     768
+    ]
+   ]
+  },
+  "prius-distinction-cabernet-franc": {
+   "tl": 1320,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1320
+    ]
+   ]
+  },
   "prius-distinction-cabernet-sauvignon": {
    "tl": 1584,
    "tarih": "2026-10-05",
@@ -5067,6 +5753,20 @@
     [
      "2026-10-05",
      840
+    ]
+   ]
+  },
+  "prius-papas-blanc": {
+   "tl": 1080,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1080
     ]
    ]
   },
@@ -5882,6 +6582,20 @@
     ]
    ]
   },
+  "suvla-kabatepe-kirmizi": {
+   "tl": 570,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     570
+    ]
+   ]
+  },
   "suvla-kilitbahir-rose": {
    "tl": 500,
    "tarih": "2026-10-05",
@@ -5949,6 +6663,20 @@
     [
      "2026-10-05",
      442
+    ]
+   ]
+  },
+  "suvla-pet-nat-emir": {
+   "tl": 999,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     999
     ]
    ]
   },
@@ -6526,6 +7254,48 @@
     ]
    ]
   },
+  "urla-so": {
+   "tl": 5900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     5900
+    ]
+   ]
+  },
+  "urla-suss": {
+   "tl": 6200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     6200
+    ]
+   ]
+  },
+  "urla-urla-karasi": {
+   "tl": 2010,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     2010
+    ]
+   ]
+  },
   "usca-opia-x": {
    "tl": 3200,
    "tarih": "2026-10-05",
@@ -6635,6 +7405,34 @@
     [
      "2026-10-05",
      3000
+    ]
+   ]
+  },
+  "vin-aura-cabernet-sauvignon": {
+   "tl": 1000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1000
+    ]
+   ]
+  },
+  "vin-aura-sauvignon-blanc": {
+   "tl": 1000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1000
     ]
    ]
   },
@@ -7030,6 +7828,20 @@
     ]
    ]
   },
+  "vino-dessera-vd-shiraz": {
+   "tl": 800,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     800
+    ]
+   ]
+  },
   "vinolus-arinna-emir-2019": {
    "tl": 5600,
    "tarih": "2026-10-05",
@@ -7279,6 +8091,20 @@
     [
      "2026-10-05",
      2100
+    ]
+   ]
+  },
+  "yedibilgeler-ait-kupaj": {
+   "tl": 5000,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, May 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     5000
     ]
    ]
   },
