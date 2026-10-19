@@ -5138,7 +5138,7 @@ Promise.all(['uzumler','bolgeler','ureticiler','lisans','yemek','kultur','baglan
 });
 // Fiyatlar: data/fiyatlar.json aylık görevle güncellenir (scripts/fiyat-guncelle.mjs). Önce GitHub'daki güncel kopya,
 // olmazsa yanındaki dosya, o da yoksa gömülü (kaynaklı) fiyatlar kullanılır.
-const FIYAT_URL='https://raw.githubusercontent.com/mukreminyuksel/sarap-atlas/main/data/fiyatlar.json';
+const FIYAT_URL='data/fiyatlar.json';
 const fiyatJson=u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():Promise.reject());
 fiyatJson(FIYAT_URL).catch(()=>fiyatJson('data/fiyatlar.json')).then(d=>{
   if(!d||!d.fiyatlar)return;
