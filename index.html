@@ -2,7 +2,47 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<script>if(/github\.io$/.test(location.hostname))location.replace('https://sarap-atlas.pages.dev/'+location.search+location.hash);</script>
+<script>/* ===== Yeni adres (tadimatlasi.com) ve kayıt taşıma =====
+   Eski adreste (sarap-atlas.pages.dev) açılan sayfa, bu tarayıcıdaki kayıtları tek kullanımlık bir
+   kodla sunucuya bırakıp yeni adrese yönlenir; yeni adres kodu okuyup kayıtları birleştirir. */
+(function(){
+  var P='sarap',YENI='https://sarap.tadimatlasi.com',h=location.hostname,ls;
+  try{ls=window.localStorage;}catch(e){ls=null;}
+  if(h===P+'-atlas.pages.dev'){
+    var git=function(kod){var hs=location.hash.replace(/^#/,'');location.replace(YENI+location.pathname+location.search+(kod?'#tasi='+kod+(hs?'&'+hs:''):(hs?'#'+hs:'')));};
+    var veri={},n=0;
+    if(ls){for(var i=0;i<ls.length;i++){var k=ls.key(i);if(k&&k.indexOf(P+'_')===0){veri[k]=ls.getItem(k);if(k!==P+'_yas')n++;}}}
+    if(!n){git('');return;}
+    document.documentElement.style.visibility='hidden';
+    fetch('/api/tasi',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({veri:veri})})
+      .then(function(r){return r.json();}).then(function(j){git(j.kod||'');}).catch(function(){git('');});
+    setTimeout(function(){git('');},8000);
+    return;
+  }
+  var m=location.hash.match(/(?:^#|&)tasi=([a-z0-9]{24})/);
+  if(!m||!ls)return;
+  var kalan=location.hash.replace(/^#/,'').split('&').filter(function(x){return x.indexOf('tasi=')!==0;}).join('&');
+  history.replaceState(null,'',location.pathname+location.search+(kalan?'#'+kalan:''));
+  document.documentElement.style.visibility='hidden';
+  var bitir=function(){location.reload();};
+  fetch('/api/tasi?kod='+m[1],{cache:'no-store'}).then(function(r){return r.json();}).then(function(j){
+    var v=(j&&j.veri)||{};
+    Object.keys(v).forEach(function(k){
+      if(k.indexOf(P+'_')!==0)return;
+      var eski=ls.getItem(k);
+      if(eski===null){ls.setItem(k,v[k]);return;}
+      try{var a=JSON.parse(eski),b=JSON.parse(v[k]);
+        if(Array.isArray(a)&&Array.isArray(b)){var u=a.slice();b.forEach(function(x){if(u.indexOf(x)<0&&typeof x!=='object')u.push(x);});ls.setItem(k,JSON.stringify(u));}
+        else if(a&&b&&typeof a==='object'&&typeof b==='object'&&!Array.isArray(a)){var o={};Object.keys(b).forEach(function(x){o[x]=b[x];});Object.keys(a).forEach(function(x){o[x]=a[x];});ls.setItem(k,JSON.stringify(o));}
+      }catch(e){}
+    });
+    try{ls.setItem(P+'_tasindi',new Date().toISOString().slice(0,10));}catch(e){}
+    bitir();
+  }).catch(bitir);
+})();
+</script>
+
+<script>if(/github\.io$/.test(location.hostname))location.replace('https://sarap.tadimatlasi.com/'+location.search+location.hash);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Şarap Atlası · Bölge, Şaraphane, Şarap</title>
 <meta name="description" content="Türkiye'nin ve dünyanın şarapları bölge bölge, şaraphane şaraphane; yerli üzümler, tadım okulu, sofra eşleşmeleri ve kişisel mahzen.">
@@ -626,9 +666,9 @@ header{background:linear-gradient(180deg,rgba(194,51,77,.10),transparent)}
     <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Şarap Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.0</span></h1>
       <div class="sub">Bölge → Şaraphane → Şarap · Yerli üzümler · Sofra · Kişisel mahzen</div></div>
     <div class="kardesler" title="Kardeş siteler"><small>Kardeş siteler</small>
-      <a class="kardes" href="https://viski-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-viski')">🥃 <span>Viski</span> ↗</a>
-      <a class="kardes" href="https://bira-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-bira')">🍺 <span>Bira</span> ↗</a>
-      <a class="kardes" href="https://raki-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-raki')">🥛 <span>Rakı</span> ↗</a>
+      <a class="kardes" href="https://viski.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-viski')">🥃 <span>Viski</span> ↗</a>
+      <a class="kardes" href="https://bira.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-bira')">🍺 <span>Bira</span> ↗</a>
+      <a class="kardes" href="https://raki.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-raki')">🥛 <span>Rakı</span> ↗</a>
     </div>
   </div>
   <div class="stats">
@@ -914,7 +954,7 @@ header{background:linear-gradient(180deg,rgba(194,51,77,.10),transparent)}
 </div>
 
   <p class="note">💾 İşaretlemelerin ve fiyat düzenlemelerin bu tarayıcıda otomatik kaydedilir. Türkiye fiyatları <b>Ekim 2026 Türkiye perakende, 75 cl</b> referansıdır; “doğrulanmış” rozetliler kaynaklıdır, diğerlerinin fiyatı yoktur. Dünya şaraplarında yaklaşık dolar fiyatı verilir. <span id="fiyatDurum"></span> <a href="#" id="resetBtn">↺ Tüm seçimleri sıfırla</a></p>
-  <p class="note" style="margin-top:4px">Kardeş siteler: <a href="https://viski-atlas.pages.dev" target="_blank" rel="noopener">🥃 Viski Atlası</a> · <a href="https://bira-atlas.pages.dev" target="_blank" rel="noopener">🍺 Bira Atlası</a> · <a href="https://raki-atlas.pages.dev" target="_blank" rel="noopener">🥛 Rakı Atlası</a> — aynı mantıkla, başka kadehler. Alkolü ölçülü tüketin; içtiyseniz araç kullanmayın.</p>
+  <p class="note" style="margin-top:4px">Kardeş siteler: <a href="https://viski.tadimatlasi.com" target="_blank" rel="noopener">🥃 Viski Atlası</a> · <a href="https://bira.tadimatlasi.com" target="_blank" rel="noopener">🍺 Bira Atlası</a> · <a href="https://raki.tadimatlasi.com" target="_blank" rel="noopener">🥛 Rakı Atlası</a> — aynı mantıkla, başka kadehler. Alkolü ölçülü tüketin; içtiyseniz araç kullanmayın.</p>
 </div>
 
 <script>
@@ -4154,7 +4194,7 @@ function makeShareCard(){
   x.textAlign='left';x.fillStyle='#f3dfa8';x.font='800 34px system-ui,Arial';x.fillText('★ En sevdiğim 5',70,800);
   top.forEach((b,i)=>{const y=855+i*68;x.fillStyle='#2a131c';x.fillRect(70,y-38,W-140,56);x.fillStyle='#e3b65c';x.font='800 30px system-ui,Arial';x.fillText(String(((state.notes[b.id]||{}).p)||b.puan||'—'),92,y);
     x.fillStyle='#f7ede2';x.font='600 28px system-ui,Arial';let n=b.ad;while(x.measureText(n).width>760&&n.length>4)n=n.slice(0,-2);if(n!==b.ad)n+='…';x.fillText(n,175,y);});
-  x.textAlign='center';x.fillStyle='#b39aa1';x.font='600 24px system-ui,Arial';x.fillText('sarap-atlas.pages.dev  ·  '+new Date().toLocaleDateString('tr-TR'),W/2,H-60);
+  x.textAlign='center';x.fillStyle='#b39aa1';x.font='600 24px system-ui,Arial';x.fillText('sarap.tadimatlasi.com  ·  '+new Date().toLocaleDateString('tr-TR'),W/2,H-60);
   c.toBlob(bl=>{const u=URL.createObjectURL(bl);const a=document.createElement('a');a.href=u;a.download='sarap-mahzenim.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);},'image/png');
   olay('mahzen-karti');
 }
@@ -5173,7 +5213,7 @@ const ksBolge=b=>b.ulke==='Türkiye'?(KS_BOLGE[b.bolge]||''):(b.ulke||'');
 const KS_HARMAN='Harman (çok üzümlü)';
 const KS_UZUMLER=(()=>{const c={};DATA.forEach(b=>{if((b.uzum||[]).length===1)c[b.uzum[0]]=(c[b.uzum[0]]||0)+1;});return Object.entries(c).filter(x=>x[1]>=3).sort((a,b)=>b[1]-a[1]).map(x=>x[0]).slice(0,40).sort((a,b)=>a.localeCompare(b,'tr'));})();
 const KS={
-  on:'sarap_',site:'Şarap Atlası',url:'sarap-atlas.pages.dev',emoji:'🍷',birim:'şarap',Birim:'Şarap',haveAd:'Denedim',denedin:'denedin',
+  on:'sarap_',site:'Şarap Atlası',url:'sarap.tadimatlasi.com',emoji:'🍷',birim:'şarap',Birim:'Şarap',haveAd:'Denedim',denedin:'denedin',
   ana:'view-explore',kesfet:'explore',bolgeAd:'bölge',
   renk:['#3a1424','#12070b','#f3dfa8','#f7ede2','#c9a05a'],
   notlar:AROMA,
