@@ -786,6 +786,20 @@
     ]
    ]
   },
+  "barel-vineyards-ardea": {
+   "tl": 1200,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1200
+    ]
+   ]
+  },
   "barel-vineyards-merlot": {
    "tl": 950,
    "tarih": "2026-10-05",
@@ -814,6 +828,20 @@
     ]
    ]
   },
+  "barel-vineyards-syrah": {
+   "tl": 1035,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1035
+    ]
+   ]
+  },
   "barel-vineyards-syrah-reserve": {
    "tl": 850,
    "tarih": "2026-10-05",
@@ -825,6 +853,20 @@
     [
      "2026-10-05",
      850
+    ]
+   ]
+  },
+  "barel-vineyards-tadorna": {
+   "tl": 1250,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eyl 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1250
     ]
    ]
   },
@@ -1024,6 +1066,20 @@
     ]
    ]
   },
+  "cakir-somnium-cakir": {
+   "tl": 1750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1750
+    ]
+   ]
+  },
   "cakir-somnium-premium-cabernet-merlot": {
    "tl": 4340,
    "tarih": "2026-10-05",
@@ -1035,6 +1091,48 @@
     [
      "2026-10-05",
      4340
+    ]
+   ]
+  },
+  "cakir-somnium-premium-cabernet-sauvignon": {
+   "tl": 3750,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     3750
+    ]
+   ]
+  },
+  "cakir-somnium-premium-chardonnay": {
+   "tl": 1600,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1600
+    ]
+   ]
+  },
+  "cakir-yarimadali-bornova-misketi": {
+   "tl": 1350,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1350
     ]
    ]
   },
@@ -2771,6 +2869,34 @@
     [
      "2026-10-05",
      400
+    ]
+   ]
+  },
+  "fenolya-caladoc": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat; 2020 rekoltesi 1.100 TL)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
+    ]
+   ]
+  },
+  "fenolya-floreal": {
+   "tl": 900,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     900
     ]
    ]
   },
@@ -4955,6 +5081,20 @@
     [
      "2026-10-05",
      750
+    ]
+   ]
+  },
+  "nice-horos-karasi-syrah": {
+   "tl": 1140,
+   "tarih": "2026-10-05",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Ekim 2026 Türkiye perakende, 75 cl",
+   "gecmis": [
+    [
+     "2026-10-05",
+     1140
     ]
    ]
   },

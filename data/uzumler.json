@@ -51,7 +51,7 @@
     "https://en.wikipedia.org/wiki/Bo%C4%9Fazkere"
    ],
    "rehber": true,
-   "katalog": 70
+   "katalog": 71
   },
   {
    "id": "kalecik-karasi",
@@ -457,7 +457,7 @@
     "https://goturkiye.com/vineyards/indigenous-grape-varieties"
    ],
    "rehber": true,
-   "katalog": 20
+   "katalog": 21
   },
   {
    "id": "cavus",
@@ -692,7 +692,7 @@
    ],
    "turkiyede": "Türkiye'de en yaygın dikilen uluslararası kırmızı üzümlerden biridir; Trakya, Gelibolu, Ege (Urla, Selçuk), Denizli ve Elmalı'da yetişir. Hem tek çeşit hem de Merlot ve yerli üzümlerle kupaj olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Chateau Kalpak, Barbare, Likya, Urla Şarapçılık, Kutman, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 259
+   "katalog": 262
   },
   {
    "id": "merlot",
@@ -753,7 +753,7 @@
    ],
    "turkiyede": "Trakya, Gelibolu, Ege ve Elmalı'da yaygın olarak dikilir; Bordeaux tarzı kupajlarda ve tek çeşit olarak şişelenir. Yetiştirenlerden bazıları: Suvla, Ayda, Claros, Arcadia, Badur, Chateau Kalpak, Kutman.",
    "dunya": true,
-   "katalog": 196
+   "katalog": 198
   },
   {
    "id": "syrah",
@@ -816,7 +816,7 @@
    ],
    "turkiyede": "Ege'ye (Urla, Selçuk, Bodrum, Datça) ve Trakya'ya iyi uyum sağlamıştır; tek çeşit ve kupaj olarak yaygındır. Yetiştirenlerden bazıları: Urla Şarapçılık, Çakır, Mozaik, Karnas, Barbare, Erdel, Lucien Arkas Bağları, Likya.",
    "dunya": true,
-   "katalog": 178
+   "katalog": 182
   },
   {
    "id": "cabernet-franc",
@@ -1516,7 +1516,7 @@
    ],
    "turkiyede": "Urla, Kemalpaşa, Tekirdağ, Denizli ve Elmalı başta olmak üzere yaygın dikilir; fıçılı ve fıçısız stillerde, ayrıca yerli Narince ile kupajlarda. Yetiştirenlerden bazıları: Suvla, Çakır, Barel, Nif Bağları, İki Deniz Arası, Küp, Kutman, Likya, Lucien Arkas Bağları.",
    "dunya": true,
-   "katalog": 106
+   "katalog": 107
   },
   {
    "id": "sauvignon-blanc",
@@ -1579,7 +1579,7 @@
    ],
    "turkiyede": "Trakya, Ege (Urla, Menderes), Denizli ve Elmalı'da yaygın; en başarılı uluslararası beyazlarımızdan biridir. Yetiştirenlerden bazıları: Chamlija, Arcadia, Suvla, Perdix, İsabey, Erdel, Likya, Lucien Arkas Bağları, Prius.",
    "dunya": true,
-   "katalog": 100
+   "katalog": 101
   },
   {
    "id": "viognier",
@@ -2728,7 +2728,7 @@
     "https://www.milliyet.com.tr/ekonomi/sato-tipi-sarap-uretiyoruz-1678455"
    ],
    "dunya": true,
-   "katalog": 17
+   "katalog": 18
   },
   {
    "id": "gruner-veltliner",
@@ -3757,7 +3757,7 @@
    "yerli": true,
    "rehber": false,
    "renk": "",
-   "katalog": 1
+   "katalog": 2
   },
   {
    "id": "pinot-meunier",
@@ -3845,6 +3845,22 @@
    "yerli": true,
    "rehber": false,
    "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "caladoc",
+   "ad": "Caladoc",
+   "yerli": true,
+   "rehber": false,
+   "renk": "kirmizi",
+   "katalog": 1
+  },
+  {
+   "id": "floreal",
+   "ad": "Floréal",
+   "yerli": true,
+   "rehber": false,
+   "renk": "beyaz",
    "katalog": 1
   },
   {
