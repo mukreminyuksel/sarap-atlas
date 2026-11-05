@@ -4212,7 +4212,7 @@ function makeShareCard(){
 
 /* ===== OLAYLAR ve GEZİNME ===== */
 // Ziyaret sayacı eklenmedi; olay() bilerek sessizdir (ileride bir sayaç eklenirse tek yer burası)
-function olay(ad){try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'olay/'+ad,title:ad,event:true});}catch(e){}}
+function olay(ad){try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'sarap/olay/'+ad,title:'sarap: '+ad,event:true});}catch(e){}}
 function toggle(act,id){
   olay(act==='have'?(state.have.includes(id)?'liste-cikar':'liste-ekle'):'hedef');
   if(act==='have'){const i=state.have.indexOf(id);if(i>=0){state.have.splice(i,1);delete state.qty[id];}else{state.have.push(id);state.qty[id]=1;const t=state.target.indexOf(id);if(t>=0)state.target.splice(t,1);}}
@@ -5718,7 +5718,8 @@ RENDER.kor=renderKor;RENDER.ozet=renderOzet;
 ozetSerit();
 korHash();
 /* /korOzetJS */</script>
-<script data-goatcounter="https://sarap-atlas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>/* Ziyaret sayacı: hesapta açık olan viski-atlas sayacına 'sarap/' önekiyle sayılır */window.goatcounter={path:function(p){return 'sarap'+p;}};</script>
+<script data-goatcounter="https://viski-atlas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script>window.RAF={birim:'şarap',birimi:'şarabı',ornek:'Kavaklıdere Yakut',have:'Denedim',target:'Deneyeceğim'};</script>
 <script src="raf.js" defer></script>
 </body>
