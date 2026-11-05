@@ -1,13 +1,135 @@
 {
  "baglantilar": {
+  "502 Vineyards": {
+   "web": "https://www.502vineyards.com",
+   "kontrol": "2026-11-05"
+  },
+  "Arcadia Vineyards": {
+   "web": "https://arcadiavineyards.com",
+   "kontrol": "2026-11-05"
+  },
+  "Asmadan": {
+   "web": "https://www.asmadan.com",
+   "kontrol": "2026-11-05"
+  },
   "Aura Winery (Vin Aura)": {
    "web": "https://www.aurawinery.com",
-   "kontrol": "2026-10-11"
+   "kontrol": "2026-11-05"
+  },
+  "Büyülübağ": {
+   "web": "https://www.buyulubag.com",
+   "kontrol": "2026-11-05"
+  },
+  "Chamlija": {
+   "web": "https://www.chamlija.com",
+   "kontrol": "2026-11-05"
   },
   "Datça Şarapçılık (Datça Vineyard & Winery)": {
    "web": "https://www.datcasarap.com",
-   "kontrol": "2026-10-11"
+   "kontrol": "2026-11-05"
+  },
+  "Diren": {
+   "web": "https://www.diren.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Doluca": {
+   "web": "https://www.doluca.com",
+   "kontrol": "2026-11-05"
+  },
+  "Gülor": {
+   "web": "https://www.gulor.com",
+   "kontrol": "2026-11-05"
+  },
+  "Kastro Tireli": {
+   "web": "https://www.kastrotireli.com",
+   "kontrol": "2026-11-05"
+  },
+  "Kavaklıdere": {
+   "web": "https://kavaklidere.com",
+   "kontrol": "2026-11-05"
+  },
+  "Kayra": {
+   "web": "https://www.kayra.com",
+   "kontrol": "2026-11-05"
+  },
+  "Kocabağ": {
+   "web": "https://www.kocabag.com",
+   "kontrol": "2026-11-05"
+  },
+  "Kuzubağ": {
+   "web": "https://www.kuzubag.com",
+   "kontrol": "2026-11-05"
+  },
+  "Lermonos": {
+   "web": "https://www.lermonos.com",
+   "kontrol": "2026-11-05"
+  },
+  "Lucien Arkas Bağları (LA Wines)": {
+   "web": "https://lawines.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Porta Caeli": {
+   "web": "https://www.caeli.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Sobran Bağları – Alaşehir-Philadelphia": {
+   "web": "https://www.sobranbaglari.com",
+   "kontrol": "2026-11-05"
+  },
+  "Suvla": {
+   "web": "https://www.suvla.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Turasan": {
+   "web": "https://www.turasan.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Umurbey": {
+   "web": "https://www.umurbey.com",
+   "kontrol": "2026-11-05"
+  },
+  "Urla Şarapçılık (Urla Winery)": {
+   "web": "https://www.urlasarapcilik.com",
+   "kontrol": "2026-11-05"
+  },
+  "Vinkara": {
+   "web": "https://www.vinkara.com",
+   "kontrol": "2026-11-05"
+  },
+  "Vino Dessera": {
+   "web": "https://www.vinodessera.com",
+   "kontrol": "2026-11-05"
+  },
+  "Vinolus": {
+   "web": "https://www.vinolus.com.tr",
+   "kontrol": "2026-11-05"
+  },
+  "Yanık Ülke": {
+   "web": "https://www.yanikulke.com",
+   "kontrol": "2026-11-05"
+  },
+  "Yedi Bilgeler (7Bilgeler Vineyards)": {
+   "web": "https://www.yedibilgeler.com",
+   "kontrol": "2026-11-05"
+  },
+  "Yükseltan": {
+   "web": "https://yukseltanbagevi.com",
+   "kontrol": "2026-11-05"
   }
  },
- "yok": {}
+ "yok": {
+  "Barel Vineyards": "2026-11-05",
+  "Ellez": "2026-11-05",
+  "Gürbüz Winery": "2026-11-05",
+  "HUS Şarapçılık": "2026-11-05",
+  "Kavaklıdere – Pendore": "2026-11-05",
+  "Küp Şarapları (Epic, Artemis, Thia)": "2026-11-05",
+  "Likya Şarapları": "2026-11-05",
+  "Pamukkale Şarapları": "2026-11-05",
+  "Prius Wines": "2026-11-05",
+  "Prodom": "2026-11-05",
+  "Saranta / Chateau Murou": "2026-11-05",
+  "Selendi": "2026-11-05",
+  "Sevilen": "2026-11-05"
+ }
 }
