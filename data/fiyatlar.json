@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-05",
+ "guncelleme": "2026-11-08",
  "kur": null,
  "fiyatlar": {
   "502-merzifon-karasi-2024": {
@@ -2522,6 +2522,20 @@
     ]
    ]
   },
+  "doluca-safir-misket": {
+   "tl": 1290,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2024 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1290
+    ]
+   ]
+  },
   "doluca-sarafin-cabernet-sauvignon": {
    "tl": 1584,
    "tarih": "2026-10-05",
@@ -2547,6 +2561,20 @@
     [
      "2026-10-05",
      2016
+    ]
+   ]
+  },
+  "doluca-sarafin-fume-blanc": {
+   "tl": 1775,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2024 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1775
     ]
    ]
   },
@@ -2589,6 +2617,20 @@
     [
      "2026-10-05",
      2070
+    ]
+   ]
+  },
+  "doluca-signium-beyaz": {
+   "tl": 2425,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ağu 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2023 rekoltesi (habergazetesi listesinde 1.815 TL)",
+   "gecmis": [
+    [
+     "2026-11-08",
+     2425
     ]
    ]
   },
@@ -3306,6 +3348,34 @@
     ]
    ]
   },
+  "kastro-tireli-bilus-bornova-misketi-late-harvest": {
+   "tl": 1670,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "dusuk",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "37,5 cl şişe 836 TL; 75 cl'ye orantılandı",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1670
+    ]
+   ]
+  },
+  "kastro-tireli-bilus-late-harvest-kirmizi": {
+   "tl": 1670,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "dusuk",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "37,5 cl şişe 836 TL; 75 cl'ye orantılandı",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1670
+    ]
+   ]
+  },
   "kastro-tireli-kalecik-vahsi-maya": {
    "tl": 2450,
    "tarih": "2026-10-05",
@@ -3572,6 +3642,20 @@
     ]
    ]
   },
+  "kavaklidere-angora-roze-2024": {
+   "tl": 500,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Oca 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2024 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     500
+    ]
+   ]
+  },
   "kavaklidere-cankaya-2024": {
    "tl": 650,
    "tarih": "2026-10-05",
@@ -3698,6 +3782,20 @@
     ]
    ]
   },
+  "kavaklidere-egeo-cabernet-franc-merlot": {
+   "tl": 1535,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eki 2026 güncellemesi, 75 cl)",
+   "not": "Kasım 2026 araştırması, 75 cl",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1535
+    ]
+   ]
+  },
   "kavaklidere-egeo-cabernet-franc-merlot-2022": {
    "tl": 1537,
    "tarih": "2026-10-05",
@@ -3712,6 +3810,20 @@
     ]
    ]
   },
+  "kavaklidere-egeo-cabernet-sauvignon": {
+   "tl": 1535,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eki 2026 güncellemesi, 75 cl)",
+   "not": "Kasım 2026 araştırması, 75 cl; degustasyon.net Kas 2025: 1.410 TL",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1535
+    ]
+   ]
+  },
   "kavaklidere-egeo-cabernet-sauvignon-2021": {
    "tl": 1537,
    "tarih": "2026-10-05",
@@ -3723,6 +3835,20 @@
     [
      "2026-10-05",
      1537
+    ]
+   ]
+  },
+  "kavaklidere-egeo-chardonnay": {
+   "tl": 1540,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eki 2026 güncellemesi, 75 cl)",
+   "not": "Kasım 2026 araştırması, 75 cl",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1540
     ]
    ]
   },
@@ -3793,6 +3919,20 @@
     [
      "2026-10-05",
      1572
+    ]
+   ]
+  },
+  "kavaklidere-egeo-merlot": {
+   "tl": 1495,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "habergazetesi.com.tr – 'Şarap Fiyatları 2026' (Eki 2026 güncellemesi, 75 cl)",
+   "not": "Kasım 2026 araştırması, 75 cl",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1495
     ]
    ]
   },
@@ -4076,6 +4216,34 @@
     ]
    ]
   },
+  "kavaklidere-primeur-beyaz-2024": {
+   "tl": 430,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2025 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     430
+    ]
+   ]
+  },
+  "kavaklidere-primeur-kirmizi-2024": {
+   "tl": 430,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2025 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     430
+    ]
+   ]
+  },
   "kavaklidere-selection-narince-emir-2022": {
    "tl": 1408,
    "tarih": "2026-10-05",
@@ -4226,6 +4394,20 @@
    "gecmis": [
     [
      "2026-10-05",
+     815
+    ]
+   ]
+  },
+  "kayra-allure-sauvignon-blanc": {
+   "tl": 815,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Mar 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2024 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
      815
     ]
    ]
@@ -4395,6 +4577,20 @@
     [
      "2026-10-05",
      966
+    ]
+   ]
+  },
+  "kuzubag-cal-karasi": {
+   "tl": 1095,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Tem 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2025 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1095
     ]
    ]
   },
@@ -4899,6 +5095,20 @@
     [
      "2026-10-05",
      693
+    ]
+   ]
+  },
+  "likya-vineyards-malbec": {
+   "tl": 1120,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2023 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1120
     ]
    ]
   },
@@ -6316,6 +6526,20 @@
     ]
    ]
   },
+  "sevilen-magnesia-cabernet-franc": {
+   "tl": 1650,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Ara 2025 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2020 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1650
+    ]
+   ]
+  },
   "sevilen-majestik-kirmizi": {
    "tl": 470,
    "tarih": "2026-10-05",
@@ -7380,6 +7604,20 @@
     ]
    ]
   },
+  "urla-nero-davola-urla-karasi": {
+   "tl": 1875,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Kas 2025 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2022 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1875
+    ]
+   ]
+  },
   "urla-sauvignon-blanc": {
    "tl": 1700,
    "tarih": "2026-10-05",
@@ -7545,6 +7783,20 @@
     [
      "2026-10-05",
      3000
+    ]
+   ]
+  },
+  "villa-doluca-neo-rose": {
+   "tl": 1140,
+   "tarih": "2026-11-08",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "degustasyon.net, Eki 2026 (tadım yazısındaki fiyat)",
+   "not": "Kasım 2026 araştırması, 75 cl; 2025 rekoltesi",
+   "gecmis": [
+    [
+     "2026-11-08",
+     1140
     ]
    ]
   },
@@ -8431,6 +8683,67 @@
    ]
   }
  },
- "denendi": {},
+ "denendi": {
+  "7-bilgeler-pittakos": "2026-11-08",
+  "7-bilgeler-vindemia-toprak-old-vines": "2026-11-08",
+  "buyukbag-bogazkere": "2026-11-08",
+  "buyukbag-papazkarasi": "2026-11-08",
+  "chateau-mona-reserve-okuzgozu-bogazkere": "2026-11-08",
+  "chateau-mona-reserve-sauvignon-blanc": "2026-11-08",
+  "doluca-hayal-rose": "2026-11-08",
+  "doluca-safir-misket": "2026-11-08",
+  "doluca-sarafin-fume-blanc": "2026-11-08",
+  "doluca-signium-beyaz": "2026-11-08",
+  "doluca-verano-rose": "2026-11-08",
+  "doluca-vinea-beyaz": "2026-11-08",
+  "doluca-vinea-kirmizi": "2026-11-08",
+  "doluca-vinea-rose": "2026-11-08",
+  "kastro-tireli-bilus-bornova-misketi-late-harvest": "2026-11-08",
+  "kastro-tireli-bilus-late-harvest-kirmizi": "2026-11-08",
+  "kavaklidere-angora-roze-2024": "2026-11-08",
+  "kavaklidere-cotes-davanos-roze-2023": "2026-11-08",
+  "kavaklidere-egeo-cabernet-franc-merlot": "2026-11-08",
+  "kavaklidere-egeo-cabernet-sauvignon": "2026-11-08",
+  "kavaklidere-egeo-chardonnay": "2026-11-08",
+  "kavaklidere-egeo-merlot": "2026-11-08",
+  "kavaklidere-egeo-merlot-syrah-c-sauvignon": "2026-11-08",
+  "kavaklidere-inci-damlasi-2024": "2026-11-08",
+  "kavaklidere-primeur-beyaz-2024": "2026-11-08",
+  "kavaklidere-primeur-kirmizi-2024": "2026-11-08",
+  "kavaklidere-rosato-2024": "2026-11-08",
+  "kavaklidere-sultaniye-2024": "2026-11-08",
+  "kayra-allure-beyaz-kalecik-karasi": "2026-11-08",
+  "kayra-allure-sauvignon-blanc": "2026-11-08",
+  "kayra-old-vine-semillon": "2026-11-08",
+  "kayra-vintage-rose": "2026-11-08",
+  "kayra-vintage-shiraz": "2026-11-08",
+  "kup-artemis-chardonnay-narince": "2026-11-08",
+  "kup-artemis-mazrona-narince": "2026-11-08",
+  "kup-artemis-okuzgozu-shiraz": "2026-11-08",
+  "kup-epic-o-grand-reserve-cabernet-sauvignon": "2026-11-08",
+  "kuzubag-cal-karasi": "2026-11-08",
+  "la-mon-reve-okuzgozu": "2026-11-08",
+  "lethe-ercis-karasi": "2026-11-08",
+  "lethe-papazkarasi": "2026-11-08",
+  "likya-acikara": "2026-11-08",
+  "likya-vineyards-malbec": "2026-11-08",
+  "pasaeli-yapincak": "2026-11-08",
+  "prodom-cabernet-sauvignon": "2026-11-08",
+  "sevilen-magnesia-cabernet-franc": "2026-11-08",
+  "sirinceli-nar": "2026-11-08",
+  "suvla-grand-reserve-cabernet-sauvignon": "2026-11-08",
+  "suvla-karasakiz-blush": "2026-11-08",
+  "suvla-malbec": "2026-11-08",
+  "suvla-old-vines-semillon": "2026-11-08",
+  "suvla-reserve-merlot": "2026-11-08",
+  "suvla-sur": "2026-11-08",
+  "urla-bogazkere": "2026-11-08",
+  "urla-nero-davola-urla-karasi": "2026-11-08",
+  "urla-nexus": "2026-11-08",
+  "urla-serendias-roze": "2026-11-08",
+  "urla-tempus": "2026-11-08",
+  "villa-doluca-klasik-roze": "2026-11-08",
+  "villa-doluca-neo-rose": "2026-11-08"
+ },
  "inceleme": []
 }
