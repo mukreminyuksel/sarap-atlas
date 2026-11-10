@@ -32,7 +32,8 @@ Türkçe şarap atlası: Türkiye ve dünya şarapları, üzümler, bölgeler, p
   - Uydurma bilgi, fiyat, puan ya da ödül **yok**. Emin olunmayan alan boş bırakılır; fiyatı kaynaksız olan "tahmin" diye işaretlenir.
   - Gerçek kişiler hakkında yalnızca kamuya açık ve kaynağı gösterilebilen bilgi. Özel hayat, sağlık, bağımlılık, paparazzi/özel fotoğraftan çıkarım **yok**. Türkiye'den yaşayan gerçek kişi (iş insanı, ünlü) magazin listelerine eklenmez.
   - Untappd, BeerAdvocate, RateBeer, Whiskybase, Vivino, CellarTracker gibi sitelerden veri **kazınmaz**.
-  - Giriş, captcha, bot koruması ya da yaş doğrulama kapısı olan sayfalar **aşılmaz**; açılmıyorsa atlanır.
+   - Giriş (üyelik), captcha ve bot koruması olan sayfalar **aşılmaz**; açılmıyorsa atlanır.
+  - **Yaş beyanı kapısı (Kasım 2026, site sahibinin kararı):** Yalnızca **üreticinin / markanın / Türkiye dağıtıcısının resmî sitesinde**, "18 yaşından büyük müsünüz? Evet" ya da doğum tarihi beyanı gibi **kendi beyanına dayalı** yaş onayı geçilebilir (çerezle ya da tarayıcıda "Evet"e basarak). Satıcı/market siteleri, tadım/puan siteleri ve kimlik doğrulaması isteyen kapılar bu istisnaya girmez. Resmî siteden alınan metinler kendi ifademizle kısaltılır, kaynak olarak resmî ürün sayfası gösterilir.
   - Türk sitelerini okurken `WebFetch` çalışmaz: `curl -sL -m 25 -A 'Mozilla/5.0' URL` kullan.
   - Türkiye'de alkolün internetten tüketiciye satışı yasaktır: "internetten satın al" bağlantısı verilmez; yalnızca fiziksel mağaza, duty-free ve markanın kendi sitesi.
 - **Kapsam denetimi (ders: Şarap'ta Kayra'nın 15 markasından yalnız 4'ü kataloğa girmişti):** Yeni veri turlarında yalnız tadım sitelerine değil, **resmî lisans listesine ve her üreticinin / Türkiye dağıtıcısının resmî ürün portföyüne** bakılır. Tur öncesi ve sonrası üretici başına katalogdaki ürün sayısı kontrol edilir; az kayıtlı büyük üretici ya da hiç kaydı olmayan lisanslı üretici eksik sayılır. `python3 scripts/kapsam.py` bu sayımı yapar.
