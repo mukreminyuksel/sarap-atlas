@@ -1,40 +1,285 @@
 {
- "gorseller": {},
+ "gorseller": {
+  "beaulieu-georges-de-latour": {
+   "dosya": "img/sise/beaulieu-georges-de-latour.webp",
+   "kaynak": "https://www.bvwines.com/collections/all-wines/products/2023-georges-de-latour-private-reserve-cabernet-sauvignon",
+   "sahip": "Beaulieu Vineyard",
+   "tarih": "2026-11-10"
+  },
+  "bollinger-la-grande-annee": {
+   "dosya": "img/sise/bollinger-la-grande-annee.webp",
+   "kaynak": "https://www.champagne-bollinger.com/en/the-collection/grande-annee/",
+   "sahip": "Champagne Bollinger",
+   "tarih": "2026-11-10"
+  },
+  "campo-viejo-reserva": {
+   "dosya": "img/sise/campo-viejo-reserva.webp",
+   "kaynak": "https://www.campoviejo.com/product/reserva/",
+   "sahip": "Bodegas Campo Viejo (Pernod Ricard)",
+   "tarih": "2026-11-10"
+  },
+  "casillero-del-diablo": {
+   "dosya": "img/sise/casillero-del-diablo.webp",
+   "kaynak": "https://www.casillerodeldiablo.com/wine/reserva-cabernet-sauvignon/",
+   "sahip": "Concha y Toro (Casillero del Diablo)",
+   "tarih": "2026-11-10"
+  },
+  "chateau-angelus": {
+   "dosya": "img/sise/chateau-angelus.webp",
+   "kaynak": "https://www.angelus.com/en/the-wines.html",
+   "sahip": "Château Angélus",
+   "tarih": "2026-11-10"
+  },
+  "chateau-coutet": {
+   "dosya": "img/sise/chateau-coutet.webp",
+   "kaynak": "https://www.chateaucoutet.com/en/the-wines/",
+   "sahip": "Château Coutet",
+   "tarih": "2026-11-10"
+  },
+  "chateau-de-beaucastel": {
+   "dosya": "img/sise/chateau-de-beaucastel.webp",
+   "kaynak": "https://www.beaucastel.com/en/pages/les-vins-de-beaucastel",
+   "sahip": "Famille Perrin (Château de Beaucastel)",
+   "tarih": "2026-11-10"
+  },
+  "chateau-ducru-beaucaillou": {
+   "dosya": "img/sise/chateau-ducru-beaucaillou.webp",
+   "kaynak": "https://www.chateau-ducru-beaucaillou.com/en/ducru-beaucaillou/",
+   "sahip": "Château Ducru-Beaucaillou",
+   "tarih": "2026-11-10"
+  },
+  "chateau-haut-brion": {
+   "dosya": "img/sise/chateau-haut-brion.webp",
+   "kaynak": "https://www.haut-brion.com/en/nos-vins/",
+   "sahip": "Domaine Clarence Dillon",
+   "tarih": "2026-11-10"
+  },
+  "chateau-margaux": {
+   "dosya": "img/sise/chateau-margaux.webp",
+   "kaynak": "https://chateau-margaux.com/en/vins/grand-vin-du-chateau-margaux",
+   "sahip": "Château Margaux",
+   "tarih": "2026-11-10"
+  },
+  "chateau-pichon-baron": {
+   "dosya": "img/sise/chateau-pichon-baron.webp",
+   "kaynak": "https://www.pichonbaron.com/en/our-wines",
+   "sahip": "Château Pichon Baron (AXA Millésimes)",
+   "tarih": "2026-11-10"
+  },
+  "chateau-smith-haut-lafitte-blanc": {
+   "dosya": "img/sise/chateau-smith-haut-lafitte-blanc.webp",
+   "kaynak": "https://www.smith-haut-lafitte.com/en/our-wines/",
+   "sahip": "Château Smith Haut Lafitte",
+   "tarih": "2026-11-10"
+  },
+  "cune-imperial-gran-reserva": {
+   "dosya": "img/sise/cune-imperial-gran-reserva.webp",
+   "kaynak": "https://cvne.com/en/wineries/imperial/",
+   "sahip": "CVNE",
+   "tarih": "2026-11-10"
+  },
+  "domaines-ott-chateau-de-selle": {
+   "dosya": "img/sise/domaines-ott-chateau-de-selle.webp",
+   "kaynak": "https://www.domaines-ott.com/en/domaine-chateau-de-selle",
+   "sahip": "Domaines Ott",
+   "tarih": "2026-11-10"
+  },
+  "don-melchor": {
+   "dosya": "img/sise/don-melchor.webp",
+   "kaynak": "https://donmelchor.com/wine/",
+   "sahip": "Viña Don Melchor",
+   "tarih": "2026-11-10"
+  },
+  "duckhorn-three-palms": {
+   "dosya": "img/sise/duckhorn-three-palms.webp",
+   "kaynak": "https://www.duckhorn.com/products/duckhorn-vineyards-napa-valley-merlot-three-palms-vineyard",
+   "sahip": "Duckhorn Vineyards",
+   "tarih": "2026-11-10"
+  },
+  "flaccianello": {
+   "dosya": "img/sise/flaccianello.webp",
+   "kaynak": "https://www.fontodi.com/en/Flaccianello.html",
+   "sahip": "Tenuta Fontodi",
+   "tarih": "2026-11-10"
+  },
+  "fonseca-vintage-port": {
+   "dosya": "img/sise/fonseca-vintage-port.webp",
+   "kaynak": "https://www.fonseca.pt/en/port-wine/vintage/classic-vintage",
+   "sahip": "Fonseca (The Fladgate Partnership)",
+   "tarih": "2026-11-10"
+  },
+  "grahams-vintage-port": {
+   "dosya": "img/sise/grahams-vintage-port.webp",
+   "kaynak": "https://www.grahams-port.com/wine/graham-s-vintage-port/24",
+   "sahip": "Graham's (Symington Family Estates)",
+   "tarih": "2026-11-10"
+  },
+  "kanonkop-paul-sauer": {
+   "dosya": "img/sise/kanonkop-paul-sauer.webp",
+   "kaynak": "https://kanonkop.co.za/wines/estate-range/",
+   "sahip": "Kanonkop Estate",
+   "tarih": "2026-11-10"
+  },
+  "kanonkop-pinotage": {
+   "dosya": "img/sise/kanonkop-pinotage.webp",
+   "kaynak": "https://kanonkop.co.za/wines/estate-range/",
+   "sahip": "Kanonkop Estate",
+   "tarih": "2026-11-10"
+  },
+  "krug-clos-du-mesnil": {
+   "dosya": "img/sise/krug-clos-du-mesnil.webp",
+   "kaynak": "https://www.krug.com/en-int/champagne/krug-clos-du-mesnil-2009",
+   "sahip": "Champagne Krug (LVMH)",
+   "tarih": "2026-11-10"
+  },
+  "krug-grande-cuvee": {
+   "dosya": "img/sise/krug-grande-cuvee.webp",
+   "kaynak": "https://www.krug.com/en-int/champagne/krug-grande-cuvee-174eme-edition",
+   "sahip": "Champagne Krug (LVMH)",
+   "tarih": "2026-11-10"
+  },
+  "la-rioja-alta-904": {
+   "dosya": "img/sise/la-rioja-alta-904.webp",
+   "kaynak": "https://www.riojalta.com/en/wines_rioja-alta/gran-reserva-904/",
+   "sahip": "La Rioja Alta S.A.",
+   "tarih": "2026-11-10"
+  },
+  "laurent-perrier-grand-siecle": {
+   "dosya": "img/sise/laurent-perrier-grand-siecle.webp",
+   "kaynak": "https://www.laurent-perrier.com/en/champagnes/grand-siecle/iteration-27/",
+   "sahip": "Champagne Laurent-Perrier",
+   "tarih": "2026-11-10"
+  },
+  "marques-de-murrieta-castillo-ygay": {
+   "dosya": "img/sise/marques-de-murrieta-castillo-ygay.webp",
+   "kaynak": "https://marquesdemurrieta.com/en/pages/castillo-ygay-tinto-gran-reserva-especial",
+   "sahip": "Bodegas Marqués de Murrieta",
+   "tarih": "2026-11-10"
+  },
+  "marques-de-riscal-reserva": {
+   "dosya": "img/sise/marques-de-riscal-reserva.webp",
+   "kaynak": "https://www.marquesderiscal.com/en/marques-de-riscal-reserva",
+   "sahip": "Herederos del Marqués de Riscal",
+   "tarih": "2026-11-10"
+  },
+  "muga-prado-enea": {
+   "dosya": "img/sise/muga-prado-enea.webp",
+   "kaynak": "https://www.bodegasmuga.com/en/prado-enea-gran-reserva/",
+   "sahip": "Bodegas Muga",
+   "tarih": "2026-11-10"
+  },
+  "perrin-coudoulet-de-beaucastel": {
+   "dosya": "img/sise/perrin-coudoulet-de-beaucastel.webp",
+   "kaynak": "https://www.beaucastel.com/en/pages/les-vins-de-beaucastel",
+   "sahip": "Famille Perrin (Château de Beaucastel)",
+   "tarih": "2026-11-10"
+  },
+  "ruinart-blanc-de-blancs": {
+   "dosya": "img/sise/ruinart-blanc-de-blancs.webp",
+   "kaynak": "https://www.ruinart.com/fr-fr/champagnes/nos-collections/blanc-de-blancs",
+   "sahip": "Ruinart (LVMH)",
+   "tarih": "2026-11-10"
+  },
+  "taylors-vintage-port": {
+   "dosya": "img/sise/taylors-vintage-port.webp",
+   "kaynak": "https://www.taylor.pt/en/port-wine/classic-vintage",
+   "sahip": "Taylor's (The Fladgate Partnership)",
+   "tarih": "2026-11-10"
+  },
+  "torres-mas-la-plana": {
+   "dosya": "img/sise/torres-mas-la-plana.webp",
+   "kaynak": "https://www.torres.es/en/wines/familia-torres/mas-la-plana",
+   "sahip": "Familia Torres",
+   "tarih": "2026-11-10"
+  },
+  "veuve-clicquot-la-grande-dame": {
+   "dosya": "img/sise/veuve-clicquot-la-grande-dame.webp",
+   "kaynak": "https://www.veuveclicquot.com/en-us/veuve-clicquot-la-grande-dame-2015-1096962.html",
+   "sahip": "Veuve Clicquot (LVMH)",
+   "tarih": "2026-11-10"
+  },
+  "veuve-clicquot-yellow-label": {
+   "dosya": "img/sise/veuve-clicquot-yellow-label.webp",
+   "kaynak": "https://www.veuveclicquot.com/en-us/veuve-clicquot-yellow-label-brut-champagne-11003681.html",
+   "sahip": "Veuve Clicquot (LVMH)",
+   "tarih": "2026-11-10"
+  }
+ },
  "yok": {
-  "diren-collection-kosetevek-2024": "2026-11-08",
-  "kavaklidere-altin-kopuk-2023": "2026-11-08",
-  "kavaklidere-ancyra-blush-2024": "2026-11-08",
-  "kavaklidere-ancyra-bogazkere-2024": "2026-11-08",
-  "kavaklidere-ancyra-cabernet-sauvignon-syrah-2024": "2026-11-08",
-  "kavaklidere-ancyra-narince-2024": "2026-11-08",
-  "kavaklidere-ancyra-okuzgozu-2024": "2026-11-08",
-  "kavaklidere-cankaya-2024": "2026-11-08",
-  "kavaklidere-egeo-cabernet-franc-merlot": "2026-11-08",
-  "kavaklidere-egeo-cabernet-sauvignon": "2026-11-08",
-  "kavaklidere-egeo-chardonnay": "2026-11-08",
-  "kavaklidere-egeo-fume-blanc": "2026-11-08",
-  "kavaklidere-egeo-merlot": "2026-11-08",
-  "kavaklidere-egeo-rose": "2026-11-08",
-  "kavaklidere-egeo-sauvignon-blanc": "2026-11-08",
-  "kavaklidere-egeo-syrah": "2026-11-08",
-  "kavaklidere-lal-2024": "2026-11-08",
-  "kavaklidere-pendore-okuzgozu": "2026-11-08",
-  "kavaklidere-pendore-syrah": "2026-11-08",
-  "kavaklidere-yakut-2023": "2026-11-08",
-  "kayra-allure-sauvignon-blanc": "2026-11-08",
-  "kayra-buzbag-rezerv-emir-narince": "2026-11-08",
-  "kayra-old-vine-semillon": "2026-11-08",
-  "kayra-vintage-barrel-fermented-chardonnay": "2026-11-08",
-  "kayra-vintage-sauvignon-blanc": "2026-11-08",
-  "kayra-vintage-shiraz": "2026-11-08",
-  "sevilen-franc-de-pied-sauvignon-blanc": "2026-11-08",
-  "sevilen-isabey-r-kirmizi": "2026-11-08",
-  "sevilen-magnesia-cabernet-franc": "2026-11-08",
-  "sevilen-plato-emir": "2026-11-08",
-  "sevilen-plato-kalecik-karasi": "2026-11-08",
-  "sevilen-tasev-blanc-de-noir-kalecik-karasi": "2026-11-08",
-  "sevilen-tasev-sauvignon-blanc": "2026-11-08",
-  "sevilen-tasev-viognier": "2026-11-08",
-  "turasan-emir-2025": "2026-11-08"
+  "diren-collection-karaoglan-2022": "2026-11-10",
+  "diren-collection-kosetevek-2024": "2026-11-10",
+  "diren-collection-narince-2024": "2026-11-10",
+  "diren-collection-okuzgozu-2022": "2026-11-10",
+  "diren-vadi-karaoglan-roze-2022": "2026-11-10",
+  "doluca-hayal-rose": "2026-11-10",
+  "doluca-verano-rose": "2026-11-10",
+  "kavaklidere-altin-kopuk-2023": "2026-11-10",
+  "kavaklidere-ancyra-blush-2024": "2026-11-10",
+  "kavaklidere-ancyra-bogazkere-2024": "2026-11-10",
+  "kavaklidere-ancyra-cabernet-sauvignon-syrah-2024": "2026-11-10",
+  "kavaklidere-ancyra-kalecik-karasi-2024": "2026-11-10",
+  "kavaklidere-ancyra-merlot-2024": "2026-11-10",
+  "kavaklidere-ancyra-narince-2024": "2026-11-10",
+  "kavaklidere-ancyra-okuzgozu-2024": "2026-11-10",
+  "kavaklidere-ancyra-sultaniye-emir-2024": "2026-11-10",
+  "kavaklidere-angora-beyaz-2024": "2026-11-10",
+  "kavaklidere-angora-kirmizi-2023": "2026-11-10",
+  "kavaklidere-angora-roze-2024": "2026-11-10",
+  "kavaklidere-cankaya-2024": "2026-11-10",
+  "kavaklidere-egeo-cabernet-franc-merlot": "2026-11-10",
+  "kavaklidere-egeo-cabernet-sauvignon": "2026-11-10",
+  "kavaklidere-egeo-chardonnay": "2026-11-10",
+  "kavaklidere-egeo-fume-blanc": "2026-11-10",
+  "kavaklidere-egeo-malbec": "2026-11-10",
+  "kavaklidere-egeo-merlot": "2026-11-10",
+  "kavaklidere-egeo-merlot-syrah-c-sauvignon": "2026-11-10",
+  "kavaklidere-egeo-rose": "2026-11-10",
+  "kavaklidere-egeo-sauvignon-blanc": "2026-11-10",
+  "kavaklidere-egeo-syrah": "2026-11-10",
+  "kavaklidere-inci-damlasi-2024": "2026-11-10",
+  "kavaklidere-lal-2024": "2026-11-10",
+  "kavaklidere-pendore-okuzgozu": "2026-11-10",
+  "kavaklidere-pendore-syrah": "2026-11-10",
+  "kavaklidere-primeur-beyaz-2024": "2026-11-10",
+  "kavaklidere-primeur-kirmizi-2024": "2026-11-10",
+  "kavaklidere-rosato-2024": "2026-11-10",
+  "kavaklidere-sultaniye-2024": "2026-11-10",
+  "kavaklidere-yakut-2023": "2026-11-10",
+  "kayra-allure-sauvignon-blanc": "2026-11-10",
+  "kayra-buzbag-rezerv-emir-narince": "2026-11-10",
+  "kayra-old-vine-semillon": "2026-11-10",
+  "kayra-vintage-barrel-fermented-chardonnay": "2026-11-10",
+  "kayra-vintage-sauvignon-blanc": "2026-11-10",
+  "kayra-vintage-shiraz": "2026-11-10",
+  "la-mon-reve-marselan": "2026-11-10",
+  "la-mon-reve-okuzgozu": "2026-11-10",
+  "la-mon-reve-sauvignon-blanc-pinot-grigio": "2026-11-10",
+  "lucien-arkas-baglari-idol-kirmizi": "2026-11-10",
+  "pamukkale-anfora-trio-kirmizi": "2026-11-10",
+  "pamukkale-kizil-alan-okuzgozu": "2026-11-10",
+  "pamukkale-mulier-misket": "2026-11-10",
+  "sevilen-franc-de-pied-sauvignon-blanc": "2026-11-10",
+  "sevilen-isabey-r-kirmizi": "2026-11-10",
+  "sevilen-isabey-sauvignon-blanc": "2026-11-10",
+  "sevilen-magnesia-cabernet-franc": "2026-11-10",
+  "sevilen-majestik-kirmizi": "2026-11-10",
+  "sevilen-nativus-okuzgozu-bogazkere": "2026-11-10",
+  "sevilen-plato-emir": "2026-11-10",
+  "sevilen-plato-kalecik-karasi": "2026-11-10",
+  "sevilen-plato-okuzgozu": "2026-11-10",
+  "sevilen-tasev-blanc-de-noir-kalecik-karasi": "2026-11-10",
+  "sevilen-tasev-grenache": "2026-11-10",
+  "sevilen-tasev-sauvignon-blanc": "2026-11-10",
+  "sevilen-tasev-viognier": "2026-11-10",
+  "smyrna-blush": "2026-11-10",
+  "turasan-emir-2025": "2026-11-10",
+  "urla-nexus": "2026-11-10",
+  "urla-serendias-roze": "2026-11-10",
+  "villa-doluca-klasik-roze": "2026-11-10",
+  "villa-doluca-neo-rose": "2026-11-10",
+  "vinkara-kalecik-karasi-2022": "2026-11-10",
+  "vinkara-minoj-2024": "2026-11-10",
+  "vinkara-narince-2025": "2026-11-10",
+  "vinkara-okuzgozu-bogazkere-2022": "2026-11-10"
  }
 }
